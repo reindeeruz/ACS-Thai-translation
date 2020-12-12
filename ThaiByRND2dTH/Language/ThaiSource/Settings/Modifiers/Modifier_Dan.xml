@@ -1,7 +1,7 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Dan_BasePracticeDrug">
-			<DisplayName>Forming Pill</DisplayName>
+			<DisplayName>ยาเม็ดหล่อพื้นฐาน</DisplayName>
 			<Desc>Unlock your body's potential, temporarily increasing Perception, Constitution and Intelligence by 30% each.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan">
@@ -9,19 +9,19 @@
 			<Desc>By consuming the ยาฟื้นความแข็งแกร่ง, the ability of one's body to generate Stamina is improved within 7 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan2">
-			<DisplayName>Ginseng Pill</DisplayName>
-			<Desc>By consuming the Ginseng Pill, the ability of one's body to generate Stamina is improved within 14 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+			<DisplayName>ยาเม็ดโสม</DisplayName>
+			<Desc>By consuming the ยาเม็ดโสม, the ability of one's body to generate Stamina is improved within 14 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_JingYuan3">
-			<DisplayName>Resin Essence Powder</DisplayName>
-			<Desc>By consuming the Resin Essence Powder, the ability of one's body to generate Stamina is improved within 28 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
+			<DisplayName>ผงแกนยางสน</DisplayName>
+			<Desc>By consuming the ผงแกนยางสน, the ability of one's body to generate Stamina is improved within 28 days, increasing Hunger Consumption Rate and Stamina Conversion Rate.</Desc>
 		</Text>
 		<Text Name="Dan_Ling1">
-			<DisplayName>Qi Regen Pill</DisplayName>
+			<DisplayName>ยาเม็ดฟื้นฟูพลังชี่</DisplayName>
 			<Desc>Increases Qi recovery rate by 2,000%.</Desc>
 		</Text>
 		<Text Name="Dan_Ling2">
-			<DisplayName>Sun Pill</DisplayName>
+			<DisplayName>ยาเม็ดดวงตะวัน</DisplayName>
 		</Text>
 		<Text Name="Dan_Ling3">
 			<DisplayName>Divine Powder</DisplayName>
@@ -109,14 +109,14 @@
 			<DisplayName>Lingzhi</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife8">
-			<DisplayName>Ganoderma</DisplayName>
+			<DisplayName>เห็ดหลินจือม่วง</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_Anodyne">
 			<DisplayName>Painkiller</DisplayName>
 			<Desc>Relieve pain. Its effect will last around 5 days.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Mint">
-			<DisplayName>Purity Leaf</DisplayName>
+			<DisplayName>ใบพิศุทธิ์</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence">
 			<DisplayName>Earth Flux</DisplayName>
@@ -139,7 +139,7 @@
 			<Desc>Significantly improves natural resilience for a short period of time.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_RedGinseng1">
-			<DisplayName>Red Ginseng (Fruit)</DisplayName>
+			<DisplayName>โสมแดง (Fruit)</DisplayName>
 			<Desc>Increases Max Qi.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Laxative">

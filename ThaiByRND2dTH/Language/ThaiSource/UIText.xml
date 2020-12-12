@@ -241,7 +241,7 @@
 	<string name="0xrxw6g79fbecf-n92_9fbe-tips" mz="n92">น้ำ: เกื้อหนุนไม้ เอาชนะไฟ</string>
 	<string name="0xrxw6g79fbecf-n93_9fbe-tips" mz="n93">ไฟ: เกื้อหนุนดิน เอาชนะโลหะ</string>
 	<string name="0xrxw6g79fbecf-n94_9fbe-tips" mz="n94">ดิน: เกื้อหนุนโลหะ เอาชนะน้ำ</string>
-	<string name="0xrxw6g79fbecf-n101_7kkh" mz="n101">พลังฉี : ++++++++++</string>
+	<string name="0xrxw6g79fbecf-n101_7kkh" mz="n101">พลังชี่ : ++++++++++</string>
 	<string name="0xrxw6g7rd8g52ow4q-n135_rd8g-tips" mz="n135">เปิดหน้าต่างแยกต่างหากเพื่อแจ้งข้อความนี้</string>
 	<string name="0xrxw6g7rd8g52ow4q-n135_rd8g" mz="n135">กังวล</string>
 	<string name="0xrxw6g7rd8g52ow4q-n136_rd8g-tips" mz="n136">แสดงเฉพาะในศูนย์รวมข้อความ</string>
@@ -395,7 +395,7 @@
 	<string name="0xrxw6g7mb2l2ovs1-n1_mb2l" mz="frame">การจัดการพิมพ์เขียว</string>
 	<string name="0xrxw6g7mb2l2ovs1-n1_mb2l-texts_0" mz="frame">พิมพ์เขียว</string>
 	<string name="0xrxw6g7mb2l2ovs1-n1_mb2l-texts_def" mz="frame">การจัดการพิมพ์เขียว</string>
-	<string name="0xrxw6g7mb2l2ovs1-n11_mb2l" mz="n11">ชื่อ: ค่ายกลเก็บเกี่ยวพลังฉี</string>
+	<string name="0xrxw6g7mb2l2ovs1-n11_mb2l" mz="n11">ชื่อ: ค่ายกลเก็บเกี่ยวพลังชี่</string>
 	<string name="0xrxw6g7mb2l2ovs1-n18_gszb" mz="n18">คำอธิบายพิมพ์เขียว</string>
 	<string name="0xrxw6g7mb2l2ovs1-n20_gszb" mz="n20">ชื่อพิมพ์เขียว</string>
 	<string name="0xrxw6g7mb2l2ovs1-n21_gszb" mz="n21">วัสดุ: อิฐหินวิญญาณ * 1</string>
@@ -799,7 +799,7 @@
 	<string name="0xrxw6g7j83c2ovua-n43_nd59" mz="goexp">การผจญภัย</string>
 	<string name="0xrxw6g7j83c2ovua-n46_nd59" mz="desc">aaaaaaa</string>
 	<string name="0xrxw6g7j83c2ovua-n44_nd59" mz="n44">เป็นเจ้าของโดย:</string>
-	<string name="0xrxw6g7j83c2ovua-n76_k41a" mz="n76">ค่าใช้จ่ายพลังฉี:</string>
+	<string name="0xrxw6g7j83c2ovua-n76_k41a" mz="n76">ค่าใช้จ่ายพลังชี่:</string>
 	<string name="0xrxw6g7j83c2ovua-n81_fevg" mz="n81">เอาต์พุต</string>
 	<string name="0xrxw6g7j83c2ovua-n83_mgpd-tips" mz="allunlock">ความคืบหน้าการสำรวจสถานที่โดยรอบ 100% หมายความว่าคุณได้สำรวจสถานที่ใกล้เคียงทุกแห่งแล้ว</string>
 	<string name="0xrxw6g7j83c2ovua-n100_lpzo-tips" mz="beginatk">สามารถเข้าไปได้หากศิษย์ในอยู่ที่ตำแหน่งนี้ สำหรับกึ่งเทพสามารถลงมาที่นี่ได้โดยตรง</string>
@@ -1034,7 +1034,7 @@
 	<string name="0xrxw6g78fo852ow71-n43_nd59" mz="goexp">การผจญภัย</string>
 	<string name="0xrxw6g78fo852ow71-n46_nd59" mz="desc">aaaaaaa</string>
 	<string name="0xrxw6g78fo852ow71-n44_nd59" mz="n44">เป็นเจ้าของโดย:</string>
-	<string name="0xrxw6g78fo852ow71-n76_k41a" mz="n76">ค่าใช้จ่ายพลังฉี:</string>
+	<string name="0xrxw6g78fo852ow71-n76_k41a" mz="n76">ค่าใช้จ่ายพลังชี่:</string>
 	<string name="0xrxw6g78fo852ow71-n81_fevg" mz="n81">เอาต์พุต</string>
 	<string name="0xrxw6g78fo852ow71-n83_mgpd-tips" mz="allunlock">ความคืบหน้าการสำรวจสถานที่โดยรอบ 100% หมายความว่าคุณได้สำรวจสถานที่ใกล้เคียงทุกแห่งแล้ว</string>
 	<string name="0xrxw6g78fo852ow71-n100_lpzo-tips" mz="beginatk">สามารถเข้าไปได้หากศิษย์ในอยู่ที่ตำแหน่งนี้ สำหรับกึ่งเทพสามารถลงมาที่นี่ได้โดยตรง</string>
@@ -1270,8 +1270,8 @@
 	<string name="0xrxw6g7shy138-n192_tvk1" mz="master">อาจารย์: Zhang Sanfeng</string>
 	<string name="0xrxw6g7shy138-n208_tvk1-tips" mz="n208">ความสบายในสถานที่ปัจจุบัน ได้รับโบนัสมากขึ้นเมื่อใช้วัสดุที่เกรดสูงขึ้น</string>
 	<string name="0xrxw6g7shy138-n208_tvk1" mz="n208">ความสบาย</string>
-	<string name="0xrxw6g7shy138-n209_tvk1-tips" mz="n209">ความหนาแน่นของพลังฉีในสภาพแวดล้อมรอบ ๆ</string>
-	<string name="0xrxw6g7shy138-n209_tvk1" mz="n209">พลังฉี</string>
+	<string name="0xrxw6g7shy138-n209_tvk1-tips" mz="n209">ความหนาแน่นของพลังชี่ในสภาพแวดล้อมรอบ ๆ</string>
+	<string name="0xrxw6g7shy138-n209_tvk1" mz="n209">พลังชี่</string>
 	<string name="0xrxw6g7shy138-n210_tvk1-tips" mz="n210">อารมณ์ของตัวละครมีผลต่อการฝึกฝน</string>
 	<string name="0xrxw6g7shy138-n210_tvk1" mz="n210">อารมณ์</string>
 	<string name="0xrxw6g7shy138-n211_tvk1-tips" mz="n211">สถานะจิตของตัวละครมีผลต่อการฝึกฝน</string>
@@ -1309,15 +1309,15 @@
 	<string name="0xrxw6g7shy138-n293_b2ao" mz="n293">วัตถุมงคล</string>
 	<string name="0xrxw6g7shy138-n299_b2ao" mz="n299">ประสิทธิภาพ</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-0" mz="FightPs">พลังโจมตีของวิเศษ +1234</string>
-	<string name="0xrxw6g7shy138-n203_tvk1-1" mz="FightPs">พลังฉีของของวิเศษ</string>
-	<string name="0xrxw6g7shy138-n203_tvk1-2" mz="FightPs">การฟื้นพลังฉีของของวิเศษ</string>
+	<string name="0xrxw6g7shy138-n203_tvk1-1" mz="FightPs">พลังชี่ของของวิเศษ</string>
+	<string name="0xrxw6g7shy138-n203_tvk1-2" mz="FightPs">การฟื้นพลังชี่ของของวิเศษ</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-3" mz="FightPs">ความเร็วการโจมตีของของวิเศษ</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-4" mz="FightPs">ความเร็วของของวิเศษ</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-5" mz="FightPs">โบนัสความเสียหายเวทย์</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-6" mz="FightPs">โบนัสคูลดาวของคาถา</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-7" mz="FightPs">โบนัสค่าร่ายของคาถา</string>
 	<string name="0xrxw6g7shy138-n203_tvk1-8" mz="FightPs">เอฟเฟกต์ของม่านพลังป้องกัน</string>
-	<string name="0xrxw6g7shy138-n390_wr0j-0" mz="FightPs_body">การฟื้นพลังฉีของของวิเศษ</string>
+	<string name="0xrxw6g7shy138-n390_wr0j-0" mz="FightPs_body">การฟื้นพลังชี่ของของวิเศษ</string>
 	<string name="0xrxw6g7shy138-n390_wr0j-1" mz="FightPs_body">ความเร็วการโจมตีของของวิเศษ</string>
 	<string name="0xrxw6g7shy138-n390_wr0j-2" mz="FightPs_body">ความเร็วของของวิเศษ</string>
 	<string name="0xrxw6g7shy138-n390_wr0j-3" mz="FightPs_body">โบนัสความเสียหายเวทย์</string>
@@ -1336,8 +1336,8 @@
 	<string name="0xrxw6g7shy138-n343_bj7q" mz="n343">ร่างกาย</string>
 	<string name="0xrxw6g7shy138-n344_bj7q-tips" mz="n344">ร่างกาย: พฤติกรรมการกินที่แตกต่างกันจะส่งผลต่อความอ้วนของสัตว์เลี้ยง</string>
 	<string name="0xrxw6g7shy138-n387_f12k" mz="n387">ข้อมูลพื้นฐาน</string>
-	<string name="0xrxw6g7shy138-n364_lsb6-tips" mz="n364">ยิ่งพลังฉีของสถานที่มีสูง ก็ยิ่งจะได้รับ essence ที่สูงขึ้นด้วยจากเทคนิคการหายใจ</string>
-	<string name="0xrxw6g7shy138-n364_lsb6" mz="n364">พลังฉี</string>
+	<string name="0xrxw6g7shy138-n364_lsb6-tips" mz="n364">ยิ่งพลังชี่ของสถานที่มีสูง ก็ยิ่งจะได้รับ essence ที่สูงขึ้นด้วยจากเทคนิคการหายใจ</string>
+	<string name="0xrxw6g7shy138-n364_lsb6" mz="n364">พลังชี่</string>
 	<string name="0xrxw6g7shy138-n365_lsb6-tips" mz="n365">ยิ่งอารมณ์ดี ก็ยิ่งจะได้รับ essence ที่สูงขึ้นด้วยจากเทคนิคการหายใจ</string>
 	<string name="0xrxw6g7shy138-n365_lsb6" mz="n365">สถานะจิต</string>
 	<string name="0xrxw6g7shy138-n366_lsb6-tips" mz="n366">โบนัสจากแหล่งที่มาอื่น ๆ เช่น ร่างลับ ทก็ยิ่งจะได้รับ essence ที่สูงขึ้นด้วยจากเทคนิคการหายใจ</string>
@@ -1452,7 +1452,7 @@
 	<string name="0xrxw6g7snk12t-n60_vods-tips" mz="n60">เปลี่ยนชื่อห้อง</string>
 	<string name="0xrxw6g7snk12t-n68_b6zr-tips" mz="Level">ลำดับความสำคัญที่กำหนดจะดำเนินการตามลำดับความสำคัญที่กำหนดไว้ก่อนหน้า</string>
 	<string name="0xrxw6g7snk12t-n40_shy1" mz="n40">อารมณ์</string>
-	<string name="0xrxw6g7snk12t-n76_b6zr" mz="n76">พลังฉี</string>
+	<string name="0xrxw6g7snk12t-n76_b6zr" mz="n76">พลังชี่</string>
 	<string name="0xrxw6g7snk12t-n102_tvk1" mz="n102">+12/ วินาที</string>
 	<string name="0xrxw6g7snk12t-n82_b6zr-0" mz="NpcInfoBnts">สถิติพื้นฐาน (Hotkey: [keycode]AttributePanel[/keycode])</string>
 	<string name="0xrxw6g7snk12t-n82_b6zr-1" mz="NpcInfoBnts">อารมณ์และสังคม (Hotkey: [keycode]MoodPanel[/keycode])</string>
@@ -1494,11 +1494,11 @@
 	<string name="0xrxw6g7snk12t-n238_f12k" mz="n238">ปลดล๊อคหลังจากผ่านช่วงเด็ก</string>
 	<string name="0xrxw6g7snk12t-n211_bj7q" mz="n211">การลงโทษ</string>
 	<string name="0xrxw6g7snk12t-n212_bj7q" mz="n212">รางวัล</string>
-	<string name="0xrxw6g7snk12t-n216_pcbp" mz="n216">พลังฉีที่แท้จริง</string>
+	<string name="0xrxw6g7snk12t-n216_pcbp" mz="n216">พลังชี่ที่แท้จริง</string>
 	<string name="0xrxw6g7snk12t-n217_pcbp" mz="n217">+ 12 / วินาที</string>
 	<string name="0xrxw6g7snk12t-n226_sw03-tips" mz="tuna">หายใจ(การจัดเตรียมการหายใจ)  ให้ผู้ฝึกตนสายร่างกายไปยังฟูกของพวกเขาเพื่อเริ่มต้นการฝึกหายใจในช่วงเวลาที่กำหนดไว้</string>
 	<string name="0xrxw6g7snk12t-n226_sw03" mz="tuna">หายใจ</string>
-	<string name="0xrxw6g7snk12t-n223_d43u" mz="n223">พลังฉี</string>
+	<string name="0xrxw6g7snk12t-n223_d43u" mz="n223">พลังชี่</string>
 	<string name="0xrxw6g7snk12t-n248_ngv5" mz="ysperfertxt">ความสุข</string>
 	<string name="0xrxw6g7snk12t-n252_pmpm-tips" mz="thinkwarn">สมองไม่สามารถสร้างความคิดโดยอัตโนมัติได้อีกต่อไป คุณต้องดำเนินการคิดให้เสร็จก่อนเพื่อให้กลับมาทำงานต่อได้</string>
 	<string name="0xrxw6g7snk12t-n239_p2n7-tips" mz="yz_shou">เปลี่ยนเป็นร่างสัตว์  (ปีศาจ)</string>
@@ -1794,7 +1794,7 @@
 	<string name="0xrxw6g7jr2h3l-n187_rvsk" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_0" mz="n187">เพื่อที่จะก้าวไปก้าวหน้าต่อไปผู้ฝึกตน จะต้องออกจากสำนักและค้นหาเสียงเรียกจากภายในของพวกเขาผ่านการทดสอบในโลกแห่งความเป็นจริง ผู้ฝึกตนที่ไม่ชอบเข้าสังคมอาจพบว่าสิ่งนี้ท้าทายเนื่องจากเป็นการทดสอบทักษะทางสังคมและสเน่ห์</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_1" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
-	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_2" mz="n187">การปั้นแกนเป็นขั้นตอนของผู้ฝึกตน ที่จะบีบพลังฉีของตัวเองเพื่อให้เปลี่ยนเป็น Jindan หลังจากที่เข้าสู่สถานะนี้แล้ว ผู้ฝึกตนจะไม่สามารถฟื้นฟูพลังฉีของตัวเองได้ ผู้ฝึกตนจะยังคงกินในช่วงสถานะนี้ เมื่อพลังฉีหมดลงสถานะนี้ก็จะจบลง</string>
+	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_2" mz="n187">การปั้นแกนเป็นขั้นตอนของผู้ฝึกตน ที่จะบีบพลังชี่ของตัวเองเพื่อให้เปลี่ยนเป็น Jindan หลังจากที่เข้าสู่สถานะนี้แล้ว ผู้ฝึกตนจะไม่สามารถฟื้นฟูพลังชี่ของตัวเองได้ ผู้ฝึกตนจะยังคงกินในช่วงสถานะนี้ เมื่อพลังชี่หมดลงสถานะนี้ก็จะจบลง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_3" mz="n187">ทัณฑ์สวรรค์ กำลังจะมาถึงผู้ฝึกตนนี้ พวกเขาจะต้องเตรียมตัวที่จะรับมือกับมันก่อนที่เวลาจะหมดลง หลังจากที่ทัณฑ์สวรรค์เริ่มขึ้น จะไม่สามารถหยุดได้อีกต่อไป ผู้ฝึกตนที่เสียท่าให้กับทัณฑ์สวรรค์ จะทำให้ความพยายามที่ทำมาก่อนหน้านั้นต้องเริ่มใหม่ หรือบางครั้งอาจสูญสลายไปทั้งวิญญาณและร่างเลยก็ได้</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_4" mz="n187">ขั้นตอนสุดท้ายในการฝึกตน ผู้ฝึกตนเลือกที่จะอ้าแขนรับความไร้ตัวตน เพื่อที่จะจุติเป็นผู้อมตะ ในกรณีที่ผู้ฝึกตนเลือกที่จะอยู่ในภพเดิม ทัณฑ์สวรรค์จะมาหาผู้ฝึกตนคนนี้อยู่เรื่อย ๆ และแต่ละครั้งก็จะเพิ่มความรุนแรงขึ้น ผู้ฝึกตนสามารถที่จะอยู่ในสำนักของตัวเองเพื่อลองเอาตัวรอดจากทัณฑ์สวรรค์ หรือเลือกที่จะจุติเมื่อไหร่ก็ได้</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_5" mz="n187">ผู้ฝึกตนนี้ได้เรียนรู้กฎมาจนถึงขั้นสูงสุดแล้ว ไม่สามารถที่จะเรียนรู้ต่อไปได้</string>
@@ -2025,7 +2025,7 @@
 	<string name="0xrxw6g7icii51-n65_io5k-2" mz="n65">เทคนิควิญญาณน้ำ</string>
 	<string name="0xrxw6g7icii51-n65_io5k-3" mz="n65">เทคนิควิญญาณสีม่วง</string>
 	<string name="0xrxw6g7icii51-n65_io5k-4" mz="n65">เทคนิค Cundi</string>
-	<string name="0xrxw6g7icii51-n67_io5k" mz="n67">พลังฉี</string>
+	<string name="0xrxw6g7icii51-n67_io5k" mz="n67">พลังชี่</string>
 	<string name="0xrxw6g7md4p4d-n50_eb9i" mz="callbacknpc">เรียกกลับมา</string>
 	<string name="0xrxw6g7md4p4d-n124_f7uc" mz="payransom">แลก</string>
 	<string name="0xrxw6g7md4p4d-n93_uba2" mz="tmjt">ปีศาจในใจถูกปลดปล่อย</string>

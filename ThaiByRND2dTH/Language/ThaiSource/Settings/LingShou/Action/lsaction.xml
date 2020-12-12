@@ -229,16 +229,16 @@
 			<Desc>Consume Bear Gall</Desc>
 		</Text>
 		<Text Name="Eat_Item_RedGinseng">
-			<Desc>Consume Red Ginseng</Desc>
+			<Desc>Consume โสมแดง</Desc>
 		</Text>
 		<Text Name="Eat_Item_PurpleGanodermaLucidum">
-			<Desc>Consume Purple Ganoderma</Desc>
+			<Desc>Consume เห็ดหลินจือม่วง</Desc>
 		</Text>
 		<Text Name="Eat_Item_TuEssence">
 			<Desc>Consume Ochre Essence</Desc>
 		</Text>
 		<Text Name="Eat_Item_HuoEssence">
-			<Desc>Consume Crimson Fruit</Desc>
+			<Desc>Consume ผลไม้แดงสด</Desc>
 		</Text>
 		<Text Name="Eat_Item_ShuiEssence">
 			<Desc>Eat Prism Lotus</Desc>
@@ -283,7 +283,7 @@
 			<Desc>Consume Earth Flux</Desc>
 		</Text>
 		<Text Name="Eat_Item_SilverGrit">
-			<Desc>Consume Ice Crystal Powder</Desc>
+			<Desc>Consume ผงน้ำแข็งคริสตัล</Desc>
 		</Text>
 		<Text Name="Eat_Item_CopperGrit">
 			<Desc>Consume Igneocopper Powder</Desc>
@@ -304,7 +304,7 @@
 			<Desc>Consume Healing Herb</Desc>
 		</Text>
 		<Text Name="Eat_Item_Mint">
-			<Desc>Consume Purity Leaf</Desc>
+			<Desc>Consume ใบพิศุทธิ์</Desc>
 		</Text>
 		<Text Name="Eat_Item_MagicHerb">
 			<Desc>Consume Spirit Leaf</Desc>

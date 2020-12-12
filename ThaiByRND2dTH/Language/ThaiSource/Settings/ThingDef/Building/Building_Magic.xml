@@ -17,7 +17,7 @@
 			<Desc>A soft cushion for people to sit on.</Desc>
 		</Text>
 		<Text Name="Building_MagicCushion" sParam="Building">
-			<ThingName>ฟูกพลังฉี</ThingName>
+			<ThingName>ฟูกพลังชี่</ThingName>
 			<Desc>A cushion specifically used for cultivation that can gather Qi.</Desc>
 		</Text>
 		<Text Name="BasePracticePlace" sParam="Building">

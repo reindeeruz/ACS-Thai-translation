@@ -1,12 +1,12 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LingZhi_Huo" sParam="Plant">
-			<ThingName>Fire Spirit Root: Crimson Fruit Tree</ThingName>
-			<Desc>The plant of Crimson Fruit, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. For its special trait, it has to grow in an environment above 200℃.</Desc>
+			<ThingName>Fire Spirit Root: ผลไม้แดงสด Tree</ThingName>
+			<Desc>The plant of ผลไม้แดงสด, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. For its special trait, it has to grow in an environment above 200℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Jin" sParam="Plant">
 			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
-			<Desc>The plant of Sage Fruit, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. Extremely sensitive to high temperature, but relatively resistant to cold. It has to grow in an environment below 20℃.</Desc>
+			<Desc>The plant of ผลไม้ปราชญ์, an Elemental Medicine. Grows in a place with dense Qi, compatible element and fertile soil. Extremely sensitive to high temperature, but relatively resistant to cold. It has to grow in an environment below 20℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Mu" sParam="Plant">
 			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
@@ -21,8 +21,8 @@
 			<Desc>The plant of Ocher Essence, an elemental medicine. Grows in a place with dense Qi, compatible element and fertile soil. It avoids low temperature, and only grows in an environment above 30℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
-			<ThingName>Fire Spirit Root: Crimson Fruit Tree</ThingName>
-			<Desc>The plant of Crimson Fruit, an Elemental Medicine. It is said to only grow in places with dense Qi, compatible element and fertile soil.</Desc>
+			<ThingName>Fire Spirit Root: ผลไม้แดงสด Tree</ThingName>
+			<Desc>The plant of ผลไม้แดงสด, an Elemental Medicine. It is said to only grow in places with dense Qi, compatible element and fertile soil.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>

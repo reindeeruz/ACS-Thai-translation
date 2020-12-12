@@ -5,7 +5,7 @@
 		</Text>
 		<Text Name="Place_DanXia">
 			<DisplayName>Mt. Sunshade</DisplayName>
-			<Desc>A world-renowned mountain that gives sanctuary to the Sunshade Abode, the third biggest Taoist Heavenly Abode. The towering mountain is full of majesty and grandeur, and most famous for the breath-taking scenery of its overlooking cliffs at sunset. Mt. Sunshade is rich in old ginseng. It is said that there is a miraculous place called the Five Dragons Pond where the Prism Lotus—the Spirit Root of the Sunshade Abode is planted.</Desc>
+			<Desc>A world-renowned mountain that gives sanctuary to the Sunshade Abode, the third biggest Taoist Heavenly Abode. The towering mountain is full of majesty and grandeur, and most famous for the breath-taking scenery of its overlooking cliffs at sunset. Mt. Sunshade is rich in old โสม. It is said that there is a miraculous place called the Five Dragons Pond where the Prism Lotus—the Spirit Root of the Sunshade Abode is planted.</Desc>
 		</Text>
 		<Text Name="Place_KunLun">
 			<DisplayName>Mt. Kunlun</DisplayName>
@@ -13,7 +13,7 @@
 		</Text>
 		<Text Name="Place_TianJi">
 			<DisplayName>Heavenstep Peak</DisplayName>
-			<Desc>The Heavenstep Peak is a thousands-of-miles-high, isolated peak that reaches into the clouds, the top of which lies the mysterious and secluded Skydome Palace. The Skydome Palace walks a thin line between good and evil. Its disciples are all attractive young men and women that have many admirers among fellow cultivators. The Heavenstep Peak abounds with Purity Leaf, and the magnificent Nimbus Ravine is at the top of the peak. It is told that the Skydome Palace has the Spirit Root—Sage Fruit planted on the cliff of the ravine.</Desc>
+			<Desc>The Heavenstep Peak is a thousands-of-miles-high, isolated peak that reaches into the clouds, the top of which lies the mysterious and secluded Skydome Palace. The Skydome Palace walks a thin line between good and evil. Its disciples are all attractive young men and women that have many admirers among fellow cultivators. The Heavenstep Peak abounds with ใบพิศุทธิ์, and the magnificent Nimbus Ravine is at the top of the peak. It is told that the Skydome Palace has the Spirit Root—ผลไม้ปราชญ์ planted on the cliff of the ravine.</Desc>
 		</Text>
 		<Text Name="Place_JiuHua">
 			<DisplayName>Mt. Lucian</DisplayName>
@@ -25,7 +25,7 @@
 		</Text>
 		<Text Name="Place_Shu">
 			<DisplayName>Mt. Shu</DisplayName>
-			<Desc>The most bizarre and mythical mountain of all, famous for its dangerous, meandering Laws, even animals as agile as monkeys cannot climb over it. One of the ten biggest Taoist Heavenly Abodes—Caerulea Abode dwells in the clouds at the top of the mountain. Mt. Shu has always been a danger zone abundant with beasts like dragons and snakes, but it is also rich in fine ores and well-known springs which are often used to forge the rarest sword. Legend has it that the immortal from the Blue Lotus Temple once obtained the sacred seed of Crimson Fruit—one of the five magical medicines and planted it on the Jadestone Cliff, the spiritual vein of Mt. Shu.</Desc>
+			<Desc>The most bizarre and mythical mountain of all, famous for its dangerous, meandering Laws, even animals as agile as monkeys cannot climb over it. One of the ten biggest Taoist Heavenly Abodes—Caerulea Abode dwells in the clouds at the top of the mountain. Mt. Shu has always been a danger zone abundant with beasts like dragons and snakes, but it is also rich in fine ores and well-known springs which are often used to forge the rarest sword. Legend has it that the immortal from the Blue Lotus Temple once obtained the sacred seed of ผลไม้แดงสด—one of the five magical medicines and planted it on the Jadestone Cliff, the spiritual vein of Mt. Shu.</Desc>
 		</Text>
 		<Text Name="Place_WuLian">
 			<DisplayName>Mt. Nelumbo</DisplayName>
@@ -61,7 +61,7 @@
 		</Text>
 		<Text Name="Place_FertileField">
 			<DisplayName>Riverbank Plains</DisplayName>
-			<Desc>Fertile plains along the riverbanks, highly populated and abundant in food. East of the plains stands a mountain called Mt. Rue. Rumor has it that the Spirit Root—Sage Fruit grows on its cliff.</Desc>
+			<Desc>Fertile plains along the riverbanks, highly populated and abundant in food. East of the plains stands a mountain called Mt. Rue. Rumor has it that the Spirit Root—ผลไม้ปราชญ์ grows on its cliff.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains">
 			<DisplayName>Central Plain</DisplayName>

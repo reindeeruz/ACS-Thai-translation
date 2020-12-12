@@ -31,7 +31,7 @@
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JinEssence" sParam="Item">
-			<ThingName>Sage Fruit</ThingName>
+			<ThingName>ผลไม้ปราชญ์</ThingName>
 			<Desc>Miraculous medicine of the Metal element, with boisterous Qi dwelling within it. It is said that the fruit can be found in the Nimbus Ravine of Heavenstep Peak.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
@@ -52,7 +52,7 @@
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HuoEssence" sParam="Item">
-			<ThingName>Crimson Fruit</ThingName>
+			<ThingName>ผลไม้แดงสด</ThingName>
 			<Desc>Miraculous medicine of the Fire element, with boisterous Qi dwelling within it. Cannot be consumed directly. It is said that the fruit grows at the Jadestone Cliff of Mt. Shu and in the Blazenest of Great Western Desert.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
@@ -103,17 +103,17 @@
 		<Text Name="Item_GanodermaLucidum" sParam="Item">
 			<ThingName>Lingzhi</ThingName>
 			<Desc>Expensive herb that can prolong one's Lifespan by 3 years if consumed directly. It can boost their Foundation building process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
-			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Boongiver, เห็ดหลินจือม่วง, Powder, Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_RedGinseng" sParam="Item">
 			<ThingName>โสมแดง</ThingName>
-			<Desc>The finest of Ginseng with a crimson red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as an elixir ingredient. When consumed directly, it can significantly improve people's natural resilience for 2 hours, and increase Max Qi by a small amount. But consuming it in large quantities significantly diminish the effect.</Desc>
+			<Desc>The finest of โสม with a crimson red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as an elixir ingredient. When consumed directly, it can significantly improve people's natural resilience for 2 hours, and increase Max Qi by a small amount. But consuming it in large quantities significantly diminish the effect.</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
-			<ThingName>Ganoderma</ThingName>
+			<ThingName>เห็ดหลินจือม่วง</ThingName>
 			<Desc>The finest of Lingzhi with a purplish red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Can be used to make some precious and rare elixirs. It prolong one's Lifespan by 10 years and slightly increase Max Qi if consumed directly, but consuming it in large quantities significantly diminish the effect.</Desc>
-			<Item.FabaoSuffix>Boongiver, Ganoderma, Powder, Umbrella</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Boongiver, เห็ดหลินจือม่วง, Powder, Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SoulPearl" sParam="Item">
 			<ThingName>Soul Pearl</ThingName>
@@ -127,7 +127,7 @@
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Mint" sParam="Item">
-			<ThingName>Purity Leaf</ThingName>
+			<ThingName>ใบพิศุทธิ์</ThingName>
 			<Desc>Common herb of a chilling quality, consuming directly can calm one's spirit and Qi. It also increases Mental State if the taker is an inner disciple.</Desc>
 			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
 		</Text>

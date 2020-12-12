@@ -133,8 +133,8 @@
 			<Desc>ภัยพิบัติจากธาตุทั้งห้า จะเกิดขึ้นบ่อยขึ้น</Desc>
 		</Text>
 		<Text Name="LessLingWeather">
-			<DisplayName>พลังฉีเสื่อม</DisplayName>
-			<Desc>พลังฉีแห้งลงบ่อยขึ้น และมีช่วงเวลานานขึ้น</Desc>
+			<DisplayName>พลังชี่เสื่อม</DisplayName>
+			<Desc>พลังชี่แห้งลงบ่อยขึ้น และมีช่วงเวลานานขึ้น</Desc>
 		</Text>
 		<Text Name="ForeverNight20">
 			<DisplayName>ความวุ่นวายของหยินหยาง</DisplayName>
@@ -149,8 +149,8 @@
 			<Desc>มันใช้เวลานานกว่าปรกติที่จะชุบชีวิตสัตว์วิญญาณ</Desc>
 		</Text>
 		<Text Name="PetLingMax">
-			<DisplayName>พลังฉีถูกรบกวน</DisplayName>
-			<Desc>พลังฉีสูงสุดของสัตว์วิญญาณต่ำลง</Desc>
+			<DisplayName>พลังชี่ถูกรบกวน</DisplayName>
+			<Desc>พลังชี่สูงสุดของสัตว์วิญญาณต่ำลง</Desc>
 		</Text>
 		<Text Name="PetFabao">
 			<DisplayName>แกนหลวม</DisplayName>

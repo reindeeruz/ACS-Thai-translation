@@ -718,7 +718,7 @@
 			<Chapters.1.Tasks.1>Wait Until the Mode is Set</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Check the Change in Mental State</Chapters.1.Tasks.2>
 			<Chapters.2.DisplayName>Eat to Adjust Mental State</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Check the Effect of Purity Leaf</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.0>Check the Effect of ใบพิศุทธิ์</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Check the Effect of Purity Pill</Chapters.2.Tasks.1>
 			<Chapters.2.Tasks.2>Eat Purity Pill</Chapters.2.Tasks.2>
 			<Chapters.2.Tasks.3>Check the Change in Mental State</Chapters.2.Tasks.3>
@@ -734,7 +734,7 @@
 			<Tasks.17.TaskDesc>Wait until the inner disciple begins seeking peace.</Tasks.17.TaskDesc>
 			<Tasks.20.TaskDesc>This disciple has restored a little mental state after seeking peace.</Tasks.20.TaskDesc>
 			<Tasks.22.TipsData.Desc>It will take some time to recover a disciple's mental state by seeking peace, so when it's an emergency, other methods need be applied to restore mental state.</Tasks.22.TipsData.Desc>
-			<Tasks.24.TaskDesc>The player can read the instruction for Purity Leaf to know its effect.</Tasks.24.TaskDesc>
+			<Tasks.24.TaskDesc>The player can read the instruction for ใบพิศุทธิ์ to know its effect.</Tasks.24.TaskDesc>
 			<Tasks.26.TaskDesc>The player can read the instruction for Purity Pill to know its effect.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Click the Eat button in the menu below the NPC.</Tasks.27.TaskDesc>
 			<Tasks.27.UiData.Name>Eat</Tasks.27.UiData.Name>
@@ -1218,7 +1218,7 @@
 			<Tasks.31.TaskDesc>Click the item menu to zoom.</Tasks.31.TaskDesc>
 			<Tasks.32.TipsData.Desc>The player can click and zoom to see more tradable types, like renting artifacts and asking for help from disciples with Golden Core.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Click the item menu to zoom.</Tasks.34.TaskDesc>
-			<Tasks.35.TaskDesc>Click Red Ginseng from Sect Items in the left.</Tasks.35.TaskDesc>
+			<Tasks.35.TaskDesc>Click โสมแดง from Sect Items in the left.</Tasks.35.TaskDesc>
 			<Tasks.36.TaskDesc>Click Blood Talisman from Player Items in the right.</Tasks.36.TaskDesc>
 			<Tasks.37.TaskDesc>Click Attempt Trade.</Tasks.37.TaskDesc>
 			<Tasks.39.TaskDesc>Click Blood Talisman from Player Items in the right.</Tasks.39.TaskDesc>

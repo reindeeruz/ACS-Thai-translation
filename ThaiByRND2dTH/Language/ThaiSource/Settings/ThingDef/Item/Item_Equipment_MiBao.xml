@@ -96,7 +96,7 @@
 		</Text>
 		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
 			<ThingName>Soaring Flame Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Crimson Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Wood element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Metal element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with ผลไม้แดงสด essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Wood element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Metal element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Wood element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Metal element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -126,7 +126,7 @@
 		</Text>
 		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
 			<ThingName>Feather of Agility</ThingName>
-			<Desc>Precious artifact from the Otherworld. Combine Phoenix's Oblivion Feather and Mantle Feather, and then neutralize its blaze with the essence of ten thousand pounds of Purity Leaf to create the incubation. Which then needs to undergo a process of closed-door self-training in a quiet and tranquil location in order to become spiritual. When using this artifact to attack, there is a chance of activating Breath of Tranquility to compensate yourself, reducing Spell Cast Delay by 1 second.</Desc>
+			<Desc>Precious artifact from the Otherworld. Combine Phoenix's Oblivion Feather and Mantle Feather, and then neutralize its blaze with the essence of ten thousand pounds of ใบพิศุทธิ์ to create the incubation. Which then needs to undergo a process of closed-door self-training in a quiet and tranquil location in order to become spiritual. When using this artifact to attack, there is a chance of activating Breath of Tranquility to compensate yourself, reducing Spell Cast Delay by 1 second.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Stay on Heavenstep Peak for 36 days while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>

@@ -29,11 +29,11 @@
 		</Text>
 		<Text Name="Place_TianJi1">
 			<DisplayName>Nimbus Ravine</DisplayName>
-			<Desc>A deep ravine between the soaring precipices at the Heavenstep Peak, creating a giant vortex of Qi that spins without halt; even birds cannot fly over it. It is told that the Skydome Palace has the Spirit Root—Sage Fruit planted on the precipice of the ravine.</Desc>
+			<Desc>A deep ravine between the soaring precipices at the Heavenstep Peak, creating a giant vortex of Qi that spins without halt; even birds cannot fly over it. It is told that the Skydome Palace has the Spirit Root—ผลไม้ปราชญ์ planted on the precipice of the ravine.</Desc>
 		</Text>
 		<Text Name="Place_TianJi2">
 			<DisplayName>Celeste Pass</DisplayName>
-			<Desc>A narrow pass on the way to the top of the Heavenstep Peak. Purity Leaf grows everywhere on the sides of the pass, anyone who approaches will forget all troubles and feel soothed and peaceful, thus the name Celeste Pass. Through it is the top of the Heavenstep Peak, where the Skydome Palace is based.</Desc>
+			<Desc>A narrow pass on the way to the top of the Heavenstep Peak. ใบพิศุทธิ์ grows everywhere on the sides of the pass, anyone who approaches will forget all troubles and feel soothed and peaceful, thus the name Celeste Pass. Through it is the top of the Heavenstep Peak, where the Skydome Palace is based.</Desc>
 		</Text>
 		<Text Name="Place_JiuHua1">
 			<DisplayName>Lucian Village</DisplayName>
@@ -153,7 +153,7 @@
 		</Text>
 		<Text Name="Place_Snowfield1">
 			<DisplayName>Skye Conch Valley</DisplayName>
-			<Desc>An untrodden valley in the Great Snowland, filled with Qi. Some ginseng here have been growing for over a hundred years.</Desc>
+			<Desc>An untrodden valley in the Great Snowland, filled with Qi. Some โสม here have been growing for over a hundred years.</Desc>
 		</Text>
 		<Text Name="Place_Snowfield2">
 			<DisplayName>Lake Jadestone</DisplayName>
@@ -181,7 +181,7 @@
 		</Text>
 		<Text Name="Place_FertileField5">
 			<DisplayName>Mt. Rue</DisplayName>
-			<Desc>A famous mountain south of the river. The Law leading through it is meandering and confusing, which means even animals as agile as monkeys cannot climb over it. There are a few exposed ore veins of spirit stone in the mountain. Though not worthy of any large-scale mining operation, rogue cultivators would often go in and mine some for their own use. Rumors has it that a cultivator once sensed strong Qi of Metal Element here, and it seems that the Sage Fruit, one of the Spirit Roots, is hidden somewhere in the mountain.</Desc>
+			<Desc>A famous mountain south of the river. The Law leading through it is meandering and confusing, which means even animals as agile as monkeys cannot climb over it. There are a few exposed ore veins of spirit stone in the mountain. Though not worthy of any large-scale mining operation, rogue cultivators would often go in and mine some for their own use. Rumors has it that a cultivator once sensed strong Qi of Metal Element here, and it seems that the ผลไม้ปราชญ์, one of the Spirit Roots, is hidden somewhere in the mountain.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains1">
 			<DisplayName>Mt. Cloudsreach</DisplayName>

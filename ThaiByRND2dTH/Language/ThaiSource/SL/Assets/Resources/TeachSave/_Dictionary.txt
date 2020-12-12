@@ -1,6 +1,6 @@
 拜祖师	Worshipping ancestors
-清心草	Purity Leaf
-人参	Ginseng
+清心草	ใบพิศุทธิ์
+人参	โสม
 灵芝	GanodermaLucidum
 灵仙草	Spirit Leaf
 麦田	Wheat
