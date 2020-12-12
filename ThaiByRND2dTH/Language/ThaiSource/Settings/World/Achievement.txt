@@ -107,10 +107,10 @@ ID	Achievement Title	Description
 1015	Orthodox Training: Sword	Cultivate the เจ็ดดาบสังหาร with over 150% of compatibility
 1016	Tier I: Sword	Shape the Tier I Golden Core with the เจ็ดดาบสังหาร
 1017	Mastery: Sword	Ascend through the เจ็ดดาบสังหาร
-1018	Scion of Jade purity	Cultivate the Jade Purity Immortal Law
-1019	Orthodox Training: Jade purity	Cultivate the Jade Purity Immortal Law with over 150% of compatibility
-1020	Tier I: Jade purity	Shape the Tier I Golden Core with the Jade Purity Immortal Law
-1021	Mastery: Jade purity	Ascend through the Jade Purity Immortal Law
+1018	Scion of Jade purity	Cultivate the Jade Purity เซียน Law
+1019	Orthodox Training: Jade purity	Cultivate the Jade Purity เซียน Law with over 150% of compatibility
+1020	Tier I: Jade purity	Shape the Tier I Golden Core with the Jade Purity เซียน Law
+1021	Mastery: Jade purity	Ascend through the Jade Purity เซียน Law
 1022	Scion of Heaven stealing	Cultivate the กฎขโมยสวรรค์
 1023	Orthodox Training: Heaven stealing	Cultivate the กฎขโมยสวรรค์ with over 150% of compatibility
 1024	Tier I: Heaven stealing	Shape the Tier I Golden Core with the กฎขโมยสวรรค์
@@ -162,7 +162,7 @@ ID	Achievement Title	Description
 1070	Psychokinetic	Artifact Mastery reaches Level 20
 1071	Spellbinding	Spell reaches Level 20
 1072	Death Proof	Protection reaches Level 20
-1073	Immortal Doctor	Alchemy reaches Level 20
+1073	เซียน Doctor	Alchemy reaches Level 20
 1074	Craftsman	Artifact Crafting reaches Level 20
 1075	Coming of Winter	Pass the 1st year in the game
 1076	Time Flies	Pass the 5th year in the game
@@ -184,10 +184,10 @@ ID	Achievement Title	Description
 1092	Blessed	Sect's Feng Shui becomes blessed
 1093	Auspicious	One room's Feng Shui becomes auspicious
 1094	Great Feng Shui	One room's Feng Shui becomes ฤกษ์ดีมาก
-1095	Tier I Immortal	One immortal who has survived one tribulation remains in the sect
-1096	Tier III Immortal	One immortal who has survived three tribulations remains in the sect
-1097	Tier V Immortal	One immortal who has survived five tribulations remains in the sect
-1098	Tier IX Immortal	One immortal who has survived nine tribulations remains in the sect
+1095	Tier I เซียน	One เซียน who has survived one tribulation remains in the sect
+1096	Tier III เซียน	One เซียน who has survived three tribulations remains in the sect
+1097	Tier V เซียน	One เซียน who has survived five tribulations remains in the sect
+1098	Tier IX เซียน	One เซียน who has survived nine tribulations remains in the sect
 1099	Rare	Acquire one artifact that has been through 1 heavenly reforge
 1100	Precious	Acquire one artifact that has been through 5 heavenly reforges
 1101	Exquisite	Acquire one artifact that has been through 10 heavenly reforges
@@ -289,8 +289,8 @@ ID	Achievement Title	Description
 3034	Don't Look	Don't let the Jiao-dragon show up within the first 200 days while the ถ้ำลี้ลับ appears on the 30th day, then kill the dragon.
 3035	The Farmer and the Dragon	Don't let the Jiao-dragon show up within the first 200 days with all Ancient Awe options activated, then kill the dragon.
 3036	Higher Level = More Dignity	Upgrade Main Halls of all areas and cities to Level 3 within 3 years with all Worldly Chores options activated.
-3037	Immortals do not believe in tears	Buy an item of Tier 12 or above from a cultivational sect within the 1st year with all Emotionless Immortals options activated.
-3038	Immortal Slayer	Make all the sects surrender under the highest NPC sect power setting.
+3037	เซียน do not believe in tears	Buy an item of Tier 12 or above from a cultivational sect within the 1st year with all Emotionless เซียน options activated.
+3038	เซียน Slayer	Make all the sects surrender under the highest NPC sect power setting.
 3039	Yin Slayer	Kill Jiao-dragon under the highest Jiao-dragon power setting.
 3040	Yang Slayer	Kill Phoenix under the highest Phoenix power setting.
 3041	Tao Slayer	Kill มังกรประทีป under the highest มังกรประทีป power setting.
@@ -393,7 +393,7 @@ ID	Achievement Title	Description
 3150	Initiation: Fallen Obliteration	Learn Body of Fallen Obliteration.
 3151	Ascension: Fallen Obliteration	Ascend with Body of Fallen Obliteration.
 3152	Join us and seek immortality!	Acquire pets Xiuxiu and Xianxian.
-3153	Immortal Panda	Transform a panda into human and successfully help it ascend toward immortality.
+3153	เซียน Panda	Transform a panda into human and successfully help it ascend toward immortality.
 3154	One Fish	Catch one fish.
 3155	100 Fish	Catch 100 fish.
 3156	1,000 Fish	Catch 1,000 fish.

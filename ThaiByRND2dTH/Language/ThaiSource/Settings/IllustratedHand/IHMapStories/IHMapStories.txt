@@ -6,12 +6,12 @@
 5	Secrets_Baozang_EX5	Angel's Treasure	Unlock the secret of the Angel's Treasure	
 6	Secrets_Baozang_EX6	Demon's Remains	Unlock the secret of the Demon's Remains	
 7	Secrets_KunLunFaHui	Kunlun Competition	Take part in the Kunlun Competition	
-8	Secrets_GuangShouMenTu	Destiny Fair	Take part in the Immortal Destiny Fair	
+8	Secrets_GuangShouMenTu	Destiny Fair	Take part in the เซียน Destiny Fair	
 9	Secrets_XieDiLing	The Demon Emperor's Tomb Opening	Witness the opening of Demon Emperor's Tomb	
 10	Secrets_DuGuiXingZong	Ye Xuan the Gambler	Bet against Ye Xuan the Gambler	
 11	Secrets_TianJi	Ancient Celeste Talisman	Unlock the secret of the Ancient Celeste Talisman	
-12	BaoZang_QingLianShan	Immortal Blue Lotus Mountain	Unlock the secret of the Immortal Blue Lotus Mountain	
-13	BaoZang_XuanKong	Jade Immortal Abode	Unlock the secret of the Jade Immortal Abode	
-14	BaoZang_ChiLianYuan	Emerald Palace Immortal Abode	Unlock the secret of the Emerald Palace Immortal Abode	
+12	BaoZang_QingLianShan	เซียน Blue Lotus Mountain	Unlock the secret of the เซียน Blue Lotus Mountain	
+13	BaoZang_XuanKong	Jade เซียน Abode	Unlock the secret of the Jade เซียน Abode	
+14	BaoZang_ChiLianYuan	Emerald Palace เซียน Abode	Unlock the secret of the Emerald Palace เซียน Abode	
 15	BaoZang_DengXian	Dong Hua's Treasure	Unlock the secret of Dong Hua's Treasure	
 16	LingWu_JiuHua1	Hidden Dragon and the Perched Phoenix	Unlock the secret behind the Hidden Dragon and the Perched Phoenix	

@@ -56,7 +56,7 @@
 梧桐神木	Phoenixwood
 长生紫薇柱	 Branch
 奔烈星宿圭	 Dualjade
-焚日斩仙剑	Blazing Immortal Slaying Sword
+焚日斩仙剑	Blazing เซียน Slaying Sword
 紫薇妖印	Crape Myrtle Devil  Seal
 观音土	Guanyin Clay
 麒麟神灵宝	Numinous Treasure
@@ -111,7 +111,7 @@
 棕石锤	Brownstone Mace
 玄铁铃铛	Bell
 断岳白骨铃	Demolition White Bone Bell
-碧光斩仙弓	Opalescent Immortal Slaying Bow
+碧光斩仙弓	Opalescent เซียน Slaying Bow
 五内摄欲	
 铁剑	Iron Sword
 兔皮厚制下裳	Winter Pants

@@ -7,7 +7,7 @@
 			<Item.Fabao.SpecialAbility.0.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
-			<ThingName>Immortal Slayer</ThingName>
+			<ThingName>เซียน Slayer</ThingName>
 			<Desc>Ancient sword technique passed down from the Wutai Sect of old. It is made by first melting ten Spirit Crystals along with a Soul Pearl  to form a Sword Incubation, and then sacrificing the Blessings of a hundred living beings to it. Each time the sword is used, its Blessing and power will gradually increase, until infused with Qi again.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Kill 100 living beings while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Item.Fabao.SpecialAbility.0.Desc>
@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
 			<ThingName>Heavenly Measure</ThingName>
-			<Desc>Guardian artifact passed by Guangcheng Zi, the golden immortal of Chan Cult. It has nine golden flowers and a wisp of purple Qi dwelling on it. Each golden flower is congealed from the essence of one Lumina Core, while the purple Qi is refined from the Breath of Tribulation. Every nine attacks with this artifact will launch a wisp of yang Qi to attack the target's body itself with appalling power.</Desc>
+			<Desc>Guardian artifact passed by Guangcheng Zi, the golden เซียน of Chan Cult. It has nine golden flowers and a wisp of purple Qi dwelling on it. Each golden flower is congealed from the essence of one Lumina Core, while the purple Qi is refined from the Breath of Tribulation. Every nine attacks with this artifact will launch a wisp of yang Qi to attack the target's body itself with appalling power.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Spiritual refine the incubation 9 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Every 9th attack will cast a spell on the target enemy.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -132,7 +132,7 @@
 		</Text>
 		<Text Name="Item_MiBao_YuanShenXinJian" sParam="Item">
 			<ThingName>Truthbringer</ThingName>
-			<Desc>Secret artifact of Buddhist tradition according to legends. Skeleton remains left by ascended immortals are used as the core, which is then infused into 99 swords. More than a hundred years of meditation with a Heart of Sword is then needed for it to become a spirit. Significantly improves one's Comprehension in Sword Mastery.</Desc>
+			<Desc>Secret artifact of Buddhist tradition according to legends. Skeleton remains left by ascended เซียน are used as the core, which is then infused into 99 swords. More than a hundred years of meditation with a Heart of Sword is then needed for it to become a spirit. Significantly improves one's Comprehension in Sword Mastery.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Meditate for 360 years while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Sword Mastery skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -162,7 +162,7 @@
 		</Text>
 		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
 			<ThingName>Sirius Spike</ThingName>
-			<Desc>Wicked artifact from another realm. Using the remaining evilness left by ascended immortal as the catalyst, the essence of Gnarled Vine's power is condensed onto a Demon Wolf's Fang. Nurture it with your own essence to make it spiritual. This artifact is extremely thin and sensitive when being used in battle. Once triggered, it will split into 9 apparitions to attack the enemy. It is a vicious weapon. (Once equipped, right click to feed essence to it)</Desc>
+			<Desc>Wicked artifact from another realm. Using the remaining evilness left by ascended เซียน as the catalyst, the essence of Gnarled Vine's power is condensed onto a Demon Wolf's Fang. Nurture it with your own essence to make it spiritual. This artifact is extremely thin and sensitive when being used in battle. Once triggered, it will split into 9 apparitions to attack the enemy. It is a vicious weapon. (Once equipped, right click to feed essence to it)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Feed the artifact 18 times with your essence.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>

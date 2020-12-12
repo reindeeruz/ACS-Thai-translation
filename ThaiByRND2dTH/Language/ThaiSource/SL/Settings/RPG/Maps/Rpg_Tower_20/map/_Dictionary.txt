@@ -33,7 +33,7 @@
 灵晶砖	Spirit Crystal Block
 大日极光碑	Big Day Aurora Stone
 金丝灵木	Goldwood
-天枢斩仙枝	Dubhe Immortal Slaying  Branch
+天枢斩仙枝	Dubhe เซียน Slaying  Branch
 可以大幅提高寒冷抵抗的符咒。	Talisman used to drastically raise resistance to cold.
 太阳符	Talisman of Supreme Yang
 佩戴者可以从根本上降低术法技能灵气消耗。	Fundamentally decreases the wearer's Qi Cost of Spells.

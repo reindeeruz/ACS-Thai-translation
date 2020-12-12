@@ -11,7 +11,7 @@
 天柱石盘龙座	Holy Stone Coiled Dragon Throne
 天柱石剑心玉莲	Holy Stone Swordheart Lotus
 天柱石假山-叠嶂	Holy Stone Rock Garden (Hill)
-玉树	Immortal Tree
+玉树	เซียน Tree
 天柱石黄龙灯台	Holy Stone Dragon Lampstand
 天柱石灯柱	Holy Stone Lamp Post
 天柱石灵地水池	Holy Stone Spirit Pond

@@ -148,12 +148,12 @@
 			<Desc>A very peculiar essence, invisible and intangible, but truly exist. Can be extracted from ethereal items.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
-			<ThingName>Immortal Essence</ThingName>
+			<ThingName>เซียน Essence</ThingName>
 			<Desc>Collective term for the products of all kinds of essence in the world being processed with Qi by Golden Core cultivators. Due to the infusion of Qi, these essence are ineffective to Physical cultivators. If one forcefully use these essence to Remold body, it will cause the cultivation progress of the designated body part to nullify due to the Qi repulsion effect, reversing it to its original state.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XianSui" sParam="Item">
-			<ThingName>Immortal Marrow</ThingName>
-			<Desc>Essence of the Immortal Body formed by a Golden Core cultivator. The extremely strong effect of this substance will create an intense stimulation in Physical cultivators. It's not known what might happen if one uses it for Remolding.</Desc>
+			<ThingName>เซียน Marrow</ThingName>
+			<Desc>Essence of the เซียน Body formed by a Golden Core cultivator. The extremely strong effect of this substance will create an intense stimulation in Physical cultivators. It's not known what might happen if one uses it for Remolding.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ShenSui" sParam="Item">
 			<ThingName>Divine Marrow</ThingName>

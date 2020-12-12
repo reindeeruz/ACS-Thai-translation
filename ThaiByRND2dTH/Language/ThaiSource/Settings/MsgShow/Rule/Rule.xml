@@ -21,7 +21,7 @@
 			<Selection.2.Desc>Walk away and avoid getting involved when encountering this kind of things.</Selection.2.Desc>
 		</Text>
 		<Text Name="FindTreasure">
-			<DisplayName>Immortal Luck</DisplayName>
+			<DisplayName>เซียน Luck</DisplayName>
 			<Desc>The action you take when encountering lucky chances concerning immortality while you travel around the world.</Desc>
 			<Selection.0.DisplayName>Explore and Advance</Selection.0.DisplayName>
 			<Selection.0.Desc>First try to take a chance when encountering this kind of events.</Selection.0.Desc>

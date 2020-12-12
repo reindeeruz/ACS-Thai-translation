@@ -42,17 +42,17 @@
 		</Text>
 		<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
 			<ThingName>ตะปูสำนักฮี</ThingName>
-			<Desc>This object was originally a sword immortal's Artifact of choice. Although it lost all its power in the process of reincarnation with its master, its extraordinary essence still remains.</Desc>
+			<Desc>This object was originally a sword เซียน's Artifact of choice. Although it lost all its power in the process of reincarnation with its master, its extraordinary essence still remains.</Desc>
 			<Item.FabaoSuffix>Needle</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
 			<ThingName>White Jade</ThingName>
-			<Desc>A piece of white jade stone left by the Immortal Pearlwood. While looking ordinary, it can greatly improve the Natural Resilience of the wearer.</Desc>
+			<Desc>A piece of white jade stone left by the เซียน Pearlwood. While looking ordinary, it can greatly improve the Natural Resilience of the wearer.</Desc>
 			<Item.FabaoSuffix>Rock</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
 			<ThingName>Painting of the Four Symbols</ThingName>
-			<Desc>A mysterious diagram left by the Immortal Caerulea with great power. Carrier of the painting can utilize local Qi energy and the rotation power of the four seasons in the Boundless Universe to deceive the way of Heaven for 9 years, being immune from Heavenly Tribulation. If the painting scroll is unequipped during this process, the Heavenly Tribulation will arrive immediately.</Desc>
+			<Desc>A mysterious diagram left by the เซียน Caerulea with great power. Carrier of the painting can utilize local Qi energy and the rotation power of the four seasons in the Boundless Universe to deceive the way of Heaven for 9 years, being immune from Heavenly Tribulation. If the painting scroll is unequipped during this process, the Heavenly Tribulation will arrive immediately.</Desc>
 			<Item.FabaoSuffix>Picture</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Other_PuppetTest" sParam="Item">

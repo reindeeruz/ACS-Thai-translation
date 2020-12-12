@@ -57,12 +57,12 @@
 			<Desc>A work station used to make medicine.</Desc>
 		</Text>
 		<Text Name="Building_YiTui" sParam="Building">
-			<ThingName>ร่างของผู้อมตะ</ThingName>
-			<Desc>ร่างมนุษย์ที่ถูกทิ้งไว้โดยผู้อมตะที่จุติไปแล้ว</Desc>
+			<ThingName>ร่างของเซียน</ThingName>
+			<Desc>ร่างมนุษย์ที่ถูกทิ้งไว้โดยเซียนที่จุติไปแล้ว</Desc>
 		</Text>
 		<Text Name="Building_YiTui1" sParam="Building">
 			<ThingName>ร่างเทพ</ThingName>
-			<Desc>ร่างมนุษย์ที่ถูกทิ้งไว้โดยผู้อมตะที่จุติไปแล้ว</Desc>
+			<Desc>ร่างมนุษย์ที่ถูกทิ้งไว้โดยเซียนที่จุติไปแล้ว</Desc>
 		</Text>
 	</List>
 </Texts>

@@ -138,7 +138,7 @@
 		</Text>
 		<Text Name="Story_MuBai">
 			<DisplayName>Pearlwood Rainforest</DisplayName>
-			<Desc>This place is where an Immortal was once secluded. Rumor has it has not rained here once after the Immortal's ascension.</Desc>
+			<Desc>This place is where an เซียน was once secluded. Rumor has it has not rained here once after the เซียน's ascension.</Desc>
 			<Selections.0.Display>Search for Rain</Selections.0.Display>
 			<Selections.1.Display>Search</Selections.1.Display>
 			<Selections.2.Display>Depart</Selections.2.Display>
@@ -162,7 +162,7 @@
 		</Text>
 		<Text Name="Story_YiJieLieFeng">
 			<DisplayName>Otherworld Rift</DisplayName>
-			<Desc>Legend has it that this fractured space gave birth to the second war between Immortals and Demons and that afterwards there was no trace left. It has been gone for thousands of years, but unexpectedly, it has reappeared in this realm for now. The rift is extremely dangerous, and without a special kind of Luck, even the most experienced immortals can become lost in there.</Desc>
+			<Desc>Legend has it that this fractured space gave birth to the second war between เซียน and Demons and that afterwards there was no trace left. It has been gone for thousands of years, but unexpectedly, it has reappeared in this realm for now. The rift is extremely dangerous, and without a special kind of Luck, even the most experienced เซียน can become lost in there.</Desc>
 			<Selections.0.Display>An Otherworld Rift full of festive spirit.</Selections.0.Display>
 			<Selections.1.Display>An Otherworld Rift full of majestic spirit.</Selections.1.Display>
 			<Selections.2.Display>Depart</Selections.2.Display>
@@ -187,21 +187,21 @@
 		</Text>
 		<Text Name="BaoZang_ChiLianYuan">
 			<DisplayName>Explore the Secrets of the Emerald Palace</DisplayName>
-			<Desc>[NAME] entered the Cave Mansion according to the Secret Law. According to the "Record of the Immortals" what was left is hidden in three locations: The first is in the Pavilion of Fate in the Emerald Palace's Immortal Abode, the second is in the Artifact Crafting area in the Hall of Ten-thousand Treasures, and the third is in the Scriptorium's secluded meditation area.</Desc>
+			<Desc>[NAME] entered the Cave Mansion according to the Secret Law. According to the "Record of the เซียน" what was left is hidden in three locations: The first is in the Pavilion of Fate in the Emerald Palace's เซียน Abode, the second is in the Artifact Crafting area in the Hall of Ten-thousand Treasures, and the third is in the Scriptorium's secluded meditation area.</Desc>
 			<Selections.0.Display>Enter the Pavilion of Fate</Selections.0.Display>
 			<Selections.1.Display>Enter the Hall of Ten-thousand Treasures</Selections.1.Display>
 			<Selections.2.Display>Enter the Scriptorium</Selections.2.Display>
 			<Selections.3.Display>Depart</Selections.3.Display>
 		</Text>
 		<Text Name="BaoZang_XuanKong">
-			<DisplayName>Jade Immortal Abode</DisplayName>
-			<Desc>[NAME] entered the Jade Immortal Abode using the "Record of the Immortals" guidance to get past traps.</Desc>
-			<Selections.0.Display>Search the Immortal Abode</Selections.0.Display>
+			<DisplayName>Jade เซียน Abode</DisplayName>
+			<Desc>[NAME] entered the Jade เซียน Abode using the "Record of the เซียน" guidance to get past traps.</Desc>
+			<Selections.0.Display>Search the เซียน Abode</Selections.0.Display>
 			<Selections.1.Display>Depart</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_QingLianShan">
 			<DisplayName>Mt. Caerulea</DisplayName>
-			<Desc>[NAME] came to the South Seas according to the secret manual. After searching the area numerous times, the drop of true water was finally found in the boundless waves. [NAME] touched it and was able to enter the water. A towering, blue Immortal mountain appeared up ahead. Peering off into the distance, it looked like there's a bamboo hut on the mountainside. The peak was shrouded by strange jet-black clouds from which lightning was shooting.</Desc>
+			<Desc>[NAME] came to the South Seas according to the secret manual. After searching the area numerous times, the drop of true water was finally found in the boundless waves. [NAME] touched it and was able to enter the water. A towering, blue เซียน mountain appeared up ahead. Peering off into the distance, it looked like there's a bamboo hut on the mountainside. The peak was shrouded by strange jet-black clouds from which lightning was shooting.</Desc>
 			<Selections.0.Display>Search the Mountain</Selections.0.Display>
 			<Selections.1.Display>Proceed to the bamboo hut on the mountainside</Selections.1.Display>
 			<Selections.2.Display>Inspect the peak</Selections.2.Display>
@@ -238,14 +238,14 @@
 		</Text>
 		<Text Name="BaoZang_DengXian">
 			<DisplayName>Explore the Ruins</DisplayName>
-			<Desc>[NAME] had heard that the Immortal Summit had teachings left behind by Emperor Donghua from long ago. [NAME] tried to see what could be found.</Desc>
+			<Desc>[NAME] had heard that the เซียน Summit had teachings left behind by Emperor Donghua from long ago. [NAME] tried to see what could be found.</Desc>
 			<Selections.0.Display>Carefully Search</Selections.0.Display>
 			<Selections.0.Tip>Perception and Luck</Selections.0.Tip>
 			<Selections.1.Display>Depart</Selections.1.Display>
 		</Text>
 		<Text Name="BaoZang_FeiLei">
 			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>It was said that the Immortal Caerulea ascended here and left an incredible secret. [NAME] couldn't help but be curious to see what it could be.</Desc>
+			<Desc>It was said that the เซียน Caerulea ascended here and left an incredible secret. [NAME] couldn't help but be curious to see what it could be.</Desc>
 			<Selections.0.Display>Look around</Selections.0.Display>
 		</Text>
 		<Text Name="LingWu_DanXia">
@@ -291,7 +291,7 @@
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">
 			<DisplayName>Search for Luck</DisplayName>
-			<Desc>[NAME] went to the Battlefield of the Clash of Immortals and Demons in search of some lucky chance.</Desc>
+			<Desc>[NAME] went to the Battlefield of the Clash of เซียน and Demons in search of some lucky chance.</Desc>
 			<Selections.0.Display>Search for Luck</Selections.0.Display>
 			<Selections.1.Display>Depart</Selections.1.Display>
 		</Text>

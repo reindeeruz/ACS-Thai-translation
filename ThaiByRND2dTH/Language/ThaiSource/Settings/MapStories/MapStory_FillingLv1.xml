@@ -57,7 +57,7 @@
 			<Desc>[NAME] felt a bit tired along the way and decided to take a nap underneath a tree.</Desc>
 		</Text>
 		<Text Name="Join_Base">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
+			<DisplayName>Attune เซียน Destiny</DisplayName>
 			<Desc>[NAME] came across some commoners that had committed themselves to the Tao and so informed the commoners the location of [ITS] School and then headed on.</Desc>
 		</Text>
 		<Text Name="Kidnap_Base">
@@ -65,11 +65,11 @@
 			<Desc>[NAME] performed a miracle and then Kidnapped a few mortals.</Desc>
 		</Text>
 		<Text Name="Join_1">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
-			<Desc>[NAME] discovered an incredibly talented young individual and revealed a miracle to them in their dream, giving an Immortal Destiny to this commoner. If this disciple decides to seek longevity by following the Tao, they will probably arrive at the Order's gate within a day or two.</Desc>
+			<DisplayName>Attune เซียน Destiny</DisplayName>
+			<Desc>[NAME] discovered an incredibly talented young individual and revealed a miracle to them in their dream, giving an เซียน Destiny to this commoner. If this disciple decides to seek longevity by following the Tao, they will probably arrive at the Order's gate within a day or two.</Desc>
 		</Text>
 		<Text Name="Join_2">
-			<DisplayName>Attune Immortal Destiny</DisplayName>
+			<DisplayName>Attune เซียน Destiny</DisplayName>
 			<Desc>[NAME] came across a vendetta once every blue moon. Upon seeing a person that was being hunted down and realizing that they their fate seemed to be bound to the School, [NAME] cast a spell to save them and directed them to the School.</Desc>
 		</Text>
 		<Text Name="Visit_Base">

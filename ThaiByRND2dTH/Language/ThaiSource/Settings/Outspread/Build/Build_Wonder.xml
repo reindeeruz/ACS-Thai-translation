@@ -17,7 +17,7 @@
 		</Text>
 		<Text Name="CelestialCommercial">
 			<DisplayName>Cloud Chamber of Commerce</DisplayName>
-			<Desc>"Located in mountains, this Chamber of Commerce is protected by a huge state-of-the-art Formation and is the base for all transactions between immortals. We don't know why all sects do not have this Formation. " From 'Notes of the Six Laws'</Desc>
+			<Desc>"Located in mountains, this Chamber of Commerce is protected by a huge state-of-the-art Formation and is the base for all transactions between เซียน. We don't know why all sects do not have this Formation. " From 'Notes of the Six Laws'</Desc>
 			<Effect>Can buy everything from merchants and sects with a 20% discount.</Effect>
 		</Text>
 		<Text Name="GreenBrothel">
@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="RiverDam">
 			<DisplayName>River Weir</DisplayName>
-			<Desc>"Think about how many shameless tyrants it takes to finish a gigantic building. Can't the immortals come down and help out? " From 'Notes of the Six Laws'</Desc>
+			<Desc>"Think about how many shameless tyrants it takes to finish a gigantic building. Can't the เซียน come down and help out? " From 'Notes of the Six Laws'</Desc>
 			<Effect>All Shendao cultivators will have 1 more area of Divine Realm.</Effect>
 		</Text>
 		<Text Name="MountTemple">

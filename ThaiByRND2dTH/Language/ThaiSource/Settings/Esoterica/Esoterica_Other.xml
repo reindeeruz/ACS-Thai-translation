@@ -21,8 +21,8 @@
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แรงเหลือเชื่อ\nUltimate technique unique to Dugu Xing, it allows one to suddenly burst out with incredible power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui4">
-			<DisplayName>กฎผู้อมตะคุนลุน</DisplayName>
-			<Desc>Secret technique passed on from an unknown immortal in the Kunlun Mountain, it improves one's Intelligence and Constitution.</Desc>
+			<DisplayName>กฎเซียนคุนลุน</DisplayName>
+			<Desc>Secret technique passed on from an unknown เซียน in the Kunlun Mountain, it improves one's Intelligence and Constitution.</Desc>
 			<EffectDesc>Increases Intelligence by 10%.\nIncreases Constitution by 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui5">
@@ -42,7 +42,7 @@
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
 			<DisplayName>Secret Eastern Codex (Purple Star Sword)</DisplayName>
-			<Desc>Ultimate sword skill invented by the Immortal Emperor of the East. Harness the imperial power dwelling in the Purple Star with your primordial spirit and integrate it into sword aura, making it absolutely unstoppable. This volume also recorded the crafting recipe for Borealis, a Legacy Artifact invented by Immortal Emperor of the East.</Desc>
+			<Desc>Ultimate sword skill invented by the เซียน Emperor of the East. Harness the imperial power dwelling in the Purple Star with your primordial spirit and integrate it into sword aura, making it absolutely unstoppable. This volume also recorded the crafting recipe for Borealis, a Legacy Artifact invented by เซียน Emperor of the East.</Desc>
 			<EffectDesc>Significantly increases Artifact Power.\n Acquire Legacy Artifact: \nBorealis</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
@@ -62,17 +62,17 @@
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan">
 			<DisplayName>Craftsmanship of Earthly Fire</DisplayName>
-			<Desc>Secret crafting method passed down from the ancient immortal Nangong Hong, employing it greatly improves Success Rate when crafting artifacts. \n[color=#D06508]This is in appreciation of the first player to successfully Survive Tribulation: Emerald Palace[/color]</Desc>
+			<Desc>Secret crafting method passed down from the ancient เซียน Nangong Hong, employing it greatly improves Success Rate when crafting artifacts. \n[color=#D06508]This is in appreciation of the first player to successfully Survive Tribulation: Emerald Palace[/color]</Desc>
 			<EffectDesc>Significantly increases Success Rate when crafting artifacts.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan1">
 			<DisplayName>Secret Record of Nangong's Tribulation Survival</DisplayName>
-			<Desc>A set of methods summed up by the ancient immortal Nangong Hong before she ascended. Practicing it allows one to trick the ways of heaven, improving the cultivator's foundation. \n[color=#D06508]This is in appreciation of the first player to successfully Survive Tribulation: Emerald Palace[/color]</Desc>
+			<Desc>A set of methods summed up by the ancient เซียน Nangong Hong before she ascended. Practicing it allows one to trick the ways of heaven, improving the cultivator's foundation. \n[color=#D06508]This is in appreciation of the first player to successfully Survive Tribulation: Emerald Palace[/color]</Desc>
 			<EffectDesc>Increases Perception by 10%.\nIncreases Intelligence by 10%.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_XuanKong">
 			<DisplayName>Way of Heavenly Fortune</DisplayName>
-			<Desc>A heaven defying and fortune reversing technique discovered by the ancient immortal Yuan Ruoxue who drew her inspiration from the Heavenly Tribulation itself. Greatly improves Luck. \n[color=#D06508]This is in appreciation of the first player to successfully challenge destiny with a character of the lowest talent, who eventually shaped Tier I Core and ascended: Actually not me[/color]</Desc>
+			<Desc>A heaven defying and fortune reversing technique discovered by the ancient เซียน Yuan Ruoxue who drew her inspiration from the Heavenly Tribulation itself. Greatly improves Luck. \n[color=#D06508]This is in appreciation of the first player to successfully challenge destiny with a character of the lowest talent, who eventually shaped Tier I Core and ascended: Actually not me[/color]</Desc>
 			<EffectDesc>Increases Luck by 20%.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ShanHeJue">

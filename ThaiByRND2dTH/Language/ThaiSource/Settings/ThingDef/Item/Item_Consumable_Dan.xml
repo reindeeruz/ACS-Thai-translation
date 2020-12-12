@@ -5,7 +5,7 @@
 		</Text>
 		<Text Name="Item_BasePracticeDrug" sParam="Item">
 			<ThingName>ยาเม็ดหล่อพื้นฐาน</ThingName>
-			<Desc>ยาเม็ดที่ถูกสร้างขึ้นมาโดยผู้ฝึกตนอมตะ สามารถที่จะทำให้พลังชี่ทั้งห้าในร่างกาย ถูกกระตุ้นไปถึงจุดสุดยอด, เพิ่ม รับรู้,อึด,ปัญญา 30% เป็นเวลา 48 ชั่วโมง และทำให้ประสบการณ์การฝึกฝนของศิษย์นอกเพิ่ม 25000 เมื่อถูกกินโดยศิษย์นอก</Desc>
+			<Desc>ยาเม็ดที่ถูกสร้างขึ้นมาโดยเซียนผู้ฝึกตน สามารถที่จะทำให้พลังชี่ทั้งห้าในร่างกาย ถูกกระตุ้นไปถึงจุดสุดยอด, เพิ่ม รับรู้,อึด,ปัญญา 30% เป็นเวลา 48 ชั่วโมง และทำให้ประสบการณ์การฝึกฝนของศิษย์นอกเพิ่ม 25000 เมื่อถูกกินโดยศิษย์นอก</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan" sParam="Item">
 			<ThingName>ยาเม็ดฟื้นความแข็งแกร่ง</ThingName>
@@ -203,19 +203,19 @@
 		</Text>
 		<Text Name="Item_Dan_Thin" sParam="Item">
 			<ThingName>Fitness Pill</ThingName>
-			<Desc>Elixir made by immortal cultivators. Consuming it makes a character's body slimmer.</Desc>
+			<Desc>Elixir made by เซียน cultivators. Consuming it makes a character's body slimmer.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock" sParam="Item">
 			<ThingName>Fixing Pill</ThingName>
-			<Desc>Elixir made by immortal cultivators. Consuming it locks a character's current appearance.</Desc>
+			<Desc>Elixir made by เซียน cultivators. Consuming it locks a character's current appearance.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
 			<ThingName>Truth Pill</ThingName>
-			<Desc>Pill made by immortal cultivators. Consuming it restore a character's true appearance.</Desc>
+			<Desc>Pill made by เซียน cultivators. Consuming it restore a character's true appearance.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fat" sParam="Item">
 			<ThingName>Power Pill</ThingName>
-			<Desc>Elixir made by immortal cultivators. Consuming it makes a character's body bulkier.</Desc>
+			<Desc>Elixir made by เซียน cultivators. Consuming it makes a character's body bulkier.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul1" sParam="Item">
 			<ThingName>Anguish Pill</ThingName>

@@ -269,7 +269,7 @@
 			<Desc>ต้องมีความเชื่อมต่อมากกว่าเดิมในกรณีที่ต้องการซื้อขายกับสำนักอื่น ๆ</Desc>
 		</Text>
 		<Text Name="ColdRealm">
-			<DisplayName>ผู้อมตะไร้อารมณ์</DisplayName>
+			<DisplayName>เซียนไร้อารมณ์</DisplayName>
 			<Desc>การติดต่อกับสำนักอื่นยากขึ้นกว่าปรกติ</Desc>
 		</Text>
 		<Text Name="NoLimit1">
@@ -293,7 +293,7 @@
 			<Desc>สำนักของ NPC ทั้งหมดแข็งแกร่งขึ้นกว่าเดิม800%.</Desc>
 		</Text>
 		<Text Name="SchoolPower">
-			<DisplayName>พลังผู้อมตะ</DisplayName>
+			<DisplayName>พลังเซียน</DisplayName>
 			<Desc>NPC ทั้งหมดแข็งแกร่งขึ้น</Desc>
 		</Text>
 		<Text Name="DragonPower1">

@@ -41,7 +41,7 @@
 		</Text>
 		<Text Name="SP_Sword2" sParam="Item">
 			<ThingName>ดาบเสกฝน</ThingName>
-			<Desc>A plain wooden sword left by the Immortal Pearlwood. It looks nothing out of the ordinary, yet possesses the miraculous ability of summoning rain and wind.</Desc>
+			<Desc>A plain wooden sword left by the เซียน Pearlwood. It looks nothing out of the ordinary, yet possesses the miraculous ability of summoning rain and wind.</Desc>
 		</Text>
 		<Text Name="SP_Sword3" sParam="Item">
 			<ThingName>ดาบเทคโน</ThingName>

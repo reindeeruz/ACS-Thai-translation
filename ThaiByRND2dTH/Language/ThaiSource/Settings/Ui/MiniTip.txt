@@ -20,7 +20,7 @@ Going to the city allows you to recruit Disciples and purchase goods and materia
 Continuing to explore imporant locations on the map may unlock new locations.
 A giant ginkgo is a rare find.
 Place a Water Vat in an appropriate location. This will make life and work more convenient for Disciples.
-Take part in the annual Immortal Destiny Fair to arrange for a large quantity of outer disciples to visit the mountain.
+Take part in the annual เซียน Destiny Fair to arrange for a large quantity of outer disciples to visit the mountain.
 Only Disciples with Golden Core or above are allowed to take part in the annual Kunlun Qi Fair. Lower level Disciples may only watch the event.
 Press down the Ctrl key and use the demolish feature to rebuild buildings in batch.
 Press down the Ctrl key and use the cancel feature to ban/restore in batch.
@@ -30,17 +30,17 @@ If a sect is too weak, it can only wait to be slaughtered.
 Ancient Formations are surely powerful, but Formations created on your own can also be as destructive.
 Dragging or double-clicking can be used to select multiple units.
 Press down the Shift key to select multiple units.
-Immortal Rumors: Some sect's leader ate so much bread replete with Qi that he exploded and died.
-Immortal Rumors: Someone found an ancient Law within an old Stone Casket.
-Immortal Rumors: Even Immortals can get greedy; it's difficult to resist the pleasure of great food.
-Immortal Rumors: Toothache is the most difficult condition to cure.
-Immortal Rumors: Mt. Shu's Blue Lotus Temple has it all...
-Immortal Rumors: If a grave's Feng Shui is insufficient, something scary might happen at night...
-Immortal Rumors: There is a way to make the sky ever clear and sunny. It is rumored to be connected to an ancient beast...
-Immortal Rumors: Flooring can be laid in areas with shallow water...
-Immortal Rumors: Germophobe disciples are difficult to deal with...
-Immortal Rumors: There was once a cultivator that was able to nab a precious treasure from a Heavenly Tribulation.
-Immortal Rumors: Friends on the Law are dissatisfied by stingy people that want to drag them to their sect...
-Immortal Rumors: It is a great time to study Laws whenever a mandate manifests.
-Immortal Rumors: Rumor has it that many sites have rare treasures hidden within, waiting for the right person to find them.
-Immortal Rumors: Most common buildings in all the sects allow people's access and observation.
+เซียน Rumors: Some sect's leader ate so much bread replete with Qi that he exploded and died.
+เซียน Rumors: Someone found an ancient Law within an old Stone Casket.
+เซียน Rumors: Even เซียน can get greedy; it's difficult to resist the pleasure of great food.
+เซียน Rumors: Toothache is the most difficult condition to cure.
+เซียน Rumors: Mt. Shu's Blue Lotus Temple has it all...
+เซียน Rumors: If a grave's Feng Shui is insufficient, something scary might happen at night...
+เซียน Rumors: There is a way to make the sky ever clear and sunny. It is rumored to be connected to an ancient beast...
+เซียน Rumors: Flooring can be laid in areas with shallow water...
+เซียน Rumors: Germophobe disciples are difficult to deal with...
+เซียน Rumors: There was once a cultivator that was able to nab a precious treasure from a Heavenly Tribulation.
+เซียน Rumors: Friends on the Law are dissatisfied by stingy people that want to drag them to their sect...
+เซียน Rumors: It is a great time to study Laws whenever a mandate manifests.
+เซียน Rumors: Rumor has it that many sites have rare treasures hidden within, waiting for the right person to find them.
+เซียน Rumors: Most common buildings in all the sects allow people's access and observation.

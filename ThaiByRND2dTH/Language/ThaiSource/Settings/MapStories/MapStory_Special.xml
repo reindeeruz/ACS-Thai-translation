@@ -89,38 +89,38 @@
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear">
-			<DisplayName>Immortal's Abode</DisplayName>
-			<Desc>[NAME] found an ancient abode of an immortal in [PLACE], with an abundance of treasures hidden in it.</Desc>
+			<DisplayName>เซียน's Abode</DisplayName>
+			<Desc>[NAME] found an ancient abode of an เซียน in [PLACE], with an abundance of treasures hidden in it.</Desc>
 			<Selections.0.Display>Search for treasures</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Cold">
-			<DisplayName>Immortal's Abode</DisplayName>
-			<Desc>[NAME] found an ancient abode of an immortal in [PLACE], with an abundance of treasures hidden in it. However, the cave is protected by warding spells and its inside shrouded in coldness, killing anyone who does not have resistance to it.</Desc>
+			<DisplayName>เซียน's Abode</DisplayName>
+			<Desc>[NAME] found an ancient abode of an เซียน in [PLACE], with an abundance of treasures hidden in it. However, the cave is protected by warding spells and its inside shrouded in coldness, killing anyone who does not have resistance to it.</Desc>
 			<Selections.0.Display>Search for treasures</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Leave in frustration</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Hot">
-			<DisplayName>Immortal's Abode</DisplayName>
-			<Desc>[NAME] found an ancient abode of an immortal in [PLACE], with an abundance of treasures hidden in it. However, the cave is protected by warding spells and its inside burning with fire, killing anyone who does not have resistance to it.</Desc>
+			<DisplayName>เซียน's Abode</DisplayName>
+			<Desc>[NAME] found an ancient abode of an เซียน in [PLACE], with an abundance of treasures hidden in it. However, the cave is protected by warding spells and its inside burning with fire, killing anyone who does not have resistance to it.</Desc>
 			<Selections.0.Display>Search for treasures</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Leave in frustration</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Manual">
-			<DisplayName>Immortal's Abode</DisplayName>
-			<Desc>[NAME] found an ancient abode of an immortal in [PLACE], with an abundance of treasures hidden in it. The owner of the cave was a master of Artifact Crafting, who set up countless booby traps and warding spells with this skill. One can not survive and explore the cave without being proficient in Artifact Crafting.</Desc>
+			<DisplayName>เซียน's Abode</DisplayName>
+			<Desc>[NAME] found an ancient abode of an เซียน in [PLACE], with an abundance of treasures hidden in it. The owner of the cave was a master of Artifact Crafting, who set up countless booby traps and warding spells with this skill. One can not survive and explore the cave without being proficient in Artifact Crafting.</Desc>
 			<Selections.0.Display>Search for treasures</Selections.0.Display>
 			<Selections.0.Tip>Artifact Crafting</Selections.0.Tip>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_DongFuAppear_Medicine">
-			<DisplayName>Immortal's Abode</DisplayName>
-			<Desc>[NAME] found an ancient abode of an immortal in [PLACE], with an abundance of treasures hidden in it. The owner of the cave was a master Alchemist, who set up countless booby traps and warding spells with this skill. One can not survive and explore the cave without being proficient in Alchemy.</Desc>
+			<DisplayName>เซียน's Abode</DisplayName>
+			<Desc>[NAME] found an ancient abode of an เซียน in [PLACE], with an abundance of treasures hidden in it. The owner of the cave was a master Alchemist, who set up countless booby traps and warding spells with this skill. One can not survive and explore the cave without being proficient in Alchemy.</Desc>
 			<Selections.0.Display>Search for treasures</Selections.0.Display>
 			<Selections.0.Tip>Alchemy</Selections.0.Tip>
 			<Selections.1.Display>Leave</Selections.1.Display>
@@ -178,7 +178,7 @@
 		</Text>
 		<Text Name="Secrets_Baozang_EX3">
 			<DisplayName>Heavenly Palace</DisplayName>
-			<Desc>[NAME] recalled that, according to The Windtamer's Travels: Volume I, there is yet another mysterious inner cave beneath the Remains of Immortal Doctor's Cave on Alchemist's Peak. They decided to delve into the mystery.</Desc>
+			<Desc>[NAME] recalled that, according to The Windtamer's Travels: Volume I, there is yet another mysterious inner cave beneath the Remains of เซียน Doctor's Cave on Alchemist's Peak. They decided to delve into the mystery.</Desc>
 			<Selections.0.Display>Explore</Selections.0.Display>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
@@ -236,7 +236,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui">
 			<DisplayName>Kunlun Competition</DisplayName>
-			<Desc>[NAME] arrived at Kunlun Mountains, and found that the Kunlun Competition has already begin. Cultivators and immortals alike gathered together, showing majesty in all its variety. Only those who had reached the cultivational state of golden core or higher shall participate in one of the five competitions, and the winner can be let in on one of the cultivational Law of the Jade Void Palace. [NAME] was wondering which competition shall [ENHIM] take part in.</Desc>
+			<Desc>[NAME] arrived at Kunlun Mountains, and found that the Kunlun Competition has already begin. Cultivators and เซียน alike gathered together, showing majesty in all its variety. Only those who had reached the cultivational state of golden core or higher shall participate in one of the five competitions, and the winner can be let in on one of the cultivational Law of the Jade Void Palace. [NAME] was wondering which competition shall [ENHIM] take part in.</Desc>
 			<Selections.0.Display>Kunlun Debate</Selections.0.Display>
 			<Selections.1.Display>Crafting Contest</Selections.1.Display>
 			<Selections.2.Display>Alchemy Contest</Selections.2.Display>
@@ -246,7 +246,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui1">
 			<DisplayName>Kunlun Debate</DisplayName>
-			<Desc>[NAME] arrived at the main peak of the Kunlun Mountains. It's where the main venue located, and renowned cultivators will hold heated dabates here. In accordance with past practice, the winner can be let in on the authentic Jade Purity Immortal Law.</Desc>
+			<Desc>[NAME] arrived at the main peak of the Kunlun Mountains. It's where the main venue located, and renowned cultivators will hold heated dabates here. In accordance with past practice, the winner can be let in on the authentic Jade Purity เซียน Law.</Desc>
 			<Selections.0.Display>Join the debate</Selections.0.Display>
 			<Selections.0.Tip>Intelligence / Luck / State</Selections.0.Tip>
 			<Selections.1.Display>Join the debate</Selections.1.Display>
@@ -300,11 +300,11 @@
 			<Selections.3.Display>Return to the Entrance</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_GuangShouMenTu">
-			<DisplayName>Immortal Destiny Fair</DisplayName>
-			<Desc>The Great Immortal Destiny Fair which is held yearly in the cultivation world has now begun. All major sects have joined the event at [PLACE] to recruit new disciples with potential. For a time, all the talented among the world who aspire to seek the ways of the immortals have gathered here. On the orders of their sect, [NAME] came to the meeting to recruit new disciples with immortal destiny.</Desc>
+			<DisplayName>เซียน Destiny Fair</DisplayName>
+			<Desc>The Great เซียน Destiny Fair which is held yearly in the cultivation world has now begun. All major sects have joined the event at [PLACE] to recruit new disciples with potential. For a time, all the talented among the world who aspire to seek the ways of the เซียน have gathered here. On the orders of their sect, [NAME] came to the meeting to recruit new disciples with เซียน destiny.</Desc>
 			<Selections.0.Display>Recruit disciples</Selections.0.Display>
 			<Selections.0.Tip>Sect Reputation / Cultivation / Charisma / Social</Selections.0.Tip>
-			<Selections.1.Display>Leave the Immortal Destiny Fair</Selections.1.Display>
+			<Selections.1.Display>Leave the เซียน Destiny Fair</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_XieDiLing">
 			<DisplayName>The Demon Emperor's Tomb</DisplayName>
@@ -416,13 +416,13 @@
 		</Text>
 		<Text Name="Secrets_TianJi">
 			<DisplayName>Ancient Celeste Talisman</DisplayName>
-			<Desc>To [NAME]'s astonishment, though partially missing, the peculiar pattern at the entrance of the cave is nearly identical with the Celestial Patriarch's emblem as shown in Record of the Immortals. Could this place have something to do with the Celestial Patriarch, whose whereabouts is now uncertain?</Desc>
+			<Desc>To [NAME]'s astonishment, though partially missing, the peculiar pattern at the entrance of the cave is nearly identical with the Celestial Patriarch's emblem as shown in Record of the เซียน. Could this place have something to do with the Celestial Patriarch, whose whereabouts is now uncertain?</Desc>
 			<Selections.0.Display>Try to decipher</Selections.0.Display>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_TianJi1">
 			<DisplayName>Mysterious Drake Cave</DisplayName>
-			<Desc>With the fog dispersed, [NAME] found themselves in a grotto with curious massive symbols carved on its walls. A hoary man was sitting at the center of the cavern with legs crossed, his features like that of a statue. In front of this man is a natural stone pedestal with a jade gemstone of unknown origin on it. After careful inspection, [NAME] found that the man has already expires. It turns out to be an Immortal's Mortal Body! There is a book held in his hand, with the words "Chant of Mountains and Rivers" written on the cover.</Desc>
+			<Desc>With the fog dispersed, [NAME] found themselves in a grotto with curious massive symbols carved on its walls. A hoary man was sitting at the center of the cavern with legs crossed, his features like that of a statue. In front of this man is a natural stone pedestal with a jade gemstone of unknown origin on it. After careful inspection, [NAME] found that the man has already expires. It turns out to be an เซียน's Mortal Body! There is a book held in his hand, with the words "Chant of Mountains and Rivers" written on the cover.</Desc>
 			<Selections.0.Display>Investigate the wall</Selections.0.Display>
 			<Selections.0.Tip>State / Artisanry / Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Investigate the mortal body</Selections.1.Display>
@@ -627,7 +627,7 @@
 		</Text>
 		<Text Name="Story_Item_OpenAuction">
 			<DisplayName>Inspect</DisplayName>
-			<Desc>[NAME] opens the invitation letter: \nGreetings Immortals, I received treasures from all over the world, and you're invited to make purchases from my collection, if you so desire. The rule is simple: Whoever pays the most Spirit Stone can have my treasure. The more the merrier! \nSignature: Ye Xuan.</Desc>
+			<Desc>[NAME] opens the invitation letter: \nGreetings เซียน, I received treasures from all over the world, and you're invited to make purchases from my collection, if you so desire. The rule is simple: Whoever pays the most Spirit Stone can have my treasure. The more the merrier! \nSignature: Ye Xuan.</Desc>
 		</Text>
 		<Text Name="Story_Building_TaiYiTower">
 			<DisplayName>Memorial Ceremony</DisplayName>

@@ -5,7 +5,7 @@
 		</Text>
 		<Text Name="zhuxianzhen">
 			<DisplayName>Ragestriker Formation</DisplayName>
-			<Description>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate, and the formation is immediately filled with Sword Aura. Even the truest immortal will find it difficult to survive in.</Description>
+			<Description>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate, and the formation is immediately filled with Sword Aura. Even the truest เซียน will find it difficult to survive in.</Description>
 			<NodeName.0>Ragestriker Plan</NodeName.0>
 			<NodeName.1>Ragestriker</NodeName.1>
 			<NodeName.2>Deathbringer</NodeName.2>
@@ -18,7 +18,7 @@
 		</Text>
 		<Text Name="qixingzhen">
 			<DisplayName>Conqueror's Formation</DisplayName>
-			<Description>An immortal formation said to have been passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a power capable of obliterate all evil.</Description>
+			<Description>An เซียน formation said to have been passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a power capable of obliterate all evil.</Description>
 			<NodeName.0>Ursae Megrez Claw</NodeName.0>
 			<NodeName.1>Ursae Dubhe Claw</NodeName.1>
 			<NodeName.2>Ursae Merak Claw</NodeName.2>

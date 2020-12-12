@@ -24,7 +24,7 @@
 奇怪的蘑菇	Strange Mushroom
 苍莽魂菇	Colossal Soul  Mushroom
 小麦	Wheat
-玉衡斩仙索	Alioth Immortal Slaying Cord
+玉衡斩仙索	Alioth เซียน Slaying Cord
 符纸	Talisman Paper
 碧光妖咒	Opalescent Devil  Forbidden
 木料	Timber

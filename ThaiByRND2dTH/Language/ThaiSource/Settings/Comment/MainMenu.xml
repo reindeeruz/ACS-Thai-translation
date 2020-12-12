@@ -7,7 +7,7 @@
 		</Text>
 		<Text Name="MainMenuImmortal">
 			<Notes>Comment about Environment of Main Menu UI</Notes>
-			<Title>Immortal Mode</Title>
+			<Title>เซียน Mode</Title>
 			<Desc>Increase the game difficulty by some selections. There is also a varieties of challenges and achievements.</Desc>
 		</Text>
 	</List>

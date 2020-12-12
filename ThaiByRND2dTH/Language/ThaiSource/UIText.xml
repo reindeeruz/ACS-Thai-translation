@@ -734,7 +734,7 @@
 	<string name="0xrxw6g7gdpn2ovtv-n361_gdpn-4" mz="n361">คุณลักษณะ 5</string>
 	<string name="0xrxw6g7gdpn2ovtv-n365_mw3a" mz="n365">เลือกแล้ว</string>
 	<string name="0xrxw6g7gdpn2ovtv-n372_j3en" mz="n372">ที่ราบภาคกลาง</string>
-	<string name="0xrxw6g7mw3a2ovu1-n356_gdpn" mz="n356">ผู้อมตะดาบไร้เทียมทาน</string>
+	<string name="0xrxw6g7mw3a2ovu1-n356_gdpn" mz="n356">เซียนดาบไร้เทียมทาน</string>
 	<string name="0xrxw6g7mw3a2ovu1-n359_gdpn" mz="n359">มนุษย์เพศชายอายุ 15 ปี</string>
 	<string name="0xrxw6g7mw3a2ovu1-n361_gdpn-0" mz="n361">คุณลักษณะ</string>
 	<string name="0xrxw6g7mw3a2ovu1-n361_gdpn-1" mz="n361">คุณลักษณะ 2</string>
@@ -886,8 +886,8 @@
 	<string name="0xrxw6g7yfwmbr-n17_i7jl" mz="n17">ยืนยัน</string>
 	<string name="0xrxw6g7yfwmbr-n59_w4fx-tips" mz="n59">seed ที่ใช้สำหรับขนาดแผนที่เดียวกันจะสร้างแผนที่ที่เหมือนกันในทุกรอบการเล่น</string>
 	<string name="0xrxw6g7yfwmbr-n59_w4fx" mz="n59">สิ่งแวดล้อม</string>
-	<string name="0xrxw6g7yfwmbr-n63_puw9-tips" mz="n35">ผู้อมตะ นำเสนอสุดยอดประสบการณ์ คุณมีช่องเซฟเพียงช่องเดียวในการเล่นแบบผู้อมตะ เกมของคุณยังบันทึกอัตโนมัติตามช่วงเวลาที่กำหนด คุณสามารถตรวจสอบสถิติและความสำเร็จได้ เคล็ดลับบางอย่างจะถูกซ่อนไว้ Immortal ทดสอบความเข้าใจเกมของคุณจนถึงขีด จำกัด โหมดนี้ออกแบบมาเพื่อผู้เป็นอมตะอย่างแท้จริง!</string>
-	<string name="0xrxw6g7yfwmbr-n63_puw9" mz="n35">ผู้อมตะ</string>
+	<string name="0xrxw6g7yfwmbr-n63_puw9-tips" mz="n35">เซียน นำเสนอสุดยอดประสบการณ์ คุณมีช่องเซฟเพียงช่องเดียวในการเล่นแบบเซียน เกมของคุณยังบันทึกอัตโนมัติตามช่วงเวลาที่กำหนด คุณสามารถตรวจสอบสถิติและความสำเร็จได้ เคล็ดลับบางอย่างจะถูกซ่อนไว้ เซียน ทดสอบความเข้าใจเกมของคุณจนถึงขีด จำกัด โหมดนี้ออกแบบมาเพื่อผู้เป็นอมตะอย่างแท้จริง!</string>
+	<string name="0xrxw6g7yfwmbr-n63_puw9" mz="n35">เซียน</string>
 	<string name="0xrxw6g7yfwmbr-n68_doa6" mz="n35_2">แดนแห่งภาพลวงตา</string>
 	<string name="0xrxw6g7yfwmbr-n121_fomc-tips" mz="CustMapEditor">แก้ไขแผนที่การผจญภัย สร้างการผจญภัยผู้เล่นคนเดียวของคุณเองด้วยเนื้อหาที่หลากหลายและแบ่งปันกับเพื่อนของคุณ!</string>
 	<string name="0xrxw6g7yfwmbr-n121_fomc" mz="CustMapEditor">แก้ไขแผนที่</string>
@@ -900,7 +900,7 @@
 	<string name="0xrxw6g7yfwmbr-n8_yfwm" mz="n8">โหลด</string>
 	<string name="0xrxw6g7yfwmbr-n81_f045-tips" mz="CustomEditor">เริ่มต้นเกมใหม่โดยการใช้เนื้อหาจากม๊อด หรือดาวโหลดเนื้อหาจากผู้เล่นคนอื่น</string>
 	<string name="0xrxw6g7yfwmbr-n81_f045" mz="CustomEditor">Realms Palace</string>
-	<string name="0xrxw6g7yfwmbr-n108_qrsb-tips" mz="nb">เกิดอะไรขึ้นกันนะกับผู้ก่อตั้งที่จุติไปสู่ภพของผู้อมตะ? เกิดอะไรขึ้นกับเหล่าศิษย์ที่ถูกไล่ออกจากสำนัก? เหล่าศิษย์ที่ตายไปแล้ว เกิดอะไรขึ้นกับพวกเขา? สามารถดูข้อมูลได้จากในหน้านี้.</string>
+	<string name="0xrxw6g7yfwmbr-n108_qrsb-tips" mz="nb">เกิดอะไรขึ้นกันนะกับผู้ก่อตั้งที่จุติไปสู่ภพของเซียน? เกิดอะไรขึ้นกับเหล่าศิษย์ที่ถูกไล่ออกจากสำนัก? เหล่าศิษย์ที่ตายไปแล้ว เกิดอะไรขึ้นกับพวกเขา? สามารถดูข้อมูลได้จากในหน้านี้.</string>
 	<string name="0xrxw6g7yfwmbr-n108_qrsb" mz="nb">บทส่งท้าย</string>
 	<string name="0xrxw6g7yfwmbr-n109_nv6f-tips" mz="n109">รวมปรากฎการณ์ทุกอย่าง, หมายถึงทุกอย่างเลยล่ะ.</string>
 	<string name="0xrxw6g7yfwmbr-n109_nv6f" mz="n109">ตำรา</string>
@@ -1194,7 +1194,7 @@
 	<string name="0xrxw6g7ikk5vnk-n183_uqfx" mz="nonchinese">ไม่ใช่ภาษาจีน</string>
 	<string name="0xrxw6g7qrsb2ovtl-n99_qrsb" mz="frame">บทส่งท้าย</string>
 	<string name="0xrxw6g7qrsb2ovtl-n101_qrsb-0" mz="Head">ทั้งหมด</string>
-	<string name="0xrxw6g7qrsb2ovtl-n101_qrsb-1" mz="Head">ผู้อมตะ</string>
+	<string name="0xrxw6g7qrsb2ovtl-n101_qrsb-1" mz="Head">เซียน</string>
 	<string name="0xrxw6g7qrsb2ovtl-n101_qrsb-2" mz="Head">ผู้ฝึกตน</string>
 	<string name="0xrxw6g7qrsb2ovtl-n101_qrsb-3" mz="Head">มนุษย์</string>
 	<string name="0xrxw6g7qrsb2ovtl-n101_qrsb-4" mz="Head">ผู้กลับชาติมาเกิด</string>
@@ -1206,7 +1206,7 @@
 	<string name="0xrxw6g7qrsb2ovtl-n111_qrsb" mz="n111">พิเศษ:</string>
 	<string name="0xrxw6g7qrsb2ovtl-n128_qrsb" mz="n128">มนุษย์เพศชายอายุ 12 ปี</string>
 	<string name="0xrxw6g7qrsb2ovtl-n129_qrsb" mz="n129">สถานะ (จุติ)</string>
-	<string name="0xrxw6g7qrsb2ovtl-n147_lbzv" mz="n147">ผู้อมตะศักดิ์สิทธิ์</string>
+	<string name="0xrxw6g7qrsb2ovtl-n147_lbzv" mz="n147">เซียนศักดิ์สิทธิ์</string>
 	<string name="0xrxw6g7qrsb2ovtl-n132_qrsb" mz="n132">เกร็ดเล็กเกร็ดน้อยของตัวละคร</string>
 	<string name="0xrxw6g7qrsb2ovtl-n139_qrsb" mz="n139">รายชื่อศิษย์</string>
 	<string name="0xrxw6g7qrsb2ovtl-n151_qiak" mz="n151">ไม่พบบันทึก</string>
@@ -1560,7 +1560,7 @@
 	<string name="0xrxw6g7lfk7a9-n132_wczt" mz="n132">ความสำเร็จ</string>
 	<string name="0xrxw6g7qawp52ow2m-n0_qawp" mz="frame">เล่นวีดีโอ</string>
 	<string name="0xrxw6g7qawp52ow2m-n2_qawp" mz="n2">ข้าม</string>
-	<string name="0xrxw6g7j6go52ow6z-n42_cuja" mz="n42">ที่อยู่อาศัยส่วนตัวที่ถูกทิ้งไว้โดยผู้อมตะคนแรกในภพนี้มีชื่อว่า Nangong ซ่อนอยู่ในที่พำนักอันแสนสุขระหว่างสวรรค์และทะเล หากไม่มีคำแนะนำของเส้นทางลับจะไม่มีใครสามารถพบสถานที่นี้ได้</string>
+	<string name="0xrxw6g7j6go52ow6z-n42_cuja" mz="n42">ที่อยู่อาศัยส่วนตัวที่ถูกทิ้งไว้โดยเซียนคนแรกในภพนี้มีชื่อว่า Nangong ซ่อนอยู่ในที่พำนักอันแสนสุขระหว่างสวรรค์และทะเล หากไม่มีคำแนะนำของเส้นทางลับจะไม่มีใครสามารถพบสถานที่นี้ได้</string>
 	<string name="0xrxw6g7j6go52ow6z-n27_sz06" mz="n27">ยืนยัน</string>
 	<string name="0xrxw6g7j6go52ow6z-n35_sz06" mz="n35">นับ:</string>
 	<string name="0xrxw6g7kqqp52ow7j-n22_kqqp" mz="n22">ชื่อ</string>
@@ -1773,14 +1773,14 @@
 	<string name="0xrxw6g7qgvy2ovso-n20_qgvy" mz="no">ยกเลิก</string>
 	<string name="0xrxw6g7ipulhr-n7_hdhl" mz="frame">บันทึกความสำเร็จ</string>
 	<string name="0xrxw6g7ipulhr-n38_ipul" mz="n38">C</string>
-	<string name="0xrxw6g7ipulhr-n46_ebpx" mz="n46">* สถิติและความสำเร็จจะถูกบันทึกไว้ใน Immortal เท่านั้น</string>
+	<string name="0xrxw6g7ipulhr-n46_ebpx" mz="n46">* สถิติและความสำเร็จจะถูกบันทึกไว้ใน เซียน เท่านั้น</string>
 	<string name="0xrxw6g7ipulhr-n54_l5aj-tips" mz="Refresh">ซิงค์ข้อมูลความสำเร็จระหว่างแพลตฟอร์มและการบันทึกในพื้นที่ของคุณ</string>
 	<string name="0xrxw6g7ipulhr-n54_l5aj" mz="Refresh">ซิงค์</string>
 	<string name="0xrxw6g7g125hw-n65_c0eg" mz="Title2">ความสำเร็จใหม่</string>
 	<string name="0xrxw6g7g125hw-n73_g125" mz="title">ความสำเร็จใหม่</string>
 	<string name="0xrxw6g7puw9jv-n7_hdhl" mz="frame">ชื่อเสียง</string>
 	<string name="0xrxw6g7puw9jv-n58_puw9" mz="n58">ขอขอบคุณเป็นพิเศษ</string>
-	<string name="0xrxw6g7puw9jv-n59_puw9" mz="n59">วิหารผู้อมตะ</string>
+	<string name="0xrxw6g7puw9jv-n59_puw9" mz="n59">วิหารเซียน</string>
 	<string name="0xrxw6g7jr2h3l-n189_rvsk" mz="n189">โอกาสสำเร็จ:</string>
 	<string name="0xrxw6g7jr2h3l-n189_rvsk-texts_0" mz="n189">คุณภาพโดยประมาณ:</string>
 	<string name="0xrxw6g7jr2h3l-n189_rvsk-texts_1" mz="n189">พื้นที่โดยประมาณ:</string>
@@ -1796,7 +1796,7 @@
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_1" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_2" mz="n187">การปั้นแกนเป็นขั้นตอนของผู้ฝึกตน ที่จะบีบพลังชี่ของตัวเองเพื่อให้เปลี่ยนเป็น Jindan หลังจากที่เข้าสู่สถานะนี้แล้ว ผู้ฝึกตนจะไม่สามารถฟื้นฟูพลังชี่ของตัวเองได้ ผู้ฝึกตนจะยังคงกินในช่วงสถานะนี้ เมื่อพลังชี่หมดลงสถานะนี้ก็จะจบลง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_3" mz="n187">ทัณฑ์สวรรค์ กำลังจะมาถึงผู้ฝึกตนนี้ พวกเขาจะต้องเตรียมตัวที่จะรับมือกับมันก่อนที่เวลาจะหมดลง หลังจากที่ทัณฑ์สวรรค์เริ่มขึ้น จะไม่สามารถหยุดได้อีกต่อไป ผู้ฝึกตนที่เสียท่าให้กับทัณฑ์สวรรค์ จะทำให้ความพยายามที่ทำมาก่อนหน้านั้นต้องเริ่มใหม่ หรือบางครั้งอาจสูญสลายไปทั้งวิญญาณและร่างเลยก็ได้</string>
-	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_4" mz="n187">ขั้นตอนสุดท้ายในการฝึกตน ผู้ฝึกตนเลือกที่จะอ้าแขนรับความไร้ตัวตน เพื่อที่จะจุติเป็นผู้อมตะ ในกรณีที่ผู้ฝึกตนเลือกที่จะอยู่ในภพเดิม ทัณฑ์สวรรค์จะมาหาผู้ฝึกตนคนนี้อยู่เรื่อย ๆ และแต่ละครั้งก็จะเพิ่มความรุนแรงขึ้น ผู้ฝึกตนสามารถที่จะอยู่ในสำนักของตัวเองเพื่อลองเอาตัวรอดจากทัณฑ์สวรรค์ หรือเลือกที่จะจุติเมื่อไหร่ก็ได้</string>
+	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_4" mz="n187">ขั้นตอนสุดท้ายในการฝึกตน ผู้ฝึกตนเลือกที่จะอ้าแขนรับความไร้ตัวตน เพื่อที่จะจุติเป็นเซียน ในกรณีที่ผู้ฝึกตนเลือกที่จะอยู่ในภพเดิม ทัณฑ์สวรรค์จะมาหาผู้ฝึกตนคนนี้อยู่เรื่อย ๆ และแต่ละครั้งก็จะเพิ่มความรุนแรงขึ้น ผู้ฝึกตนสามารถที่จะอยู่ในสำนักของตัวเองเพื่อลองเอาตัวรอดจากทัณฑ์สวรรค์ หรือเลือกที่จะจุติเมื่อไหร่ก็ได้</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_5" mz="n187">ผู้ฝึกตนนี้ได้เรียนรู้กฎมาจนถึงขั้นสูงสุดแล้ว ไม่สามารถที่จะเรียนรู้ต่อไปได้</string>
 	<string name="0xrxw6g7jr2h3l-n197_n6wt" mz="cancel">ยอมแพ้</string>
 	<string name="0xrxw6g7jr2h3l-n197_n6wt-texts_0" mz="cancel">ยอมแพ้</string>
@@ -1820,7 +1820,7 @@
 	<string name="0xrxw6g7jr2h3l-n150_ihfi" mz="time">100วินาที</string>
 	<string name="0xrxw6g7jr2h3l-n216_y0oq" mz="n216">ชนิดทัณฑ์สวรรค์:</string>
 	<string name="0xrxw6g7jr2h3l-n222_c2vz-tips" mz="n222">ความคืบหน้าการผจญภัย</string>
-	<string name="0xrxw6g7jr2h3l-n223_v12h-tips" mz="n223">อ้าแขนรับความไร้ตัวตน เพื่อที่จะจุติเป็นผู้อมตะ</string>
+	<string name="0xrxw6g7jr2h3l-n223_v12h-tips" mz="n223">อ้าแขนรับความไร้ตัวตน เพื่อที่จะจุติเป็นเซียน</string>
 	<string name="0xrxw6g7jr2h3l-n223_v12h" mz="n223">จุติ</string>
 	<string name="0xrxw6g7jr2h3l-n226_v12h-tips" mz="n226">เอาตัวรอดจากทัณฑ์สวรรค์ ยิ่งผู้ฝึกตนเลือกที่จะยังอยู่ในภพเดิมนานเท่าไหร่ ทัณฑ์สวรรค์ก็ยิ่งจะรุนแรงขึ้นเท่านั้น</string>
 	<string name="0xrxw6g7pee8hb-n88_9fbe" mz="frame">รายงานบั๊ก</string>
@@ -1920,8 +1920,8 @@
 	<string name="0xrxw6g7fak9vnk-n160_qx12" mz="n160">ความถี่ของเหตุการณ์</string>
 	<string name="0xrxw6g7fak9vnk-n171_qx12" mz="n171">สิ่งแวดล้อม</string>
 	<string name="0xrxw6g7fak9vnk-n172_qx12" mz="n172">ขนาด</string>
-	<string name="0xrxw6g7fak9vnk-n179_qx12-tips" mz="n35">ผู้อมตะ นำเสนอสุดยอดประสบการณ์ จะไม่สามารถปรับระดับความยากได้ คุณมีช่องเซฟเพียงช่องเดียวในการเล่นแบบผู้อมตะ เกมของคุณยังบันทึกอัตโนมัติตามช่วงเวลาที่กำหนด คุณสามารถตรวจสอบสถิติและความสำเร็จได้ เคล็ดลับบางอย่างจะถูกซ่อนไว้ Immortal ทดสอบความเข้าใจเกมของคุณจนถึงขีด จำกัด โหมดนี้ออกแบบมาเพื่อผู้เป็นอมตะอย่างแท้จริง!</string>
-	<string name="0xrxw6g7fak9vnk-n179_qx12" mz="n35">ผู้อมตะ</string>
+	<string name="0xrxw6g7fak9vnk-n179_qx12-tips" mz="n35">เซียน นำเสนอสุดยอดประสบการณ์ จะไม่สามารถปรับระดับความยากได้ คุณมีช่องเซฟเพียงช่องเดียวในการเล่นแบบเซียน เกมของคุณยังบันทึกอัตโนมัติตามช่วงเวลาที่กำหนด คุณสามารถตรวจสอบสถิติและความสำเร็จได้ เคล็ดลับบางอย่างจะถูกซ่อนไว้ เซียน ทดสอบความเข้าใจเกมของคุณจนถึงขีด จำกัด โหมดนี้ออกแบบมาเพื่อผู้เป็นอมตะอย่างแท้จริง!</string>
+	<string name="0xrxw6g7fak9vnk-n179_qx12" mz="n35">เซียน</string>
 	<string name="0xrxw6g7fak9vnk-n267_mvpf-tips" mz="n267">เปลี่ยนสภาพแวดล้อมของแผนที่</string>
 	<string name="0xrxw6g7fak9vnk-n267_mvpf" mz="n267">แก้ไข</string>
 	<string name="0xrxw6g7fak9vnk-n175_qx12" mz="n175">ยืนยัน</string>
@@ -1933,9 +1933,9 @@
 	<string name="0xrxw6g7fak9vnk-n187_qx12-tips" mz="n187">นำเข้ารหัสแบ่งปัน</string>
 	<string name="0xrxw6g7fak9vnk-n187_qx12" mz="n187">นำเข้า</string>
 	<string name="0xrxw6g7fak9vnk-n193_sa5f" mz="n193">*คุณสามารถที่จะเพิ่มความยากของเกมเมื่อไหร่ก็ได้</string>
-	<string name="0xrxw6g7fak9vnk-n219_t7f5" mz="n219">ผู้อมตะ</string>
-	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">(1)Immortal Difficulty Title</string>
-	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">(1)The level of difficult in Immortal.</string>
+	<string name="0xrxw6g7fak9vnk-n219_t7f5" mz="n219">เซียน</string>
+	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">(1)เซียน Difficulty Title</string>
+	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">(1)The level of difficult in เซียน.</string>
 	<string name="0xrxw6g7fak9vnk-n243_t7f5" mz="n243">ยืนยัน</string>
 	<string name="0xrxw6g7fak9vnk-n244_t7f5" mz="n244">ยกเลิก</string>
 	<string name="0xrxw6g7fak9vnk-n205_t7f5" mz="n205">ที่อยู่</string>
@@ -2113,7 +2113,7 @@
 	<string name="0xrxw6g7fevgb5-n61_fevg" mz="title">รายการกฎ</string>
 	<string name="0xrxw6g7su2w2ovs9-n51_kr97" mz="frame">เลือกกฎ</string>
 	<string name="0xrxw6g7su2w2ovs9-n36_fevg" mz="n36">สถิติที่เหมาะสม</string>
-	<string name="0xrxw6g7su2w2ovs9-n13_7xka" mz="desc">วิธีการพื้นฐานหนึ่งในการฝึกตนในโลกนี้ รวม 4 สถานะกับ 16 ข้อจำกัดที่แตกต่าง ซึ่งการก้าวไปข้างหน้าในกฎในไม่ใช่เรื่องง่าย ข้อดีคือกฎนี้ไม่มีความต้องการเริ่มต้นไม่สูงนัก และมีการพัฒนาที่มั่นคง ที่สุดท้ายแล้วการเป็นผู้อมตะก็จะมาถึงแน่นอน</string>
+	<string name="0xrxw6g7su2w2ovs9-n13_7xka" mz="desc">วิธีการพื้นฐานหนึ่งในการฝึกตนในโลกนี้ รวม 4 สถานะกับ 16 ข้อจำกัดที่แตกต่าง ซึ่งการก้าวไปข้างหน้าในกฎในไม่ใช่เรื่องง่าย ข้อดีคือกฎนี้ไม่มีความต้องการเริ่มต้นไม่สูงนัก และมีการพัฒนาที่มั่นคง ที่สุดท้ายแล้วการเป็นเซียนก็จะมาถึงแน่นอน</string>
 	<string name="0xrxw6g7su2w2ovs9-n41_fevg" mz="n41">ไม่ได้รับ</string>
 	<string name="0xrxw6g7su2w2ovs9-n44_fevg" mz="n44">ไม่ได้รับ</string>
 	<string name="0xrxw6g7su2w2ovs9-n52_kbt7" mz="n52">ตรวจสอบต้นไม้แห่งแรงบันดาลใจ</string>

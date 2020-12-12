@@ -140,14 +140,14 @@
 			<Desc>Secret chart of Formation Diagram that records the Ragestriker Formation. It is said to be the most ruthless Formation of all on ancient battlefields, being virtually invincible and unstoppable.</Desc>
 			<EffectDesc>Significantly increases Formation Load.\nIncreases Formation Size\nUnlocks Ancient Formation Diagram: \nRagestriker Formation</EffectDesc>
 			<ZhenShapes.0.Name>Ragestriker Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate simultaneously, and the Formation is immediately filled with Sword Aura. Even the truest immortal can hardly survive within it.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Descript>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate simultaneously, and the Formation is immediately filled with Sword Aura. Even the truest เซียน can hardly survive within it.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit2">
 			<DisplayName>Conqueror's Formation</DisplayName>
 			<Desc>Secret chart of Formation Diagram that records the Conqueror's Formation. It is said to be capable of harnessing the Grand Chariot's divine light of Aloofness, which grants it omniscient demon-slaying powers.</Desc>
 			<EffectDesc>Significantly increases Formation Load.\nIncreases Formation Size\nUnlocks Ancient Formation Diagram: \nConqueror's Formation</EffectDesc>
 			<ZhenShapes.0.Name>Conqueror's Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formation of immortals said to be passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a demon-slaying power that can obliterate all evils.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Descript>Formation of เซียน said to be passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a demon-slaying power that can obliterate all evils.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit3">
 			<DisplayName>Impregnable Formation</DisplayName>

@@ -1,7 +1,7 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_4_None">
-			<DisplayName>Jade Purity Immortal Law</DisplayName>
+			<DisplayName>Jade Purity เซียน Law</DisplayName>
 			<Desc>The orthodoxy left behind by the Lord of Primordial Beginning. The secret Law of the Kunlun Palace. It is said to be the ultimate source of all Taoist Laws. It leads its follower through 6 states and 12 gates. One will possess extremely abundant and powerful magic force after following this Law. It takes incredible Intelligence and the best of luck to successfully cultivate following this Law.</Desc>
 			<SelectDesc>One will excel in all kinds of spells and have an abundant magic force, but it requires all kinds of rarities to breakthroughing and advance in this Law. Are you sure you want to follow this Law?</SelectDesc>
 			<Stages.0.DisplayName>Qi Shaping</Stages.0.DisplayName>

@@ -16,7 +16,7 @@
 			<Desc>A magical pond located deep in Mt. Sunshade. Lotus flowers sprout vigorously in the lake, which seems bottomless, connecting to the water vein on the earth's crust. It is said that the Prism Lotus—the Spirit Root of the Sunshade Abode is planted here.</Desc>
 		</Text>
 		<Text Name="Place_KunLun1">
-			<DisplayName>Immortal Summit</DisplayName>
+			<DisplayName>เซียน Summit</DisplayName>
 			<Desc>A stone platform at the southern foot of Mt. Kunlun, with many enigmatic patterns carved on it. It is said that in the ancient age, the Eastern King granted immortality here to his subordinates and ascended into heaven, leaving a Taoist Law for later generations to find.</Desc>
 		</Text>
 		<Text Name="Place_KunLun2">
@@ -57,11 +57,11 @@
 		</Text>
 		<Text Name="Place_Shu1">
 			<DisplayName>Jadestone Cliff</DisplayName>
-			<Desc>Standing on the western peak of Mt. Shu, the cliff has a beautiful scenic view and is populated with spiritual and magical animals. This is where the earth's vein leaks out Qi, thus creating many rare ores like Fire Copper inside the mountain. The Immortal Caerulea planted the spiritual medicine Red Fruit here due to its abundance in the element of Fire.</Desc>
+			<Desc>Standing on the western peak of Mt. Shu, the cliff has a beautiful scenic view and is populated with spiritual and magical animals. This is where the earth's vein leaks out Qi, thus creating many rare ores like Fire Copper inside the mountain. The เซียน Caerulea planted the spiritual medicine Red Fruit here due to its abundance in the element of Fire.</Desc>
 		</Text>
 		<Text Name="Place_Shu2">
 			<DisplayName>Thunderclap Cave</DisplayName>
-			<Desc>One of the twelve caves in Mt. Shu, also where the founder of Blue Lotus Temple retreated into seclusion. Legend has it that the Immortal Caerulea left a secret here before his ascension; however, no one seems to be able to found it for thousands of years.</Desc>
+			<Desc>One of the twelve caves in Mt. Shu, also where the founder of Blue Lotus Temple retreated into seclusion. Legend has it that the เซียน Caerulea left a secret here before his ascension; however, no one seems to be able to found it for thousands of years.</Desc>
 		</Text>
 		<Text Name="Place_Shu3">
 			<DisplayName>Glimmer Cave</DisplayName>
@@ -73,15 +73,15 @@
 		</Text>
 		<Text Name="Place_Shu5">
 			<DisplayName>Bladesmith Tomb</DisplayName>
-			<Desc>A dark and meandering cave inside Mt. Shu, with the swords carried by each generation of sword immortals from the Blue Lotus Temple hidden in it.</Desc>
+			<Desc>A dark and meandering cave inside Mt. Shu, with the swords carried by each generation of sword เซียน from the Blue Lotus Temple hidden in it.</Desc>
 		</Text>
 		<Text Name="Place_WuLian1">
 			<DisplayName>Celestial Pool</DisplayName>
-			<Desc>A sacred pond that lies within a caldera atop the once volcanic Mt. Nelumbo. The Immortal Nelumbo performed a miracle stolen from the ways of heaven to seal the volcano and established the sect here. Legend has it that there is a Life Spring in the pool, and only the most fortunate of all will be able to find it.</Desc>
+			<Desc>A sacred pond that lies within a caldera atop the once volcanic Mt. Nelumbo. The เซียน Nelumbo performed a miracle stolen from the ways of heaven to seal the volcano and established the sect here. Legend has it that there is a Life Spring in the pool, and only the most fortunate of all will be able to find it.</Desc>
 		</Text>
 		<Text Name="Place_WuLian2">
 			<DisplayName>Pearlwood Rainforest</DisplayName>
-			<Desc>A mystical forest at the back of Mt. Nelumbo. When it rains, the forest becomes misty and atmospheric like a fairyland. There once was a scholar with terminal disease who dove into and then came back from the forest. He speaks of an immortal with a wooded sword in their left hand that controls the force of nature and a white jade in their right hand that cures all diseases, calling themselves the 'Immortal Pearlwood'. Hence the name 'Pearlwood Rainforest'.</Desc>
+			<Desc>A mystical forest at the back of Mt. Nelumbo. When it rains, the forest becomes misty and atmospheric like a fairyland. There once was a scholar with terminal disease who dove into and then came back from the forest. He speaks of an เซียน with a wooded sword in their left hand that controls the force of nature and a white jade in their right hand that cures all diseases, calling themselves the 'เซียน Pearlwood'. Hence the name 'Pearlwood Rainforest'.</Desc>
 		</Text>
 		<Text Name="Place_BaiMan1">
 			<DisplayName>Deathknell Cave</DisplayName>

@@ -427,7 +427,7 @@
 		</Text>
 		<Text Name="Gong7_Esoterica_8">
 			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>A wondrous tome passed down the generations, once penned by ancient immortals. It can help develop potential of various meridian points around the body, greatly prolonging one's life.</Desc>
+			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various meridian points around the body, greatly prolonging one's life.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly extends Lifespan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_9">
@@ -532,7 +532,7 @@
 		</Text>
 		<Text Name="Gong9_Esoterica_3">
 			<DisplayName>Mortality Records</DisplayName>
-			<Desc>A secret tome that contains notes on the truths of life, death, and their myriad interconnections. Passed down through the ages from the ancient immortal Guru. Studying this volume can serve to prolong one's lifespan and enhance spell power.</Desc>
+			<Desc>A secret tome that contains notes on the truths of life, death, and their myriad interconnections. Passed down through the ages from the ancient เซียน Guru. Studying this volume can serve to prolong one's lifespan and enhance spell power.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Extends Lifespan.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_4">

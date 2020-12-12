@@ -362,8 +362,8 @@
 			<EffectDesc>[size=10][color=#D06508]Increases number of Artifacts by 1.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_10">
-			<DisplayName>Legacy Artifact: Immortal Slayer</DisplayName>
-			<Desc>Recorded Legacy Artifact: Immortal Slayer's crafting recipe.</Desc>
+			<DisplayName>Legacy Artifact: เซียน Slayer</DisplayName>
+			<Desc>Recorded Legacy Artifact: เซียน Slayer's crafting recipe.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the crafting method of Legacy Artifacts: \nImmortal Slayer[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_1">
@@ -373,7 +373,7 @@
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_2">
 			<DisplayName>Astral Meditation</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Astral Meditation\nA secret meditation method recorded in the Jade Purity Immortal Law. Allows one's spirit to travel to the Primordial Realm from which the earth and the Heavens began. More efficient than regular meditation techniques, and less taxing on one's lifespan.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Astral Meditation\nA secret meditation method recorded in the Jade Purity เซียน Law. Allows one's spirit to travel to the Primordial Realm from which the earth and the Heavens began. More efficient than regular meditation techniques, and less taxing on one's lifespan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_3">
 			<DisplayName>Meticulous Revision</DisplayName>
@@ -516,7 +516,7 @@
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_4">
 			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>A wondrous tome passed down the generations, once penned by ancient immortals. It can help develop potential of various meridian points around the body, greatly prolonging one's life and increasing Potential.</Desc>
+			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various meridian points around the body, greatly prolonging one's life and increasing Potential.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases Potential.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_5">

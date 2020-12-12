@@ -193,7 +193,7 @@
 		</Text>
 		<Text Name="Item_XianBone" sParam="Item">
 			<ThingName>Divine Bones</ThingName>
-			<Desc>The remaining bones with divine power after an Immortal's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly Qi, significantly reducing your Attainment.</Desc>
+			<Desc>The remaining bones with divine power after an เซียน's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly Qi, significantly reducing your Attainment.</Desc>
 			<Item.FabaoSuffix>Bone, Skeleton</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBoneBall" sParam="Item">
@@ -254,12 +254,12 @@
 		</Text>
 		<Text Name="Item_XianDaoShenNian" sParam="Item">
 			<ThingName>Divine Mind</ThingName>
-			<Desc>A wisp of divine consciousness leaked from the Divine Bones, can be utilized by cultivators to remold their mind and body. Due to the blessing of the immortal's consciousness, one can retain a small part of one's previous Inspiration upon rebirth. When using this item to rebirth for the first time, one's Potential will be improved as well due to the nourishing of divine consciousness.</Desc>
+			<Desc>A wisp of divine consciousness leaked from the Divine Bones, can be utilized by cultivators to remold their mind and body. Due to the blessing of the เซียน's consciousness, one can retain a small part of one's previous Inspiration upon rebirth. When using this item to rebirth for the first time, one's Potential will be improved as well due to the nourishing of divine consciousness.</Desc>
 			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoXieNian" sParam="Item">
 			<ThingName>Maligned Mind</ThingName>
-			<Desc>A wisp of evil consciousness leaked from the Immortal's Remains, can be utilized by cultivators to remold their mind and body. Due to the blessing of the immortal's consciousness, one could retain most of their previous Inspiration after rebirth. Such a thing is of negative properties, however, causing one to overdraw their Potential when using it to reborn for the first time.</Desc>
+			<Desc>A wisp of evil consciousness leaked from the เซียน's Remains, can be utilized by cultivators to remold their mind and body. Due to the blessing of the เซียน's consciousness, one could retain most of their previous Inspiration after rebirth. Such a thing is of negative properties, however, causing one to overdraw their Potential when using it to reborn for the first time.</Desc>
 			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WinterWarm" sParam="Item">

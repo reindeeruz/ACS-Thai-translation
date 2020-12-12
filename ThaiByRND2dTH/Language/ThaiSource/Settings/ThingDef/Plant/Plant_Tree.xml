@@ -38,8 +38,8 @@
 			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="TreeJade" sParam="Plant">
-			<ThingName>Immortal Tree</ThingName>
-			<Desc>Immortal tree.</Desc>
+			<ThingName>เซียน Tree</ThingName>
+			<Desc>เซียน tree.</Desc>
 			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
 		</Text>

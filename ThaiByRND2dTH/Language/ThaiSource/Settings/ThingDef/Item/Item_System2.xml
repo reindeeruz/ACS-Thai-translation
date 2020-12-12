@@ -2,28 +2,28 @@
 	<List>
 		<Text Name="Item_ShangGuYiWenLu1" sParam="Item">
 			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume I</ThingName>
-			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Desc>Secret scroll that recorded the battle between เซียน and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShangGuYiWenLu5" sParam="Item">
 			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume V</ThingName>
-			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Desc>Secret scroll that recorded the battle between เซียน and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShangGuYiWenLu7" sParam="Item">
 			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume VII</ThingName>
-			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Desc>Secret scroll that recorded the battle between เซียน and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShangGuYiWenLu15" sParam="Item">
 			<ThingName>Ancient Secrets: Heavenly Battlefield, Volume XV</ThingName>
-			<Desc>Secret scroll that recorded the battle between immortals and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
+			<Desc>Secret scroll that recorded the battle between เซียน and demons during ancient times. The words written on it seem inexplicable, as if having been cast some ciphering spell.</Desc>
 			<Item.FabaoSuffix>Volume</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Examine Secret</StoryBnts.0.Desc>

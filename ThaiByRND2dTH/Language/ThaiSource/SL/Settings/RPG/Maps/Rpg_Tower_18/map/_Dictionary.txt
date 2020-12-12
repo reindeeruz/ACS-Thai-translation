@@ -17,7 +17,7 @@
 铁剑	Sword
 庚辛白骨剑	Western White Bone Sword
 玄铁锭	Darksteel Bar
-断岳斩仙印	Demolition Immortal Slaying Metal
+断岳斩仙印	Demolition เซียน Slaying Metal
 符纸	Talisman Paper
 炼心符	Refined Mind  Forbidden
 原木	Wood
@@ -109,7 +109,7 @@
 黄布伞	Umbrella
 太极灵血伞	The Supreme Pole Spirit Blood Umbrella
 奇怪的蘑菇	Strange Mushroom
-彩云斩仙菇	Iridescent Cloud Immortal Slaying Basket
+彩云斩仙菇	Iridescent Cloud เซียน Slaying Basket
 狼皮修行下裳	Cultivator Pants
 五云苍穹御	Five Clouds The Firmament of Heaven Clothes
 黄布	Yellow Fabric
@@ -129,11 +129,11 @@
 五行罩	The Five Elements  Barrier
 黑布	Black Fabric
 苍龙四象纱	Marinagon The Four Statues Textile
-万象斩仙局	All Phenomena Immortal Slaying  Match
+万象斩仙局	All Phenomena เซียน Slaying  Match
 青龙灵血桩	Azuragon Spirit Blood  Column
 甲乙万骨罗	Eastern All Bones Textile
 观音土	Guanyin Clay
-戊己斩仙灵宝	Central Immortal Slaying Numinous Treasure
+戊己斩仙灵宝	Central เซียน Slaying Numinous Treasure
 腾岳飞星御	Hill Rise Starlite  Shirt
 苍龙卷	Marinagon Volume
 灵石砖	Spirit Stone Block
@@ -175,7 +175,7 @@
 冲虚极光珏	Facing the Void Aurora  Tower
 流星开阳珏	Falling Star Mizar  Stele
 木铃铛	Bell
-青龙斩仙铃	Azuragon Immortal Slaying Bell
+青龙斩仙铃	Azuragon เซียน Slaying Bell
 甲乙涤心碎	Eastern Clean Mind  Scrap
 狼皮厚制衣衫	Winter Shirt
 麒麟天心甲	Kirin Heavenly Heart  Shirt
@@ -296,7 +296,7 @@
 黑布休闲衣衫	Casual Shirt
 碧光无上甲	Opalescent Supreme Clothes
 虎皮休闲衣衫	Casual Shirt
-幻空斩仙衫	Eon Immortal Slaying  Shirt
+幻空斩仙衫	Eon เซียน Slaying  Shirt
 苍穹流光木	The Firmament of Heaven Time  Column
 六合桩	The Six Directions  Take
 牛肉	Bull Meat
@@ -369,7 +369,7 @@
 九宫炽魂御	The Nine Palaces Flame Spirit  Shirt
 己土万魂毒	Dismal All Souls Powder
 青龙流光书	Azuragon Time  Book
-震雷斩仙阙	Thunderstorm Immortal Slaying Metal
+震雷斩仙阙	Thunderstorm เซียน Slaying Metal
 天罡恶魄毒	The Big Dipper Evil Soul Powder
 镇岳魔骨砂	Hill Fall Demon  Guano
 寒晶角料	Ice Crystal Offcut
@@ -466,7 +466,7 @@
 玄武千光藕	Black Tortoise Thousand Rays Lotus Root
 天府涤心石	Heavenly Abode Clean Mind  Stele
 青龙恶魄桩	Azuragon Evil Soul Wood
-甲乙斩仙罗	Eastern Immortal Slaying  Yarn
+甲乙斩仙罗	Eastern เซียน Slaying  Yarn
 虎肉	Tiger Meat
 戊土极光幕	Grim Aurora Meatstew
 天岭流光陀	Crest Time Meatstew
@@ -547,7 +547,7 @@
 红布休闲下裳	Casual Pants
 碧光驱邪御	Opalescent Evil Expelling  Shirt
 玄铁角料	Darksteel Offcut
-天权斩仙镖	Megrez Immortal Slaying  Scrap
+天权斩仙镖	Megrez เซียน Slaying  Scrap
 行疆印	Trekking  Boulder
 铁弓	Bow
 断岳玄光弓	Demolition Dark Light Bow

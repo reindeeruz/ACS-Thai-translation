@@ -41,7 +41,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 39	Assault	Your sect is under assault by a group of powerful cultivators.	Normal	Human
 40	Assault	Your sect is under assault by a group of infamous evil cultivators.	Normal	Human
 41	A Different Time	An earthquake happened in the Wild South recently, and a large number of savages and bandits from the south fled here.	33|34	
-42	Immortal Visitor	An immortal friend of yours is visiting your sect, and he probably wants to stay for a few days.	Immortal Visitor	Human
+42	เซียน Visitor	An เซียน friend of yours is visiting your sect, and he probably wants to stay for a few days.	เซียน Visitor	Human
 43	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
 44	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
 45	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
@@ -96,7 +96,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 99	Secret		60	
 100	Secret		61	
 101	Secret		62	
-102	Immortal Visitor	An immortal friend of yours is invited to visit your sect, and he will stay for a few days.	Immortal Visitor	
+102	เซียน Visitor	An เซียน friend of yours is invited to visit your sect, and he will stay for a few days.	เซียน Visitor	
 103	Traces Found			
 104	Secret		64	
 105	วิญญาณรับรู้s Passing By	A sentient [NAME] has shown up near here, and it is filled with curiosity.		
@@ -146,19 +146,19 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10015	Cultivation Law Obtained	You have obtained a new cultivation Law: [TXT]		
 10016	Cultivation System Unlocked	You have obtained your first cultivation Law. You are now qualified to continue your cultivation. The Law of cultivation will be full of difficulties, but living in troubled times can be an endless source of misery, and you are always drifting along. Maybe finding a Law for ascension is the only way to escape all the worldly problems. \n\n[color=#D06508]Unlocked the cultivation system.\nUnlocked buildings for cultivation.\n(See all Laws in the Sect menu)[/color]		
 10017	Invasion of Enemies	A group of people full of hostility have shown up near here.		
-10018	Ascension	[NAME] has gone through all the hardships and finally ascended above this realm, leaving only the immortal's mortal body for the future generations to worship.\nA poem as evidence:\n[color=#D06508]Out of the sorted chaos of the universe, the first ever human being was born. The oneness came before duality, and the Four Symbols guarded the earth.\nThe goddess gave life to all creations from clay, while the Great Bright One drew the picture that divided Yin and Yang.\nA hundred years of cultivation passed by while soldiers fought in countless battles. Another thousand years are only a blink of an eye in meditation.\nI shall say no more as the Heavenly Tribulation comes to take me away. All the worldly problems will be gone with the wind after I leave this plane of existence.[/color]	SeeGod	
+10018	Ascension	[NAME] has gone through all the hardships and finally ascended above this realm, leaving only the เซียน's mortal body for the future generations to worship.\nA poem as evidence:\n[color=#D06508]Out of the sorted chaos of the universe, the first ever human being was born. The oneness came before duality, and the Four Symbols guarded the earth.\nThe goddess gave life to all creations from clay, while the Great Bright One drew the picture that divided Yin and Yang.\nA hundred years of cultivation passed by while soldiers fought in countless battles. Another thousand years are only a blink of an eye in meditation.\nI shall say no more as the Heavenly Tribulation comes to take me away. All the worldly problems will be gone with the wind after I leave this plane of existence.[/color]	SeeGod	
 10019	Assault	[TXT] has sent a group of elite disciples to take revenge.	Rich	Human
 10020	Assault	[TXT] has sent senior disciples to take revenge.	Rich	Human
 10021	Assault	[TXT] has sent experienced elders of the sect to take revenge.	Rich	Human
 10022	Fire of Anger	Your behavior has angered [TXT], and they will take immediate action.		
 10023	Tribulation Day	[NAME]'s cultivation has reached its limit. A Heavenly Tribulation is about to fall!		
-10024	Mysterious Immortal	For several days, you hid during the day and travelled at night, finally arriving at a secluded ravine. As you were about to relax, a light of teleportation suddenly struck, showing the contour of a cultivator.		
-10025	Mysterious Immortal	The mysterious cultivator looked around in deep thought, and then disappeared into another light of teleportation.		
+10024	Mysterious เซียน	For several days, you hid during the day and travelled at night, finally arriving at a secluded ravine. As you were about to relax, a light of teleportation suddenly struck, showing the contour of a cultivator.		
+10025	Mysterious เซียน	The mysterious cultivator looked around in deep thought, and then disappeared into another light of teleportation.		
 10026	Tutorial	Congratulations! You have mastered the basic features of Amazing Cultivation Simulator.\nNext, you can create your own character in Classic and start a true journey of cultivation.\nEnjoy the game!		
 10027	Perished	This is a bad time. Your Law to cultivation has yet to begin before it is ended. What remains is only the vast land and sea that will sweep your sorrow away.		
 10028	Destroyed	[TXT] What remains is only the vast land and sea that will sweep your sorrow away.		
 10029	A New Beginning	A traveler hiding out in the mountains found the ruins. With nowhere else to go, [IT] decided to stay here for now.		
-10030	Mysterious Immortal	You sensed a gentle and warm presence that stopped by your side for a while, before it slowly became weak and disappeared eventually, as if it were never here...		
+10030	Mysterious เซียน	You sensed a gentle and warm presence that stopped by your side for a while, before it slowly became weak and disappeared eventually, as if it were never here...		
 10031	Blessed	[TXT] became blessed, and suddenly it gained a lot of fame and changed drastically.		
 10032	เหม่อลอย	[NAME] has to return for meditation immediately for having been dispatched outside of the sect for too long.		
 10033	Injured	[NAME] has to return to the sect to recover from their injury during their stationing.		

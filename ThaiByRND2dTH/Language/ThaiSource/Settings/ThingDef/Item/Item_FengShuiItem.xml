@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="FengShuiItem_Ding1" sParam="Item">
 			<ThingName>Ceremonial Cauldron</ThingName>
-			<Desc>Precious cauldron used by the ancient immortals in the sacrificial ceremonies of heaven and earth, it is said to be capable of communicating with the ways of Heaven.</Desc>
+			<Desc>Precious cauldron used by the ancient เซียน in the sacrificial ceremonies of heaven and earth, it is said to be capable of communicating with the ways of Heaven.</Desc>
 			<Item.FabaoSuffix>Cauldron</Item.FabaoSuffix>
 		</Text>
 		<Text Name="FengShuiItem_Bei1" sParam="Item">
@@ -56,7 +56,7 @@
 			<Item.FabaoSuffix>Picture</Item.FabaoSuffix>
 		</Text>
 		<Text Name="FengShuiItem_ShuJi1" sParam="Item">
-			<ThingName>Records of the Immortal Dishes</ThingName>
+			<ThingName>Records of the เซียน Dishes</ThingName>
 			<Desc>There are many unrecognizable pictures painted on it, which are said to be recipes from the heavenly court. Can be used to enhance Feng Shui.</Desc>
 			<Item.FabaoSuffix>Book, Volume</Item.FabaoSuffix>
 		</Text>

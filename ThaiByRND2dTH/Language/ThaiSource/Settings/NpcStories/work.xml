@@ -106,7 +106,7 @@
 			<Events.9.Story>While mining [obj], [name] suddenly felt the desire to visit [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
 			<Events.10.Story>Despite their mood being affected by [obj_badmood], [name] kept their spirits up and did their best to mine [obj].</Events.10.Story>
 			<Events.11.Story>[name] was in a good mood because of [obj_goodmood], and couldn't help but hum happily to themselves while mining [obj].</Events.11.Story>
-			<Events.12.Story>[name] was filled with hope while mining [obj]. "If only I could manage to dig my way into some mystical place inhabited by fairies and immortals..."</Events.12.Story>
+			<Events.12.Story>[name] was filled with hope while mining [obj]. "If only I could manage to dig my way into some mystical place inhabited by fairies and เซียน..."</Events.12.Story>
 			<Events.13.Story>While mining [obj], [name] was suddenly overcome by a wave of exhaustion. "When will I finally get promoted to inner disciple?", they pondered.</Events.13.Story>
 			<Events.14.Story>[name] started feeling extra motivated while mining [obj]. [it] thought to themselves that this, too, was an important part of one's cultivation.</Events.14.Story>
 		</Text>

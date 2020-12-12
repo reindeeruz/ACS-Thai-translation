@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Secrets_Gong2">
 			<DisplayName>Manifesting Mandate</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎสมบัติเหลือคณนา." The inheritance is surrounded by a circle of ancient Immortals. It seems that this is the seal set by the ancient Immortal to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎสมบัติเหลือคณนา." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
 			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
@@ -10,7 +10,7 @@
 		</Text>
 		<Text Name="Secrets_Gong3">
 			<DisplayName>Manifesting Mandate</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "เจ็ดดาบสังหาร." The inheritance is surrounded by a circle of ancient Immortals. It seems that this is the seal set by the ancient Immortal to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "เจ็ดดาบสังหาร." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
 			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
@@ -18,7 +18,7 @@
 		</Text>
 		<Text Name="Secrets_Gong4">
 			<DisplayName>Manifesting Mandate</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "Jade Purity Immortal Law." The inheritance is surrounded by a circle of ancient Immortals. It seems that this is the seal set by the ancient Immortal to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "Jade Purity เซียน Law." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
 			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
@@ -26,7 +26,7 @@
 		</Text>
 		<Text Name="Secrets_Gong5">
 			<DisplayName>Manifesting Mandate</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎขโมยสวรรค์." The inheritance is surrounded by a circle of ancient Immortals. It seems that this is the seal set by the ancient Immortal to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎขโมยสวรรค์." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
 			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
@@ -34,7 +34,7 @@
 		</Text>
 		<Text Name="Secrets_Gong6">
 			<DisplayName>Manifesting Mandate</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎเล่นแร่แปลธาตุดึกดำบรรพ์." The inheritance is surrounded by a circle of ancient Immortals. It seems that this is the seal set by the ancient Immortal to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎเล่นแร่แปลธาตุดึกดำบรรพ์." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
 			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
@@ -42,7 +42,7 @@
 		</Text>
 		<Text Name="Secrets_Gong7">
 			<DisplayName>Manifesting Mandate</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎสะบั้นอารมณ์." The inheritance is surrounded by a circle of ancient Immortals. It seems that this is the seal set by the ancient Immortal to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎสะบั้นอารมณ์." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
 			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
