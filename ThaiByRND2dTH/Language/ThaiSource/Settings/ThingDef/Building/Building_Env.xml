@@ -22,9 +22,9 @@
 		</Text>
 		<Text Name="LingShu" sParam="Building">
 			<ThingName>ต้นไม้เรืองแสง</ThingName>
-			<Desc>A curious plant that can turn soil nearby into spiritual soil. However, the pollen it releases may cause blocked meridians and suppressed Qi.</Desc>
+			<Desc>A curious plant that can turn soil nearby into spiritual soil. However, the pollen it releases may cause blocked meridians and suppressed พลังชี่.</Desc>
 			<StoryBnts.0.Name>Feel</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Feel the Qi around Illumitree.</StoryBnts.0.Desc>
+			<StoryBnts.0.Desc>Feel the พลังชี่ around Illumitree.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>

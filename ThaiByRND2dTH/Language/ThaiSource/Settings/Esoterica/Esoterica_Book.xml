@@ -133,7 +133,7 @@
 		<Text Name="YaoGuai_Bible">
 			<DisplayName>Chant of Animal</DisplayName>
 			<Desc>Secret technique for training fierce beasts of Mt. Hundred Insects, it recorded some exclusive elixirs for inducing sentience in wild beasts.</Desc>
-			<EffectDesc>Learn Elixir Recipe: \nIntelligence Elixir\nSpring Elixir\nSummer Elixir\nAutumn Elixir\nWinter Elixir\nEarth Elixir\nMiracle: Qi of Genesis</EffectDesc>
+			<EffectDesc>Learn Elixir Recipe: \nIntelligence Elixir\nSpring Elixir\nSummer Elixir\nAutumn Elixir\nWinter Elixir\nEarth Elixir\nMiracle: พลังชี่ of Genesis</EffectDesc>
 		</Text>
 		<Text Name="Emotion_Bible">
 			<DisplayName>Chant of Phenomena</DisplayName>

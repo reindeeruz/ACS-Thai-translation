@@ -16,8 +16,8 @@
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoLingRecoverK">
-			<DisplayName>Artifact Qi Recovery Multiplier</DisplayName>
-			<Desc>The ratio of Qi recovered by an artifact to Qi absorbed from the character.</Desc>
+			<DisplayName>Artifact พลังชี่ Recovery Multiplier</DisplayName>
+			<Desc>The ratio of พลังชี่ recovered by an artifact to พลังชี่ absorbed from the character.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoPowerAddP">
@@ -26,8 +26,8 @@
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoLingRecoverAddP">
-			<DisplayName>Artifact Qi Recovery Bonus</DisplayName>
-			<Desc>Recovery rate of Artifact Qi.</Desc>
+			<DisplayName>Artifact พลังชี่ Recovery Bonus</DisplayName>
+			<Desc>Recovery rate of Artifact พลังชี่.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoCoolDownAddP">
@@ -36,8 +36,8 @@
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoMaxLingAddP">
-			<DisplayName>Artifact Max Qi Bonus</DisplayName>
-			<Desc>Maximum amount of Qi an artifact may contain.</Desc>
+			<DisplayName>Artifact ค่าพลังชี่สูงสุด Bonus</DisplayName>
+			<Desc>Maximum amount of พลังชี่ an artifact may contain.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_FabaoRepelDistanceAddV">
@@ -71,8 +71,8 @@
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_SpellLingCostAddP">
-			<DisplayName>Spell Qi Cost Bonus</DisplayName>
-			<Desc>Qi cost of casting spells.</Desc>
+			<DisplayName>Spell พลังชี่ Cost Bonus</DisplayName>
+			<Desc>พลังชี่ cost of casting spells.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_SpellCastTimeAddP">
@@ -90,13 +90,13 @@
 		</Text>
 		<Text Name="NpcFight_ShieldConversionRate">
 			<DisplayName>Barrier Power Bonus</DisplayName>
-			<DisplayValue>{0:N3} damage/Qi</DisplayValue>
-			<Desc>The bonus value added to the amount of damage reduction granted by each point of Qi when withstanding damage with Qi Barrier.</Desc>
+			<DisplayValue>{0:N3} damage/พลังชี่</DisplayValue>
+			<Desc>The bonus value added to the amount of damage reduction granted by each point of พลังชี่ when withstanding damage with พลังชี่ Barrier.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ShieldConversionRateAddP">
 			<DisplayName>Barrier Power Bonus</DisplayName>
-			<Desc>The bonus applied to the amount of damage reduction granted by each point of Qi when withstanding damage with Qi Barrier.</Desc>
+			<Desc>The bonus applied to the amount of damage reduction granted by each point of พลังชี่ when withstanding damage with พลังชี่ Barrier.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="NpcFight_ZhenKeyPointNum">

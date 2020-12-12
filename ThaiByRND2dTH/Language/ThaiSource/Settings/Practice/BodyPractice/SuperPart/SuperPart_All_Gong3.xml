@@ -3,7 +3,7 @@
 		<Text Name="SuperPart_Gong_3_1">
 			<Prefix>Demon Poison</Prefix>
 			<Suffix>Fang</Suffix>
-			<Desc>Remolds both fangs to give them toxic and corroded energy. Excels at breaking cultivators' Qi barrier.</Desc>
+			<Desc>Remolds both fangs to give them toxic and corroded energy. Excels at breaking cultivators' พลังชี่ barrier.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
 			<Levels.0.Desc>Slightly increases the secret body attack performance.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
@@ -43,24 +43,24 @@
 		<Text Name="SuperPart_Gong_3_5">
 			<Prefix>Demonic Radiance</Prefix>
 			<Suffix>Bristles</Suffix>
-			<Desc>Remolds the bristles on the neck with techniques and stimulates them to shoot out like a thousand rays of silver light, especially used to penetrate protection Qi.</Desc>
+			<Desc>Remolds the bristles on the neck with techniques and stimulates them to shoot out like a thousand rays of silver light, especially used to penetrate protection พลังชี่.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Slightly increases the secret body Qi barrier penetration.</Levels.0.Desc>
+			<Levels.0.Desc>Slightly increases the secret body พลังชี่ barrier penetration.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Moderately increases the secret body Qi barrier penetration.</Levels.1.Desc>
+			<Levels.1.Desc>Moderately increases the secret body พลังชี่ barrier penetration.</Levels.1.Desc>
 			<Levels.2.Title>Third Layer</Levels.2.Title>
-			<Levels.2.Desc>Drastically increases the secret body Qi barrier penetration.</Levels.2.Desc>
+			<Levels.2.Desc>Drastically increases the secret body พลังชี่ barrier penetration.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_6">
 			<Prefix>Bonerust</Prefix>
 			<Suffix>Wind</Suffix>
-			<Desc>Remolds the wings with techniques to generate extremely corrosive True Qi. Excels at penetrating Qi barrier.</Desc>
+			<Desc>Remolds the wings with techniques to generate extremely corrosive True พลังชี่. Excels at penetrating พลังชี่ barrier.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Slightly increases the secret body Qi barrier penetration.</Levels.0.Desc>
+			<Levels.0.Desc>Slightly increases the secret body พลังชี่ barrier penetration.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Slightly increases the secret body Qi barrier penetration.</Levels.1.Desc>
+			<Levels.1.Desc>Slightly increases the secret body พลังชี่ barrier penetration.</Levels.1.Desc>
 			<Levels.2.Title>Third Layer</Levels.2.Title>
-			<Levels.2.Desc>Slightly increases the secret body Qi barrier penetration.</Levels.2.Desc>
+			<Levels.2.Desc>Slightly increases the secret body พลังชี่ barrier penetration.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_7">
 			<Prefix>Chaotic</Prefix>
@@ -99,13 +99,13 @@
 		<Text Name="SuperPart_Gong_3_11">
 			<Prefix>Bestial</Prefix>
 			<Suffix>Breath</Suffix>
-			<Desc>A secret body created by combining the secret breathing techniques of all beast. Used to drastically increase True Qi recovery.</Desc>
+			<Desc>A secret body created by combining the secret breathing techniques of all beast. Used to drastically increase True พลังชี่ recovery.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Slightly increases the secret body True Qi recovery rate.</Levels.0.Desc>
+			<Levels.0.Desc>Slightly increases the secret body True พลังชี่ recovery rate.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Moderately increases the secret body True Qi recovery rate.</Levels.1.Desc>
+			<Levels.1.Desc>Moderately increases the secret body True พลังชี่ recovery rate.</Levels.1.Desc>
 			<Levels.2.Title>Third Layer</Levels.2.Title>
-			<Levels.2.Desc>Drastically increases the secret body True Qi recovery rate.</Levels.2.Desc>
+			<Levels.2.Desc>Drastically increases the secret body True พลังชี่ recovery rate.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_12">
 			<Prefix>Astral</Prefix>

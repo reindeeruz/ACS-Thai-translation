@@ -37,8 +37,8 @@
 			<Desc>Talisman used to improve sleep quality and reduce tendency of fatigue.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition">
-			<DisplayName>Talisman of Qi Absorption</DisplayName>
-			<Desc>Used to raise efficiency of Qi absorption and fasting.</Desc>
+			<DisplayName>Talisman of พลังชี่ Absorption</DisplayName>
+			<Desc>Used to raise efficiency of พลังชี่ absorption and fasting.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition1">
 			<DisplayName>Talisman of Fasting</DisplayName>
@@ -182,7 +182,7 @@
 		</Text>
 		<Text Name="Spell_FaBao3">
 			<DisplayName>Spiritsword Talisman</DisplayName>
-			<Desc>Increases the wearer's Artifact Qi Recovery Multiplier.</Desc>
+			<Desc>Increases the wearer's Artifact พลังชี่ Recovery Multiplier.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao4">
 			<DisplayName>Sacredsword Talisman</DisplayName>
@@ -198,11 +198,11 @@
 		</Text>
 		<Text Name="Spell_FightSkill3">
 			<DisplayName>Spiritcurse Talisman</DisplayName>
-			<Desc>Fundamentally decreases the wearer's Qi Cost of Spells.</Desc>
+			<Desc>Fundamentally decreases the wearer's พลังชี่ Cost of Spells.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill4">
 			<DisplayName>Sacredcurse Talisman</DisplayName>
-			<Desc>Fundamentally increases the wearer's Spell Power and Qi Cost.</Desc>
+			<Desc>Fundamentally increases the wearer's Spell Power and พลังชี่ Cost.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian1">
 			<DisplayName>Heavensent Talisman</DisplayName>

@@ -1,8 +1,8 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="LingUpWave_Sp">
-			<DisplayName>Qi Frenzy</DisplayName>
-			<StoryDesc>Qi forces rise, and abound throughout the land.</StoryDesc>
+			<DisplayName>พลังชี่ Frenzy</DisplayName>
+			<StoryDesc>พลังชี่ forces rise, and abound throughout the land.</StoryDesc>
 		</Text>
 		<Text Name="FireRain">
 			<DisplayName>Moderate Rain</DisplayName>
@@ -40,32 +40,32 @@
 			<StoryDesc>Booming thunder rolls through the land as lightning dances between the clouds.</StoryDesc>
 		</Text>
 		<Text Name="JinLingMiMan">
-			<DisplayName>Metal Qi Swell</DisplayName>
-			<StoryDesc>Metal Element Qi pervades the air.</StoryDesc>
+			<DisplayName>Metal พลังชี่ Swell</DisplayName>
+			<StoryDesc>Metal Element พลังชี่ pervades the air.</StoryDesc>
 		</Text>
 		<Text Name="MuLingMiMan">
-			<DisplayName>Wood Qi Swell</DisplayName>
-			<StoryDesc>Wood Element Qi pervades the air.</StoryDesc>
+			<DisplayName>Wood พลังชี่ Swell</DisplayName>
+			<StoryDesc>Wood Element พลังชี่ pervades the air.</StoryDesc>
 		</Text>
 		<Text Name="ShuiLingMiMan">
-			<DisplayName>Water Qi Swell</DisplayName>
-			<StoryDesc>Water Element Qi pervades the air.</StoryDesc>
+			<DisplayName>Water พลังชี่ Swell</DisplayName>
+			<StoryDesc>Water Element พลังชี่ pervades the air.</StoryDesc>
 		</Text>
 		<Text Name="HuoLingMiMan">
-			<DisplayName>Fire Qi Swell</DisplayName>
-			<StoryDesc>Fire Element Qi pervades the air.</StoryDesc>
+			<DisplayName>Fire พลังชี่ Swell</DisplayName>
+			<StoryDesc>Fire Element พลังชี่ pervades the air.</StoryDesc>
 		</Text>
 		<Text Name="TuLingMiMan">
-			<DisplayName>Earth Qi Swell</DisplayName>
-			<StoryDesc>Earth Element Qi pervades the air.</StoryDesc>
+			<DisplayName>Earth พลังชี่ Swell</DisplayName>
+			<StoryDesc>Earth Element พลังชี่ pervades the air.</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Big">
-			<DisplayName>Qi Tide</DisplayName>
-			<StoryDesc>Qi floods the air all around.</StoryDesc>
+			<DisplayName>พลังชี่ Tide</DisplayName>
+			<StoryDesc>พลังชี่ floods the air all around.</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave_Big">
-			<DisplayName>Qi Deficiency</DisplayName>
-			<StoryDesc>A severe lack of Qi.</StoryDesc>
+			<DisplayName>พลังชี่ Deficiency</DisplayName>
+			<StoryDesc>A severe lack of พลังชี่.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Boss_Drought">
 			<DisplayName>Extreme Heat</DisplayName>
@@ -96,16 +96,16 @@
 			<StoryDesc>A light snow hangs in the air and dusts the land with a shimmering gleam.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_ZhenShuiJieJie">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<StoryDesc>There is an area within a Qi Aquasphere.</StoryDesc>
+			<DisplayName>พลังชี่ Aquasphere</DisplayName>
+			<StoryDesc>There is an area within a พลังชี่ Aquasphere.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_BeiDouJianJie">
 			<DisplayName>Grand Chariot Bladezone</DisplayName>
 			<StoryDesc>There is an area within a Grand Chariot Bladezone.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_ZhenHuoJieJie">
-			<DisplayName>Qi Ignosphere</DisplayName>
-			<StoryDesc>There is an area within a Qi Ignosphere.</StoryDesc>
+			<DisplayName>พลังชี่ Ignosphere</DisplayName>
+			<StoryDesc>There is an area within a พลังชี่ Ignosphere.</StoryDesc>
 		</Text>
 	</List>
 </Texts>

@@ -13,10 +13,10 @@
 			<Selections.1.Display>Nothing happened...</Selections.1.Display>
 		</Text>
 		<Text Name="FeelQi">
-			<DisplayName>Feel Qi</DisplayName>
-			<Desc>There are some incredible Qi surrounding the Illumitree, which can resonate
+			<DisplayName>Feel พลังชี่</DisplayName>
+			<Desc>There are some incredible พลังชี่ surrounding the Illumitree, which can resonate
  with cultivators.</Desc>
-			<Selections.0.Display>Feel Qi</Selections.0.Display>
+			<Selections.0.Display>Feel พลังชี่</Selections.0.Display>
 			<Selections.1.Display>Nothing happened...</Selections.1.Display>
 		</Text>
 	</List>

@@ -7,23 +7,23 @@
 			<FunctionKind>Base Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_MaxZhenQi">
-			<DisplayName>Max True Qi</DisplayName>
-			<Desc>Maximum True Qi of Physical cultivators.</Desc>
+			<DisplayName>Max True พลังชี่</DisplayName>
+			<Desc>Maximum True พลังชี่ of Physical cultivators.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_RecoverZhenQi">
-			<DisplayName>True Qi Recovery Rate Base Value</DisplayName>
-			<Desc>The basic True Qi recovery rate of Physical cultivators.</Desc>
+			<DisplayName>True พลังชี่ Recovery Rate Base Value</DisplayName>
+			<Desc>The basic True พลังชี่ recovery rate of Physical cultivators.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_DefenseRecoverZhenQi">
-			<DisplayName>Recovery Mode True Qi Recovery Rate</DisplayName>
-			<Desc>The percentage of True Qi to be recovered per second when a physical cultivator's True Qi is exhausted.</Desc>
+			<DisplayName>Recovery Mode True พลังชี่ Recovery Rate</DisplayName>
+			<Desc>The percentage of True พลังชี่ to be recovered per second when a physical cultivator's True พลังชี่ is exhausted.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_CatchFaboValue">
 			<DisplayName>Consumption Rate of Suppression</DisplayName>
-			<Desc>The amount of additional True Qi to be consumed when a physical cultivator is suppressing an artifact.</Desc>
+			<Desc>The amount of additional True พลังชี่ to be consumed when a physical cultivator is suppressing an artifact.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_BodyStrong">
@@ -58,12 +58,12 @@
 		</Text>
 		<Text Name="BodyPratice_SuperPartCostAddP">
 			<DisplayName>Secret Body Consumption Rate</DisplayName>
-			<Desc>The bonus applied to the True Qi Consumption Rate of all currently activated Secret Bodies.</Desc>
+			<Desc>The bonus applied to the True พลังชี่ Consumption Rate of all currently activated Secret Bodies.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPratice_SuperPartRecoverAddP">
-			<DisplayName>Secret Body True Qi Recovery Rate</DisplayName>
-			<Desc>The bonus applied to the True Qi Recovery Rate of all currently activated Secret Bodies.</Desc>
+			<DisplayName>Secret Body True พลังชี่ Recovery Rate</DisplayName>
+			<Desc>The bonus applied to the True พลังชี่ Recovery Rate of all currently activated Secret Bodies.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
@@ -88,7 +88,7 @@
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
 			<DisplayName>Global Secret Body Penetration</DisplayName>
-			<Desc>The bonus applied to the Qi Barrier Penetration of all currently activated Secret Bodies.</Desc>
+			<Desc>The bonus applied to the พลังชี่ Barrier Penetration of all currently activated Secret Bodies.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
@@ -118,7 +118,7 @@
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
 			<DisplayName>Global Secret Body Penetration</DisplayName>
-			<Desc>The bonus value applied to the Qi Barrier Penetration of all currently activated Secret Bodies.</Desc>
+			<Desc>The bonus value applied to the พลังชี่ Barrier Penetration of all currently activated Secret Bodies.</Desc>
 			<FunctionKind>Battle Stats</FunctionKind>
 		</Text>
 		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">

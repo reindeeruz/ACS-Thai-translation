@@ -516,14 +516,14 @@
 			<StoryDesc>Feeling that Witnessing a miracle on a family member has left a keen sense of appreciation</StoryDesc>
 		</Text>
 		<Text Name="Mood_LingStone">
-			<DisplayName>Qi Resonance</DisplayName>
-			<Desc>Getting along so swimmingly with Qi is a great feeling.</Desc>
-			<StoryDesc>Feeling that A sense of comfort is lent to one enveloped so by such a strong Qi</StoryDesc>
+			<DisplayName>พลังชี่ Resonance</DisplayName>
+			<Desc>Getting along so swimmingly with พลังชี่ is a great feeling.</Desc>
+			<StoryDesc>Feeling that A sense of comfort is lent to one enveloped so by such a strong พลังชี่</StoryDesc>
 		</Text>
 		<Text Name="Mood_LingStone1">
 			<DisplayName>Profound Resonance</DisplayName>
-			<Desc>Getting along so swimmingly with Qi is a great feeling.</Desc>
-			<StoryDesc>Feeling that A sense of comfort is lent to one enveloped so by such a strong Qi</StoryDesc>
+			<Desc>Getting along so swimmingly with พลังชี่ is a great feeling.</Desc>
+			<StoryDesc>Feeling that A sense of comfort is lent to one enveloped so by such a strong พลังชี่</StoryDesc>
 		</Text>
 		<Text Name="Mood_Equipment_Fun">
 			<DisplayName>An Interesting Plaything</DisplayName>

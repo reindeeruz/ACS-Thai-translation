@@ -4,9 +4,9 @@
 			<DisplayName>Traces of Evil Sect</DisplayName>
 			<Desc>[NAME] found traces of activity left by some disciple from an evil sect near [PLACE].</Desc>
 			<Selections.0.Display>Help out</Selections.0.Display>
-			<Selections.0.Tip>Qi Shaping</Selections.0.Tip>
+			<Selections.0.Tip>พลังชี่ Shaping</Selections.0.Tip>
 			<Selections.1.Display>Stop them</Selections.1.Display>
-			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
+			<Selections.1.Tip>พลังชี่ Shaping</Selections.1.Tip>
 			<Selections.2.Display>Ignore</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_BadFight2">
@@ -32,7 +32,7 @@
 			<Desc>[NAME] found traces of activity left by some disciple from a just sect near [PLACE].</Desc>
 			<Selections.0.Display>Help out</Selections.0.Display>
 			<Selections.1.Display>Sneak Attack</Selections.1.Display>
-			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
+			<Selections.1.Tip>พลังชี่ Shaping</Selections.1.Tip>
 			<Selections.2.Display>Ignore</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GoodFight2">
@@ -55,7 +55,7 @@
 			<DisplayName>Treasure Unearthed</DisplayName>
 			<Desc>[NAME] found a treasure about to be unearthed in [PLACE].</Desc>
 			<Selections.0.Display>Fight for it</Selections.0.Display>
-			<Selections.0.Tip>Qi Shaping</Selections.0.Tip>
+			<Selections.0.Tip>พลังชี่ Shaping</Selections.0.Tip>
 			<Selections.1.Display>Ignore</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_FabaoAppear2">
@@ -152,14 +152,14 @@
 		</Text>
 		<Text Name="Secrets_Magic_Cold">
 			<DisplayName>Manifesting Miracle</DisplayName>
-			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of Qi energy mechanics between heaven and earth, the surrounding land of the unearthed site have been shrouded in frost.</Desc>
+			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of พลังชี่ energy mechanics between heaven and earth, the surrounding land of the unearthed site have been shrouded in frost.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Leave in frustration</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Magic_Hot">
 			<DisplayName>Manifesting Miracle</DisplayName>
-			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of Qi energy mechanics between heaven and earth, the surrounding land of the unearthed site have been surrounded by inferno fire.</Desc>
+			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of พลังชี่ energy mechanics between heaven and earth, the surrounding land of the unearthed site have been surrounded by inferno fire.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Leave in frustration</Selections.1.Display>
@@ -446,7 +446,7 @@
 		</Text>
 		<Text Name="Secrets_BanBenKaiQi3">
 			<DisplayName>Birth of Sages</DisplayName>
-			<Desc>It has been days since the burst of Qi finished spreading across the realm. From reading old documents, the famous sects eventually decided that it was the tide of Qi that surges every 3,000 years. Ancient cultivators that were in slumber for various reasons started to be revived one by one by the Thousand-year Tide. \nWithout the current order and rules, cultivators in ancient times believed in the law of the jungle. These cultivators with ancient beliefs and long experience in cultivation has caused chaos in the world of cultivators in only a few days...</Desc>
+			<Desc>It has been days since the burst of พลังชี่ finished spreading across the realm. From reading old documents, the famous sects eventually decided that it was the tide of พลังชี่ that surges every 3,000 years. Ancient cultivators that were in slumber for various reasons started to be revived one by one by the Thousand-year Tide. \nWithout the current order and rules, cultivators in ancient times believed in the law of the jungle. These cultivators with ancient beliefs and long experience in cultivation has caused chaos in the world of cultivators in only a few days...</Desc>
 			<Selections.0.Display>Birth of Sages</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_BossLong">
@@ -631,7 +631,7 @@
 		</Text>
 		<Text Name="Story_Building_TaiYiTower">
 			<DisplayName>Memorial Ceremony</DisplayName>
-			<Desc>[NAME] holds a ceremony at the foot of the Pagoda. Something seems to weakly interact with their Qi, which was once nurtured by the teachings of Taiyi Sect.</Desc>
+			<Desc>[NAME] holds a ceremony at the foot of the Pagoda. Something seems to weakly interact with their พลังชี่, which was once nurtured by the teachings of Taiyi Sect.</Desc>
 			<Selections.0.Display>Search</Selections.0.Display>
 			<Selections.1.Display>Give up</Selections.1.Display>
 		</Text>

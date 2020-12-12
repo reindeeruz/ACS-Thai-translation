@@ -56,15 +56,15 @@
 		</Text>
 		<Text Name="Magic_YG_RealRecover">
 			<DisplayName>Origin Force (Nurture)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the resilience, artifact Qi recovery rate and secret body True Qi recovery rate. Release the skill again to stop this effect.</Desc>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the resilience, artifact พลังชี่ recovery rate and secret body True พลังชี่ recovery rate. Release the skill again to stop this effect.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealWisdom">
 			<DisplayName>Origin Force (INT)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the spell power, secret body attack accuracy, defense success rate, Qi barrier penetration and artifact suppression chance. Release the skill again to stop this effect.</Desc>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the spell power, secret body attack accuracy, defense success rate, พลังชี่ barrier penetration and artifact suppression chance. Release the skill again to stop this effect.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealShield">
 			<DisplayName>Origin Force (PCT)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the Qi barrier and secret body endurance. Release the skill again to stop this effect.</Desc>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the พลังชี่ barrier and secret body endurance. Release the skill again to stop this effect.</Desc>
 		</Text>
 	</List>
 </Texts>

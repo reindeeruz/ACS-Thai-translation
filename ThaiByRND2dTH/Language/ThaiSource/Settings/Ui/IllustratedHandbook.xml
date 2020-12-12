@@ -14,7 +14,7 @@
 [color=#9e6404]Call of the Herd: [/color]
 				Uses dragon might to force nearby animals to attack.
 [color=#9e6404]Water Compaction: [/color]
-				If Floor Dragon's Qi drops to 75% or less, it will absorb all water and steam from the location to stack the Power of Water Spirit and transform into True Dragon.]]></Text>
+				If Floor Dragon's พลังชี่ drops to 75% or less, it will absorb all water and steam from the location to stack the Power of Water Spirit and transform into True Dragon.]]></Text>
 		</Help>
 		<Help Name="Long_P2" Root="Long" Type="Content">
 			<Title>True Dragon</Title>
@@ -26,7 +26,7 @@
 [color=#9e6404]Dragon's Inhalation: [/color]
 				Floor Dragon breathes in deeply to accelerate the water consumption of all enemies in the map and stack the Power of Water Spirit for itself.
 [color=#9e6404]Countercharge: [/color]
-				Floor Dragon marks a character for a period of time, after which the character's artifact will countercharge with half of its max Qi, dealing great damage to all characters within 5 space of the marked unit. If Floor Dragon is counteractive with the artifact's element, the effect will double. Otherwise, it will be reduced to half.
+				Floor Dragon marks a character for a period of time, after which the character's artifact will countercharge with half of its ค่าพลังชี่สูงสุด, dealing great damage to all characters within 5 space of the marked unit. If Floor Dragon is counteractive with the artifact's element, the effect will double. Otherwise, it will be reduced to half.
 [color=#9e6404]Call of the Herd: [/color]
 				Uses dragon might to force nearby animals to attack.
 [color=#9e6404]Sanguine Absorption: [/color]
@@ -63,7 +63,7 @@
 [color=#9e6404]Fuse: [/color]
 				Phoenix marks a character for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%.
 [color=#9e6404]Firekeeper: [/color]
-				Phoenix breathes in deeply to absorb all fire in the location, recovering Qi and gaining the Power of Fire Spirit based on the amount of absorbed fire.
+				Phoenix breathes in deeply to absorb all fire in the location, recovering พลังชี่ and gaining the Power of Fire Spirit based on the amount of absorbed fire.
 [color=#9e6404]Fire Eruption: [/color]
 				When the Power of Fire Spirit reaches 100 stacks, Phoenix will enter the Inferno form and risk its life to release 16 Feathers of Fire Spirit for attack.]]></Text>
 		</Help>
@@ -71,13 +71,13 @@
 			<Title>Inferno Form</Title>
 			<Text><![CDATA[
 [color=#9e6404]Inferno Hold[/color]
-				Phoenix continues to consume the Power of Fire Spirit to maintain its Inferno form. When all Power of Fire Spirit is consumed, Phoenix will return to its original form and try to retrieve Feathers of Fire Spirit, each of which helps to recover 10% of its Qi.
+				Phoenix continues to consume the Power of Fire Spirit to maintain its Inferno form. When all Power of Fire Spirit is consumed, Phoenix will return to its original form and try to retrieve Feathers of Fire Spirit, each of which helps to recover 10% of its พลังชี่.
 [color=#9e6404]Inferno Breath[/color]
 				Phoenix blows out flames in an arc, dealing damage to characters in the area with a chance of lighting up the ground.
 [color=#9e6404]Flame Fuse: [/color]
 				Phoenix marks all Metal cultivators for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%. If there is no Metal cultivator, it will mark a random character to release Flame Fuse upon.
 [color=#9e6404]Firekeeper: [/color]
-				Phoenix breathes in deeply to absorb all fire in the location, recovering Qi and gaining the Power of Fire Spirit based on the amount of absorbed fire.
+				Phoenix breathes in deeply to absorb all fire in the location, recovering พลังชี่ and gaining the Power of Fire Spirit based on the amount of absorbed fire.
 [color=#9e6404]Sun Crystal: [/color]
 				Phoenix risks its life to release the essence of fire, raising the temperature of the whole area in an attempt to burn the place to ashes.]]></Text>
 		</Help>
@@ -91,7 +91,7 @@
 [color=#9e6404]Burning Pupil[/color]
 				If one part of Phoenix's body is destroyed, it will focus its power of true fire on releasing Burning Pupil to stare at the character that destroyed the part, dealing increasingly higher damage. And Phoenix's body will weaken for its lack of defense during the attack.
 [color=#9e6404]Nirvana[/color]
-				Dead Phoenix will be transformed into Phoenix Egg and try to absorb Qi within 49 days in order to be reborn. During this period, if the Phoenix Egg exhausts its Qi, the Phoenix will completely die. If it fully recharges its Qi, the Phoenix will be reborn. It will also die if the Egg fails to absorb enough Qi within 49 days.
+				Dead Phoenix will be transformed into Phoenix Egg and try to absorb พลังชี่ within 49 days in order to be reborn. During this period, if the Phoenix Egg exhausts its พลังชี่, the Phoenix will completely die. If it fully recharges its พลังชี่, the Phoenix will be reborn. It will also die if the Egg fails to absorb enough พลังชี่ within 49 days.
 [color=#9e6404]Wings of Fire Spirit[/color]
 				In the Firestruck form, Phoenix' wings are protected by Feathers of Fire Spirit and thus nearly indestructible. The wings can only be destroyed after it has released Feathers of Fire Spirit in its Inferno form.
 [color=#9e6404]Sun Crystal: [/color]
@@ -111,13 +111,13 @@
 [color=#9e6404]Dragon Breath: [/color]
 				มังกรประทีป blows a heavy dragon breath toward one direction, attaching a Benign Dragon Avatar and dealing damage to every enemy touched by the breath. The higher the target's Condemnation, the greater the damage.
 [color=#9e6404]Heavenly Judgement: [/color]
-				Releases upon target with the lowest Condemnation and deals great damage. If target's Condemnation is higher than 50, they will be heavily injured and lose control over their Qi. Uncontrolled Qi will explode, deal damage to targets within 3 space, and eventually be absorbed by มังกรประทีป into 20 stacks of Solarflare Breath.
+				Releases upon target with the lowest Condemnation and deals great damage. If target's Condemnation is higher than 50, they will be heavily injured and lose control over their พลังชี่. Uncontrolled พลังชี่ will explode, deal damage to targets within 3 space, and eventually be absorbed by มังกรประทีป into 20 stacks of Solarflare Breath.
 [color=#9e6404]Karmic Transformation: [/color]
 				When Solarflare Breath reaches 100 stacks, it will unleash the manifestations of karma force and attach Benign Dragon Avatar to all inner disciples.
 [color=#9e6404]Yin Yang Rage: [/color]
 				When มังกรประทีป's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yang that have not been suppressed. It will then fly into the air, create three Eggs of Yin and reappear in its Eternal Night form. During the form switch, มังกรประทีป will gain 50 stacks of Lunarfrost Breath, and all the debuffs of Condemnation caused by Thunder of Impiety will be cleared.
 [color=#9e6404]Benign Dragon Avatar: [/color]
-				Phantom shadow created by มังกรประทีป in its Eternal Day form. Continuously recovers Qi for มังกรประทีป. The avatar's Qi and spell power are related to the character's Condemnation when the avatar is created. The higher the target's Condemnation, the greater the Qi and spell power.
+				Phantom shadow created by มังกรประทีป in its Eternal Day form. Continuously recovers พลังชี่ for มังกรประทีป. The avatar's พลังชี่ and spell power are related to the character's Condemnation when the avatar is created. The higher the target's Condemnation, the greater the พลังชี่ and spell power.
 [color=#9e6404]Egg of Yang: [/color]
 				When releasing Yin Yang Rage, มังกรประทีป will hatch all Eggs of Yang in the area, creating a huge threat that is Dragon's Servant. Egg of Yang can only be suppressed with ลางร้ายมาก Feng Shui.]]></Text>
 		</Help>
@@ -131,13 +131,13 @@
 [color=#9e6404]Demon Dragon Breath: [/color]
 				มังกรประทีป blows a heavy dragon breath toward one direction, attaching a Malignant Dragon Avatar and dealing damage to every enemy touched by the breath. The lower the target's Mental State, the greater the damage.
 [color=#9e6404]Evil Abyss: [/color]
-				Releases upon target with the highest Mental State and deals great damage. If target's Mental State is lower than 30, they will be heavily injured and lose control over their Qi. Uncontrolled Qi will explode, deal damage to targets within 3 space, and eventually be absorbed by มังกรประทีป into 20 stacks of Lunarfrost Breath.
+				Releases upon target with the highest Mental State and deals great damage. If target's Mental State is lower than 30, they will be heavily injured and lose control over their พลังชี่. Uncontrolled พลังชี่ will explode, deal damage to targets within 3 space, and eventually be absorbed by มังกรประทีป into 20 stacks of Lunarfrost Breath.
 [color=#9e6404]Demon Shapeshifting: [/color]
 				When Lunarfrost Breath reaches 100 stacks, it will unleash the manifestations of demonic force and attach Malignant Dragon Avatar to all inner disciples.
 [color=#9e6404]Yin Yang Rage: [/color]
 				When มังกรประทีป's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yin that have not been suppressed. It will then fly into the air, create three Eggs of Yang and reappear in its Eternal Day form. During the form switch, มังกรประทีป will gain 50 stacks of Solarflare Breath, and all the debuffs of Mental State caused by Thunder of Divinity will be cleared.
 [color=#9e6404]Malignant Dragon Avatar: [/color]
-				Phantom shadow created by มังกรประทีป in its Eternal Night form. Releases artifacts to attack its enemy. The avatar's Qi and spell power are related to the character's Mental State when the avatar is created. The lower the target's Mental State, the greater the Qi and spell power.
+				Phantom shadow created by มังกรประทีป in its Eternal Night form. Releases artifacts to attack its enemy. The avatar's พลังชี่ and spell power are related to the character's Mental State when the avatar is created. The lower the target's Mental State, the greater the พลังชี่ and spell power.
 [color=#9e6404]Egg of Yin: [/color]
 				When releasing Yin Yang Rage, มังกรประทีป will hatch all Eggs of Yin in the area, creating a huge threat that is Dragon's Servant. Egg of Yin can only be suppressed with ฤกษ์ดีมาก Feng Shui.]]></Text>
 		</Help>

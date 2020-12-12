@@ -105,7 +105,7 @@
 			<Item.Equip.AtkDamage.1.DescTags>Kick</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
 			<Item.Equip.AtkDamage.3.DescTags>Kick</Item.Equip.AtkDamage.3.DescTags>
-			<Item.Equip.AtkDamage.4.DescTags>Invasion of Qi</Item.Equip.AtkDamage.4.DescTags>
+			<Item.Equip.AtkDamage.4.DescTags>Invasion of พลังชี่</Item.Equip.AtkDamage.4.DescTags>
 		</Text>
 		<Text Name="Fei_NormalAttack" sParam="Item">
 			<ThingName>Fei Attack</ThingName>

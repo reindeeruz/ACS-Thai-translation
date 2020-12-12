@@ -1,7 +1,7 @@
 ﻿ID	Desc	MidName
 ID	Description	中间词缀 参与名字随机
 1	Increases Artifact Power.	Obliterating
-2	Increases Artifact's Qi Recovery Rate	Storing Spirit
+2	Increases Artifact's พลังชี่ Recovery Rate	Storing Spirit
 3	Increases Artifact Attack Speed	Swift Strike
 4	Increases Artifact Durability	Hybrid
 5	Increases Artifact Impact	Gigantic Pressure
@@ -25,9 +25,9 @@ ID	Description	中间词缀 参与名字随机
 5004	Increases Artifact Quality (Crafted)	Tempered
 6001	Increases Perception	Divine Sight
 6002	Increases Constitution	Homecoming
-6003	Increases Qi Absorption Efficiency	Fasting
+6003	Increases พลังชี่ Absorption Efficiency	Fasting
 6004	Increases Stamina Acquisition Rate	Taotie
-6005	Reduces Fatigue Cost	Qi Absorption
+6005	Reduces Fatigue Cost	พลังชี่ Absorption
 6006	Increases Fatigue Recovery	Whale Bite
 6007	Extends Lifespan	Divine Turtle, Epochs, Eternal
 6008	Increases Pain Endurance	Determination

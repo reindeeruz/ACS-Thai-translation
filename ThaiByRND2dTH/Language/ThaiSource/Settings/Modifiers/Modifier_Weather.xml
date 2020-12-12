@@ -52,10 +52,10 @@
 			<DisplayName>Dust Storm</DisplayName>
 		</Text>
 		<Text Name="Weather_LingRarefiedWave">
-			<DisplayName>Qi Drought</DisplayName>
+			<DisplayName>พลังชี่ Drought</DisplayName>
 		</Text>
 		<Text Name="Weather_LingUpWave">
-			<DisplayName>Burst of Qi</DisplayName>
+			<DisplayName>Burst of พลังชี่</DisplayName>
 		</Text>
 		<Text Name="Weather_HeatWave">
 			<DisplayName>Heat Wave</DisplayName>
@@ -91,16 +91,16 @@
 			<DisplayName>Grandmaster's Aegis</DisplayName>
 		</Text>
 		<Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<Desc>Greatly increase your Qi and Natural Resilience recovery speed while within the Qi Aquasphere.</Desc>
+			<DisplayName>พลังชี่ Aquasphere</DisplayName>
+			<Desc>Greatly increase your พลังชี่ and Natural Resilience recovery speed while within the พลังชี่ Aquasphere.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Magic_BeiDouJianJie">
 			<DisplayName>Grand Chariot Bladezone</DisplayName>
 			<Desc>Greatly increase your Artifact Power while within the Grand Chariot Bladezone.</Desc>
 		</Text>
 		<Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
-			<DisplayName>Qi Ignosphere</DisplayName>
-			<Desc>Greatly increase your Spell Power while within the Qi Ignosphere.</Desc>
+			<DisplayName>พลังชี่ Ignosphere</DisplayName>
+			<Desc>Greatly increase your Spell Power while within the พลังชี่ Ignosphere.</Desc>
 		</Text>
 	</List>
 </Texts>

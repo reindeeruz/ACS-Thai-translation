@@ -32,35 +32,35 @@
 		</Text>
 		<Text Name="Item_JinEssence" sParam="Item">
 			<ThingName>ผลไม้ปราชญ์</ThingName>
-			<Desc>Miraculous medicine of the Metal element, with boisterous Qi dwelling within it. It is said that the fruit can be found in the Nimbus Ravine of Heavenstep Peak.</Desc>
+			<Desc>Miraculous medicine of the Metal element, with boisterous พลังชี่ dwelling within it. It is said that the fruit can be found in the Nimbus Ravine of Heavenstep Peak.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MuEssence" sParam="Item">
 			<ThingName>Gnarled Vine</ThingName>
-			<Desc>Miraculous medicine of the Wood element, with boisterous Qi dwelling within it. Cannot be consumed directly. It is said that the vine can be found on Mt. Tiger Paw and the Wormwrought Valley of the Wild South.</Desc>
+			<Desc>Miraculous medicine of the Wood element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the vine can be found on Mt. Tiger Paw and the Wormwrought Valley of the Wild South.</Desc>
 			<Item.FabaoSuffix>Vine, Lock, Chain, Rope, Cord</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShuiEssence" sParam="Item">
 			<ThingName>Prism Lotus</ThingName>
-			<Desc>Miraculous medicine of the Water element, with boisterous Qi dwelling within it. Cannot be consumed directly. It is said that a Prism Lotus can be found in the Five Dragons Pond of Mt. Sunshade.</Desc>
+			<Desc>Miraculous medicine of the Water element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that a Prism Lotus can be found in the Five Dragons Pond of Mt. Sunshade.</Desc>
 			<Item.FabaoSuffix>Lotus, Platform, Seal, Cover, Field</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HuoEssence" sParam="Item">
 			<ThingName>ผลไม้แดงสด</ThingName>
-			<Desc>Miraculous medicine of the Fire element, with boisterous Qi dwelling within it. Cannot be consumed directly. It is said that the fruit grows at the Jadestone Cliff of Mt. Shu and in the Blazenest of Great Western Desert.</Desc>
+			<Desc>Miraculous medicine of the Fire element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the fruit grows at the Jadestone Cliff of Mt. Shu and in the Blazenest of Great Western Desert.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_TuEssence" sParam="Item">
 			<ThingName>Ocher Essence</ThingName>
-			<Desc>Miraculous medicine of the Earth element, with boisterous Qi dwelling within it. Cannot be consumed directly. It is said that the Ocher Essence grows in the Drake Cave of Mt. Kunlun.</Desc>
+			<Desc>Miraculous medicine of the Earth element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the Ocher Essence grows in the Drake Cave of Mt. Kunlun.</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
@@ -72,22 +72,22 @@
 		</Text>
 		<Text Name="Item_EarthEssence" sParam="Item">
 			<ThingName>Earth Flux</ThingName>
-			<Desc>Essence of what's deep inside the earth's crust, it is a liquid of milky white appearance and an ingredient that can be used in making various kinds of miraculous elixirs. Consuming it directly replenishes a large amount of Stamina and expands Qi Reserve, increasing one's Max Qi. Consuming it in large quantities significantly diminish the effect of Qi Reserve expansion. It's said that a spring of Earth Flux can be found on Exultant Isle and in the Gemspring Cave of Mt. Shu.</Desc>
+			<Desc>Essence of what's deep inside the earth's crust, it is a liquid of milky white appearance and an ingredient that can be used in making various kinds of miraculous elixirs. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. Consuming it in large quantities significantly diminish the effect of พลังชี่ Reserve expansion. It's said that a spring of Earth Flux can be found on Exultant Isle and in the Gemspring Cave of Mt. Shu.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1" sParam="Item">
 			<ThingName>Wicked Flux</ThingName>
-			<Desc>Essence of what's deep inside the earth's crust with a bright red color. Consuming it directly replenishes a large amount of Stamina and expands Qi Reserve, increasing one's Max Qi. This substance has weak medicine ebb and can be taken multiple times. However, it will cause negative Qi to concentrate within, which has a permanent influence on the mind. Consuming it in large quantities greatly affect one's cultivation.</Desc>
+			<Desc>Essence of what's deep inside the earth's crust with a bright red color. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. This substance has weak medicine ebb and can be taken multiple times. However, it will cause negative พลังชี่ to concentrate within, which has a permanent influence on the mind. Consuming it in large quantities greatly affect one's cultivation.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence_1" sParam="Item">
 			<ThingName>Holy Essence</ThingName>
-			<Desc>Cream-like substance formed by coagulated Earth Flux. It can convert one's Qi into vital essence, decreasing Max Qi. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Only works the first time it's consumed.</Desc>
+			<Desc>Cream-like substance formed by coagulated Earth Flux. It can convert one's พลังชี่ into vital essence, decreasing ค่าพลังชี่สูงสุด. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Only works the first time it's consumed.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1_1" sParam="Item">
 			<ThingName>Evil Essence</ThingName>
-			<Desc>Cream-like substance formed by coagulated Corrupted Flux. It can convert one's vital essence into Qi, increasing Max Qi. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Can be consumed multiple times.</Desc>
+			<Desc>Cream-like substance formed by coagulated Corrupted Flux. It can convert one's vital essence into พลังชี่, increasing ค่าพลังชี่สูงสุด. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Can be consumed multiple times.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LifeStream" sParam="Item">
@@ -107,28 +107,28 @@
 		</Text>
 		<Text Name="Item_RedGinseng" sParam="Item">
 			<ThingName>โสมแดง</ThingName>
-			<Desc>The finest of โสม with a crimson red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as an elixir ingredient. When consumed directly, it can significantly improve people's natural resilience for 2 hours, and increase Max Qi by a small amount. But consuming it in large quantities significantly diminish the effect.</Desc>
+			<Desc>The finest of โสม with a crimson red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as an elixir ingredient. When consumed directly, it can significantly improve people's natural resilience for 2 hours, and increase ค่าพลังชี่สูงสุด by a small amount. But consuming it in large quantities significantly diminish the effect.</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
 			<ThingName>เห็ดหลินจือม่วง</ThingName>
-			<Desc>The finest of Lingzhi with a purplish red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Can be used to make some precious and rare elixirs. It prolong one's Lifespan by 10 years and slightly increase Max Qi if consumed directly, but consuming it in large quantities significantly diminish the effect.</Desc>
+			<Desc>The finest of Lingzhi with a purplish red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Can be used to make some precious and rare elixirs. It prolong one's Lifespan by 10 years and slightly increase ค่าพลังชี่สูงสุด if consumed directly, but consuming it in large quantities significantly diminish the effect.</Desc>
 			<Item.FabaoSuffix>Boongiver, เห็ดหลินจือม่วง, Powder, Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SoulPearl" sParam="Item">
 			<ThingName>Soul Pearl</ThingName>
-			<Desc>Inner Core of a Beast, with enormous Qi of Yin dwelling within it. It is said that the orb can be found in the Deathknell Cave of Mt. Hundred Insects.</Desc>
+			<Desc>Inner Core of a Beast, with enormous พลังชี่ of Yin dwelling within it. It is said that the orb can be found in the Deathknell Cave of Mt. Hundred Insects.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<Item.BeMaterial.NamePrefix>Beast Embryo</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MonsterBlood" sParam="Item">
 			<ThingName>Beast blood</ThingName>
-			<Desc>Blood of a Beast, with energetic Qi dwelling within. Even contained in a bottle, it still feels boiling hot. It is said that the Beast blood can be obtained at the Serpent Pit of Mt. Hundred Insects and the Village of Dunes in the Great Western Desert.</Desc>
+			<Desc>Blood of a Beast, with energetic พลังชี่ dwelling within. Even contained in a bottle, it still feels boiling hot. It is said that the Beast blood can be obtained at the Serpent Pit of Mt. Hundred Insects and the Village of Dunes in the Great Western Desert.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Mint" sParam="Item">
 			<ThingName>ใบพิศุทธิ์</ThingName>
-			<Desc>Common herb of a chilling quality, consuming directly can calm one's spirit and Qi. It also increases Mental State if the taker is an inner disciple.</Desc>
+			<Desc>Common herb of a chilling quality, consuming directly can calm one's spirit and พลังชี่. It also increases Mental State if the taker is an inner disciple.</Desc>
 			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_MagicHerb" sParam="Item">
@@ -193,7 +193,7 @@
 		</Text>
 		<Text Name="Item_XianBone" sParam="Item">
 			<ThingName>Divine Bones</ThingName>
-			<Desc>The remaining bones with divine power after an เซียน's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly Qi, significantly reducing your Attainment.</Desc>
+			<Desc>The remaining bones with divine power after an เซียน's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly พลังชี่, significantly reducing your Attainment.</Desc>
 			<Item.FabaoSuffix>Bone, Skeleton</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBoneBall" sParam="Item">

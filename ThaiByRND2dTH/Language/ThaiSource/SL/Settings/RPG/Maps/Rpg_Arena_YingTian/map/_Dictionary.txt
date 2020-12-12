@@ -1,6 +1,6 @@
 灵石灯柱	Spirit Stone Lamp Post
 金丝木小方桌	Goldwood Square Table
-金丝木法座	Goldwood Qi Cushion
+金丝木法座	Goldwood พลังชี่ Cushion
 角色出生点	Character Spawn Point
 寒精太玄冰柱	Ice Essence Ever-Ice Pillar
 天柱石钟	Holy Stone Bell

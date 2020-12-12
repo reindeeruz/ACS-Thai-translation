@@ -151,7 +151,7 @@
 			<Desc>Play with things</Desc>
 		</Text>
 		<Text Name="TrainQiGan">
-			<Desc>Hone Qi</Desc>
+			<Desc>Hone พลังชี่</Desc>
 		</Text>
 		<Text Name="TrainNeiDan">
 			<Desc>Practice Core</Desc>
@@ -208,13 +208,13 @@
 			<Desc>Use Spells on Ally</Desc>
 		</Text>
 		<Text Name="Feed_Item_Dan_Happiness">
-			<Desc>Feed Euphoria Pill</Desc>
+			<Desc>Feed ยาเม็ดเคลิ้มสุข</Desc>
 		</Text>
 		<Text Name="Feed_Item_Dan_PracticeSpeed">
-			<Desc>Feed Sprout Pill</Desc>
+			<Desc>Feed ยาเม็ดต้นอ่อน</Desc>
 		</Text>
 		<Text Name="Feed_Item_Dan_CalmDown">
-			<Desc>Feed Purity Pill</Desc>
+			<Desc>Feed ยาเม็ดพิศุทธิ์</Desc>
 		</Text>
 		<Text Name="Feed_Item_LingStone">
 			<Desc>Feed Spirit Stone</Desc>

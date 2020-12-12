@@ -69,16 +69,16 @@
 			<StoryDesc>The sky dims as dust and sand fill the air</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave">
-			<DisplayName>Qi Drought</DisplayName>
-			<StoryDesc>A Qi Drought arrives</StoryDesc>
+			<DisplayName>พลังชี่ Drought</DisplayName>
+			<StoryDesc>A พลังชี่ Drought arrives</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave">
-			<DisplayName>Burst of Qi</DisplayName>
-			<StoryDesc>Qi forces rise, and abound throughout the land</StoryDesc>
+			<DisplayName>Burst of พลังชี่</DisplayName>
+			<StoryDesc>พลังชี่ forces rise, and abound throughout the land</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Little">
-			<DisplayName>Qi Swell</DisplayName>
-			<StoryDesc>Qi pervades the air</StoryDesc>
+			<DisplayName>พลังชี่ Swell</DisplayName>
+			<StoryDesc>พลังชี่ pervades the air</StoryDesc>
 		</Text>
 		<Text Name="HeatWave">
 			<DisplayName>Heat</DisplayName>

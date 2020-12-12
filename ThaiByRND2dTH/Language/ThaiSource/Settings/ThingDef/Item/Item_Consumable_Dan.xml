@@ -28,25 +28,24 @@
 			<Desc>ยาเม็ดวิเศษสีม่วงดำ เมื่อกินยานี้จะฟื้นพลังชี่จำนวนมาก และเพิ่มค่าพลังชี่สูงสุด การกินยานี้บ่อย ๆ จะลดผลของยานี้ต่ำลงอย่างมาก ไม่ควรกินยานี้ก่อนระดับ Jindan ไม่เช่นนั้นมีโอกาสที่จะบาดเจ็บหรือตาย เนื่องจากทนผลจากยาไม่ได้</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeRate" sParam="Item">
-			<ThingName>Thought Pill</ThingName>
-			<Desc>
-			ยาที่ทำมาจากผลไม้ปราชญ์และใบพิศุทธิ์, it is capable of greatly accelerating one's thought process, doubling the probability of achieving Breakthrough. Lasts 24 hours. Consuming it in large quantities significantly diminish the effect.</Desc>
+			<ThingName>ยาเม็ดความคิด</ThingName>
+			<Desc>ยาที่ทำมาจากผลไม้ปราชญ์และใบพิศุทธิ์ มีความสามารถในการเร่งการประมวลความคิด ทำให้โอกาสข้ามขีดจำกัดสูงขึ้นสองเท่า ในระยะเวลา 24 ชั่วโมง หากกินยานี้ต่อ ๆ กัน ผลของยาจะลดลงอย่างมาก</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
-			<ThingName>Sprout Pill</ThingName>
-			<Desc>ยาที่ทำมาจากผลไม้แดงสด, it is capable of boosting Cultivation Speed by 30%. Lasts 24 hours.</Desc>
+			<ThingName>ยาเม็ดต้นอ่อน</ThingName>
+			<Desc>ยาที่ทำมาจากผลไม้แดงสด มีผลในการช่วยเพิ่มความเร็วในการฝึกตน 30% เป็นเวลา 24 ชั่วโมง</Desc>
 		</Text>
 		<Text Name="Item_Dan_CalmDown" sParam="Item">
-			<ThingName>Purity Pill</ThingName>
-			<Desc>ยาที่ทำมาจากใบพิศุทธิ์และผงน้ำแข็งคริสตัล, it can stabilize one's Mental State.</Desc>
+			<ThingName>ยาเม็ดพิศุทธิ์</ThingName>
+			<Desc>ยาที่ทำมาจากใบพิศุทธิ์และผงน้ำแข็งคริสตัล มีผลช่วยให้สถานะจิตอยู่ในสภาพคงที่</Desc>
 		</Text>
 		<Text Name="Item_Dan_Happiness" sParam="Item">
-			<ThingName>Euphoria Pill</ThingName>
-			<Desc>Pill that can make one feel happy for 2 days, but it also decreases the efficiency of doing everything by 50%.</Desc>
+			<ThingName>ยาเม็ดเคลิ้มสุข</ThingName>
+			<Desc>ยาเม็ดที่ช่วยให้ผู้กินมีรู้สึกมีความสุขเป็นเวลา 2 วัน แต่จะลดประสิทธิภาพการทำทุกอย่างลง 50%</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger" sParam="Item">
 			<ThingName>Inedia Pill</ThingName>
-			<Desc>Consume Inedia Pill to gain the ability of Qi Absorption for 2 days, automatically recovering Hunger.</Desc>
+			<Desc>Consume Inedia Pill to gain the ability of พลังชี่ Absorption for 2 days, automatically recovering Hunger.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger2" sParam="Item">
 			<ThingName>ยาเม็ดอดอาหาร</ThingName>
@@ -66,8 +65,8 @@
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi" sParam="Item">
-			<ThingName>Qi Flow Pill</ThingName>
-			<Desc>Pill that can neutralize the disordered Qi within one's body, it is capable of effectively curing injuries with the "Spirit" tag.</Desc>
+			<ThingName>พลังชี่ Flow Pill</ThingName>
+			<Desc>Pill that can neutralize the disordered พลังชี่ within one's body, it is capable of effectively curing injuries with the "Spirit" tag.</Desc>
 		</Text>
 		<Text Name="Item_Dan_WuLingSan" sParam="Item">
 			<ThingName>Heal Powder</ThingName>
@@ -147,35 +146,35 @@
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
 			<ThingName>Shield Pill</ThingName>
-			<Desc>Consume to enhance Body Protection Qi for 48 hours.</Desc>
+			<Desc>Consume to enhance Body Protection พลังชี่ for 48 hours.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling3" sParam="Item">
 			<ThingName>Divine Powder</ThingName>
-			<Desc>Consume to restore 300,000 Qi, as well as increasing Max Qi by 100,000 for 48 hours. If one's Cultivation is too low, the user may die from the explosion of Qi reserve.</Desc>
+			<Desc>Consume to restore 300,000 พลังชี่, as well as increasing ค่าพลังชี่สูงสุด by 100,000 for 48 hours. If one's Cultivation is too low, the user may die from the explosion of พลังชี่ reserve.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase1" sParam="Item">
 			<ThingName>Heavenly Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Perception by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consume to activate your primeval พลังชี่, increasing Perception by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase2" sParam="Item">
 			<ThingName>Earthly Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Constitution by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consume to activate your primeval พลังชี่, increasing Constitution by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase3" sParam="Item">
 			<ThingName>Ether Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Charisma by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consume to activate your primeval พลังชี่, increasing Charisma by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase4" sParam="Item">
 			<ThingName>Wisdom Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Intelligence by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consume to activate your primeval พลังชี่, increasing Intelligence by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase5" sParam="Item">
 			<ThingName>Blessed Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Luck by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
+			<Desc>Consume to activate your primeval พลังชี่, increasing Luck by 30% for 48 hours. However, 3 years of life will be lost as a result.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
 			<ThingName>Bane Pill</ThingName>
-			<Desc>Consume to activate your primeval Qi, increasing Five Attributes by 10% each. However, 60 years of life will be lost as a result.</Desc>
+			<Desc>Consume to activate your primeval พลังชี่, increasing Five Attributes by 10% each. However, 60 years of life will be lost as a result.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail1" sParam="Item">
 			<ThingName>Junk Pill</ThingName>
@@ -223,7 +222,7 @@
 		</Text>
 		<Text Name="Item_Dan_Soul2" sParam="Item">
 			<ThingName>Soulrend Pill</ThingName>
-			<Desc>Elixir made by utilizing Spirit Soul Gem as the catalyst. Consuming it grants Inspiration. However, your Qi reserve will be damaged due to its intensive potency. Decreases Max Qi by 10.</Desc>
+			<Desc>Elixir made by utilizing Spirit Soul Gem as the catalyst. Consuming it grants Inspiration. However, your พลังชี่ reserve will be damaged due to its intensive potency. Decreases ค่าพลังชี่สูงสุด by 10.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul3" sParam="Item">
 			<ThingName>Serene Pill</ThingName>
@@ -247,7 +246,7 @@
 		</Text>
 		<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
 			<ThingName>Spirit Seed</ThingName>
-			<Desc>Precious item created by combining Elemental Medicine with the Fortune Seed, it has many wonderful uses. When buried in the ground, it will automatically turn into spiritual veinsและextend to all directions, slowly converting the surrounding terrain into Spiritual Soil or Spiritual Water. Wearing it makes one immune to coldและheat, albeit at the cost of a decrease in Attainment due to tricking the ways of Heaven. Consuming it greatly increase one's Max Qi.</Desc>
+			<Desc>Precious item created by combining Elemental Medicine with the Fortune Seed, it has many wonderful uses. When buried in the ground, it will automatically turn into spiritual veinsและextend to all directions, slowly converting the surrounding terrain into Spiritual Soil or Spiritual Water. Wearing it makes one immune to coldและheat, albeit at the cost of a decrease in Attainment due to tricking the ways of Heaven. Consuming it greatly increase one's ค่าพลังชี่สูงสุด.</Desc>
 			<StoryBnts.0.Name>Bury</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Bury this item in the ground.</StoryBnts.0.Desc>
 		</Text>
@@ -270,7 +269,7 @@
 		</Text>
 		<Text Name="Item_Dan_FenShen1" sParam="Item">
 			<ThingName>Prime Pill</ThingName>
-			<Desc>Divine pill of the ancient times said to be made from a wisp of primeval Qi of clarityและturbidity from the world's creation. Its concocting method is long lost. By consuming this pill, one can reenact the creation of heavenและearth within one's Primordial Spirit, thus obtaining two sub-spirits. This pill can only be taken once during a lifetime. Only effective when one's Cultivation is at Primordial Spirit level.</Desc>
+			<Desc>Divine pill of the ancient times said to be made from a wisp of primeval พลังชี่ of clarityและturbidity from the world's creation. Its concocting method is long lost. By consuming this pill, one can reenact the creation of heavenและearth within one's Primordial Spirit, thus obtaining two sub-spirits. This pill can only be taken once during a lifetime. Only effective when one's Cultivation is at Primordial Spirit level.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen2" sParam="Item">
 			<ThingName>Unison Pill</ThingName>
@@ -290,23 +289,23 @@
 		</Text>
 		<Text Name="Item_Fall_LingZhi" sParam="Item">
 			<ThingName>Autumn Pill</ThingName>
-			<Desc>Improves the Qi of Metal element, so that the animal can gain a deeper understanding of autumnและfeel its corresponding thought.</Desc>
+			<Desc>Improves the พลังชี่ of Metal element, so that the animal can gain a deeper understanding of autumnและfeel its corresponding thought.</Desc>
 		</Text>
 		<Text Name="Item_Winter_LingZhi" sParam="Item">
 			<ThingName>Winter Pill</ThingName>
-			<Desc>Improves the Qi of Water element, so that the animal can gain a deeper understanding of winterและfeel its corresponding thought.</Desc>
+			<Desc>Improves the พลังชี่ of Water element, so that the animal can gain a deeper understanding of winterและfeel its corresponding thought.</Desc>
 		</Text>
 		<Text Name="Item_Spring_LingZhi" sParam="Item">
 			<ThingName>Spring Pill</ThingName>
-			<Desc>Improves the Qi of Wood element, so that the animal can gain a deeper understanding of springและfeel its corresponding thought.</Desc>
+			<Desc>Improves the พลังชี่ of Wood element, so that the animal can gain a deeper understanding of springและfeel its corresponding thought.</Desc>
 		</Text>
 		<Text Name="Item_Summer_LingZhi" sParam="Item">
 			<ThingName>Summer Pill</ThingName>
-			<Desc>Improves the Qi of Fire element, so that the animal can gain a deeper understanding of summerและfeel its corresponding thought.</Desc>
+			<Desc>Improves the พลังชี่ of Fire element, so that the animal can gain a deeper understanding of summerและfeel its corresponding thought.</Desc>
 		</Text>
 		<Text Name="Item_Earth_LingZhi" sParam="Item">
 			<ThingName>Earth Pill</ThingName>
-			<Desc>Improves the Qi of Earth element, so that the animal can gain a deeper understanding of earthและfeel its corresponding thought.</Desc>
+			<Desc>Improves the พลังชี่ of Earth element, so that the animal can gain a deeper understanding of earthและfeel its corresponding thought.</Desc>
 		</Text>
 	</List>
 </Texts>

@@ -14,7 +14,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 12	Rainstorm	A heavy rainstorm has started, and the Water Element across heaven and earth is extremely active.	Rainstorm	
 13	Foehn Wind	A dry and warm foehn wind has started, and the Fire Element across heaven and earth is extremely active.	Fohn	
 14	Dust Storm	A dust storm is sweeping across the land, and the Earth Element across heaven and earth is extremely active.	DustStorm	
-15	Qi Drought	For unknown reasons, it is in a drought season of Qi across heaven and earth.	LingRarefiedWave	
+15	พลังชี่ Drought	For unknown reasons, it is in a drought season of พลังชี่ across heaven and earth.	LingRarefiedWave	
 16	Heat	Summer heat is coming, so it will be extremely warm. Be sure to prevent heatstroke.	HeatWave	
 17	Cold Winter	A cold winter is coming, so the weather will be freezing. Be sure to stay warm.	ColdWave	
 18	Polar Night	A strange cloud is covering the sun. It will be a while until you can see sunlight again.	PermanentNight	
@@ -77,7 +77,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 80	Warm Wind	A gust of warm wind is passing through this area during the coldest days, and this winter will be a lot warmer.	HeatWaveInWinter	
 81	Chilly Wind	A gust of chilly wind is passing through this area during the hottest days, and this summer will be a lot chillier.	ColdWaveInSummer	
 82	Spirit of Harvest	A spirit of good harvest started to permeate the area.	HarvestAir	
-83	Burst of Qi	For unknown reasons, Qi across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave	
+83	Burst of พลังชี่	For unknown reasons, พลังชี่ across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave	
 84	Secret		49	
 85	Spring's Coming	The warmth of spring permeates the air.	SpringAir	
 86	Invasion of Beasts	A few rabbit monsters have shown up near here, and they are very hostile.	JYRabbit	TongYong_DropList
@@ -126,7 +126,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 129	Animal Joined	A rabbit has come to your sect, it seems to enjoy being here.	Rabbit	
 130	Animal Joined	A frog has come to your sect, it seems to enjoy being here.	Frog	
 1000	Dragon Passing By			Item_DragonShit|Item_DragonScale
-1001	Burst of Qi			
+1001	Burst of พลังชี่			
 1002	Phoenix Passing By			Item_BossFeng_HuoYu
 10000	Establishment	We live in seclusion here, trying to restart our cultivation. We also established a little sect of our own. Will this be the beginning of a new legend?\n\n[color=#D06508]Unlocked decorations.\nUnlocked more buildings.[/color]	FoundOrganization1	
 10001	Famous	Our sect has gradually earned its fame, which is not an easy task. Let's continue building it into a larger sect.\n\n[color=#D06508]The maximum population of the sect has been raised.[/color]	FoundOrganization2	
@@ -139,7 +139,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10008	Contented	Although you were still suffering from the loss of your senior disciples and masters, you gradually settled down. Noticing that this is a very secluded place and those chasing you seemed to have given up, you decided to live here after a small discussion.\n\n[color=#D06508][/color]		
 10009	A New Home	You seem to have gotten used to the life around here. Although it is not as reassuring as when you were still in the old sect, life here is still self-sufficient enough. Why can't this also be a form of cultivation?\nThis is a new home amidst all the chaos and unrest. Will it be a nice beginning as well? Everyone is full of hope.\n\n[color=#D06508]Unlocked Advanced Furniture\nUnlocked Advanced Work Stations[/color]	BaseExpect3	
 10010	Escaped Outer Disciple	Your outer disciple [NAME] has escaped at night because [IT] can no longer bear living here.		
-10011	Cultivator Again	Someone among us has broken through!\nThis one can suddenly feel the strong energy between heaven and earth: \nQi.\nThe gate of cultivation has finally opened for us.\n\n[color=#D06508]Qi has become visible.\nYou can establish a sect now.[/color]		
+10011	Cultivator Again	Someone among us has broken through!\nThis one can suddenly feel the strong energy between heaven and earth: \nQi.\nThe gate of cultivation has finally opened for us.\n\n[color=#D06508]พลังชี่ has become visible.\nYou can establish a sect now.[/color]		
 10012	Departure	I don't know what I have done wrong, but since you have asked, I will be on my way. Thanks, everyone, for your kindness these past days.\n[TXT] I am glad to have lived and worked with you.		
 10013	Prediction	[NAME]'s prediction for the future is:\n[TXT]		
 10014	Glowing Stone Casket	It is full moon tonight. The stone casket that the Taoist gave you suddenly glowed at midnight, and then a rift appeared. It seemed that you could easily open it.		
@@ -167,13 +167,13 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10036	Attack	To prevent you from growing, [NAME] living here has attacked.		
 10037	Restless	Sensing that your sect might not be a potential threat, [NAME] living here is conspiring against you...		
 10038	Attack	No longer able to resist the temptation of blood and flesh, [NAME] living here has attacked.		
-10039	Evolved	Affected by the weather and Qi, a [NAME] has been blessed and turned into a beast.		
+10039	Evolved	Affected by the weather and พลังชี่, a [NAME] has been blessed and turned into a beast.		
 10040	Sinister	[NAME] came to this place and suddenly felt something sinister, as if an evil creature was living nearby.		
 10041	ถ้ำลี้ลับ	The increasingly frequent earthquakes in your sect suddenly stopped recently, and at the same time, a ถ้ำลี้ลับ appeared on the ground.\nAncient cultivators are starting to appear in this realm more often. Maybe you can ask them for information.		
 10042	Threatening	The ถ้ำลี้ลับ suddenly became menacing, and it wanted you to sacrifice [TXT].		
 10043	Sacrificed	You completed the rite in front of the cavern, and the mysterious being was very satisfied.		
 10044	Rainstorm	The mysterious being within the cavern was very angry, and a rainstorm came at its enraged roar.	Rainstorm_AllSeason	
-10045	Qi Drought	The mysterious being within the cavern was very angry, and a strong pull from the cave sucked all the Qi around the place away.	LingRarefiedWave	
+10045	พลังชี่ Drought	The mysterious being within the cavern was very angry, and a strong pull from the cave sucked all the พลังชี่ around the place away.	LingRarefiedWave	
 10046	Polar Night	The mysterious being within the cavern was very angry, and a polar night started as the result of its anger.	PermanentNight	
 10047	Invasion of Beasts	The mysterious being within the cavern was very angry, and it attracted a few beasts to attack your sect.		
 10048	Dawn of Anger	The mysterious being within the cavern was very angry, and it spurted out a gush of water that broke the surface of the ground.		
@@ -193,9 +193,9 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10062	มังกรประทีป Born	The continued chaos of Yin and Yang finally reached its limit. With a drawn-out sigh, a giant creature started to manifest within the realm.		
 10063	มังกรประทีป's Chaos	As the strange eggs began to hatch, the Yin and Yang of this realm slowly lose balance.		
 10064	มังกรประทีป's Chaos	As the strange eggs were destroyed, the Yin and Yang of this realm slowly lose balance.		
-10065	Drastic Change	There has been a sudden burst of Qi in the Central Plains. As time goes by, people started to realize that the scale and intensity of the burst was beyond all expectations. It has been spreading from the central bursting point for more than a month, proving that it was actually a drastic change that would affect all cultivators.\nNow, the influence of the burst has reached your sect. As everyone enjoys the overflowing Qi, you wonder what this drastic change could mean for all of you...	LingUpWave_Sp	
-10066	Thousand-year Tide	It has been days since the burst of Qi finished spreading across the realm. From reading old documents, the famous sects eventually decided that it was the tide of Qi that surges every 3,000 years. Ancient cultivators that were in slumber for various reasons started to be revived one by one by the Thousand-year Tide.\nWithout the current order and rules, cultivators in ancient times believed in the law of the jungle. These cultivators with ancient beliefs and long experience in cultivation has caused chaos in the world of cultivators in only a few days...		
-10067	Disaster in the Wild South	A mysterious disaster happened recently on the mountains of the northern borderland. It was said that the ground and mountains shook for a minute, and the sound was so loud that it spread across thousands of miles. When the nearby cultivators arrived, they only found all the mountains to be drowned in water, with strong ominous Qi permeating the area.\nIt seems that a few rare and elusive ancient beasts that hide in the mountains and lakes are affected by the Thousand-year Tide and have become active again.		
+10065	Drastic Change	There has been a sudden burst of พลังชี่ in the Central Plains. As time goes by, people started to realize that the scale and intensity of the burst was beyond all expectations. It has been spreading from the central bursting point for more than a month, proving that it was actually a drastic change that would affect all cultivators.\nNow, the influence of the burst has reached your sect. As everyone enjoys the overflowing พลังชี่, you wonder what this drastic change could mean for all of you...	LingUpWave_Sp	
+10066	Thousand-year Tide	It has been days since the burst of พลังชี่ finished spreading across the realm. From reading old documents, the famous sects eventually decided that it was the tide of พลังชี่ that surges every 3,000 years. Ancient cultivators that were in slumber for various reasons started to be revived one by one by the Thousand-year Tide.\nWithout the current order and rules, cultivators in ancient times believed in the law of the jungle. These cultivators with ancient beliefs and long experience in cultivation has caused chaos in the world of cultivators in only a few days...		
+10067	Disaster in the Wild South	A mysterious disaster happened recently on the mountains of the northern borderland. It was said that the ground and mountains shook for a minute, and the sound was so loud that it spread across thousands of miles. When the nearby cultivators arrived, they only found all the mountains to be drowned in water, with strong ominous พลังชี่ permeating the area.\nIt seems that a few rare and elusive ancient beasts that hide in the mountains and lakes are affected by the Thousand-year Tide and have become active again.		
 10068	Underground Noise	The Thousand-year Tide has passed. In a little more than a month, ancient cultivators were revived, and ancient beasts started to become active again... The world of cultivators was faced with the drastic change. As time goes by, the world of cultivators has gradually regained its peace and balance. Everything seems to be back on track.\nHowever, underground shakes started to happen frequently in your sect. You don't know what is going on...		
 10069	Invasion of an Ancient Cultivator	This ancient cultivator has successfully found your sect after careful investigation.		
 10070	Beast Awakens	The beast occupying this land has awakened.		
@@ -278,7 +278,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 30012	Rainstorm	A heavy rainstorm has started, and the Water Element across heaven and earth is extremely active.	Rainstorm	
 30013	Foehn Wind	A dry and warm foehn wind has started, and the Fire Element across heaven and earth is extremely active.	Fohn	
 30014	Dust Storm	A dust storm is sweeping across the land, and the Earth Element across heaven and earth is extremely active.	DustStorm	
-30015	Qi Drought	For unknown reasons, it is in a drought season of Qi across heaven and earth.	LingRarefiedWave_Longer	
+30015	พลังชี่ Drought	For unknown reasons, it is in a drought season of พลังชี่ across heaven and earth.	LingRarefiedWave_Longer	
 30018	Polar Night	A strange cloud is covering the sun. It will be a while until you can see sunlight again.	PolarNight	
 30019	Miasma	Noxious air is rising over the whole area, and the Wood Element across heaven and earth is extremely active.	Miasma	
 30020	Thunderstorm	A thunderstorm is coming, and the Metal Element across heaven and earth is extremely active.	LightningStorm	
@@ -288,7 +288,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 30043	Confused Stranger	A stranger lost their way around here, and wishes that we could help them.	Confused Stranger	
 30044	Curious Stranger	A curious stranger came across this place by accident, and [IT] want to know what we are doing exactly.	Curious Stranger	
 30045	Injured Stranger	A stranger is injured, and [IT] wish to stay here for a while and ask for our help.	Injured Stranger	RandomDamage
-30083	Burst of Qi	For unknown reasons, Qi across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave_Shorter	
+30083	Burst of พลังชี่	For unknown reasons, พลังชี่ across heaven and earth suddenly started to burst out. A few plants were affected and became Spiritwood.	LingUpWave_Shorter	
 30111	Dust Storm	Due to the influence of the Earthmother Shrine, a dust storm has occured.	DustStorm_Dimu	
 30112	Invasion of Beasts	The Earthmother Shrine has absorbed some nutrition from the soil, enraging a pack of monsters. They have grown hostile!		
 30113	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		

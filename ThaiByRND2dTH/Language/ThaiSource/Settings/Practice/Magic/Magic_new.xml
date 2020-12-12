@@ -75,7 +75,7 @@
 		</Text>
 		<Text Name="FenShenZhiShu">
 			<DisplayName>แยกวิญญาณ</DisplayName>
-			<Desc>Manipulate your Primordial Spirit and forcing it to split in order to obtain an additional sub-spirit. You will lose Max Qi in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.</Desc>
+			<Desc>Manipulate your Primordial Spirit and forcing it to split in order to obtain an additional sub-spirit. You will lose ค่าพลังชี่สูงสุด in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.</Desc>
 		</Text>
 		<Text Name="LinghunKaowen">
 			<DisplayName>Soul Interrogation</DisplayName>
@@ -106,33 +106,33 @@
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="DianHua">
-			<DisplayName>Qi of Genesis</DisplayName>
+			<DisplayName>พลังชี่ of Genesis</DisplayName>
 			<Desc>Casts spells to simulate the various changes of nature and make the animal feel the magnificence of creations to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="Magic_Angry">
 			<DisplayName>Understanding: Resentment</DisplayName>
-			<Desc>Uses Wood Qi to make the animal feel resentment to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
+			<Desc>Uses Wood พลังชี่ to make the animal feel resentment to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="Magic_Happy">
 			<DisplayName>Understanding: Joy</DisplayName>
-			<Desc>Uses Fire Qi to make the animal feel joy to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
+			<Desc>Uses Fire พลังชี่ to make the animal feel joy to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="Magic_Miss">
 			<DisplayName>Understanding: Thoughts</DisplayName>
-			<Desc>Uses Earth Qi to make the animal have thoughts to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
+			<Desc>Uses Earth พลังชี่ to make the animal have thoughts to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="Magic_Afraid">
 			<DisplayName>Understanding: Fear</DisplayName>
-			<Desc>Uses Water Qi to make the animal have fear to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
+			<Desc>Uses Water พลังชี่ to make the animal have fear to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="Magic_Worry">
 			<DisplayName>Understanding: Anxiety</DisplayName>
-			<Desc>Uses Metal Qi to make the animal have anxiety to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
+			<Desc>Uses Metal พลังชี่ to make the animal have anxiety to awaken its intelligence. This spell is harmful for the Creed of Heaven and costs lifespan.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="Magic_YuanLing">

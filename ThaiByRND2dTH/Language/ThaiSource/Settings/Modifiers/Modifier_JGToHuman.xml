@@ -2,15 +2,15 @@
 	<List>
 		<Text Name="FoodToHuman">
 			<DisplayName>Sentient Food Spirit</DisplayName>
-			<Desc>Naturally possesses high Qi Absorption capabilities.</Desc>
+			<Desc>Naturally possesses high พลังชี่ Absorption capabilities.</Desc>
 		</Text>
 		<Text Name="LingStoneToHuman">
 			<DisplayName>Sentient Stone Spirit</DisplayName>
-			<Desc>Naturally possesses high Base Qi.</Desc>
+			<Desc>Naturally possesses high Base พลังชี่.</Desc>
 		</Text>
 		<Text Name="FabaoToHuman">
 			<DisplayName>Sentient Artifact Spirit</DisplayName>
-			<Desc>Naturally possesses high artifact Qi recovery rate and conversion ratio.</Desc>
+			<Desc>Naturally possesses high artifact พลังชี่ recovery rate and conversion ratio.</Desc>
 		</Text>
 		<Text Name="DanToHuman">
 			<DisplayName>Sentient Elixir</DisplayName>

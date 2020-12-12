@@ -6,7 +6,7 @@
 灵石长明兽神灯	Spirit Stone Animalian Ever-burning Lamp
 灵石腾龙柱	Spirit Stone Dragonrising Pillar
 金丝木小方桌	Goldwood Square Table
-金丝木法座	Goldwood Qi Cushion
+金丝木法座	Goldwood พลังชี่ Cushion
 角色出生点	Born Point
 逻辑点	Logic Point
 演武场	Arena

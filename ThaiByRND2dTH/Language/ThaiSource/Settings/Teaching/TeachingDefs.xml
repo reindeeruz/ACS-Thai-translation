@@ -151,7 +151,7 @@
 			<Tasks.30.TaskDesc>Click the fogged area in the top left corner to issue an Explore task.</Tasks.30.TaskDesc>
 			<Tasks.32.TaskDesc>Wait until the exploration is complete.</Tasks.32.TaskDesc>
 			<Tasks.35.TaskDesc>Click the giant ginkgo found in the exploration.</Tasks.35.TaskDesc>
-			<Tasks.36.TipsData.Desc>Giant ginkgo is not only beautiful but can also gather Qi. It is a helpful and rare resource for the early stage of training.</Tasks.36.TipsData.Desc>
+			<Tasks.36.TipsData.Desc>Giant ginkgo is not only beautiful but can also gather พลังชี่. It is a helpful and rare resource for the early stage of training.</Tasks.36.TipsData.Desc>
 			<Tasks.37.TaskDesc>Click the lotus found in the exploration.</Tasks.37.TaskDesc>
 			<Tasks.38.TipsData.Desc>In the early stages, lotus is an affordable resource for food.</Tasks.38.TipsData.Desc>
 			<Tasks.40.TipsData.Desc>The player can use Explore to gradually search all the areas in the map and discover new resources, soils, animals, etc.</Tasks.40.TipsData.Desc>
@@ -486,18 +486,18 @@
 		</Text>
 		<Text Name="FuQi">
 			<Type>Cultivation</Type>
-			<DisplayName>Qi Absorption &amp; Fasting</DisplayName>
-			<Desc>Learn the meaning of Qi absorption and fasting and the different between the two in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<DisplayName>พลังชี่ Absorption &amp; Fasting</DisplayName>
+			<Desc>Learn the meaning of พลังชี่ absorption and fasting and the different between the two in this tutorial.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>What is Fasting</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Check ยาเม็ดอดอาหาร</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Check Need for Food</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Use ยาเม็ดอดอาหาร</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Check Need for Food Again</Chapters.0.Tasks.3>
-			<Chapters.1.DisplayName>What is Qi Absorption</Chapters.1.DisplayName>
+			<Chapters.1.DisplayName>What is พลังชี่ Absorption</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Check Inedia Pill</Chapters.1.Tasks.0>
-			<Chapters.1.Tasks.1>Check the Qi Absorption Bar</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.1>Check the พลังชี่ Absorption Bar</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Use Inedia Pill</Chapters.1.Tasks.2>
-			<Chapters.1.Tasks.3>Check the Qi Absorption Bar Again</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.3>Check the พลังชี่ Absorption Bar Again</Chapters.1.Tasks.3>
 			<Tasks.1.TaskDesc>The player can place the cursor on ยาเม็ดอดอาหาร to see the instruction.</Tasks.1.TaskDesc>
 			<Tasks.3.TaskDesc>Click and select an inner disciple.</Tasks.3.TaskDesc>
 			<Tasks.4.TaskDesc>The player can place the cursor on the Need for Food bar to check the need.</Tasks.4.TaskDesc>
@@ -516,7 +516,7 @@
 			<Tasks.23.TaskDesc>Click to select Inedia Pill.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Wait until the NPC eats the pill.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>The player can place the cursor on the Need for Food bar to see the change.</Tasks.27.TaskDesc>
-			<Tasks.29.TipsData.Desc>The reason for Qi absorption is to gain energy from the environment in order to maintain the level of hunger and thirst. The more efficient a disciple absorbs Qi, the better they can convert food to stamina. When an inner disciple's consumption of food and water increase, the amount of stamina converted will increase too.</Tasks.29.TipsData.Desc>
+			<Tasks.29.TipsData.Desc>The reason for พลังชี่ absorption is to gain energy from the environment in order to maintain the level of hunger and thirst. The more efficient a disciple absorbs พลังชี่, the better they can convert food to stamina. When an inner disciple's consumption of food and water increase, the amount of stamina converted will increase too.</Tasks.29.TipsData.Desc>
 		</Text>
 		<Text Name="DProduction">
 			<Type>Cultivation</Type>
@@ -535,7 +535,7 @@
 			<Chapters.2.Tasks.0>Draw Agility Talisman</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Influence of Paper on Talismans</Chapters.2.Tasks.1>
 			<Chapters.3.DisplayName>How to Smelt</Chapters.3.DisplayName>
-			<Chapters.3.Tasks.0>Check an Item's Qi</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.0>Check an Item's พลังชี่</Chapters.3.Tasks.0>
 			<Chapters.3.Tasks.1>Smelt items</Chapters.3.Tasks.1>
 			<Tasks.1.TipsData.Desc>After a disciple becomes an inner disciple, there will be new interactions waiting to be activated by building these unique buildings.</Tasks.1.TipsData.Desc>
 			<Tasks.3.TaskDesc>Click and select an inner disciple.</Tasks.3.TaskDesc>
@@ -562,7 +562,7 @@
 			<Tasks.27.TaskDesc>The player can place the cursor on Graystone Blade to check its material and tier, and the success rate and requirements for crafting are also shown above.</Tasks.27.TaskDesc>
 			<Tasks.29.TaskDesc>Click and select Graystone Blade to craft.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Wait until the artifact is crafted.</Tasks.30.TaskDesc>
-			<Tasks.32.TipsData.Desc>Any common material can be used to craft artifacts, but it will cost an amount of Qi. The higher the tier, the more Qi it needs. The success rate for artifact crafting is positively associated with the disciple's mental state as well as their artifact crafting level.</Tasks.32.TipsData.Desc>
+			<Tasks.32.TipsData.Desc>Any common material can be used to craft artifacts, but it will cost an amount of พลังชี่. The higher the tier, the more พลังชี่ it needs. The success rate for artifact crafting is positively associated with the disciple's mental state as well as their artifact crafting level.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Click Draw in the character's Status menu.</Tasks.34.TaskDesc>
 			<Tasks.34.UiData.Name>Draw</Tasks.34.UiData.Name>
 			<Tasks.35.TaskDesc>Click to select a talisman paper.</Tasks.35.TaskDesc>
@@ -576,13 +576,13 @@
 			<Tasks.44.TipsData.Desc>As shown in the Produce page, there are a few different kinds of talisman paper, which will have different bonus effects after the talisman is drawn. Generally speaking, the bonus effect is positively associated with the tier of the talisman paper.</Tasks.44.TipsData.Desc>
 			<Tasks.45.TaskDesc>Close the Produce page.</Tasks.45.TaskDesc>
 			<Tasks.47.TipsData.Desc>How well the player draws the talisman will be the quality of the final product, which is also an important factor that influences its effect.</Tasks.47.TipsData.Desc>
-			<Tasks.49.TaskDesc>The player can place the cursor on Rubbish to see how much Qi it has absorbed and stored.</Tasks.49.TaskDesc>
+			<Tasks.49.TaskDesc>The player can place the cursor on Rubbish to see how much พลังชี่ it has absorbed and stored.</Tasks.49.TaskDesc>
 			<Tasks.51.TaskDesc>Click Smelt in the bottom of the screen.</Tasks.51.TaskDesc>
 			<Tasks.52.TaskDesc>Click to select Rubbish.</Tasks.52.TaskDesc>
 			<Tasks.53.TaskDesc>Right-click to cancel the target selection mode.</Tasks.53.TaskDesc>
 			<Tasks.55.TaskDesc>Wait until smelting is complete.</Tasks.55.TaskDesc>
 			<Tasks.56.TipsData.Desc>The player has obtained a few หินวิญญาณ by smelting rubbish just now.</Tasks.56.TipsData.Desc>
-			<Tasks.58.TipsData.Desc>In the game, various items will gradually absorb Qi from nature. An inner disciple can smelt them to obtain หินวิญญาณ and dispose of unneeded resources.</Tasks.58.TipsData.Desc>
+			<Tasks.58.TipsData.Desc>In the game, various items will gradually absorb พลังชี่ from nature. An inner disciple can smelt them to obtain หินวิญญาณ and dispose of unneeded resources.</Tasks.58.TipsData.Desc>
 		</Text>
 		<Text Name="LookPractice">
 			<Type>Cultivation</Type>
@@ -593,7 +593,7 @@
 			<Chapters.0.Tasks.1>Check Law Matching</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Check Five Elements Matching</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Check Master and Disciple</Chapters.0.Tasks.3>
-			<Chapters.0.Tasks.4>Check Qi Density</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.4>Check พลังชี่ Density</Chapters.0.Tasks.4>
 			<Chapters.0.Tasks.5>Check Coziness</Chapters.0.Tasks.5>
 			<Chapters.0.Tasks.6>Check Season</Chapters.0.Tasks.6>
 			<Chapters.0.Tasks.7>Check Mood</Chapters.0.Tasks.7>
@@ -603,7 +603,7 @@
 			<Tasks.4.TaskDesc>The player can place the cursor to see the info on Law Matching in the Practice menu. The better the Law matches, the more efficient the cultivation will be.</Tasks.4.TaskDesc>
 			<Tasks.6.TaskDesc>The player can place the cursor to see the info on Five Elements Matching in the Practice menu. The better the Five Elements match, the more efficient the cultivation will be.</Tasks.6.TaskDesc>
 			<Tasks.8.TaskDesc>The player can place the cursor to see the info on Master and Disciple in the Practice menu. If assisted by a master in a higher cultivation state, a disciple's cultivation speed will increase, and it will be more efficient if the master and disciple train using the same Law.</Tasks.8.TaskDesc>
-			<Tasks.10.TaskDesc>The player can place the cursor to see the info on Qi Density in the Practice menu. A disciple will train faster in an environment with higher Qi density.</Tasks.10.TaskDesc>
+			<Tasks.10.TaskDesc>The player can place the cursor to see the info on พลังชี่ Density in the Practice menu. A disciple will train faster in an environment with higher พลังชี่ density.</Tasks.10.TaskDesc>
 			<Tasks.12.TaskDesc>The player can place the cursor to see the info on Coziness in the Practice menu. Cozy buildings usually include beds, cushions, thrones, Altar of Magic, etc.</Tasks.12.TaskDesc>
 			<Tasks.14.TaskDesc>The player can place the cursor to see the info on Season in the Practice menu. Seasons have different bonus effects for disciples depending on the elemental attributes of their Laws, so it is important to choose a suitable season for cultivation and breakthrough.</Tasks.14.TaskDesc>
 			<Tasks.16.TaskDesc>The player can place the cursor to see the info on Mood in the Practice menu. An inner disciple's moods to some extent affects the cultivation, and a disciple in a better mood will often train more efficiently.</Tasks.16.TaskDesc>
@@ -612,12 +612,12 @@
 		</Text>
 		<Text Name="LingQi">
 			<Type>Cultivation</Type>
-			<DisplayName>Qi &amp; Qi Gathering</DisplayName>
-			<Desc>In this tutorial, learn the source and effect of Qi, an item's ability to condense Qi and how to condense Qi.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Qi Density &amp; Qi Recovery Rate</Chapters.0.DisplayName>
-			<Chapters.0.Tasks.0>Check Qi and Qi Recovery Rate</Chapters.0.Tasks.0>
-			<Chapters.0.Tasks.1>Check Qi Density</Chapters.0.Tasks.1>
-			<Chapters.1.DisplayName>Effect and Range of Qi Gathering</Chapters.1.DisplayName>
+			<DisplayName>พลังชี่ &amp; พลังชี่ Gathering</DisplayName>
+			<Desc>In this tutorial, learn the source and effect of พลังชี่, an item's ability to condense พลังชี่ and how to condense พลังชี่.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>พลังชี่ Density &amp; พลังชี่ Recovery Rate</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Check พลังชี่ and พลังชี่ Recovery Rate</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Check พลังชี่ Density</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Effect and Range of พลังชี่ Gathering</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Place Gnarled Vine</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Place Jade Essence</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Place Spiritwood</Chapters.1.Tasks.2>
@@ -625,15 +625,15 @@
 			<Chapters.1.Tasks.4>Inspect Gnarled Vine</Chapters.1.Tasks.4>
 			<Chapters.1.Tasks.5>Inspect Jade Essence</Chapters.1.Tasks.5>
 			<Chapters.1.Tasks.6>Inspect Spiritwood</Chapters.1.Tasks.6>
-			<Chapters.2.DisplayName>Other Items that Condense Qi</Chapters.2.DisplayName>
+			<Chapters.2.DisplayName>Other Items that Condense พลังชี่</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Inspect Giant Ginkgo</Chapters.2.Tasks.0>
-			<Tasks.0.TipsData.Desc>Qi that exists in nature can be absorbed by most items, buildings and plants. An inner disciple can absorb and convert the natural Qi into their own, and also use other methods to absorb Qi from items, buildings and plants.</Tasks.0.TipsData.Desc>
+			<Tasks.0.TipsData.Desc>พลังชี่ that exists in nature can be absorbed by most items, buildings and plants. An inner disciple can absorb and convert the natural พลังชี่ into their own, and also use other methods to absorb พลังชี่ from items, buildings and plants.</Tasks.0.TipsData.Desc>
 			<Tasks.2.TaskDesc>Click and select an inner disciple.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>The player can place the cursor to inspect Qi and Qi Recovery. Inner disciples can also absorb the natural Qi to replenish their own Qi.</Tasks.3.TaskDesc>
+			<Tasks.3.TaskDesc>The player can place the cursor to inspect พลังชี่ and พลังชี่ Recovery. Inner disciples can also absorb the natural พลังชี่ to replenish their own พลังชี่.</Tasks.3.TaskDesc>
 			<Tasks.5.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.5.TaskDesc>
-			<Tasks.6.TipsData.Desc>The player can place the cursor to see the current Qi Density in the Practice menu and therefore use it to assess the environment of Qi around an disciple.</Tasks.6.TipsData.Desc>
+			<Tasks.6.TipsData.Desc>The player can place the cursor to see the current พลังชี่ Density in the Practice menu and therefore use it to assess the environment of พลังชี่ around an disciple.</Tasks.6.TipsData.Desc>
 			<Tasks.7.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.7.TaskDesc>
-			<Tasks.9.TipsData.Desc>The player can let inner disciples practice in a place with high Qi density that helps to increase the cultivation speed and quickly recover their Qi.</Tasks.9.TipsData.Desc>
+			<Tasks.9.TipsData.Desc>The player can let inner disciples practice in a place with high พลังชี่ density that helps to increase the cultivation speed and quickly recover their พลังชี่.</Tasks.9.TipsData.Desc>
 			<Tasks.11.TaskDesc>Click to select Gnarled Vine.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Click Place.</Tasks.12.TaskDesc>
 			<Tasks.12.UiData.Name>Place</Tasks.12.UiData.Name>
@@ -648,12 +648,12 @@
 			<Tasks.21.TaskDesc>Click to select Display (Holy Stone Floor).</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Wait for them to be placed.</Tasks.25.TaskDesc>
-			<Tasks.27.TaskDesc>Check the Qi Gathering of Gnarled Vine on the Display.</Tasks.27.TaskDesc>
-			<Tasks.29.TaskDesc>Check the Qi Gathering of Jade Essence on the Display.</Tasks.29.TaskDesc>
-			<Tasks.31.TaskDesc>Check the Qi Gathering of Spiritwood on the Display.</Tasks.31.TaskDesc>
-			<Tasks.33.TipsData.Desc>An item's ability to condense Qi is positively associated with its Qi Gathering, and the Qi Density around the item will slowly increase as well. A wider range of Qi Gathering means it will affect the Qi Density of a larger area. Therefore, Qi is always flowing from areas with low Qi Gathering to those with high Qi Gathering.</Tasks.33.TipsData.Desc>
-			<Tasks.35.TaskDesc>Check the Qi Gathering of Huge Ginkgo.</Tasks.35.TaskDesc>
-			<Tasks.37.TipsData.Desc>In the game, not only can items condense Qi, but some plants, buildings, locations have the same effect and can be used as Qi condensers to affect and change the Qi Density in the environment, and the player can utilize them to create a unique environment of Qi.</Tasks.37.TipsData.Desc>
+			<Tasks.27.TaskDesc>Check the พลังชี่ Gathering of Gnarled Vine on the Display.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Check the พลังชี่ Gathering of Jade Essence on the Display.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Check the พลังชี่ Gathering of Spiritwood on the Display.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>An item's ability to condense พลังชี่ is positively associated with its พลังชี่ Gathering, and the พลังชี่ Density around the item will slowly increase as well. A wider range of พลังชี่ Gathering means it will affect the พลังชี่ Density of a larger area. Therefore, พลังชี่ is always flowing from areas with low พลังชี่ Gathering to those with high พลังชี่ Gathering.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Check the พลังชี่ Gathering of Huge Ginkgo.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>In the game, not only can items condense พลังชี่, but some plants, buildings, locations have the same effect and can be used as พลังชี่ condensers to affect and change the พลังชี่ Density in the environment, and the player can utilize them to create a unique environment of พลังชี่.</Tasks.37.TipsData.Desc>
 		</Text>
 		<Text Name="WuXing">
 			<Type>Cultivation</Type>
@@ -719,8 +719,8 @@
 			<Chapters.1.Tasks.2>Check the Change in Mental State</Chapters.1.Tasks.2>
 			<Chapters.2.DisplayName>Eat to Adjust Mental State</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Check the Effect of ใบพิศุทธิ์</Chapters.2.Tasks.0>
-			<Chapters.2.Tasks.1>Check the Effect of Purity Pill</Chapters.2.Tasks.1>
-			<Chapters.2.Tasks.2>Eat Purity Pill</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.1>Check the Effect of ยาเม็ดพิศุทธิ์</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Eat ยาเม็ดพิศุทธิ์</Chapters.2.Tasks.2>
 			<Chapters.2.Tasks.3>Check the Change in Mental State</Chapters.2.Tasks.3>
 			<Tasks.1.TaskDesc>Click the notification for 'mentally unstable' in the left.</Tasks.1.TaskDesc>
 			<Tasks.3.TaskDesc>Click Mood &amp; Social in the right side of the character's Status menu.</Tasks.3.TaskDesc>
@@ -735,12 +735,12 @@
 			<Tasks.20.TaskDesc>This disciple has restored a little mental state after seeking peace.</Tasks.20.TaskDesc>
 			<Tasks.22.TipsData.Desc>It will take some time to recover a disciple's mental state by seeking peace, so when it's an emergency, other methods need be applied to restore mental state.</Tasks.22.TipsData.Desc>
 			<Tasks.24.TaskDesc>The player can read the instruction for ใบพิศุทธิ์ to know its effect.</Tasks.24.TaskDesc>
-			<Tasks.26.TaskDesc>The player can read the instruction for Purity Pill to know its effect.</Tasks.26.TaskDesc>
+			<Tasks.26.TaskDesc>The player can read the instruction for ยาเม็ดพิศุทธิ์ to know its effect.</Tasks.26.TaskDesc>
 			<Tasks.27.TaskDesc>Click the Eat button in the menu below the NPC.</Tasks.27.TaskDesc>
 			<Tasks.27.UiData.Name>Eat</Tasks.27.UiData.Name>
-			<Tasks.29.TaskDesc>Click to select Purity Pill.</Tasks.29.TaskDesc>
-			<Tasks.31.TaskDesc>Wait until the Purity Pill is consumed.</Tasks.31.TaskDesc>
-			<Tasks.33.TaskDesc>This disciple has restored a little mental state after eating Purity Pill. The player can observe these changes by checking the mental state.</Tasks.33.TaskDesc>
+			<Tasks.29.TaskDesc>Click to select ยาเม็ดพิศุทธิ์.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Wait until the ยาเม็ดพิศุทธิ์ is consumed.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>This disciple has restored a little mental state after eating ยาเม็ดพิศุทธิ์. The player can observe these changes by checking the mental state.</Tasks.33.TaskDesc>
 			<Tasks.35.TipsData.Desc>Items like elixirs, treasures and rare medicine can be used to restore an inner disciple's mental state to ensure it is stable. Besides these, there are other items that can restore or improve mental state, such as miracles, talismans, manuals, decorations, Feng Shui Relics, etc., waiting for the player to explore.</Tasks.35.TipsData.Desc>
 		</Text>
 		<Text Name="Broken">
@@ -766,7 +766,7 @@
 			<Tasks.8.TipsData.Desc>When an inner disciple's practice reaches a limit in the current state, they can only begin the next phase after a successful breakthrough, so it is especially important to know the methods for breakthrough. There are many ways to break through a limit, for example, relying on environment and chance, going on adventures, reliving the life of an outer disciple, surviving a tribulation of thunder, etc. This tutorial teaches how to rely on environment and chance.</Tasks.8.TipsData.Desc>
 			<Tasks.10.TaskDesc>Click Breakthrough in the character's Status menu.</Tasks.10.TaskDesc>
 			<Tasks.10.UiData.Name>Breakthrough</Tasks.10.UiData.Name>
-			<Tasks.11.TipsData.Desc>Resource Cost in the right indicates breakthrough will cost an amount of resources like Qi, lifespan, items and experience. If the requirements are not met, the player cannot select a location for breakthrough.</Tasks.11.TipsData.Desc>
+			<Tasks.11.TipsData.Desc>Resource Cost in the right indicates breakthrough will cost an amount of resources like พลังชี่, lifespan, items and experience. If the requirements are not met, the player cannot select a location for breakthrough.</Tasks.11.TipsData.Desc>
 			<Tasks.12.TipsData.Desc>Breakthrough info in the left shows the info on this limit and sometimes it will give the player useful tips like 'This breakthrough will be more difficult for characters with high intelligence'.</Tasks.12.TipsData.Desc>
 			<Tasks.13.TipsData.Desc>Bonus in the center indicates the bonus chance of success that the current environment in the selected location adds to the breakthrough.</Tasks.13.TipsData.Desc>
 			<Tasks.15.TipsData.Desc>Disciples need to rely on the combined effect of different factors to break through a limit, so it is crucial to know how to check the chance of breakthrough.</Tasks.15.TipsData.Desc>
@@ -855,8 +855,8 @@
 			<Chapters.1.DisplayName>Use Elixirs to Heal Inner Injuries</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Select Another Disciple</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Check Alchemy</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Use Qi Flow Pill</Chapters.1.Tasks.2>
-			<Chapters.1.Tasks.3>Wait Until Qi Flow Pill Is Used</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.2>Use พลังชี่ Flow Pill</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Wait Until พลังชี่ Flow Pill Is Used</Chapters.1.Tasks.3>
 			<Chapters.1.Tasks.4>Check the Injury of the Disciple</Chapters.1.Tasks.4>
 			<Chapters.2.DisplayName>Use Miracles to Heal Inner Injuries</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Use the Miracle Panacea</Chapters.2.Tasks.0>
@@ -867,20 +867,20 @@
 			<Tasks.5.TaskDesc>The player can check the "Spirit" tag above the damage to quickly know the type of injury.</Tasks.5.TaskDesc>
 			<Tasks.7.TaskDesc>The player can check the "Fire" tag above the damage to quickly know the type of injury.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Close the menu.</Tasks.8.TaskDesc>
-			<Tasks.10.TipsData.Desc>There are mainly six types of inner injuries, that is, "Spirit", "Metal", "Wood", "Water", "Fire" and "Earth". Actions like failed breakthrough, fighting enemies and eating food with too much Qi could all cause these types of inner injuries. If not treated in time, it is very likely for the disciple to die.</Tasks.10.TipsData.Desc>
+			<Tasks.10.TipsData.Desc>There are mainly six types of inner injuries, that is, "Spirit", "Metal", "Wood", "Water", "Fire" and "Earth". Actions like failed breakthrough, fighting enemies and eating food with too much พลังชี่ could all cause these types of inner injuries. If not treated in time, it is very likely for the disciple to die.</Tasks.10.TipsData.Desc>
 			<Tasks.12.TaskDesc>Click and select another inner disciple.</Tasks.12.TaskDesc>
 			<Tasks.14.TaskDesc>Click Alchemy in the character's Status menu.</Tasks.14.TaskDesc>
 			<Tasks.14.UiData.Name>Alchemy</Tasks.14.UiData.Name>
 			<Tasks.15.TaskDesc>The player can place the cursor on Restoration Powder to see its effect.</Tasks.15.TaskDesc>
-			<Tasks.16.TaskDesc>The player can place the cursor on Qi Flow Pill to see its effect.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>The player can place the cursor on พลังชี่ Flow Pill to see its effect.</Tasks.16.TaskDesc>
 			<Tasks.17.TaskDesc>Close the page.</Tasks.17.TaskDesc>
-			<Tasks.19.TaskDesc>Click to select Qi Flow Pill.</Tasks.19.TaskDesc>
+			<Tasks.19.TaskDesc>Click to select พลังชี่ Flow Pill.</Tasks.19.TaskDesc>
 			<Tasks.20.TaskDesc>Click the Feed button in the Status menu.</Tasks.20.TaskDesc>
 			<Tasks.20.UiData.Name>Feed</Tasks.20.UiData.Name>
 			<Tasks.21.TaskDesc>Click and select an injured inner disciple.</Tasks.21.TaskDesc>
 			<Tasks.22.TaskDesc>Click Confirm.</Tasks.22.TaskDesc>
 			<Tasks.24.TaskDesc>Click 3x Speed in the top left.</Tasks.24.TaskDesc>
-			<Tasks.26.TaskDesc>Finished using the Qi Flow Pill.</Tasks.26.TaskDesc>
+			<Tasks.26.TaskDesc>Finished using the พลังชี่ Flow Pill.</Tasks.26.TaskDesc>
 			<Tasks.28.TaskDesc>Click an injured inner disciple.</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Click the Health button in the right side of the injured character's menu.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>The player can recheck the injury with the "Spirit" tag to see if the injury is healed.</Tasks.31.TaskDesc>
@@ -891,7 +891,7 @@
 			<Tasks.39.TaskDesc>Wait until the miracle is complete.</Tasks.39.TaskDesc>
 			<Tasks.41.TaskDesc>Click an injured inner disciple.</Tasks.41.TaskDesc>
 			<Tasks.42.TipsData.Desc>The inner injuries with both the "Fire" tag and the rest have been healed through Panacea, so they no longer show here.</Tasks.42.TipsData.Desc>
-			<Tasks.44.TipsData.Desc>Inner disciples can also use Panacea, a miracle with special effects, to treat injured disciples in the sect. A disciple with higher Qi can treat the others better. This miracle is very important for treating inner injuries, and it's better to teach more disciples in case of an emergency.</Tasks.44.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>Inner disciples can also use Panacea, a miracle with special effects, to treat injured disciples in the sect. A disciple with higher พลังชี่ can treat the others better. This miracle is very important for treating inner injuries, and it's better to teach more disciples in case of an emergency.</Tasks.44.TipsData.Desc>
 		</Text>
 		<Text Name="SchoolManager">
 			<Type>Development</Type>
@@ -1428,7 +1428,7 @@
 			<Tasks.8.TipsData.Desc>The player can encounter the other ancient beasts through different methods in the game, which will not be listed here in detail.</Tasks.8.TipsData.Desc>
 			<Tasks.10.TaskDesc>Click Flood Dragon.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Click Focus.</Tasks.11.TaskDesc>
-			<Tasks.12.TipsData.Desc>You can keep track of Qi status of the Jiao-dragon's each body part through setting foci, and develop your strategy accordingly.</Tasks.12.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>You can keep track of พลังชี่ status of the Jiao-dragon's each body part through setting foci, and develop your strategy accordingly.</Tasks.12.TipsData.Desc>
 			<Tasks.13.TaskDesc>Click Focus.</Tasks.13.TaskDesc>
 			<Tasks.15.TaskDesc>Click and select an inner disciple.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Click to open the Items &amp; Equipment menu.</Tasks.16.TaskDesc>

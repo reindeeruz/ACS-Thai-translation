@@ -22,12 +22,12 @@
 		</Text>
 		<Text Name="FengShuiItem_Ta2" sParam="Item">
 			<ThingName>Spirit Pagoda</ThingName>
-			<Desc>Golden pagoda carved with ten-thousands-year-old Spirit Crystal, it possesses intensive Qi power. Can be used to enhance Feng Shui.</Desc>
+			<Desc>Golden pagoda carved with ten-thousands-year-old Spirit Crystal, it possesses intensive พลังชี่ power. Can be used to enhance Feng Shui.</Desc>
 			<Item.FabaoSuffix>Pagoda</Item.FabaoSuffix>
 		</Text>
 		<Text Name="FengShuiItem_Ping1" sParam="Item">
 			<ThingName>Yin Vessel</ThingName>
-			<Desc>Wicked object of unknown origin unearthed from somewhere, it can concentrate negative Qi of Feng Shui and reverse it. ลางร้ายมาก.</Desc>
+			<Desc>Wicked object of unknown origin unearthed from somewhere, it can concentrate negative พลังชี่ of Feng Shui and reverse it. ลางร้ายมาก.</Desc>
 			<Item.FabaoSuffix>Vase</Item.FabaoSuffix>
 		</Text>
 		<Text Name="FengShuiItem_Ding1" sParam="Item">
@@ -67,7 +67,7 @@
 		</Text>
 		<Text Name="FengShuiItem_FuZhou1" sParam="Item">
 			<ThingName>Enchantment Talisman</ThingName>
-			<Desc>Talisman from the ancient Order of Corpse Driver. It cannot be worn anymore due to the thick Qi of the dead that accumulated on it. If properly arranged, however, it can be used to enhance Feng Shui..</Desc>
+			<Desc>Talisman from the ancient Order of Corpse Driver. It cannot be worn anymore due to the thick พลังชี่ of the dead that accumulated on it. If properly arranged, however, it can be used to enhance Feng Shui..</Desc>
 			<Item.FabaoSuffix>ยันต์</Item.FabaoSuffix>
 		</Text>
 		<Text Name="FengShuiItem_Jian1" sParam="Item">
@@ -82,7 +82,7 @@
 		</Text>
 		<Text Name="FengShuiItem_BaoBei1" sParam="Item">
 			<ThingName>Dragon Rod</ThingName>
-			<Desc>The phallus of the ancient Red Dragon, which is said to be conceived by the force of true Yang between heaven and earth itself. Although the nature of this object is quite impulsive, the Qi of true Yang that dwells within it could be helpful with one's cultivation.</Desc>
+			<Desc>The phallus of the ancient Red Dragon, which is said to be conceived by the force of true Yang between heaven and earth itself. Although the nature of this object is quite impulsive, the พลังชี่ of true Yang that dwells within it could be helpful with one's cultivation.</Desc>
 			<Item.FabaoSuffix>Root</Item.FabaoSuffix>
 		</Text>
 		<Text Name="FengShuiItem_SheLi1" sParam="Item">

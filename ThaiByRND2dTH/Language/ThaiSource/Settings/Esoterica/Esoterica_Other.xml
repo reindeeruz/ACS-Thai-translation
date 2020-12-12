@@ -12,7 +12,7 @@
 		</Text>
 		<Text Name="Esoterica_LunHui2">
 			<DisplayName>หัวใจตื่น</DisplayName>
-			<Desc>Miraculous secret manual from modern times, it allows one to concentrate Qi in one's head, stimulating thought process and improving Intelligence. And...</Desc>
+			<Desc>Miraculous secret manual from modern times, it allows one to concentrate พลังชี่ in one's head, stimulating thought process and improving Intelligence. And...</Desc>
 			<EffectDesc>Increases Perception by 10%.\nIncreases Intelligence by 10%.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui3">
@@ -37,7 +37,7 @@
 		</Text>
 		<Text Name="Other_Esoterica_DanXia2">
 			<DisplayName>Violet Clouds</DisplayName>
-			<Desc>Miraculous technique inspired by the scenery of verdant cliffs on Mt. Sunshade, long-term practice of it adjusts one's Mental State and stabilizes one's primeval Qi.</Desc>
+			<Desc>Miraculous technique inspired by the scenery of verdant cliffs on Mt. Sunshade, long-term practice of it adjusts one's Mental State and stabilizes one's primeval พลังชี่.</Desc>
 			<EffectDesc>Improves Mental State.\nExtends Lifespan.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
@@ -47,7 +47,7 @@
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
 			<DisplayName>Codex of Dragon and Phoenix</DisplayName>
-			<Desc>Secret technique invented by ancient sages, who were inspired by analyzing the way the inner Qi circulate within dragons and phoenixes. Mastering this technique allows one to transform one's mortal body into that of a dragon and phoenix, improving physical qualities.</Desc>
+			<Desc>Secret technique invented by ancient sages, who were inspired by analyzing the way the inner พลังชี่ circulate within dragons and phoenixes. Mastering this technique allows one to transform one's mortal body into that of a dragon and phoenix, improving physical qualities.</Desc>
 			<EffectDesc>Increases Perception by 10%.\nIncreases Constitution by 10%.\nIncreases Charisma by 10%.\nIncreases Intelligence by 10%.\nExtends Lifespan.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu1">
@@ -57,8 +57,8 @@
 		</Text>
 		<Text Name="Other_Esoterica_LongHu2">
 			<DisplayName>Flying Creek</DisplayName>
-			<Desc>Breathing technique inspired by observing the scenery at the Skypass Falls on Mt. Tiger Paw, it increases your Qi Recovery Rate.</Desc>
-			<EffectDesc>Increases Qi recovery rate</EffectDesc>
+			<Desc>Breathing technique inspired by observing the scenery at the Skypass Falls on Mt. Tiger Paw, it increases your พลังชี่ Recovery Rate.</Desc>
+			<EffectDesc>Increases พลังชี่ recovery rate</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan">
 			<DisplayName>Craftsmanship of Earthly Fire</DisplayName>
@@ -96,7 +96,7 @@
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nBalance Spirit Pill\n Acquire the crafting method of Legacy Artifact: \nDraconic Tablet\nFundamentally increases Barrier Power by a significant margin.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
-			<DisplayName>Qi of Triple Purity</DisplayName>
+			<DisplayName>พลังชี่ of Triple Purity</DisplayName>
 			<Desc>Secret Law of Spirit Forging from ancient schools of creed, thought to be long lost. Cultivation of this method will split one's Primordial Spirit, creating three sub-spirits.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Gains three sub-spirits.[/color][/size]</EffectDesc>
 		</Text>
@@ -118,7 +118,7 @@
 		<Text Name="Other_Esoterica_YanHuangTongShi">
 			<DisplayName>A Comprehensive History of Serica</DisplayName>
 			<Desc>Book that covered five thousand years of history of the country of Serica. It recorded a wide variety of extensive contents, within which are many school of thoughts that are very inspirational to cultivation.</Desc>
-			<EffectDesc>Increases Intelligence by 20%.\nIncreases Qi Sense by 5.</EffectDesc>
+			<EffectDesc>Increases Intelligence by 20%.\nIncreases พลังชี่ Sense by 5.</EffectDesc>
 		</Text>
 	</List>
 </Texts>

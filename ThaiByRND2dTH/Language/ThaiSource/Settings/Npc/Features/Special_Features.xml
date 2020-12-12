@@ -26,7 +26,7 @@
 		</Text>
 		<Text Name="DemonBlood">
 			<DisplayName>เลือดปีศาจ</DisplayName>
-			<Desc>This person has a little demon blood coursing through veins, making [IT] more sensitive to inner Qi. However, it also makes this one's mental state more susceptible to changes.</Desc>
+			<Desc>This person has a little demon blood coursing through veins, making [IT] more sensitive to inner พลังชี่. However, it also makes this one's mental state more susceptible to changes.</Desc>
 		</Text>
 		<Text Name="Realization">
 			<DisplayName>รู้อดีต?</DisplayName>
@@ -407,11 +407,11 @@
 		</Text>
 		<Text Name="Features_JingGuai_1">
 			<DisplayName>วิญญาณรับรู้(หิน)</DisplayName>
-			<Desc>It was originally a spirit stone that became sentient, thus was naturally born with a higher Base Qi.</Desc>
+			<Desc>It was originally a spirit stone that became sentient, thus was naturally born with a higher Base พลังชี่.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_2">
 			<DisplayName>วิญญาณรับรู้(ของกิน)</DisplayName>
-			<Desc>It was originally an edible food that became sentient, thus was naturally born with very high Qi Absorption capabilities and does not feel hunger.</Desc>
+			<Desc>It was originally an edible food that became sentient, thus was naturally born with very high พลังชี่ Absorption capabilities and does not feel hunger.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_3">
 			<DisplayName>วิญญาณรับรู้(ของวิเศษ)</DisplayName>

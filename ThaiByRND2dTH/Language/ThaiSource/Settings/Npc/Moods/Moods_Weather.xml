@@ -86,14 +86,14 @@
 			<StoryDesc>Feeling that Dust Storm spread dirt everywhere. EVERYWHERE</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingRarefiedWave">
-			<DisplayName>Qi Drought</DisplayName>
-			<Desc>There's a Qi drought.</Desc>
-			<StoryDesc>Feeling that A Qi drought really leaves one feeling ill at ease</StoryDesc>
+			<DisplayName>พลังชี่ Drought</DisplayName>
+			<Desc>There's a พลังชี่ drought.</Desc>
+			<StoryDesc>Feeling that A พลังชี่ drought really leaves one feeling ill at ease</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingUpWave">
-			<DisplayName>Burst of Qi</DisplayName>
-			<Desc>There's been a burst of Qi.</Desc>
-			<StoryDesc>Feeling that A Burst of Qi really leaves one feeling pleased</StoryDesc>
+			<DisplayName>Burst of พลังชี่</DisplayName>
+			<Desc>There's been a burst of พลังชี่.</Desc>
+			<StoryDesc>Feeling that A Burst of พลังชี่ really leaves one feeling pleased</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeatWave">
 			<DisplayName>Heat</DisplayName>

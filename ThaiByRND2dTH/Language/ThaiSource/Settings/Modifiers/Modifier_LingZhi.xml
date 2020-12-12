@@ -53,7 +53,7 @@
 			<Desc>Mental State is decreased for a short period of time.</Desc>
 		</Text>
 		<Text Name="Story_LingZhi_MaxLing1">
-			<DisplayName>Qi Taken</DisplayName>
+			<DisplayName>พลังชี่ Taken</DisplayName>
 		</Text>
 		<Text Name="Story_LingZhi_RipeLing1">
 			<DisplayName>Blessing effect from maturity of Spiritual Plant 1</DisplayName>

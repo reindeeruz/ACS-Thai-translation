@@ -6,14 +6,14 @@
 			<EffectDesc>Unlock Talisman: \nTalisman of Divine Comprehension\nTalisman of Oblivion Comprehension\nTalisman of Truth Comprehension</EffectDesc>
 		</Text>
 		<Text Name="SpellEsoterica_2">
-			<DisplayName>Divine Talismans of the Five Elemental Qi</DisplayName>
+			<DisplayName>Divine Talismans of the Five Elemental พลังชี่</DisplayName>
 			<Desc>Secret manual that records five inner sect talismans.</Desc>
 			<EffectDesc>Unlock Talisman: \nTalisman of Departing Shadow\nWonder Talisman\nImpermanence Talisman\nTalisman of Heavenly Heart\nTalisman of Tranquil Heart</EffectDesc>
 		</Text>
 		<Text Name="SpellEsoterica_3">
 			<DisplayName>Golden Book of the Six Edicts and Five Directions</DisplayName>
 			<Desc>It records six common and practical talismans that are of great uses to mortals.</Desc>
-			<EffectDesc>Unlock Talisman: \nTalisman of Spiritual Travelling\nTalisman of Curer\nTalisman of Foreseer\nTalisman of Spiritual Cleansing\nTalisman of Fasting\nTalisman of Qi Absorption\nTalisman of Lasting Joy</EffectDesc>
+			<EffectDesc>Unlock Talisman: \nTalisman of Spiritual Travelling\nTalisman of Curer\nTalisman of Foreseer\nTalisman of Spiritual Cleansing\nTalisman of Fasting\nTalisman of พลังชี่ Absorption\nTalisman of Lasting Joy</EffectDesc>
 		</Text>
 		<Text Name="SpellEsoterica_4">
 			<DisplayName>Emperor's Talisman Book</DisplayName>

@@ -10,7 +10,7 @@
 			<DisplayName>Helios Gaze</DisplayName>
 		</Text>
 		<Text Name="Gong10_a7">
-			<DisplayName>Innate Qi</DisplayName>
+			<DisplayName>Innate พลังชี่</DisplayName>
 		</Text>
 		<Text Name="Gong10_b2">
 			<DisplayName>Skyfire Meridians</DisplayName>
@@ -55,7 +55,7 @@
 			<DisplayName>Foehn Wind</DisplayName>
 		</Text>
 		<Text Name="Gong10_d0_1">
-			<DisplayName>Qi Ignosphere</DisplayName>
+			<DisplayName>พลังชี่ Ignosphere</DisplayName>
 		</Text>
 		<Text Name="Gong10_d1">
 			<DisplayName>Lifeforce Genesis</DisplayName>

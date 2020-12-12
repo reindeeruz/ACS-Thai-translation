@@ -5,28 +5,28 @@
 			<Desc>Increases Cultivation speed by 5%.</Desc>
 		</Text>
 		<Text Name="Story_LingMax1">
-			<DisplayName>Increases Max Qi by 2%.</DisplayName>
-			<Desc>Increases Max Qi by 2%.</Desc>
+			<DisplayName>Increases ค่าพลังชี่สูงสุด by 2%.</DisplayName>
+			<Desc>Increases ค่าพลังชี่สูงสุด by 2%.</Desc>
 		</Text>
 		<Text Name="Story_FabaoPower1">
 			<DisplayName>Increases Artifact Power by 5%.</DisplayName>
 			<Desc>Increases Artifact Power by 5%.</Desc>
 		</Text>
 		<Text Name="Story_LingAbsorbSpeed1">
-			<DisplayName>Increases Qi Absorption Rate by 10%.</DisplayName>
-			<Desc>Increases Qi Absorption Rate by 10%.</Desc>
+			<DisplayName>Increases พลังชี่ Absorption Rate by 10%.</DisplayName>
+			<Desc>Increases พลังชี่ Absorption Rate by 10%.</Desc>
 		</Text>
 		<Text Name="Story_WorldMapFlySpeedAddP1">
 			<DisplayName>Sword Flying Speed increased by 50%.</DisplayName>
 			<Desc>Sword Flying Speed increased by 50%.</Desc>
 		</Text>
 		<Text Name="Story_ShieldConversionRate1">
-			<DisplayName>Qi Shield Efficiency increased by 10%.</DisplayName>
-			<Desc>Qi Shield Efficiency increased by 10%.</Desc>
+			<DisplayName>พลังชี่ Shield Efficiency increased by 10%.</DisplayName>
+			<Desc>พลังชี่ Shield Efficiency increased by 10%.</Desc>
 		</Text>
 		<Text Name="Story_DragonBlood">
 			<DisplayName>Dragon's Bloodline</DisplayName>
-			<Desc>Dragon's Bloodline Awakening: Constitution increased by 20%; Perception increased by 20%; Fundamentally increases Max Qi by 25%.</Desc>
+			<Desc>Dragon's Bloodline Awakening: Constitution increased by 20%; Perception increased by 20%; Fundamentally increases ค่าพลังชี่สูงสุด by 25%.</Desc>
 		</Text>
 		<Text Name="Modifier_Story_BossLong_Wish1">
 			<DisplayName>Gifting</DisplayName>

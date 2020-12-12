@@ -30,7 +30,7 @@ Jin
 Wei
 Tao
 Jiang
-Qi
+พลังชี่
 Xie
 Zou
 Yu
@@ -84,7 +84,7 @@ Shi
 Fu
 Pi
 Bian
-Qi
+พลังชี่
 Kang
 Wu
 Yu
@@ -102,7 +102,7 @@ Yao
 Shao
 Zhan
 Wang
-Qi
+พลังชี่
 Mao
 Yu
 Di

@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="FengShui" sParam="Building">
 			<ThingName>เข็มทิศฮวงจุ้ย</ThingName>
-			<Desc>A structure used to observe the Five Elements, Feng Shui and distribution of Qi.</Desc>
+			<Desc>A structure used to observe the Five Elements, Feng Shui and distribution of พลังชี่.</Desc>
 		</Text>
 		<Text Name="TheGate" sParam="Building">
 			<ThingName>แผ่นศิลาสำนัก</ThingName>
@@ -18,7 +18,7 @@
 		</Text>
 		<Text Name="Building_MagicCushion" sParam="Building">
 			<ThingName>ฟูกพลังชี่</ThingName>
-			<Desc>A cushion specifically used for cultivation that can gather Qi.</Desc>
+			<Desc>A cushion specifically used for cultivation that can gather พลังชี่.</Desc>
 		</Text>
 		<Text Name="BasePracticePlace" sParam="Building">
 			<ThingName>จุดฝึกฝน</ThingName>

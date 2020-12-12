@@ -17,7 +17,7 @@
 		</Text>
 		<Text Name="Story_LingZhi_Grow">
 			<DisplayName>Spiritual Plant Maturing</DisplayName>
-			<Desc>As the Spirit Root finished maturing, the Qi throughout heaven and earth suddenly changed, something special happened.</Desc>
+			<Desc>As the Spirit Root finished maturing, the พลังชี่ throughout heaven and earth suddenly changed, something special happened.</Desc>
 			<Selections.0.Display>Inspect</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Ripe">

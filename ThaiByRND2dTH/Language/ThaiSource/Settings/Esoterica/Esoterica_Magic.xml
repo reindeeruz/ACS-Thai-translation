@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Magic_FenShenZhiShu">
 			<DisplayName>แยกวิญญาณ</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แยกวิญญาณ\nManipulate your Primordial Spirit, forcing it to split in order to obtain an additional sub-spirit. You will lose Max Qi in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แยกวิญญาณ\nManipulate your Primordial Spirit, forcing it to split in order to obtain an additional sub-spirit. You will lose ค่าพลังชี่สูงสุด in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_FengshuiItemOpen">
 			<DisplayName>Feng Shui Identifying</DisplayName>
@@ -42,7 +42,7 @@
 		</Text>
 		<Text Name="Magic_SoulCrystalLingPowerUp">
 			<DisplayName>Spiritual Refinement</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spiritual Refinement\nConsume one Spiritual Amber and use on an item, granting a chance to increase the item's Qi Containment Rate (if the item is an artifact, Qi Capacity is increased instead).[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spiritual Refinement\nConsume one Spiritual Amber and use on an item, granting a chance to increase the item's พลังชี่ Containment Rate (if the item is an artifact, พลังชี่ Capacity is increased instead).[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_MakeSoulCrystal">
 			<DisplayName>Soul Chant</DisplayName>
@@ -62,27 +62,27 @@
 		</Text>
 		<Text Name="Magic_ClosedDoor_1">
 			<DisplayName>Meditation</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Meditation\nEnter a meditated state to self-cultivate. Quickly consumes one's lifespan and stamina. Gain Cultivation quickly and increases max Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Meditation\nEnter a meditated state to self-cultivate. Quickly consumes one's lifespan and stamina. Gain Cultivation quickly and increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Aoe_1">
 			<DisplayName>Spiritual Breath Chant</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spiritual Breath Chant\nGo to the designated location to absorb Qi from the environment.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spiritual Breath Chant\nGo to the designated location to absorb พลังชี่ from the environment.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Live_1">
 			<DisplayName>Way of the Reaper</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Way of the Reaper\nUse on a living being without cultivation experience, consuming its lifespan to increase your Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Way of the Reaper\nUse on a living being without cultivation experience, consuming its lifespan to increase your พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Body_1">
 			<DisplayName>Sanguine Absorption</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Sanguine Absorption\nRefine a body and turn it into your Qi. The higher the state of the body when it was alive, the more Qi you gain.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Sanguine Absorption\nRefine a body and turn it into your พลังชี่. The higher the state of the body when it was alive, the more พลังชี่ you gain.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Thing_1">
 			<DisplayName>One with Mountain</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: One with Mountain\nUse on buildings, plants and minerals on the map to absorb their Qi. The more Qi the target possesses and the higher your max Qi is, the faster your speed of absorption will be.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: One with Mountain\nUse on buildings, plants and minerals on the map to absorb their พลังชี่. The more พลังชี่ the target possesses and the higher your ค่าพลังชี่สูงสุด is, the faster your speed of absorption will be.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Item_1">
 			<DisplayName>Palm of Absorption</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Palm of Absorption\nAbsorb the Qi dwelling within an item.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Palm of Absorption\nAbsorb the พลังชี่ dwelling within an item.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Damage_1">
 			<DisplayName>Panacea</DisplayName>
@@ -101,8 +101,8 @@
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Greater Possession\nAdvanced possessing technique. Completely seize the body of a living being with no cultivation experience, but a bulk of the user's cultivation experience will be lost.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_1_1">
-			<DisplayName>Qi Absorption Cauldron</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Qi Absorption Cauldron\nAbsorb the lifespan of a living being with no cultivation experience, increasing one's own cultivation experience and inspiration. More effective on targets with better Physique.[/color][/size]</EffectDesc>
+			<DisplayName>พลังชี่ Absorption Cauldron</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: พลังชี่ Absorption Cauldron\nAbsorb the lifespan of a living being with no cultivation experience, increasing one's own cultivation experience and inspiration. More effective on targets with better Physique.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_2_1">
 			<DisplayName>Alluring Illusion</DisplayName>
@@ -134,15 +134,15 @@
 		</Text>
 		<Text Name="Magic_PlantGrowUp_1">
 			<DisplayName>Chant of Wood Mastery</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Wood Mastery Chant\nConcentrate your primeval Qi and infuse it into a target plant, significantly increasing its growth rate. Lasts 1 day. Less effective on plants of higher tiers. This method is extremely damaging to your primeval Qi, use with care.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Wood Mastery Chant\nConcentrate your primeval พลังชี่ and infuse it into a target plant, significantly increasing its growth rate. Lasts 1 day. Less effective on plants of higher tiers. This method is extremely damaging to your primeval พลังชี่, use with care.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_9_1">
 			<DisplayName>Way of Celestial Heart</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Way of Celestial Heart\nConsume 10 years of the user's lifespan to improve their abilities for a short period of time and recover Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Way of Celestial Heart\nConsume 10 years of the user's lifespan to improve their abilities for a short period of time and recover พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_9_2">
 			<DisplayName>Inner Demons Unchained</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Inner Demons Unchained\nConsume Lifespan to improve your abilities and recover Qi for a short period of time.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Inner Demons Unchained\nConsume Lifespan to improve your abilities and recover พลังชี่ for a short period of time.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_10_1">
 			<DisplayName>Wise Detachment</DisplayName>
@@ -151,11 +151,11 @@
 		</Text>
 		<Text Name="Magic_LingStoneMake_1">
 			<DisplayName>Spirit Stone Refinement</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Stone Refinement\nCondense Qi into หินวิญญาณ.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Stone Refinement\nCondense พลังชี่ into หินวิญญาณ.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_LingCrystalMake_1">
 			<DisplayName>Spirit Crystal Refinement</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Crystal Refinement\nCondense Qi into Spirit Crystal.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Crystal Refinement\nCondense พลังชี่ into Spirit Crystal.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Prophesy_1">
 			<DisplayName>Universal Foresight</DisplayName>

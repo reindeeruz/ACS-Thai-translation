@@ -143,7 +143,7 @@
 			<SingleFormat.0>Recalled the {0} my fellows killed by.</SingleFormat.0>
 		</Text>
 		<Text Name="Nature">
-			<DisplayName>Qi of Genesis</DisplayName>
+			<DisplayName>พลังชี่ of Genesis</DisplayName>
 			<SingleFormat.0>Recalled the {0} among the universe.</SingleFormat.0>
 		</Text>
 		<Text Name="Fog">

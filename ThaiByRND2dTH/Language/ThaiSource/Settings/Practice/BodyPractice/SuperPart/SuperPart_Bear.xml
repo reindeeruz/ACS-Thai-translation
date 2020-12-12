@@ -3,13 +3,13 @@
 		<Text Name="SuperPart_Bear_1">
 			<Prefix>Anarchic</Prefix>
 			<Suffix>Organ</Suffix>
-			<Desc>A secret body passed down from the bloodline of ancient bear Yaoguai that uses energy to remold the heart and Lungs. Once achieved, it can generate True Qi continuously.</Desc>
+			<Desc>A secret body passed down from the bloodline of ancient bear Yaoguai that uses energy to remold the heart and Lungs. Once achieved, it can generate True พลังชี่ continuously.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Moderately increases the secret body True Qi recovery rate.</Levels.0.Desc>
+			<Levels.0.Desc>Moderately increases the secret body True พลังชี่ recovery rate.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Drastically increases the secret body True Qi recovery rate.</Levels.1.Desc>
+			<Levels.1.Desc>Drastically increases the secret body True พลังชี่ recovery rate.</Levels.1.Desc>
 			<Levels.2.Title>Third Layer</Levels.2.Title>
-			<Levels.2.Desc>Increases the secret body True Qi recovery rate by a huge amount.</Levels.2.Desc>
+			<Levels.2.Desc>Increases the secret body True พลังชี่ recovery rate by a huge amount.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Bear_2">
 			<Prefix>Annihilation</Prefix>

@@ -28,7 +28,7 @@
 		</Text>
 		<Text Name="Secrets_GodStory_3">
 			<DisplayName>Evils in the World</DisplayName>
-			<Desc>[NAME] rushed to [PLACE] only to find the area replete with evil qi, the people were in a panic.</Desc>
+			<Desc>[NAME] rushed to [PLACE] only to find the area replete with evil พลังชี่, the people were in a panic.</Desc>
 			<Selections.0.Display>Use strategy</Selections.0.Display>
 			<Selections.1.Display>Use brute force</Selections.1.Display>
 			<Selections.1.Tip>Golden Core</Selections.1.Tip>

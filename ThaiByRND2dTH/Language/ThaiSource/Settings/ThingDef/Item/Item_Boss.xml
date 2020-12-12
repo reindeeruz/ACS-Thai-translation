@@ -16,7 +16,7 @@
 		</Text>
 		<Text Name="Item_BossFeng_GangYu" sParam="Item">
 			<ThingName>Phoenix Ironclad Feather</ThingName>
-			<Desc>An intact Phoenix feather, its immense heat entirely confined within. It is sharp and sturdy. Wearing it enables one to become impervious to cold, speeding up the circulation of Qi and blood as well as boosting food consumption rate.</Desc>
+			<Desc>An intact Phoenix feather, its immense heat entirely confined within. It is sharp and sturdy. Wearing it enables one to become impervious to cold, speeding up the circulation of พลังชี่ and blood as well as boosting food consumption rate.</Desc>
 			<Item.FabaoSuffix>Feather</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossFeng_TouYu" sParam="Item">
@@ -43,7 +43,7 @@
 		</Text>
 		<Text Name="Item_BossFeng_Meat" sParam="Item">
 			<ThingName>Phoenix Flesh</ThingName>
-			<Desc>The finest flesh and blood of Phoenix's body, consuming it increase one's Max Qi by 25, and extend Lifespan for 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
+			<Desc>The finest flesh and blood of Phoenix's body, consuming it increase one's ค่าพลังชี่สูงสุด by 25, and extend Lifespan for 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
 			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_DragonScale" sParam="Item">
@@ -63,7 +63,7 @@
 		</Text>
 		<Text Name="Item_BossLong_Lin" sParam="Item">
 			<ThingName>Flood Dragon Scale</ThingName>
-			<Desc>An intact scale from the body of Flood Dragon, it is quite indestructible. Wearing it enables one to resist Qi Damage.</Desc>
+			<Desc>An intact scale from the body of Flood Dragon, it is quite indestructible. Wearing it enables one to resist พลังชี่ Damage.</Desc>
 			<Item.FabaoSuffix>Scale</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_NiLin" sParam="Item">
@@ -75,12 +75,12 @@
 		</Text>
 		<Text Name="Item_BossLong_Jing" sParam="Item">
 			<ThingName>Flood Dragon Wrath Vein</ThingName>
-			<Desc>The toughest tendon-meridian in Flood Dragon's tail, it is of excellent Qi conductivity. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Desc>The toughest tendon-meridian in Flood Dragon's tail, it is of excellent พลังชี่ conductivity. It should have some peculiar effects after having been processed with a special method.</Desc>
 			<Item.FabaoSuffix>Tendon</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Meat" sParam="Item">
 			<ThingName>Flood Dragon Flesh</ThingName>
-			<Desc>The finest flesh and blood of Flood Dragon's body, consuming it increase one's Max Qi by 25, and extend Lifespan for 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
+			<Desc>The finest flesh and blood of Flood Dragon's body, consuming it increase one's ค่าพลังชี่สูงสุด by 25, and extend Lifespan for 10 years. Multiple consumptions will gradually diminish its effect.</Desc>
 			<Item.FabaoSuffix>Flesh</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">

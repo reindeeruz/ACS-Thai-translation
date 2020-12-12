@@ -14,7 +14,7 @@
 		</Text>
 		<Text Name="LingShou_fanshi">
 			<DisplayName>Pet Countercharge</DisplayName>
-			<Desc>The pet will make an artifact backfire on its owner after a period of time, causing the Artifact Qi to be reduced by half. The effect is doubled for artifacts of Fire element, and halved for those of Earth element.</Desc>
+			<Desc>The pet will make an artifact backfire on its owner after a period of time, causing the Artifact พลังชี่ to be reduced by half. The effect is doubled for artifacts of Fire element, and halved for those of Earth element.</Desc>
 		</Text>
 		<Text Name="ToHumanThunderComing">
 			<DisplayName>Shapeshifting Tribulation</DisplayName>
@@ -34,7 +34,7 @@
 		</Text>
 		<Text Name="Modifier_Shelter">
 			<DisplayName>Aegis</DisplayName>
-			<Desc>Drastically increases the Qi barrier and secret body endurance in a short span of time.</Desc>
+			<Desc>Drastically increases the พลังชี่ barrier and secret body endurance in a short span of time.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealPower">
 			<DisplayName>Origin Force (Power)</DisplayName>
@@ -42,15 +42,15 @@
 		</Text>
 		<Text Name="Modifier_YG_RealRecover">
 			<DisplayName>Origin Force (Nurture)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the resilience, artifact Qi recovery rate and secret body True Qi recovery rate.</Desc>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the resilience, artifact พลังชี่ recovery rate and secret body True พลังชี่ recovery rate.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealWisdom">
 			<DisplayName>Origin Force (INT)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the spell power, secret body attack accuracy, defense success rate, Qi barrier penetration and artifact suppression chance.</Desc>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the spell power, secret body attack accuracy, defense success rate, พลังชี่ barrier penetration and artifact suppression chance.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealShield">
 			<DisplayName>Origin Force (PCT)</DisplayName>
-			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the artifact mastery, Qi barrier, and secret body power and endurance.</Desc>
+			<Desc>Rapidly burns the source of life to stimulate the original Yaoguai force in order to drastically increase the artifact mastery, พลังชี่ barrier, and secret body power and endurance.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_NormalPower">
 			<DisplayName>Demon Body</DisplayName>

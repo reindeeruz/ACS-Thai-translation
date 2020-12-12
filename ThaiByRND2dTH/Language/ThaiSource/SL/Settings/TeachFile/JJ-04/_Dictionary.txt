@@ -92,7 +92,7 @@
 蛇蛋	Snake Egg
 坤元万魂珠	Earthbound All Souls Egg
 野猪皮薄下裳	Boar Hide Thin Pants
-玄机气摄密卷	Ingenious Qi Absorption Secret Scroll
+玄机气摄密卷	Ingenious พลังชี่ Absorption Secret Scroll
 灰石砖	Graystone Block
 行疆天璇碑	Trekking Merak  Stele
 白布清凉下裳	Summer Pants
@@ -613,7 +613,7 @@
 暴雨术	Rainstorm
 玄魂造命	
 醍醐灌顶之术	
-玄金五气真言	Golden Qi Volumn
+玄金五气真言	Golden พลังชี่ Volumn
 勾陈三花咒	Link Flower Sutra
 紫云宫流光咒	Purple Place Sutra
 奠基经	

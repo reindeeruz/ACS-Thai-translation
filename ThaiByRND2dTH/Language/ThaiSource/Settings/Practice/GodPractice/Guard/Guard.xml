@@ -3,12 +3,12 @@
 		<Text Name="Guard_LeiBu_1">
 			<DisplayName>Father of Thunder</DisplayName>
 			<Names>Ying</Names>
-			<Desc>Guard that can wield the power of thunder. Worshiping of it comprehensively improves all your abilities, with extra bonuses to Artifact Mastery skill level and Artifact Power. However, it decreases your Recovery Rate of Artifact Qi.</Desc>
+			<Desc>Guard that can wield the power of thunder. Worshiping of it comprehensively improves all your abilities, with extra bonuses to Artifact Mastery skill level and Artifact Power. However, it decreases your Recovery Rate of Artifact พลังชี่.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_2">
 			<DisplayName>Mother of Lightning</DisplayName>
 			<Names>Jiang</Names>
-			<Desc>Guard that can wield the power of lightning. Worshiping of it comprehensively improves all your abilities, with extra bonuses to Artifact Mastery skill level and Artifact Qi Recovery Rate. However, it decreases your Artifact Power.</Desc>
+			<Desc>Guard that can wield the power of lightning. Worshiping of it comprehensively improves all your abilities, with extra bonuses to Artifact Mastery skill level and Artifact พลังชี่ Recovery Rate. However, it decreases your Artifact Power.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_3">
 			<DisplayName>Thunder General</DisplayName>
@@ -18,32 +18,32 @@
 		<Text Name="Guard_LeiBu_4">
 			<DisplayName>Cloud General</DisplayName>
 			<Names>Zhen</Names>
-			<Desc>Guard that is capable of generating rains and manifesting thunders. Worshiping of it can slightly improve your abilities, with extra bonuses to Protection skill level. However, it decreases your Artifact Qi Recovery Rate.</Desc>
+			<Desc>Guard that is capable of generating rains and manifesting thunders. Worshiping of it can slightly improve your abilities, with extra bonuses to Protection skill level. However, it decreases your Artifact พลังชี่ Recovery Rate.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_5">
 			<DisplayName>Skyrift Messenger</DisplayName>
 			<Names>Gong</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Power, Artifact Qi and Artifact Qi Recovery Rate.</Desc>
+			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, with extra bonuses to Artifact Power, Artifact พลังชี่ and Artifact พลังชี่ Recovery Rate.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_6">
 			<DisplayName>Bolt Messenger</DisplayName>
 			<Names>Lei</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Power. However, it decreases your Barrier Power.</Desc>
+			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, with extra bonuses to Artifact Power. However, it decreases your Barrier Power.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_7">
 			<DisplayName>Evernight Messenger</DisplayName>
 			<Names>Xuan</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Power, Spell Power but also increases Spell Cost.</Desc>
+			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, with extra bonuses to Artifact Power, Spell Power but also increases Spell Cost.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_8">
 			<DisplayName>Celeste Messenger</DisplayName>
 			<Names>Ding</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, with extra bonuses to Artifact Mastery skill level, Spell Power skill level and Protection skill level.</Desc>
+			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, with extra bonuses to Artifact Mastery skill level, Spell Power skill level and Protection skill level.</Desc>
 		</Text>
 		<Text Name="Guard_LeiBu_9">
 			<DisplayName>Cardinal Messenger</DisplayName>
 			<Names>Zhou</Names>
-			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases Max Qi, and makes you learn the following Miracle: Meditation of Unification.</Desc>
+			<Desc>One of the Five Messengers of Thunder. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, and makes you learn the following Miracle: Meditation of Unification.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_1">
 			<DisplayName>Deva</DisplayName>
@@ -63,7 +63,7 @@
 		<Text Name="Guard_BaBuZhong_4">
 			<DisplayName>Gandharva</DisplayName>
 			<Names>Huan</Names>
-			<Desc>Guard that represents change among the Eight Legions. Worshiping of it slightly improves your abilities, with extra bonuses of increasing Artifact Qi Recovery Rate and reducing Spell Qi Cost.</Desc>
+			<Desc>Guard that represents change among the Eight Legions. Worshiping of it slightly improves your abilities, with extra bonuses of increasing Artifact พลังชี่ Recovery Rate and reducing Spell พลังชี่ Cost.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_5">
 			<DisplayName>Asura</DisplayName>
@@ -78,7 +78,7 @@
 		<Text Name="Guard_BaBuZhong_7">
 			<DisplayName>Kinnara</DisplayName>
 			<Names>Yue</Names>
-			<Desc>Guard that represents peace and tranquility among the Eight Legions. Worshiping of it slightly improves your abilities, and makes you learn the following Spell: Tranquility, with extra bonuses to your Charisma, Lifespan and Max Qi.</Desc>
+			<Desc>Guard that represents peace and tranquility among the Eight Legions. Worshiping of it slightly improves your abilities, and makes you learn the following Spell: Tranquility, with extra bonuses to your Charisma, Lifespan and ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_BaBuZhong_8">
 			<DisplayName>Mahoraga</DisplayName>
@@ -88,12 +88,12 @@
 		<Text Name="Guard_YouMing_1">
 			<DisplayName>Nether Judge</DisplayName>
 			<Names>Li</Names>
-			<Desc>Guard in charge of life and death in Netherworld. Worshiping of it improves all of your abilities, and makes you acquire the following Miracle: Yin Yang Reversal, with extra bonuses to your Guardian skill level and Max Qi.</Desc>
+			<Desc>Guard in charge of life and death in Netherworld. Worshiping of it improves all of your abilities, and makes you acquire the following Miracle: Yin Yang Reversal, with extra bonuses to your Guardian skill level and ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_2">
 			<DisplayName>Black Judge</DisplayName>
 			<Names>Fan</Names>
-			<Desc>Soul snatcher of the Netherworld. Worshiping of it slightly improves all your abilities, and makes you learn the following Spell: Guard of Impermanence, with extra bonuses to your Artifact Mastery skill level, Artifact Power, Artifact Qi and Artifact Qi Recovery Rate.</Desc>
+			<Desc>Soul snatcher of the Netherworld. Worshiping of it slightly improves all your abilities, and makes you learn the following Spell: Guard of Impermanence, with extra bonuses to your Artifact Mastery skill level, Artifact Power, Artifact พลังชี่ and Artifact พลังชี่ Recovery Rate.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_3">
 			<DisplayName>White Judge</DisplayName>
@@ -113,12 +113,12 @@
 		<Text Name="Guard_YouMing_6">
 			<DisplayName>Ferryman</DisplayName>
 			<Names>Meng</Names>
-			<Desc>Driver of the ferryboat on the Nether River. Worshiping of it extends Lifespan and increases Max Qi, and makes you learn the following Miracle: Resurrection Spell, with extra bonuses to your Artifact Power and Spell Power.</Desc>
+			<Desc>Driver of the ferryboat on the Nether River. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, and makes you learn the following Miracle: Resurrection Spell, with extra bonuses to your Artifact Power and Spell Power.</Desc>
 		</Text>
 		<Text Name="Guard_YouMing_7">
 			<DisplayName>Darkmountain Guardian</DisplayName>
 			<Names>He</Names>
-			<Desc>Guardian of the Darkmountain in Netherworld. Worshiping of it extends Lifespan and increases Max Qi, with the extra bonuses of increasing your Barrier Power and making you acquire the following Miracle: Meditation of Unification.</Desc>
+			<Desc>Guardian of the Darkmountain in Netherworld. Worshiping of it extends Lifespan and increases ค่าพลังชี่สูงสุด, with the extra bonuses of increasing your Barrier Power and making you acquire the following Miracle: Meditation of Unification.</Desc>
 		</Text>
 		<Text Name="Guard_Other_1">
 			<DisplayName>Dubhe</DisplayName>
@@ -128,7 +128,7 @@
 		<Text Name="Guard_Other_2">
 			<DisplayName>Polis</DisplayName>
 			<Names>Sha</Names>
-			<Desc>Spirit of a star that is incredibly ferocious. Worshiping of it improves all of your abilities, with extra bonuses to Artifact Power and Spell Power. However, it will significantly reduce your Max Qi.</Desc>
+			<Desc>Spirit of a star that is incredibly ferocious. Worshiping of it improves all of your abilities, with extra bonuses to Artifact Power and Spell Power. However, it will significantly reduce your ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_Other_3">
 			<DisplayName>Alkaid</DisplayName>
@@ -143,7 +143,7 @@
 		<Text Name="Guard_Other_5">
 			<DisplayName>White Spirit</DisplayName>
 			<Names>Bai</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonuses to Artifact skill level, Artifact Power, Artifact Qi Cap and Artifact Qi Recovery Rate.</Desc>
+			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonuses to Artifact skill level, Artifact Power, Artifact พลังชี่ Cap and Artifact พลังชี่ Recovery Rate.</Desc>
 		</Text>
 		<Text Name="Guard_Other_6">
 			<DisplayName>Yellow Spirit</DisplayName>
@@ -153,12 +153,12 @@
 		<Text Name="Guard_Other_7">
 			<DisplayName>Black Spirit</DisplayName>
 			<Names>Zhi</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonus to Qi Sense.</Desc>
+			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonus to พลังชี่ Sense.</Desc>
 		</Text>
 		<Text Name="Guard_Other_8">
 			<DisplayName>Azure Spirit</DisplayName>
 			<Names>Ling</Names>
-			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonus to Max Qi.</Desc>
+			<Desc>One of the ancient Guards of five directions and five elements. Worshiping of it can slightly improve all of your abilities, with extra bonus to ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_Other_9">
 			<DisplayName>Sea Spirit</DisplayName>
@@ -173,7 +173,7 @@
 		<Text Name="Guard_Other_11">
 			<DisplayName>Flower Spirit</DisplayName>
 			<Names>Xiang</Names>
-			<Desc>Spirit of the Guard of flowers. Worshiping of it slightly improves all your abilities, and makes you learn the following Spell: Curse of Luxuriance, with extra bonus to your Max Qi.</Desc>
+			<Desc>Spirit of the Guard of flowers. Worshiping of it slightly improves all your abilities, and makes you learn the following Spell: Curse of Luxuriance, with extra bonus to your ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_Other_12">
 			<DisplayName>Giant Spirit</DisplayName>
@@ -183,17 +183,17 @@
 		<Text Name="Guard_Base_1">
 			<DisplayName>Metal Sprite</DisplayName>
 			<Names>Ren</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact skill level, Artifact Power, Artifact Qi Cap and Artifact Qi Recovery Rate.</Desc>
+			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact skill level, Artifact Power, Artifact พลังชี่ Cap and Artifact พลังชี่ Recovery Rate.</Desc>
 		</Text>
 		<Text Name="Guard_Base_2">
 			<DisplayName>Wood Sprite</DisplayName>
 			<Names>Ye</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Max Qi.</Desc>
+			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_Base_3">
 			<DisplayName>Water Sprite</DisplayName>
 			<Names>Liu</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Qi Sense.</Desc>
+			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your พลังชี่ Sense.</Desc>
 		</Text>
 		<Text Name="Guard_Base_4">
 			<DisplayName>แกนไฟ</DisplayName>
@@ -213,7 +213,7 @@
 		<Text Name="Guard_Base_7">
 			<DisplayName>Wood Fiend</DisplayName>
 			<Names>Ling</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Max Qi.</Desc>
+			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Guard_Base_8">
 			<DisplayName>Metal Fiend</DisplayName>
@@ -223,12 +223,12 @@
 		<Text Name="Guard_Base_9">
 			<DisplayName>Lake Sprite</DisplayName>
 			<Names>Yu</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Qi Recovery Rate.</Desc>
+			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact พลังชี่ Recovery Rate.</Desc>
 		</Text>
 		<Text Name="Guard_Base_10">
 			<DisplayName>Crystal Sprite</DisplayName>
 			<Names>Ming</Names>
-			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact Qi.</Desc>
+			<Desc>Unclaimed Guard that can be seen everywhere in the world. Worshiping this Guard can increase your Artifact พลังชี่.</Desc>
 		</Text>
 		<Text Name="Guard_Base_11">
 			<DisplayName>Rock Sprite</DisplayName>

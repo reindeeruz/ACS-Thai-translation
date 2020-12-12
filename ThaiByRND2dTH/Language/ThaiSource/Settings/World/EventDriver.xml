@@ -17,7 +17,7 @@
 			<Types.6.DisplayName>Common Events</Types.6.DisplayName>
 			<Types.6.Desc>These include Weather Encounters, and Sect Atmosphere Changes.</Types.6.Desc>
 			<Types.7.DisplayName>Advanced Events</Types.7.DisplayName>
-			<Types.7.Desc>These include Special Weather Encounters, Treasure Unearthed, and Qi Surges.</Types.7.Desc>
+			<Types.7.Desc>These include Special Weather Encounters, Treasure Unearthed, and พลังชี่ Surges.</Types.7.Desc>
 		</Text>
 		<Text Name="EasyFate">
 			<DisplayName>Peaceful</DisplayName>

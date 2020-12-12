@@ -47,7 +47,7 @@
 		</Text>
 		<Text Name="TreeGrave">
 			<DisplayName>Deadwood Sea</DisplayName>
-			<Desc>"In the Southern Frontier, people believe that trees are like animals, if not buried, they will invite hatred and curses. Dead ancient trees are collected and made into shapes of live trees that seem to gather Qi from all creatures. " From 'Scroll of Creations'</Desc>
+			<Desc>"In the Southern Frontier, people believe that trees are like animals, if not buried, they will invite hatred and curses. Dead ancient trees are collected and made into shapes of live trees that seem to gather พลังชี่ from all creatures. " From 'Scroll of Creations'</Desc>
 			<Effect>Policy: Learn form Nature unlocked.</Effect>
 		</Text>
 		<Text Name="GroundAlter">

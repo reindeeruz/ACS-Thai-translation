@@ -44,7 +44,7 @@
 			<DisplayName>Make a Wish</DisplayName>
 			<Desc>The mysterious being within the cavern seems to possess some miraculous powers, and one can ask a special favour of it in exchange of some offerings. However, rage will ensue if one fails to present the offerings it demands.</Desc>
 			<Selections.0.Display>Wish for a Secret</Selections.0.Display>
-			<Selections.1.Display>Wish for a Qi Swell</Selections.1.Display>
+			<Selections.1.Display>Wish for a พลังชี่ Swell</Selections.1.Display>
 			<Selections.2.Display>Wish for self-improvement</Selections.2.Display>
 			<Selections.3.Display>Leave</Selections.3.Display>
 		</Text>

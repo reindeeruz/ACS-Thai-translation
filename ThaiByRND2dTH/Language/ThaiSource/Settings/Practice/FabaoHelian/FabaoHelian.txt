@@ -72,6 +72,6 @@
 69	Bestow the artifact with a huge amount of skill, increasing its Cultivation Speed.	Skill Epiphany: Huge
 70	Bestow the artifact with a massive amount of skill, increasing its Cultivation Speed.	Skill Epiphany: Massive
 71	Bestow the artifact with the Artifact Flight ability. (The original will not lose this ability)	Artifact Flight
-72	Bestow the artifact with an additional small Qi Shield. (The original will not lose this ability)	Qi Shield: Small
-73	Bestow the artifact with an additional medium Qi Shield. (The original will not lose this ability)	Qi Shield: Medium
-74	Bestow the artifact with an additional large Qi Shield. (The original will not lose this ability)	Qi Shield: Large
+72	Bestow the artifact with an additional small พลังชี่ Shield. (The original will not lose this ability)	พลังชี่ Shield: Small
+73	Bestow the artifact with an additional medium พลังชี่ Shield. (The original will not lose this ability)	พลังชี่ Shield: Medium
+74	Bestow the artifact with an additional large พลังชี่ Shield. (The original will not lose this ability)	พลังชี่ Shield: Large

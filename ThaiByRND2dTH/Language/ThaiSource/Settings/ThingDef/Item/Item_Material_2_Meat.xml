@@ -68,12 +68,12 @@
 		</Text>
 		<Text Name="Item_LongEgg" sParam="Item">
 			<ThingName>ไข่มังกรหลาก</ThingName>
-			<Desc>Flood Dragon's unhatched egg; it shows obvious signs of life. To hatch the egg, it must be in a place with temperature below -200 degrees, extremely rich in Qi, and very conducive to the Water element.</Desc>
+			<Desc>Flood Dragon's unhatched egg; it shows obvious signs of life. To hatch the egg, it must be in a place with temperature below -200 degrees, extremely rich in พลังชี่, and very conducive to the Water element.</Desc>
 			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEgg" sParam="Item">
 			<ThingName>ไข่ฟินิกซ์</ThingName>
-			<Desc>Egg of a phoenix that have not hatched yet, within it are obvious signs of life. To hatch the egg, it must be in a place with temperature above 300 degrees, extremely rich in Qi, and very conducive to the Fire element.</Desc>
+			<Desc>Egg of a phoenix that have not hatched yet, within it are obvious signs of life. To hatch the egg, it must be in a place with temperature above 300 degrees, extremely rich in พลังชี่, and very conducive to the Fire element.</Desc>
 			<Item.FabaoSuffix>Egg, Bead, Ball, Spawn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_FengEggChange" sParam="Item">

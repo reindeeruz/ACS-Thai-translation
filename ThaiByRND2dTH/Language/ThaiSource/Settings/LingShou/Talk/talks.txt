@@ -40,7 +40,7 @@ NotHeatEndure	I wouldn't help increase Heat Resistance
 NotColdEndure	I wouldn't help increase Cold Resistance				
 NotHelpPlay	I wouldn't play together with Disciples				
 NotPlayToy	I wouldn't play with toys				
-NotTrainQiGan	I wouldn't hone Qi				
+NotTrainQiGan	I wouldn't hone พลังชี่				
 NotTrainNeiDan	I wouldn't practice Core				
 NotTrainHuTi	I wouldn't hone Protection				
 NotTrainLingZhi	I wouldn't hone Intelligence				
@@ -134,7 +134,7 @@ DoTalkColdEndure					I'm helping increase Cold Resistance
 DoTalkHelpPlay					I'm having fun together with {0}
 DoTalkPlayToy					I'm playing {0}
 DoTalkPlaySelf					I'm having fun by myself
-DoTalkTrainQiGan	I'm practicing Qi-based abilites				
+DoTalkTrainQiGan	I'm practicing พลังชี่-based abilites				
 DoTalkTrainNeiDan	I'm practicing Core				
 DoTalkTrainHuTi	I'm practicing Protection-based abilites				
 DoTalkTrainLingZhi	I'm practicing Intelligence-based abilites				
@@ -279,17 +279,17 @@ NoParam2Feed_Item_Dan_PracticeSpeed	I can't find any Sprout Pills
 NoParam2Feed_Item_Dan_CalmDown	I can't find any Purity Pills				
 NoParam2Feed_Item_LingStone	I can't find any หินวิญญาณ				
 NoParam2Feed_Item_LingCrystal	I can't find any Spirit Crystals				
-QiGanResult_Low	Qi ability has increased a little bit				
+QiGanResult_Low	พลังชี่ ability has increased a little bit				
 NeiDanResult_Low	Core has increased a litte bit				
 HuTiResult_Low	Protection ability has increased a little bit				
 LingZhiResult_Low	Intelligence ability has increased a little bit				
 ShuFaResult_Low	Spellcasting ability has increased a little bit				
-QiGanResult_Mid	Qi ability has increased quite a bit				
+QiGanResult_Mid	พลังชี่ ability has increased quite a bit				
 NeiDanResult_Mid	Core has increased quite a bit				
 HuTiResult_Mid	Protection ability has increased quite a bit				
 LingZhiResult_Mid	Intelligence ability has increased quite a bit				
 ShuFaResult_Mid	Spellcasting ability has increased quite a bit				
-QiGanResult_High	Qi ability has increased significantly				
+QiGanResult_High	พลังชี่ ability has increased significantly				
 NeiDanResult_High	Internal Core has increased significantly				
 HuTiResult_High	Protection ability has increased significantly				
 LingZhiResult_High	Intelligence ability has increased significantly				
@@ -307,7 +307,7 @@ DoTalkCarryMortalBodyToDest					I am currently moving mortal {0}'s corpse to a S
 CantCarryMortalToDest	There's no way for me to move unconscious mortals to a Staging Area				
 CantCarryMortalBodyToDest	There's no way for me to move mortals' corpses to a Staging Area				
 Nothing	Nothing happened				
-No_NutritionQiGan	There's no nourishment for Qi, there's no use practicing				
+No_NutritionQiGan	There's no nourishment for พลังชี่, there's no use practicing				
 No_NutritionNeiDan	There's no nourishment for Internal Core, there's no use practicing				
 No_NutritionHuTi	There's no nourishment for Protecting, there's no use practicing				
 No_NutritionLingZhi	There's no nourishment for Intelligence, there's no use practicing				
@@ -317,7 +317,7 @@ WannaTrainShuFa	I want to practice Spell-based abilities
 WannaTrainLingZhi	I want to practice Intelligence-based abilities				
 WannaTrainHuTi	I want to practice Protection-based abilities				
 WannaTrainNeiDan	I want to practice Internal Core				
-WannaTrainQiGan	I want to practice Qi-based abilities				
+WannaTrainQiGan	I want to practice พลังชี่-based abilities				
 NothingToEat	There's nothing to eat! I sure am hungry				
 NotEat_Item_SnakeGallbladder	I wouldn't eat Snake Gall				
 NotEat_Item_BearGallbladder	I wouldn't eat Bear Gall				
@@ -457,7 +457,7 @@ SleepHelp3					Get better soon, {0}!
 Lacrimosa1		...			
 Lacrimosa2		...			
 Lacrimosa3		...			
-QiGan_FullTalk	My Qi is at its limit				
+QiGan_FullTalk	My พลังชี่ is at its limit				
 NeiDan_FullTalk	My Internal Core is at its limit				
 HuTi_FullTalk	My Protection is at its limit				
 LingZhi_FullTalk	My Intelligence is at its limit				

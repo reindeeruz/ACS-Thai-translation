@@ -12,12 +12,12 @@
 		</Text>
 		<Text Name="Gong1_Esoterica_1">
 			<DisplayName>Mindful Springs</DisplayName>
-			<Desc>Visualize a gushing spring in a sun-dappled forest, calming and enhancing your mind. Performing such Qi training allows one to strengthen their connections to the earth around them as well as the Heavens, improving Qi absorption.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nIncreases efficiency of Qi Absorption.[/color][/size]</EffectDesc>
+			<Desc>Visualize a gushing spring in a sun-dappled forest, calming and enhancing your mind. Performing such พลังชี่ training allows one to strengthen their connections to the earth around them as well as the Heavens, improving พลังชี่ absorption.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nIncreases efficiency of พลังชี่ Absorption.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_2">
 			<DisplayName>Harmonious Chant</DisplayName>
-			<Desc>A technique to control one's Qi, as recorded in กฎ 16 ขั้นสูงสุด. The chant emphasizes how Qi flows should be harnessed and controlled by one's mind, as the tides are by the moon. Greatly enhances the power of one's Secret Moves.</Desc>
+			<Desc>A technique to control one's พลังชี่, as recorded in กฎ 16 ขั้นสูงสุด. The chant emphasizes how พลังชี่ flows should be harnessed and controlled by one's mind, as the tides are by the moon. Greatly enhances the power of one's Secret Moves.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increase your Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_3">
@@ -27,18 +27,18 @@
 		</Text>
 		<Text Name="Gong1_Esoterica_4">
 			<DisplayName>Amalgam</DisplayName>
-			<Desc>A secret technique that absorbs and combines both positive and negative Qi from the mortal world and the Heavens.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Slightly increases Spell Power.\nSlightly increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>A secret technique that absorbs and combines both positive and negative พลังชี่ from the mortal world and the Heavens.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Slightly increases Spell Power.\nSlightly increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_5">
 			<DisplayName>Chant of the Rapids</DisplayName>
-			<Desc>Focus the Qi within your body and enhance its power, causing it to surge like a raging river between your meridians. Releases the limits of your core, where one gathers their Qi. Become a master cultivator, and you shall be able to gather Qi not just in your core but throughout your entire body.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly increases your Qi recovery rate.[/color][/size]</EffectDesc>
+			<Desc>Focus the พลังชี่ within your body and enhance its power, causing it to surge like a raging river between your meridians. Releases the limits of your core, where one gathers their พลังชี่. Become a master cultivator, and you shall be able to gather พลังชี่ not just in your core but throughout your entire body.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Significantly increases your พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_6">
 			<DisplayName>Aquamarine Chant</DisplayName>
-			<Desc>Concentrate your energies and call upon the primal force of water, reinforcing your total energy reserves. Practicing this skill improves one's foundational understanding, greatly raising Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Greatly increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>Concentrate your energies and call upon the primal force of water, reinforcing your total energy reserves. Practicing this skill improves one's foundational understanding, greatly raising ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_7">
 			<DisplayName>Essential Osmosis</DisplayName>
@@ -47,8 +47,8 @@
 		</Text>
 		<Text Name="Gong1_Esoterica_8">
 			<DisplayName>Meridian Osmosis</DisplayName>
-			<Desc>Supplement your meridians with the primal force of water, strengthening and invigorating your entire being. Practicing this skill significantly increases one's Charisma and efficiency of Qi Absorption.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nSignificantly increases Qi absorption efficiency.[/color][/size]</EffectDesc>
+			<Desc>Supplement your meridians with the primal force of water, strengthening and invigorating your entire being. Practicing this skill significantly increases one's Charisma and efficiency of พลังชี่ Absorption.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nSignificantly increases พลังชี่ absorption efficiency.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_9">
 			<DisplayName>Inner Osmosis</DisplayName>
@@ -58,11 +58,11 @@
 		<Text Name="Gong2_Esoterica_1">
 			<DisplayName>Conditioning Chant</DisplayName>
 			<Desc>An essential part of the foundational training given at Mt. Sunshade. Condition your body, tempering and bolstering your natural strength.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Perception by 5%.\nIncreases Constitution by 5%.\nSlightly increases Max Qi.\nSlightly increases the Success Rate of Artifact crafting.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Perception by 5%.\nIncreases Constitution by 5%.\nSlightly increases ค่าพลังชี่สูงสุด.\nSlightly increases the Success Rate of Artifact crafting.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_2">
 			<DisplayName>Aura Refinement</DisplayName>
-			<Desc>A method of refining materials using Qi. Practicing this technique improves your Artifact crafting skills.</Desc>
+			<Desc>A method of refining materials using พลังชี่. Practicing this technique improves your Artifact crafting skills.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases quality of Artifacts crafted.\nIncreases the Success Rate of Artifact crafting.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_3">
@@ -78,12 +78,12 @@
 		<Text Name="Gong2_Esoterica_5">
 			<DisplayName>Mindblast</DisplayName>
 			<Desc>Learn to concentrate and flare your mental reserves, increasing your magical power.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly increases Max Qi.\nIncreases Intelligence by 10%.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Significantly increases ค่าพลังชี่สูงสุด.\nIncreases Intelligence by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_6">
 			<DisplayName>Purified Energies</DisplayName>
-			<Desc>Draw in primal Qi and cultivate it, amassing a store of pure energy. Improves Qi Sense.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Qi Sense level by 2.[/color][/size]</EffectDesc>
+			<Desc>Draw in primal พลังชี่ and cultivate it, amassing a store of pure energy. Improves พลังชี่ Sense.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases พลังชี่ Sense level by 2.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_7">
 			<DisplayName>Natural History Compendium</DisplayName>
@@ -113,17 +113,17 @@
 		<Text Name="Gong3_Esoterica_2">
 			<DisplayName>Seven-Slaughtering Form</DisplayName>
 			<Desc>Control your killing intent to imbue your meridians with the strength of the Seven-Slaughtering. Significantly improves Constitution. You also learn how to create Blade Pill.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 20%.\nSlightly increases Max Qi.\nAcquire Elixir Recipe: Blade Pill[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 20%.\nSlightly increases ค่าพลังชี่สูงสุด.\nAcquire Elixir Recipe: Blade Pill[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_3">
 			<DisplayName>Demonic Aura</DisplayName>
 			<Desc>A sword skill of the Seven-Slaughtering Sect. In creating it, a demon was fed wicked swords that had slain heroes in battle, before being controlled by their auras. Fully enhances one's Artifact Mastery powers.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nIncreases Artifact Qi recovery rate.\nIncreases Artifact Qi.\nIncreases Artifact Speed.\nIncreases Artifact turn speed.\nIncreases length of Artifact trails.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nIncreases Artifact พลังชี่ recovery rate.\nIncreases Artifact พลังชี่.\nIncreases Artifact Speed.\nIncreases Artifact turn speed.\nIncreases length of Artifact trails.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_4">
 			<DisplayName>Sword Control</DisplayName>
 			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's meridians.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Qi Recovery Multiplier.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_5">
 			<DisplayName>Blade Oath</DisplayName>
@@ -133,7 +133,7 @@
 		<Text Name="Gong3_Esoterica_6">
 			<DisplayName>Blade Cohesion</DisplayName>
 			<Desc>The sword is linked with your inner being, a part of your mind, as if you were born with it.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nGreatly increases Artifact Power.\nGreatly increases Artifact Qi.\nGreatly increases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nGreatly increases Artifact Power.\nGreatly increases Artifact พลังชี่.\nGreatly increases Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_7">
 			<DisplayName>Divine Mastery</DisplayName>
@@ -143,7 +143,7 @@
 		<Text Name="Gong3_Esoterica_8">
 			<DisplayName>Swordmind</DisplayName>
 			<Desc>Become one with the sword, and let it fill your entire being.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nGreatly increases Artifact Power.\nGreatly increases Artifact Qi.\nGreatly increases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nGreatly increases Artifact Power.\nGreatly increases Artifact พลังชี่.\nGreatly increases Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_9">
 			<DisplayName>Sword Ultima I</DisplayName>
@@ -152,8 +152,8 @@
 		</Text>
 		<Text Name="Gong3_Esoterica_10">
 			<DisplayName>Selfsword I</DisplayName>
-			<Desc>The final method of combining one's primal spirit with that of the sword. Significantly improves one's mental state and their artifact Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly improves Mental State.\nSignificantly increases Artifact Qi.\nSignificantly increases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<Desc>The final method of combining one's primal spirit with that of the sword. Significantly improves one's mental state and their artifact พลังชี่.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Significantly improves Mental State.\nSignificantly increases Artifact พลังชี่.\nSignificantly increases Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_11">
 			<DisplayName>Strike Chant</DisplayName>
@@ -168,7 +168,7 @@
 		<Text Name="Gong3_Esoterica_13">
 			<DisplayName>Cleanse Chant</DisplayName>
 			<Desc>A secret technique used in swordsmanship training, recorded in the เจ็ดดาบสังหาร. Requires many years of practice to master.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_14">
 			<DisplayName>Crush Chant</DisplayName>
@@ -183,7 +183,7 @@
 		<Text Name="Gong3_Esoterica_16">
 			<DisplayName>Slash Chant</DisplayName>
 			<Desc>A secret technique used in swordsmanship training, recorded in the เจ็ดดาบสังหาร. Requires many years of practice to master.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_17">
 			<DisplayName>Control Chant</DisplayName>
@@ -198,12 +198,12 @@
 		<Text Name="Gong3_Esoterica_19">
 			<DisplayName>Severance Chant</DisplayName>
 			<Desc>A secret technique used in swordsmanship training, recorded in the เจ็ดดาบสังหาร. Requires many years of practice to master.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_1">
 			<DisplayName>Waterfall Flow</DisplayName>
-			<Desc>A hidden method that hails from the Kunlun Palace, it can increase one's meridian activity and massively expand their Qi reserves.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Greatly increases Max Qi.\nIncreases Spell Power.[/color][/size]</EffectDesc>
+			<Desc>A hidden method that hails from the Kunlun Palace, it can increase one's meridian activity and massively expand their พลังชี่ reserves.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_2">
 			<DisplayName>Heavenly Harmony</DisplayName>
@@ -212,13 +212,13 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_3">
 			<DisplayName>Reflection Chant</DisplayName>
-			<Desc>A technique that the Jadesprite Sect keeps secret. Through this chant, one can begin to understand the mysteries behind Qi flows.</Desc>
+			<Desc>A technique that the Jadesprite Sect keeps secret. Through this chant, one can begin to understand the mysteries behind พลังชี่ flows.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Reduces Spell Cast Time.\nReduces Spell Cooldown.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_4">
 			<DisplayName>Elemental Origins</DisplayName>
-			<Desc>The once-lost powers of the Five Elements return to your core, residing within the Five Organs, and harmonizing inner Qi. Serves to prolong one's lifespan, increase Qi and greatly improve Qi absorption efficiency.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Extends Lifespan.\nIncreases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>The once-lost powers of the Five Elements return to your core, residing within the Five Organs, and harmonizing inner พลังชี่. Serves to prolong one's lifespan, increase พลังชี่ and greatly improve พลังชี่ absorption efficiency.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Extends Lifespan.\nIncreases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_5">
 			<DisplayName>Meticulous Revision</DisplayName>
@@ -227,13 +227,13 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_6">
 			<DisplayName>Goddess of the Grain's Blessing</DisplayName>
-			<Desc>She bestow the artifact with to us life; an escape from death: hence, we know her as the Goddess of the Grain. With this, one can greatly prolong their Lifespan as well as increase their Qi capacity.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Extends Lifespan.\nIncreases Max Qi.\nIncreases Spell Power.[/color][/size]</EffectDesc>
+			<Desc>She bestow the artifact with to us life; an escape from death: hence, we know her as the Goddess of the Grain. With this, one can greatly prolong their Lifespan as well as increase their พลังชี่ capacity.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Extends Lifespan.\nIncreases ค่าพลังชี่สูงสุด.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_7">
 			<DisplayName>Primordial Embryo</DisplayName>
-			<Desc>A matter kept secret by the Jadesprite School, one can become endowed with a primeval consciousness, the Innerspirit, that allows for greater Qi manipulation abilities. In doing so, you greatly enhance the Innerspirit's abilities to interact and draw upon external Qi sources.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly increases Qi recovery rate.\nIncreases Spell Power.[/color][/size]</EffectDesc>
+			<Desc>A matter kept secret by the Jadesprite School, one can become endowed with a primeval consciousness, the Innerspirit, that allows for greater พลังชี่ manipulation abilities. In doing so, you greatly enhance the Innerspirit's abilities to interact and draw upon external พลังชี่ sources.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Significantly increases พลังชี่ recovery rate.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_8">
 			<DisplayName>Divine Awareness</DisplayName>
@@ -247,8 +247,8 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_10">
 			<DisplayName>Hallowed Cascade</DisplayName>
-			<Desc>One's Qi flows with the strength of the Hallowed Cascade, waters within a sacred channel that dates back to the dawn of time. Increases Charisma and Max Qi. It also allows one to utilize the way of Cascade as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nIncreases Max Qi.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>One's พลังชี่ flows with the strength of the Hallowed Cascade, waters within a sacred channel that dates back to the dawn of time. Increases Charisma and ค่าพลังชี่สูงสุด. It also allows one to utilize the way of Cascade as the catalyst to split out one branch of sub-spirit.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nIncreases ค่าพลังชี่สูงสุด.\nGains one sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_11">
 			<DisplayName>Fervent Spirit</DisplayName>
@@ -257,8 +257,8 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_12">
 			<DisplayName>Terraforce</DisplayName>
-			<Desc>Within the earth lies a force dating back to antiquity that protects those who draw upon its power, granting good fortune and strengthening Qi Shields. It also allows one to utilize the way of Grim as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Luck by 10%.\nIncreases Qi Barrier Effect.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Within the earth lies a force dating back to antiquity that protects those who draw upon its power, granting good fortune and strengthening พลังชี่ Shields. It also allows one to utilize the way of Grim as the catalyst to split out one branch of sub-spirit.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Luck by 10%.\nIncreases พลังชี่ Barrier Effect.\nGains one sub-spirit.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_1">
 			<DisplayName>Defiled Image</DisplayName>
@@ -282,18 +282,18 @@
 		</Text>
 		<Text Name="Gong5_Esoterica_5">
 			<DisplayName>Nether Redemption</DisplayName>
-			<Desc>Having suffered the Four Defilements of Image, Senses, Mind and Sanity, the truly corrupt ones may attract the Qi emanating from the Nether to rejuvenate their broken spirits, prolonging their lifespans.</Desc>
+			<Desc>Having suffered the Four Defilements of Image, Senses, Mind and Sanity, the truly corrupt ones may attract the พลังชี่ emanating from the Nether to rejuvenate their broken spirits, prolonging their lifespans.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly extends Lifespan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_6">
 			<DisplayName>Reformed Lifeblood</DisplayName>
-			<Desc>A mysterious practice in which the heart and bone tissue is reformed, processing not just blood cells but also Qi as it flows endlessly throughout your body.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly increases Qi recovery rate.\nSlightly increases Max Qi.\nDamages the heart![/color][/size]</EffectDesc>
+			<Desc>A mysterious practice in which the heart and bone tissue is reformed, processing not just blood cells but also พลังชี่ as it flows endlessly throughout your body.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Significantly increases พลังชี่ recovery rate.\nSlightly increases ค่าพลังชี่สูงสุด.\nDamages the heart![/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_7">
 			<DisplayName>Ancient Barrier</DisplayName>
 			<Desc>A protection founded by cultivators of times past, culminating from their experiences in countless battles. Enhances one's ability to resist damage.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases effectiveness of Qi Shield.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases effectiveness of พลังชี่ Shield.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_8">
 			<DisplayName>Turtle Chant</DisplayName>
@@ -322,8 +322,8 @@
 		</Text>
 		<Text Name="Gong6_Esoterica_1">
 			<DisplayName>Refined Tonic</DisplayName>
-			<Desc>Used in foundational Taoist Qi training. Through strengthening the cycles of Qi in your body, you expel impurities and increase your maximum Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nFundamentally increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>Used in foundational Taoist พลังชี่ training. Through strengthening the cycles of พลังชี่ in your body, you expel impurities and increase your maximum พลังชี่.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nFundamentally increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_2">
 			<DisplayName>Mind Cleanse</DisplayName>
@@ -382,8 +382,8 @@
 		</Text>
 		<Text Name="Gong6_Esoterica_13">
 			<DisplayName>Reabsorption Chant</DisplayName>
-			<Desc>A secondary, advanced equivalent of the Essence Chant. Reconsume the essential nutrients imbibed to extract their maximum medicinal value, increasing one's maximum Qi and Qi absorption efficiency.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Qi.\nIncreases efficiency of Qi Absorption.[/color][/size]</EffectDesc>
+			<Desc>A secondary, advanced equivalent of the Essence Chant. Reconsume the essential nutrients imbibed to extract their maximum medicinal value, increasing one's maximum พลังชี่ and พลังชี่ absorption efficiency.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด.\nIncreases efficiency of พลังชี่ Absorption.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_14">
 			<DisplayName>Inner Canon of the Elixir Sages</DisplayName>
@@ -402,8 +402,8 @@
 		</Text>
 		<Text Name="Gong7_Esoterica_3">
 			<DisplayName>Empathy Chant</DisplayName>
-			<Desc>Become telepathically attuned to the consciousness of those around you, the birds in the sky, the people you meet. Experience the comings and goings of a thousand souls. This method greatly improves one's Charisma and Social skills, as well as nurturing a sense of Empathy that boosts their flows of Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nSignificantly increases Social skills.\nSignificantly increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>Become telepathically attuned to the consciousness of those around you, the birds in the sky, the people you meet. Experience the comings and goings of a thousand souls. This method greatly improves one's Charisma and Social skills, as well as nurturing a sense of Empathy that boosts their flows of พลังชี่.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nSignificantly increases Social skills.\nSignificantly increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_4">
 			<DisplayName>Sagely Stoic</DisplayName>
@@ -417,12 +417,12 @@
 		</Text>
 		<Text Name="Gong7_Esoterica_6">
 			<DisplayName>Doctrine of Self-Nourishment</DisplayName>
-			<Desc>Details miraculous techniques to condition both body and mind. Improves Charisma and max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nGreatly increases Max Qi.\nIncreases Artifact Power.[/color][/size]</EffectDesc>
+			<Desc>Details miraculous techniques to condition both body and mind. Improves Charisma and ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nGreatly increases ค่าพลังชี่สูงสุด.\nIncreases Artifact Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_7">
 			<DisplayName>Sitting in Oblivion</DisplayName>
-			<Desc>A practice for refining one's Qi, created by the Skydome Palace. Through devoted cultivation with this method, one can enhance their mental faculties and speed up cultivation.</Desc>
+			<Desc>A practice for refining one's พลังชี่, created by the Skydome Palace. Through devoted cultivation with this method, one can enhance their mental faculties and speed up cultivation.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases base Mental State value.\nIncreases Cultivation Speed.\nIncreases Artifact Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_8">
@@ -432,8 +432,8 @@
 		</Text>
 		<Text Name="Gong7_Esoterica_9">
 			<DisplayName>Spirit Gale</DisplayName>
-			<Desc>Amass one's spiritual power within the body, and have it flow freely as the wind. Grants a freeness and cloud-like fluidity in both mind and body. Mastering this grants a great increase in one's Max Qi and hugely improves Charisma.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Significantly increases Max Qi.\nIncreases Charisma by 10%.[/color][/size]</EffectDesc>
+			<Desc>Amass one's spiritual power within the body, and have it flow freely as the wind. Grants a freeness and cloud-like fluidity in both mind and body. Mastering this grants a great increase in one's ค่าพลังชี่สูงสุด and hugely improves Charisma.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Significantly increases ค่าพลังชี่สูงสุด.\nIncreases Charisma by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_10">
 			<DisplayName>Reflected Self</DisplayName>
@@ -448,7 +448,7 @@
 		<Text Name="Gong7_Esoterica_12">
 			<DisplayName>Sword of Sentiment</DisplayName>
 			<Desc>Amalgamate the seven emotions of mankind, conferring them upon your blade. Doing so greatly enhances one's Bladeriding agility, yet the gravity of such strong emotions also serve to slow Bladeriding recovery times.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Artifact Qi.\nReduces Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Max Artifact พลังชี่.\nReduces Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_13">
 			<DisplayName>Steelweight Passion</DisplayName>
@@ -463,7 +463,7 @@
 		<Text Name="Gong8_Esoterica_2">
 			<DisplayName>The Compass Doctrine</DisplayName>
 			<Desc>Expounds upon the ways to harness the power of the stars and constellations in tempering the self. It is also sets the outline for the Seven Ultimate Skills of the Perfected Warrior. Cultivating such skills allows one to improve Constitution via the power of the Grand Chariot.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nIncreases Max Qi.\nIncreases Max Artifact Qi.\nIncreases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nIncreases ค่าพลังชี่สูงสุด.\nIncreases Max Artifact พลังชี่.\nIncreases Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_3">
 			<DisplayName>Dubhe Chant</DisplayName>
@@ -483,12 +483,12 @@
 		<Text Name="Gong8_Esoterica_6">
 			<DisplayName>Megrez Chant</DisplayName>
 			<Desc>Draw upon the power of the Grand Chariot star Megrez for your own use. The glowing light of Megrez, ancient and just, can be assimilated into Artifacts to lend them an incredible solidity.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_7">
 			<DisplayName>Alioth Chant</DisplayName>
 			<Desc>Draw upon the power of the Grand Chariot star Alioth for your own use. The glowing light of Alioth, shining with a tireless strength, can be assimilated into Artifacts to increase their sustainability.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_8">
 			<DisplayName>Mizar Chant</DisplayName>
@@ -507,13 +507,13 @@
 		</Text>
 		<Text Name="Gong8_Esoterica_11">
 			<DisplayName>Breakthrough Incantation</DisplayName>
-			<Desc>Align yourself with universal cycles of Qi. In doing so you free yourself from all ego and can find your true self. Practice this skill to promote mindfulness and improve your mental faculties overall.</Desc>
+			<Desc>Align yourself with universal cycles of พลังชี่. In doing so you free yourself from all ego and can find your true self. Practice this skill to promote mindfulness and improve your mental faculties overall.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Improves Mental State.\nIncreases base Mood value.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_12">
 			<DisplayName>Exchange Incantation</DisplayName>
-			<Desc>Expend vital energies to strengthen your being, comprehensively improving the Five Attributes. While powerful, this method enhances your abilities at the cost of a tenth of your total Qi pool and 120 years of life.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Shortens Lifespan.\nGreatly decreases Max Qi.\nIncreases the Five Attributes by 5%.[/color][/size]</EffectDesc>
+			<Desc>Expend vital energies to strengthen your being, comprehensively improving the Five Attributes. While powerful, this method enhances your abilities at the cost of a tenth of your total พลังชี่ pool and 120 years of life.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Shortens Lifespan.\nGreatly decreases ค่าพลังชี่สูงสุด.\nIncreases the Five Attributes by 5%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_13">
 			<DisplayName>Stargazer</DisplayName>
@@ -537,7 +537,7 @@
 		</Text>
 		<Text Name="Gong9_Esoterica_4">
 			<DisplayName>Reincarnated Form</DisplayName>
-			<Desc>Perform techniques outlined in the Mortality Records to trigger Genetic Transfiguration, and reform your body into a Reincarnated Form. Casting while one's body is a Reincarnated Form grants a much greater Spell Power while Qi costs remain the same.</Desc>
+			<Desc>Perform techniques outlined in the Mortality Records to trigger Genetic Transfiguration, and reform your body into a Reincarnated Form. Casting while one's body is a Reincarnated Form grants a much greater Spell Power while พลังชี่ costs remain the same.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_5">
@@ -547,23 +547,23 @@
 		</Text>
 		<Text Name="Gong9_Esoterica_6">
 			<DisplayName>Doctrine of Reincarnation</DisplayName>
-			<Desc>A mysterious doctrine that is believed to originate from the Netherworld, and forms the basis for the Book of Reincarnation. Greatly increases one's Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Greatly increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>A mysterious doctrine that is believed to originate from the Netherworld, and forms the basis for the Book of Reincarnation. Greatly increases one's ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_7">
 			<DisplayName>Earthen Absorption</DisplayName>
-			<Desc>Harness the Qi given off from trees and the plants around you to nourish your own Qi reserves. Practicing this skill moderately improves your Constitution and Qi absorption efficiency.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nSlightly increases Qi Absorption Efficiency.[/color][/size]</EffectDesc>
+			<Desc>Harness the พลังชี่ given off from trees and the plants around you to nourish your own พลังชี่ reserves. Practicing this skill moderately improves your Constitution and พลังชี่ absorption efficiency.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nSlightly increases พลังชี่ Absorption Efficiency.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_8">
 			<DisplayName>Records of Coexistence</DisplayName>
 			<Desc>Records detailing how it is possible to attain synchrony with the natural world around us, if it is studied closely. Doing so can aid understandings of Artifacts. Through an understanding of these records one can comprehensively improve Artifact Mastery abilities.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nIncreases Artifact Qi recovery rate.\nIncreases Artifact Qi.\nIncreases Artifact speed.\nIncreases Artifact turning speed.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nIncreases Artifact พลังชี่ recovery rate.\nIncreases Artifact พลังชี่.\nIncreases Artifact speed.\nIncreases Artifact turning speed.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_9">
 			<DisplayName>Unity Chant</DisplayName>
-			<Desc>Develop the synchrony that exists between yourself and nature even further, until your very breathing is in harmony with natural Qi flows. Practice this skill to increase Max Qi and Qi recovery rate.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Qi.\nIncreases Qi recovery rate.[/color][/size]</EffectDesc>
+			<Desc>Develop the synchrony that exists between yourself and nature even further, until your very breathing is in harmony with natural พลังชี่ flows. Practice this skill to increase ค่าพลังชี่สูงสุด and พลังชี่ recovery rate.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด.\nIncreases พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_10">
 			<DisplayName>Genetic Transfiguration</DisplayName>
@@ -582,13 +582,13 @@
 		</Text>
 		<Text Name="Gong9_Esoterica_13">
 			<DisplayName>True Form - Tier I</DisplayName>
-			<Desc>Through channeling Qi that is released during reincarnation, one can undergo training to perfect one's physical form. Greatly improves Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Greatly increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>Through channeling พลังชี่ that is released during reincarnation, one can undergo training to perfect one's physical form. Greatly improves ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_14">
 			<DisplayName>Supreme Form - Tier I</DisplayName>
-			<Desc>Build upon one's prior knowledge and Qi powers to transform into a greater being, significantly improving combat ability.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nIncreases Spell Power.\nIncreases effectiveness of Qi Shield.[/color][/size]</EffectDesc>
+			<Desc>Build upon one's prior knowledge and พลังชี่ powers to transform into a greater being, significantly improving combat ability.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nIncreases Spell Power.\nIncreases effectiveness of พลังชี่ Shield.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_1">
 			<DisplayName>Mana Codex</DisplayName>
@@ -597,12 +597,12 @@
 		</Text>
 		<Text Name="Gong10_Esoterica_2">
 			<DisplayName>Steadfast Incantation</DisplayName>
-			<Desc>Through sheer power of will, have Qi rush throughout your body and increase the potency of your spells.</Desc>
+			<Desc>Through sheer power of will, have พลังชี่ rush throughout your body and increase the potency of your spells.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Temperature Tolerance.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_3">
 			<DisplayName>Sunstream Chant</DisplayName>
-			<Desc>Harness Qi energies that are dispersed through sunlight, and greatly enhance Spell Power.</Desc>
+			<Desc>Harness พลังชี่ energies that are dispersed through sunlight, and greatly enhance Spell Power.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_4">
@@ -612,8 +612,8 @@
 		</Text>
 		<Text Name="Gong10_Esoterica_5">
 			<DisplayName>Helios Gaze</DisplayName>
-			<Desc>Gather and concentrate your Qi by visualizing the sun in its true, primeval form. Greatly increases one's Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Greatly increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>Gather and concentrate your พลังชี่ by visualizing the sun in its true, primeval form. Greatly increases one's ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_6">
 			<DisplayName>Visceral Blaze</DisplayName>
@@ -622,13 +622,13 @@
 		</Text>
 		<Text Name="Gong10_Esoterica_7">
 			<DisplayName>Skyfire Meridians</DisplayName>
-			<Desc>Refine your meridian points with a holy fire. Increases maximum Qi and slightly increases Constitution.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Qi.\nIncreases Constitution by 10%.[/color][/size]</EffectDesc>
+			<Desc>Refine your meridian points with a holy fire. Increases maximum พลังชี่ and slightly increases Constitution.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด.\nIncreases Constitution by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_8">
 			<DisplayName>Mindblaze</DisplayName>
-			<Desc>Ignite a blaze of Qi deep within your mind that burns continuously to greatly reduce casting intervals and costs.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Decreases Spell casting cooldown.\nDecreases Spells' Qi consumption.[/color][/size]</EffectDesc>
+			<Desc>Ignite a blaze of พลังชี่ deep within your mind that burns continuously to greatly reduce casting intervals and costs.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Decreases Spell casting cooldown.\nDecreases Spells' พลังชี่ consumption.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_9">
 			<DisplayName>Divine Fire Incantation</DisplayName>
@@ -647,8 +647,8 @@
 		</Text>
 		<Text Name="Gong11_Esoterica_1">
 			<DisplayName>Lunar Form</DisplayName>
-			<Desc>Refine one's physical form using the Yin Qi energy that emanates from the light of the moon. Results in gender reversal if the cultivator practicing it is male.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Transform the energies within your body to become that of pure Yin.\nGreatly increases Max Qi.\nGreatly increases Artifact Power.[/color][/size]</EffectDesc>
+			<Desc>Refine one's physical form using the Yin พลังชี่ energy that emanates from the light of the moon. Results in gender reversal if the cultivator practicing it is male.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Transform the energies within your body to become that of pure Yin.\nGreatly increases ค่าพลังชี่สูงสุด.\nGreatly increases Artifact Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_2">
 			<DisplayName>Exorcise</DisplayName>
@@ -657,8 +657,8 @@
 		</Text>
 		<Text Name="Gong11_Esoterica_3">
 			<DisplayName>Earthbound Teachings</DisplayName>
-			<Desc>A secret manual that details how Earthbound forces may be used to cultivate a Qi shield.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases effectiveness of Qi Shield.[/color][/size]</EffectDesc>
+			<Desc>A secret manual that details how Earthbound forces may be used to cultivate a พลังชี่ shield.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases effectiveness of พลังชี่ Shield.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_4">
 			<DisplayName>Void Worship</DisplayName>
@@ -667,8 +667,8 @@
 		</Text>
 		<Text Name="Gong11_Esoterica_5">
 			<DisplayName>Way of the Nine Provinces</DisplayName>
-			<Desc>Immerse yourself in visualizing the ancient landforms that formed China's geography, cultivating your primeval Qi. Effectively increases one's Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Qi.[/color][/size]</EffectDesc>
+			<Desc>Immerse yourself in visualizing the ancient landforms that formed China's geography, cultivating your primeval พลังชี่. Effectively increases one's ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_6">
 			<DisplayName>Descry</DisplayName>
@@ -693,7 +693,7 @@
 		<Text Name="Gong11_Esoterica_10">
 			<DisplayName>Spectral Swordplay</DisplayName>
 			<Desc>A swordskill that originates from deep in the Netherworld. By sacrificing artifact energies, their power can be greatly enhanced.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nGreatly decreases Max Artifact Qi.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nGreatly decreases Max Artifact พลังชี่.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_11">
 			<DisplayName>Quickdraw</DisplayName>
@@ -707,8 +707,8 @@
 		</Text>
 		<Text Name="Gong11_Esoterica_13">
 			<DisplayName>Abyssal Swell</DisplayName>
-			<Desc>A swordskill that originates from deep in the Netherworld. Greatly enhances Artifact power at the expense of Artifact Qi recovery rate.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nDecreases Artifact Qi recovery rate.[/color][/size]</EffectDesc>
+			<Desc>A swordskill that originates from deep in the Netherworld. Greatly enhances Artifact power at the expense of Artifact พลังชี่ recovery rate.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Artifact Power.\nDecreases Artifact พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_14">
 			<DisplayName>Annihila Thrust</DisplayName>
@@ -718,12 +718,12 @@
 		<Text Name="Gong11_Esoterica_15">
 			<DisplayName>Earthmother</DisplayName>
 			<Desc>A mystic cultivation manual that describes how to command souls and spirits. Believed to have been passed down from the Palace of the Six Earth Mothers.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Qi Sense.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Increases พลังชี่ Sense.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_16">
-			<DisplayName>Earthbound Qi</DisplayName>
-			<Desc>Refine a minute wisp of ancient Earthbound Qi to grant yourself an incredible increase in your own Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Qi by 15,000.[/color][/size]</EffectDesc>
+			<DisplayName>Earthbound พลังชี่</DisplayName>
+			<Desc>Refine a minute wisp of ancient Earthbound พลังชี่ to grant yourself an incredible increase in your own ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด by 15,000.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_1">
 			<DisplayName>Comprehensive Book of Talismans</DisplayName>
@@ -767,13 +767,13 @@
 		</Text>
 		<Text Name="Gong12_Esoterica_9">
 			<DisplayName>Cloudy Confluence</DisplayName>
-			<Desc>Unique way of managing one's circulation of inner Qi. Increases Max Qi.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Max Qi by 1,000.[/color][/size]</EffectDesc>
+			<Desc>Unique way of managing one's circulation of inner พลังชี่. Increases ค่าพลังชี่สูงสุด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด by 1,000.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_10">
 			<DisplayName>Scripture of Cloudforming</DisplayName>
-			<Desc>Concentrate the Qi of your entire body into a form resembling that of a cloud, effectively improving the defensive effects of Qi Barrier.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Qi Barrier Effect.[/color][/size]</EffectDesc>
+			<Desc>Concentrate the พลังชี่ of your entire body into a form resembling that of a cloud, effectively improving the defensive effects of พลังชี่ Barrier.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases พลังชี่ Barrier Effect.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_11">
 			<DisplayName>Theory of Naivety</DisplayName>

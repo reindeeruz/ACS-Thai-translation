@@ -12,7 +12,7 @@
 佩戴者可以提高抵御水属性伤害之力。	Increases the wearer's resistance to Water Damage.
 水甲符	Waterarmor Talisman
 角色出生点	Born Point
-灵石法座	Spirit Stone Qi Cushion
+灵石法座	Spirit Stone พลังชี่ Cushion
 逻辑点	Logic Point
 归	Gui
 草	Cao

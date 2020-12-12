@@ -14,7 +14,7 @@
 		</Text>
 		<Text Name="RockLing" sParam="Plant">
 			<ThingName>Spirit Stone Vein</ThingName>
-			<Desc>Mountain rock rich in Qi, from which หินวิญญาณ can be mined.</Desc>
+			<Desc>Mountain rock rich in พลังชี่, from which หินวิญญาณ can be mined.</Desc>
 		</Text>
 	</List>
 </Texts>

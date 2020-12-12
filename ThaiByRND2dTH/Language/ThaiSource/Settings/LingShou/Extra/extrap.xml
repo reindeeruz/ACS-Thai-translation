@@ -8,9 +8,9 @@
 			<RaceExtra.0.Lv.2.SName>Well-proportioned</RaceExtra.0.Lv.2.SName>
 			<RaceExtra.0.Lv.2.Desc>Neither overweight, nor underweight.</RaceExtra.0.Lv.2.Desc>
 			<RaceExtra.0.Lv.3.SName>Plump</RaceExtra.0.Lv.3.SName>
-			<RaceExtra.0.Lv.3.Desc>Looks like some pounds are getting packed on. Max Qi has increased slightly, but Movement Speed has also decreased.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.3.Desc>Looks like some pounds are getting packed on. ค่าพลังชี่สูงสุด has increased slightly, but Movement Speed has also decreased.</RaceExtra.0.Lv.3.Desc>
 			<RaceExtra.0.Lv.4.SName>Corpulent</RaceExtra.0.Lv.4.SName>
-			<RaceExtra.0.Lv.4.Desc>Looks like obesity has set in. Max Qi has increased significantly, but Movement Speed has also decreased significantly.</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.0.Lv.4.Desc>Looks like obesity has set in. ค่าพลังชี่สูงสุด has increased significantly, but Movement Speed has also decreased significantly.</RaceExtra.0.Lv.4.Desc>
 		</Text>
 		<Text Name="Stronger">
 			<RaceExtra.0.Lv.0.SName>Bony</RaceExtra.0.Lv.0.SName>
@@ -37,7 +37,7 @@
 			<RaceExtra.0.Lv.4.Desc>As blessed as can be. Barrier Power increases significantly, while Spell strength and Internal Core Attack strength decrease significantly.</RaceExtra.0.Lv.4.Desc>
 		</Text>
 		<Text Name="NeiDan">
-			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing additional damage equal to 30% of the current target's Qi.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing additional damage equal to 30% of the current target's พลังชี่.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
 			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Every 9th attack will cast a spell at the target enemy.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="GrowPercent">

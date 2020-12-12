@@ -24,7 +24,7 @@
 苍莽流星甲	Colossal Falling Star  Robe
 熊皮薄衣衫	Bear Hide Thin Shirt
 狼皮休闲下裳	Wolf Hide Casual Pants
-佩戴者可以提高法宝回灵倍率。	Increases the wearer's Artifact Qi Recovery Multiplier.
+佩戴者可以提高法宝回灵倍率。	Increases the wearer's Artifact พลังชี่ Recovery Multiplier.
 灵剑符	Spiritsword Talisman
 莲藕	Lotus Root
 天权极光藕	Megrez Aurora Lotus Root
@@ -94,7 +94,7 @@
 扶	Fu
 墨竹	Mozhu
 赤脚尊者	Shoeless Deity
-齐	Qi
+齐	พลังชี่
 晓曼	Xiaoman
 兴思	Xingsi
 沈	Shen

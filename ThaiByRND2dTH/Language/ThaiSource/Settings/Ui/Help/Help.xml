@@ -88,7 +88,7 @@
 		<Help Name="21" Root="2">
 			<Title>Character Menu</Title>
 			<Text><![CDATA[[img]ui\Help2_en\001[/img] 
-				The character panel contains information about character stats. You can view their basic stats, such as [color=#D06508]hunger[/color], [color=#D06508]Qi[/color], [color=#D06508]mood[/color], etc.
+				The character panel contains information about character stats. You can view their basic stats, such as [color=#D06508]hunger[/color], [color=#D06508]พลังชี่[/color], [color=#D06508]mood[/color], etc.
 				The buttons in the top left corner of the character panel are battle-related. Use them to issue attack/escape orders.
 				The buttons on top of the character panel are for direct interaction. Use them to issue specific orders to directly interact with characters.
 				The miracle panel ('spell' if in a battle) is on the right side of the character panel. View/Use miracles or spells that the character can perform or cast.]]></Text>
@@ -137,14 +137,14 @@
 				
 			[color=#9e6404]Inner Injury[/color]
 				[img]ui\Help2_en\033[/img]
-				As the game progresses, characters can be injured through the invasion of alien Qi. A character cannot recover from an injury caused by alien Qi. The injury can only be healed by giving the injured the [color=#D06508]right kind of elixir[/color] refined in the alchemy furnace.
+				As the game progresses, characters can be injured through the invasion of alien พลังชี่. A character cannot recover from an injury caused by alien พลังชี่. The injury can only be healed by giving the injured the [color=#D06508]right kind of elixir[/color] refined in the alchemy furnace.
 				The recovery from an internal damage is related to the [color=#D06508]resilience of the injured[/color] and the [color=#D06508]effect of the elixir[/color]. If the injured person is not recovering after being healed, try to improve one or more of these. 
 			[color=#9e6404]Functions[/color]
 				Info related to Function is in the Health tab, in which you can view whether a character's functions are working or not. Functions affect a character's efficiency when doing something relevant to that specific function. 
 				
 				Pain: The degree to which a character is feeling pain, which affects a character's consciousness. Each character has different tolerance of pain. Painkillers can be used to relieve pain.
 				Consciousness:  A character's consciousness, affected by any kind of brain injury or acute pain.
-				Meridians:  The flow of a character's meridians, which affects the character's cultivation process and Max Qi.
+				Meridians:  The flow of a character's meridians, which affects the character's cultivation process and ค่าพลังชี่สูงสุด.
 				Movement:  A character's ability to move, affected by any leg or spine injury. Movement affects a character's movement speed and efficiency for most types of work. 
 				Dexterity:  A character's ability to perform maneuvers, affected by any arm or spine injury. Dexterity affects a character's efficiency for most types of work. 
 				Observation: A character's ability to perceive the outer worlds, affected when the character's eyes and ears take damage. Observation affects one's viewing distance and efficiency for most types of work. 
@@ -380,8 +380,8 @@
 			How well the Element of the cultivation location and that of the Law matches. It can be improved by choosing a suitable location. 
 			[color=#9e6404]3. Teaching[/color] 
 			If the character is taught by a master with a higher state than them, the cultivation speed will be improved. It will drastically improve the speed if the master cultivates along the same Law. 
-			[color=#9e6404]4. Qi Bonus[/color]
-			How well the density of Qi at the training location helps the cultivation. It can be improved by choosing a suitable training location. 
+			[color=#9e6404]4. พลังชี่ Bonus[/color]
+			How well the density of พลังชี่ at the training location helps the cultivation. It can be improved by choosing a suitable training location. 
 			[color=#9e6404]5. Comfort Bonus[/color]
 			How well the furniture used in the training helps the cultivation. It can be improved by using blessed material to build the furniture. 
 			[color=#9e6404]6. Season Bonus[/color] 
@@ -397,12 +397,12 @@
 		<Help Name="63" Root="6">
 			<Title>Stamina &amp; Cultivation</Title>
 			<Text><![CDATA[
-				After becoming an inner disciple, the character will start to consume a new type of resource named Stamina. By consuming Stamina, a character can refine Qi and increase their max Qi. 
-				The consumption of Stamina is related to the cultivation speed. The efficiency of Qi refinement is related to the character's Potential. 
+				After becoming an inner disciple, the character will start to consume a new type of resource named Stamina. By consuming Stamina, a character can refine พลังชี่ and increase their ค่าพลังชี่สูงสุด. 
+				The consumption of Stamina is related to the cultivation speed. The efficiency of พลังชี่ refinement is related to the character's Potential. 
 				
 				Consuming food can provide a character with Stamina. Each time a character consumes a certain amount of food, they will replenish Stamina. 
-				As the cultivation progresses, the consumption speed of food will be accelerated, but the character will have the ability to gain energy from nature. This is called 'Qi Absorption & Fasting'. 
-				Adjust the speed of food consumption and the efficiency of Qi absorption to keep the balance between sect resources and cultivation speed. 
+				As the cultivation progresses, the consumption speed of food will be accelerated, but the character will have the ability to gain energy from nature. This is called 'พลังชี่ Absorption & Fasting'. 
+				Adjust the speed of food consumption and the efficiency of พลังชี่ absorption to keep the balance between sect resources and cultivation speed. 
 				
 				Other than that, some rare medicine or treasure can be directly used to gain Stamina. 
 			[img]ui/Help_en2/030[/img]]]></Text>
@@ -470,13 +470,13 @@
 			
 			[color=#9e6404]Artifact Crafting[/color]
 			[img]ui/Help_en/031[/img]
-			If a sect has one or more inner disciples and crafting tables, you can click on the interactive button 'Artifact Crafting' to craft artifacts. Any item can be crafted into an artifact. According to the different physical traits of the items, the crafted artifacts will have different stats. A high-tier item is harder to be crafted into an artifact, but the end product will be more powerful. If the item has a large amount of Qi, it will make it easier to craft an advanced artifact. 
+			If a sect has one or more inner disciples and crafting tables, you can click on the interactive button 'Artifact Crafting' to craft artifacts. Any item can be crafted into an artifact. According to the different physical traits of the items, the crafted artifacts will have different stats. A high-tier item is harder to be crafted into an artifact, but the end product will be more powerful. If the item has a large amount of พลังชี่, it will make it easier to craft an advanced artifact. 
 			
 			[color=#9e6404]Draw Talisman[/color]
 			If a sect has one or more inner disciples, you can click on the interactive button 'Draw Talisman' to draw a talisman. Talisman drawing will require talisman paper, which can be created at the talisman drawing table. The better talisman paper is used, the stronger the talisman's effect will be. Learn new drawing patterns requires new talisman charts, which can be acquired in adventures. A finished talisman is only effective when equipped on a character. 
 			
 			[color=#9e6404]Smelt[/color] 
-			If a sect has one or more inner disciples, you will be able to smelt items into หินวิญญาณ. The number of หินวิญญาณ gained will be determined by the Qi value of the item. Every 500 Qi means one spirit stone generated. Smelting an artifact will always produce หินวิญญาณ. Smelting a higher tier artifact will result in more หินวิญญาณ produced.]]></Text>
+			If a sect has one or more inner disciples, you will be able to smelt items into หินวิญญาณ. The number of หินวิญญาณ gained will be determined by the พลังชี่ value of the item. Every 500 พลังชี่ means one spirit stone generated. Smelting an artifact will always produce หินวิญญาณ. Smelting a higher tier artifact will result in more หินวิญญาณ produced.]]></Text>
 		</Help>
 		<Help Name="69" Root="6">
 			<Title>Miracle</Title>
@@ -684,11 +684,11 @@
 			Once the Formation is successfully formed, you can use it to battle your enemies. A few things need to be clarified before rushing into battle with your newly-formed Formations. 
 			[color=#9e6404]1. Damage Sharing[/color] 
 				Any damage dealt to the Formation will be shared equally across every character forming it. 
-			[color=#9e6404]2. Qi Balance[/color] 
-				Every once in a while, the Qi of all characters forming the Formation will be proportionally balanced. 
+			[color=#9e6404]2. พลังชี่ Balance[/color] 
+				Every once in a while, the พลังชี่ of all characters forming the Formation will be proportionally balanced. 
 				The interval of the balance is determined by the Formation's overall power. 
 			[color=#9e6404]3. Formation Stability[/color] 
-				The Formation's Stability will decrease as the Pillar' Qi is being depleted. 
+				The Formation's Stability will decrease as the Pillar' พลังชี่ is being depleted. 
 				A breached Auxiliary will greatly reduce Stability. 
 				A breached Pillar means the Formation's Stability will drop to zero,  which will lead to the total collapse of the Formation. 
 			[color=#9e6404]4. Weak Point[/color] 
@@ -786,7 +786,7 @@
 				Whenever a Shendao Cultivator would obtain Belief, the amount of Belief obtained is positively associated with their Mental State and Tier of their Sacred Relic, and negatively associated with their Divinity and Distress. 
 			[color=#9e6404]2. Put Belief into Use[/color]
 				As Law of Shendao's essential resource, Belief can be used to: 
-				1. Replenish Qi. A Shendao Cultivator can consume Belief to fill up their Qi reservoir.
+				1. Replenish พลังชี่. A Shendao Cultivator can consume Belief to fill up their พลังชี่ reservoir.
 				2. Enhance Cultivation. A Shendao Cultivator can perform certain miracles to convert Belief into their Cultivation. 
 				3. Construct Divine Realm. Belief will be consumed when constructing Divine Realm for a Shendao Cultivator. 
 				4. Grant wishes. By listening to their Followers via the Divine Realm, a Shendao Cultivator can grant their wishes and gain new Followers.]]></Text>
@@ -993,7 +993,7 @@
 			[color=#9e6404]3. Summon[/color]
 			Disciples can summon pets once they have entered other maps.
 			[color=#9e6404]4. Death and Rebirth[/color]
-			Pets won't just die, rather once their Qi is empty, erect a Statue and they will be reborn.
+			Pets won't just die, rather once their พลังชี่ is empty, erect a Statue and they will be reborn.
 			[color=#9e6404]5. Replace[/color]
 			Players can only have one pet. If one wants to replace their pet with another, then they have to erect a Statue to do so.]]></Text>
 		</Help>
@@ -1005,10 +1005,10 @@
 				Pets will slowly grow over time. A pet is still young until reaching 30% growth, which also means that you can't manage their diets. From 30%-100%, pets will grow and their training speed is pretty quick. Once a pet has reached 100%, they are fully mature.
 			[color=#9e6404]2. Intelligence[/color]
 				Affects a pet's training speed, at the same time, it unlocks more behaviors the higher it gets.
-			[color=#9e6404]3. Qi[/color]
-				Affects a pet's maximum Qi, making it more difficult for them to die, allowing them to use more Spells, and also increasing the amount of Qi for Internal Core.
+			[color=#9e6404]3. พลังชี่[/color]
+				Affects a pet's maximum พลังชี่, making it more difficult for them to die, allowing them to use more Spells, and also increasing the amount of พลังชี่ for Internal Core.
 			[color=#9e6404]4. Protection[/color]
-				Affects a pet's Qi Barrier's ability to absorb Damage.
+				Affects a pet's พลังชี่ Barrier's ability to absorb Damage.
 			[color=#9e6404]5. Spell[/color]
 				Affects the Damage and Cost of a pet's Spells.
 			[color=#9e6404]6. Core[/color]
@@ -1016,7 +1016,7 @@
 			[color=#9e6404]7. Blessed/Cursed[/color]
 				Blessed or Cursed is the overall combination of the good and the bad associated with each behavior. If a pet enjoys helping people out, then they have a high Blessed value; on the other hand, if a pet enjoys killing, then they have a high Cursed value. Once a certain degree is reached, their external appearance will change as a result, as will their Stats. A higher Cursed value leads to excelling at attacking, and a higher Blessed value leads to excelling at defending.
 			[color=#9e6404]8. Obesity[/color]
-				Obesity will increase or decrease based on Food eaten and behavior. The skinnier a pet is, the quicker their Spell cooldown will be. On the other hand, the fatter a pet is, the slower their movement speed, but the higher their Qi is.
+				Obesity will increase or decrease based on Food eaten and behavior. The skinnier a pet is, the quicker their Spell cooldown will be. On the other hand, the fatter a pet is, the slower their movement speed, but the higher their พลังชี่ is.
 			[color=#9e6404]9. Physique[/color]
 				Physique will increase or decrease based on Food eaten and behavior. The thinner a pet is, the stronger their Spells and the stronger they are, and, in turn, the stronger their Core.]]></Text>
 		</Help>
@@ -1052,7 +1052,7 @@
 			[color=#9e6404]2. Cooked Food[/color]
 				Boosts Protection Growth.
 			[color=#9e6404]3. Mushrooms[/color]
-				Boosts Qi Growth
+				Boosts พลังชี่ Growth
 			[color=#9e6404]4. Tubers[/color]
 				Boosts Spell Growth.
 			[color=#9e6404]5. Meat[/color]
@@ -1130,7 +1130,7 @@
 		<Help Name="134" Root="13">
 			<Title>Battle of Physical Cultivators</Title>
 			<Text><![CDATA[[color=#9e6404]1. Actively Release Attack Secret Body[/color]
-			Once a physical cultivator engages in battle, the player can manually release any one of the cultivator's activated Attack Secret Bodies. Manual release requires additional True Qi consumption, but the attack will have 100% accuracy and 300% Qi barrier penetration rate.
+			Once a physical cultivator engages in battle, the player can manually release any one of the cultivator's activated Attack Secret Bodies. Manual release requires additional True พลังชี่ consumption, but the attack will have 100% accuracy and 300% พลังชี่ barrier penetration rate.
 			[color=#9e6404]2. Furious Berserk[/color]
 			Physical cultivators can hold in negative emotions and then release them at once through Furious Berserk to greatly improve combat prowess during battle.
 			[color=#9e6404]3. Flourish[/color]
@@ -1161,9 +1161,9 @@
 			The วิญญาณรับรู้ differs from its original body, and it may possess powerful properties. This gift is difficult for other creatures to comprehend. It's difficult for an insentient object to be illuminated and then transform. During this process, it's made even more difficult as cultivators' attention and greed may well be drawn to them. Perhaps this is the intended compensation demanded by the Creed of Heaven.
 			วิญญาณรับรู้s' characteristics are as follows:
 			    Sentient Elixir: There won't be any Medicine Tolerance produced the first time that you take a Pill.
-			    Sentient Edible: Naturally possesses high Qi Absorption capabilities and Stamina conversion ratio.
+			    Sentient Edible: Naturally possesses high พลังชี่ Absorption capabilities and Stamina conversion ratio.
 			    Sentient Dark Soul Gem: Increases success rate of specter refinement and spiritual refinement by 100%.
-			    วิญญาณรับรู้ Stone: Naturally possesses a larger amount of Base Qi.
+			    วิญญาณรับรู้ Stone: Naturally possesses a larger amount of Base พลังชี่.
 			    Sentient Talisman: Enables the wearing of an additional talisman.
 			    Sentient Gear: Increases the effect of gear equipped by 100%.
 			    Sentient Relic: Increases the effect of Feng Shui Relics by 100%. 

@@ -1,8 +1,8 @@
 ﻿<Texts Type="Story">
 	<List>
 		<Text Name="Ls_FirstNoLing">
-			<DisplayName>Pet Qi Exhausted</DisplayName>
-			<Desc>The Qi of the pet has been exhausted. You have to build the corresponding statue in order to resurrect it, and the process of which will take three days.</Desc>
+			<DisplayName>Pet พลังชี่ Exhausted</DisplayName>
+			<Desc>The พลังชี่ of the pet has been exhausted. You have to build the corresponding statue in order to resurrect it, and the process of which will take three days.</Desc>
 			<Selections.0.Display>Okay</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_SecLs">

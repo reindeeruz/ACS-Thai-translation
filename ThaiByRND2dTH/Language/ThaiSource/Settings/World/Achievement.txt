@@ -230,7 +230,7 @@ ID	Achievement Title	Description
 2035	Radiating	Slay Phoenix after it casts Crystal of the Sun
 2036	Beauty of the Beast	Slay Phoenix after destroying its crown feather
 2037	Tail of Troubles	Slay Phoenix after destroying its tail feather
-2038	Qi Condenser	Keep a Phoenix egg neither hatching nor dying for over 36 days
+2038	พลังชี่ Condenser	Keep a Phoenix egg neither hatching nor dying for over 36 days
 2039	Clean Sweep	More than 9 eggs are subdued defeating the มังกรประทีป
 2040	Irreverence	Defeat the มังกรประทีป after destroying its divine scale
 2041	Chaos	Defeat the มังกรประทีป after destroying its jade

@@ -20,7 +20,7 @@
 		</Text>
 		<Text Name="Ls_Fanshi">
 			<DisplayName>Countercharge</DisplayName>
-			<Desc>Inflict an amount of damage relative to the Max Qi of the enemy's artifact, as well as disabling its ability to use the artifact for a period of time.</Desc>
+			<Desc>Inflict an amount of damage relative to the ค่าพลังชี่สูงสุด of the enemy's artifact, as well as disabling its ability to use the artifact for a period of time.</Desc>
 		</Text>
 		<Text Name="Ls_Penhuo">
 			<DisplayName>Flame Eruption</DisplayName>
@@ -33,7 +33,7 @@
 		</Text>
 		<Text Name="Ls_AddModifier">
 			<DisplayName>Aegis</DisplayName>
-			<Desc>Greatly improves the strength of a friendly Qi Barrier and Toughness of its Secret Body.</Desc>
+			<Desc>Greatly improves the strength of a friendly พลังชี่ Barrier and Toughness of its Secret Body.</Desc>
 		</Text>
 		<Text Name="Ls_Confuse">
 			<DisplayName>Confuse</DisplayName>

@@ -29,7 +29,7 @@
 		</Text>
 		<Text Name="Place_TianJi1">
 			<DisplayName>Nimbus Ravine</DisplayName>
-			<Desc>A deep ravine between the soaring precipices at the Heavenstep Peak, creating a giant vortex of Qi that spins without halt; even birds cannot fly over it. It is told that the Skydome Palace has the Spirit Root—ผลไม้ปราชญ์ planted on the precipice of the ravine.</Desc>
+			<Desc>A deep ravine between the soaring precipices at the Heavenstep Peak, creating a giant vortex of พลังชี่ that spins without halt; even birds cannot fly over it. It is told that the Skydome Palace has the Spirit Root—ผลไม้ปราชญ์ planted on the precipice of the ravine.</Desc>
 		</Text>
 		<Text Name="Place_TianJi2">
 			<DisplayName>Celeste Pass</DisplayName>
@@ -53,11 +53,11 @@
 		</Text>
 		<Text Name="Place_LongHu2">
 			<DisplayName>Mistwood Forest</DisplayName>
-			<Desc>A thick forest at the foot of Mt. Tiger Paw, in which many trees are well over several hundred years old. Rumor has it that Phoenixwood also grows here. Mt. Tiger Paw has its Spirit Root planted here for its richness in Wood Qi.</Desc>
+			<Desc>A thick forest at the foot of Mt. Tiger Paw, in which many trees are well over several hundred years old. Rumor has it that Phoenixwood also grows here. Mt. Tiger Paw has its Spirit Root planted here for its richness in Wood พลังชี่.</Desc>
 		</Text>
 		<Text Name="Place_Shu1">
 			<DisplayName>Jadestone Cliff</DisplayName>
-			<Desc>Standing on the western peak of Mt. Shu, the cliff has a beautiful scenic view and is populated with spiritual and magical animals. This is where the earth's vein leaks out Qi, thus creating many rare ores like Fire Copper inside the mountain. The เซียน Caerulea planted the spiritual medicine Red Fruit here due to its abundance in the element of Fire.</Desc>
+			<Desc>Standing on the western peak of Mt. Shu, the cliff has a beautiful scenic view and is populated with spiritual and magical animals. This is where the earth's vein leaks out พลังชี่, thus creating many rare ores like Fire Copper inside the mountain. The เซียน Caerulea planted the spiritual medicine Red Fruit here due to its abundance in the element of Fire.</Desc>
 		</Text>
 		<Text Name="Place_Shu2">
 			<DisplayName>Thunderclap Cave</DisplayName>
@@ -85,7 +85,7 @@
 		</Text>
 		<Text Name="Place_BaiMan1">
 			<DisplayName>Deathknell Cave</DisplayName>
-			<Desc>Every time the disciples at Mt. Hundred Insects kill magic beasts, they will bring their bodies to the Deathknell Cave and seal them inside. The bodies will then transform into puppets via the Qi of death to guard the mountain. If a new body sent there has not completed the transformation, one might be able to take out its Soul Pearl .</Desc>
+			<Desc>Every time the disciples at Mt. Hundred Insects kill magic beasts, they will bring their bodies to the Deathknell Cave and seal them inside. The bodies will then transform into puppets via the พลังชี่ of death to guard the mountain. If a new body sent there has not completed the transformation, one might be able to take out its Soul Pearl .</Desc>
 		</Text>
 		<Text Name="Place_BaiMan2">
 			<DisplayName>Serpent Pit</DisplayName>
@@ -129,7 +129,7 @@
 		</Text>
 		<Text Name="Place_Desert2">
 			<DisplayName>Mirage Wastelands</DisplayName>
-			<Desc>An area of barren wastelands deep in the Great Desert, constantly hit with sandstorms. The air here is filled with a dense Qi of the Earth Element. It is a great place for cultivation, only if one can withstand the terrible environment.</Desc>
+			<Desc>An area of barren wastelands deep in the Great Desert, constantly hit with sandstorms. The air here is filled with a dense พลังชี่ of the Earth Element. It is a great place for cultivation, only if one can withstand the terrible environment.</Desc>
 		</Text>
 		<Text Name="Place_Desert3">
 			<DisplayName>Blazenest</DisplayName>
@@ -153,7 +153,7 @@
 		</Text>
 		<Text Name="Place_Snowfield1">
 			<DisplayName>Skye Conch Valley</DisplayName>
-			<Desc>An untrodden valley in the Great Snowland, filled with Qi. Some โสม here have been growing for over a hundred years.</Desc>
+			<Desc>An untrodden valley in the Great Snowland, filled with พลังชี่. Some โสม here have been growing for over a hundred years.</Desc>
 		</Text>
 		<Text Name="Place_Snowfield2">
 			<DisplayName>Lake Jadestone</DisplayName>
@@ -181,7 +181,7 @@
 		</Text>
 		<Text Name="Place_FertileField5">
 			<DisplayName>Mt. Rue</DisplayName>
-			<Desc>A famous mountain south of the river. The Law leading through it is meandering and confusing, which means even animals as agile as monkeys cannot climb over it. There are a few exposed ore veins of spirit stone in the mountain. Though not worthy of any large-scale mining operation, rogue cultivators would often go in and mine some for their own use. Rumors has it that a cultivator once sensed strong Qi of Metal Element here, and it seems that the ผลไม้ปราชญ์, one of the Spirit Roots, is hidden somewhere in the mountain.</Desc>
+			<Desc>A famous mountain south of the river. The Law leading through it is meandering and confusing, which means even animals as agile as monkeys cannot climb over it. There are a few exposed ore veins of spirit stone in the mountain. Though not worthy of any large-scale mining operation, rogue cultivators would often go in and mine some for their own use. Rumors has it that a cultivator once sensed strong พลังชี่ of Metal Element here, and it seems that the ผลไม้ปราชญ์, one of the Spirit Roots, is hidden somewhere in the mountain.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains1">
 			<DisplayName>Mt. Cloudsreach</DisplayName>
@@ -193,7 +193,7 @@
 		</Text>
 		<Text Name="Place_CentralPlains3">
 			<DisplayName>Mt. Mesa</DisplayName>
-			<Desc>A bizarre mountain in the hinterland of Central Plains, with its top flat as an open field, created through the hands of the gods. At the top of the mountain, there is a List of Talents that recorded the name of all notable people in the world. Therefore, it has strong and dense Qi of Metal Element, making it a good place for cultivation.</Desc>
+			<Desc>A bizarre mountain in the hinterland of Central Plains, with its top flat as an open field, created through the hands of the gods. At the top of the mountain, there is a List of Talents that recorded the name of all notable people in the world. Therefore, it has strong and dense พลังชี่ of Metal Element, making it a good place for cultivation.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains4">
 			<DisplayName>Blossomfall</DisplayName>

@@ -3,9 +3,9 @@
 		<Text Name="SuperPart_Chicken_1">
 			<Prefix>Solar</Prefix>
 			<Suffix>Needles</Suffix>
-			<Desc>A secret body passed down from the bloodline of chicken Yaoguai that converges forces of Yang to the beak and grants it Force of Destruction. Uses it to attack with the beak and excels at penetrating Qi barriers.</Desc>
+			<Desc>A secret body passed down from the bloodline of chicken Yaoguai that converges forces of Yang to the beak and grants it Force of Destruction. Uses it to attack with the beak and excels at penetrating พลังชี่ barriers.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Fundamentally increases the secret body power by a large amount.\n Drastically increases the secret body Qi barrier penetration rate.</Levels.0.Desc>
+			<Levels.0.Desc>Fundamentally increases the secret body power by a large amount.\n Drastically increases the secret body พลังชี่ barrier penetration rate.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Chicken_2">
 			<Prefix>Skyfire</Prefix>

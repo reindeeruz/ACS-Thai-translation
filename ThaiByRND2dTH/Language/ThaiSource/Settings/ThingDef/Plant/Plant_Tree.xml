@@ -22,7 +22,7 @@
 		</Text>
 		<Text Name="TreeGinkgo_Big" sParam="Plant">
 			<ThingName>Huge Ginkgo Tree</ThingName>
-			<Desc>Very old ginkgo tree. Huge and permeated with Qi.</Desc>
+			<Desc>Very old ginkgo tree. Huge and permeated with พลังชี่.</Desc>
 		</Text>
 		<Text Name="TreeGinkgo_Dead" sParam="Plant">
 			<ThingName>Dead Phoenixwood</ThingName>

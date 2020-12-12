@@ -28,7 +28,7 @@
 轻身符	Agility Talisman
 可以略微提高修炼速度。	Talisman used to slightly improve cultivation speed.
 天心符	Talisman of Heavenly Heart
-佩戴者可以提高法宝回灵倍率。	Increases the wearer's Artifact Qi Recovery Multiplier.
+佩戴者可以提高法宝回灵倍率。	Increases the wearer's Artifact พลังชี่ Recovery Multiplier.
 灵剑符	Spiritsword Talisman
 角色出生点	Born Point
 逻辑点	Logic Point

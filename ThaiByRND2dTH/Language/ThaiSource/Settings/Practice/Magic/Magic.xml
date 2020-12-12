@@ -14,7 +14,7 @@
 		</Text>
 		<Text Name="SoulCrystalLingPowerUp">
 			<DisplayName>Spiritual Refinement</DisplayName>
-			<Desc>Consume one Spirit Soul Gem to use on one item, with a chance to increase the Qi Containment Rate of the item (if the item is an artifact, raises Qi Capacity instead).</Desc>
+			<Desc>Consume one Spirit Soul Gem to use on one item, with a chance to increase the พลังชี่ Containment Rate of the item (if the item is an artifact, raises พลังชี่ Capacity instead).</Desc>
 		</Text>
 		<Text Name="MakeSoulCrystal">
 			<DisplayName>Soul Chant</DisplayName>
@@ -34,7 +34,7 @@
 		</Text>
 		<Text Name="ClosedDoor">
 			<DisplayName>Meditation</DisplayName>
-			<Desc>Enter a meditated state to self-cultivate. It will quickly consume one's lifespan and stamina. Gain Cultivation quickly and increases max Qi.</Desc>
+			<Desc>Enter a meditated state to self-cultivate. It will quickly consume one's lifespan and stamina. Gain Cultivation quickly and increases ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="ClosedDoor_Gong1">
 			<DisplayName>Zen Reflection</DisplayName>
@@ -46,27 +46,27 @@
 		</Text>
 		<Text Name="AbsorbLing_Aoe">
 			<DisplayName>Spiritual Breath Chant</DisplayName>
-			<Desc>Go to the designated location to absorb the Qi within its environment.</Desc>
+			<Desc>Go to the designated location to absorb the พลังชี่ within its environment.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Live">
 			<DisplayName>Way of the Reaper</DisplayName>
-			<Desc>Use on a living being without cultivation experience, consuming its lifespan to increase your Qi.</Desc>
+			<Desc>Use on a living being without cultivation experience, consuming its lifespan to increase your พลังชี่.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Body">
 			<DisplayName>Sanguine Absorption</DisplayName>
-			<Desc>Transmute a body's blood and flesh to increase your Qi.</Desc>
+			<Desc>Transmute a body's blood and flesh to increase your พลังชี่.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Thing">
 			<DisplayName>One with Mountain</DisplayName>
-			<Desc>Use on buildings, plants and minerals on the map to absorb their Qi. The more Qi the target possesses and the higher your max Qi is, the faster your speed of absorption will be.</Desc>
+			<Desc>Use on buildings, plants and minerals on the map to absorb their พลังชี่. The more พลังชี่ the target possesses and the higher your ค่าพลังชี่สูงสุด is, the faster your speed of absorption will be.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Item">
 			<DisplayName>Palm of Absorption</DisplayName>
-			<Desc>Use on an item to absorb its Qi for your own use.</Desc>
+			<Desc>Use on an item to absorb its พลังชี่ for your own use.</Desc>
 		</Text>
 		<Text Name="Healing_Damage">
 			<DisplayName>Panacea</DisplayName>
-			<Desc>Set your power in motion to cure a target's Inner Injuries. The healing effect is related to the amount of the healer's Qi.</Desc>
+			<Desc>Set your power in motion to cure a target's Inner Injuries. The healing effect is related to the amount of the healer's พลังชี่.</Desc>
 		</Text>
 		<Text Name="BuildBody">
 			<DisplayName>Reconstruction</DisplayName>
@@ -81,7 +81,7 @@
 			<Desc>Advanced possessing technique. Completely seize the body of a living being with no cultivation experience, but a bulk of the user's cultivation experience will be lost.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_1">
-			<DisplayName>Qi Absorption Cauldron</DisplayName>
+			<DisplayName>พลังชี่ Absorption Cauldron</DisplayName>
 			<Desc>Absorb the lifespan of a living being with no cultivation experience, increasing one's own cultivation experience and Inspiration. More effective on targets with better Physique.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_1_Gong9">
@@ -126,27 +126,27 @@
 		</Text>
 		<Text Name="PlantGrowUp">
 			<DisplayName>Chant of Wood Mastery</DisplayName>
-			<Desc>Concentrate your primeval Qi and infuse it into a target plant, significantly increasing its growth rate. Lasts 1 day. Less effective on plants of higher tiers. This method is extremely damaging to your primeval Qi, use with care.</Desc>
+			<Desc>Concentrate your primeval พลังชี่ and infuse it into a target plant, significantly increasing its growth rate. Lasts 1 day. Less effective on plants of higher tiers. This method is extremely damaging to your primeval พลังชี่, use with care.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp_Gong1">
 			<DisplayName>Rainchant</DisplayName>
-			<Desc>Prompt up the Qi of heaven and earth and infuse it into the target plant, slightly increasing its growth rate by 7 days. Less effective on plants of higher tiers.</Desc>
+			<Desc>Prompt up the พลังชี่ of heaven and earth and infuse it into the target plant, slightly increasing its growth rate by 7 days. Less effective on plants of higher tiers.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp_Gong9">
 			<DisplayName>Botanic Revitalization</DisplayName>
-			<Desc>Utilizing pure and refined Qi of the Wood element to fully vitalize the life force of a plant, significantly increasing its growth rate for 1 day. Less effective on plants of higher tiers.</Desc>
+			<Desc>Utilizing pure and refined พลังชี่ of the Wood element to fully vitalize the life force of a plant, significantly increasing its growth rate for 1 day. Less effective on plants of higher tiers.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_1">
 			<DisplayName>Way of Celestial Heart</DisplayName>
-			<Desc>Consume 10 years of the user's lifespan to improve their abilities for a short period of time and recover Qi.</Desc>
+			<Desc>Consume 10 years of the user's lifespan to improve their abilities for a short period of time and recover พลังชี่.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_2">
 			<DisplayName>Inner Demons Unchained</DisplayName>
-			<Desc>Consume 10 years of the user's lifespan to improve their abilities for a short period of time and recover Qi.</Desc>
+			<Desc>Consume 10 years of the user's lifespan to improve their abilities for a short period of time and recover พลังชี่.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_3">
 			<DisplayName>แรงเหลือเชื่อ</DisplayName>
-			<Desc>Consume 10 years of the user's lifespan to improve their abilities for a short period of time and recover Qi.</Desc>
+			<Desc>Consume 10 years of the user's lifespan to improve their abilities for a short period of time and recover พลังชี่.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_10">
 			<DisplayName>Wise Detachment</DisplayName>
@@ -154,11 +154,11 @@
 		</Text>
 		<Text Name="LingStoneMake">
 			<DisplayName>Spirit Stone Refinement</DisplayName>
-			<Desc>Condense every 5000 Qi into a Spirit Stone. This process will continue indefinitely until you stop it or there is insufficient Qi.</Desc>
+			<Desc>Condense every 5000 พลังชี่ into a Spirit Stone. This process will continue indefinitely until you stop it or there is insufficient พลังชี่.</Desc>
 		</Text>
 		<Text Name="LingCrystalMake">
 			<DisplayName>Spirit Crystal Refinement</DisplayName>
-			<Desc>Condense Qi into Spirit Crystal.</Desc>
+			<Desc>Condense พลังชี่ into Spirit Crystal.</Desc>
 		</Text>
 		<Text Name="PrayForRain">
 			<DisplayName>Rainmaking</DisplayName>
@@ -173,15 +173,15 @@
 			<Desc>Bring about a rainstorm through miracle in winter and summer. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.</Desc>
 		</Text>
 		<Text Name="PrayForZhenShuiJieJie_Gong1">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<Desc>Utilize great magic power to place a waterfield within the designated area, significantly decreasing the temperature of the surroundings. Significantly increases natural resilience and Qi recovery rate of all friendly characters. Only one field may exist at any given time.</Desc>
+			<DisplayName>พลังชี่ Aquasphere</DisplayName>
+			<Desc>Utilize great magic power to place a waterfield within the designated area, significantly decreasing the temperature of the surroundings. Significantly increases natural resilience and พลังชี่ recovery rate of all friendly characters. Only one field may exist at any given time.</Desc>
 		</Text>
 		<Text Name="PrayForFohn">
 			<DisplayName>Foehn Wind</DisplayName>
 			<Desc>Summon a gust of foehn wind through miracle in summer and autumn. However, this course of action interferes with the ways of heaven and will diminish one's lifespan.</Desc>
 		</Text>
 		<Text Name="PrayForZhenHuoJieJie_Gong10">
-			<DisplayName>Qi Ignosphere</DisplayName>
+			<DisplayName>พลังชี่ Ignosphere</DisplayName>
 			<Desc>Utilize great magic power to place a burning field in the designated area, significantly increasing the temperature of the surroundings. Significantly increases Magic Power of all friendly characters. Only one field may exist at any given time.</Desc>
 		</Text>
 		<Text Name="PrayForDustStorm">
@@ -202,19 +202,19 @@
 		</Text>
 		<Text Name="Healing_Physique">
 			<DisplayName>Resilient</DisplayName>
-			<Desc>Consume 60 years of lifespan and a large amount of Qi to perform a thorough Cleansing for a living being with no cultivation experience, increasing their Constitution by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
+			<Desc>Consume 60 years of lifespan and a large amount of พลังชี่ to perform a thorough Cleansing for a living being with no cultivation experience, increasing their Constitution by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
 		</Text>
 		<Text Name="Healing_Intelligence">
 			<DisplayName>Enlightened</DisplayName>
-			<Desc>Consume 60 years of lifespan and a large amount of Qi to thoroughly enlighten a living being with no cultivation experience, increasing their Intelligence by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
+			<Desc>Consume 60 years of lifespan and a large amount of พลังชี่ to thoroughly enlighten a living being with no cultivation experience, increasing their Intelligence by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
 		</Text>
 		<Text Name="Healing_Charisma">
 			<DisplayName>Charismatic</DisplayName>
-			<Desc>Consume 60 years of lifespan and a large amount of Qi to reconstruct the body and spirit of a living being with no cultivation experience, increasing their Charisma by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
+			<Desc>Consume 60 years of lifespan and a large amount of พลังชี่ to reconstruct the body and spirit of a living being with no cultivation experience, increasing their Charisma by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
 		</Text>
 		<Text Name="Healing_Perception">
 			<DisplayName>Perceptive</DisplayName>
-			<Desc>Consume 60 years of lifespan and a large amount of Qi to activate the Third Eye on a living being with no cultivation experience, increasing their Perception by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
+			<Desc>Consume 60 years of lifespan and a large amount of พลังชี่ to activate the Third Eye on a living being with no cultivation experience, increasing their Perception by at least 20%. The lower its initial value, the greater the effect will be. Can only be perform once on a target during its lifetime.</Desc>
 		</Text>
 		<Text Name="Magic_Plant_Pee">
 			<DisplayName>Irrigate</DisplayName>

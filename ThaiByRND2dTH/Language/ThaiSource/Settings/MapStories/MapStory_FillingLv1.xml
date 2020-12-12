@@ -150,7 +150,7 @@
 			<Desc>[NAME] seemed to be destined to come across this scenic spot suffused with natural beauty. Overcome with awe, [IT] sat down right there and didn't know if it would be possible to have an epiphany.</Desc>
 			<Selections.0.Display>Profound Inspiration</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
-			<Selections.1.Display>Absorb Qi</Selections.1.Display>
+			<Selections.1.Display>Absorb พลังชี่</Selections.1.Display>
 		</Text>
 		<Text Name="Story_3">
 			<DisplayName>The Mortal Realm</DisplayName>
@@ -164,7 +164,7 @@
 			<Desc>[NAME] passed by a town and discovered that plagues wreak havoc in this place. At the entrance to the city it seems that there are some cultivators helping out the townspeople to control the plague. The situation keeps getting worse though, it seems like they won't be able to control it.</Desc>
 			<Selections.0.Display>Help out</Selections.0.Display>
 			<Selections.1.Display>Help out insincerely</Selections.1.Display>
-			<Selections.1.Tip>Qi Shaping</Selections.1.Tip>
+			<Selections.1.Tip>พลังชี่ Shaping</Selections.1.Tip>
 			<Selections.2.Display>Help out insincerely</Selections.2.Display>
 			<Selections.2.Tip>core shaping</Selections.2.Tip>
 			<Selections.3.Display>Ignore</Selections.3.Display>
@@ -268,7 +268,7 @@
 			<Desc>[NAME] seemed to be destined to come across this scenic spot suffused with natural beauty. Overcome with awe, [IT] sat down right there and didn't know if it would be possible to have an epiphany.</Desc>
 			<Selections.0.Display>Profound Inspiration</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
-			<Selections.1.Display>Absorb Qi</Selections.1.Display>
+			<Selections.1.Display>Absorb พลังชี่</Selections.1.Display>
 			<Selections.2.Display>It's too cold.</Selections.2.Display>
 		</Text>
 		<Text Name="Story_Cold2">

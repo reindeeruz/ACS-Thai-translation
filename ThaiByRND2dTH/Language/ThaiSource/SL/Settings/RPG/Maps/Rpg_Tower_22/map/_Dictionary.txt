@@ -24,7 +24,7 @@
 千触邪臂	Granular Arms
 玄龟甲	Dark Turtle Shell
 六御摘雷手·右	Void Thundercatch Hand - Right
-吞灵灭劫圈	Qi Devourer Circle
+吞灵灭劫圈	พลังชี่ Devourer Circle
 妖御玄鳞	Demonshield Scale
 虚化之体	Illusion Body
 洞真之体	Perception Body

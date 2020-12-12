@@ -200,10 +200,10 @@
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit10">
 			<DisplayName>Wood Spirit Formation</DisplayName>
-			<Desc>Secret chart of Formation Diagram that records the Wood Spirit Formation. It is said to be a Formation capable of awakening the Qi of vitality among heaven and earth, rejuvenating all living things.</Desc>
+			<Desc>Secret chart of Formation Diagram that records the Wood Spirit Formation. It is said to be a Formation capable of awakening the พลังชี่ of vitality among heaven and earth, rejuvenating all living things.</Desc>
 			<EffectDesc>Increases Max Formation Load.\nUnlocks Ancient Formation Diagram: \nWood Spirit Formation</EffectDesc>
 			<ZhenShapes.0.Name>Wood Spirit Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formed by concentrating the essence of primordial eastern wood spirit, it is said to be a Formation capable of awakening the Qi of vitality among heaven and earth, rejuvenating all living things.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Descript>Formed by concentrating the essence of primordial eastern wood spirit, it is said to be a Formation capable of awakening the พลังชี่ of vitality among heaven and earth, rejuvenating all living things.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit11">
 			<DisplayName>Convergence Formation</DisplayName>

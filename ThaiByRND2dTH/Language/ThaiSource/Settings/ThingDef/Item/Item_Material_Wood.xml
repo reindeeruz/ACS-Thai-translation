@@ -15,12 +15,12 @@
 		</Text>
 		<Text Name="Item_ParasolWood" sParam="Item">
 			<ThingName>ไม้ฟินิกซ์</ThingName>
-			<Desc>Divine wood which Phoenixes perch on, it has a smooth surface and an extremely firm texture rich in Qi. A very rare material.</Desc>
+			<Desc>Divine wood which Phoenixes perch on, it has a smooth surface and an extremely firm texture rich in พลังชี่. A very rare material.</Desc>
 			<Item.BeMaterial.NamePrefix>ไม้ฟินิกซ์</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingWood" sParam="Item">
 			<ThingName>ไม้วิญญาณ</ThingName>
-			<Desc>Wood that has been suffused with Qi, it is a very firm material and highly resistant to fire.</Desc>
+			<Desc>Wood that has been suffused with พลังชี่, it is a very firm material and highly resistant to fire.</Desc>
 			<Item.BeMaterial.NamePrefix>ไม้วิญญาณ</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>

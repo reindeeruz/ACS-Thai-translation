@@ -10,7 +10,7 @@
 		</Text>
 		<Text Name="HeiShanMibao">
 			<IVNUMBER.0.FabaoData.DisplayName>Stardust Spear</IVNUMBER.0.FabaoData.DisplayName>
-			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>8% of damage dealt will be replenished to the artifact's Qi.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>8% of damage dealt will be replenished to the artifact's พลังชี่.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="ZhengYiMibao">
 			<IVNUMBER.0.FabaoData.DisplayName>Quintuple Talismans</IVNUMBER.0.FabaoData.DisplayName>

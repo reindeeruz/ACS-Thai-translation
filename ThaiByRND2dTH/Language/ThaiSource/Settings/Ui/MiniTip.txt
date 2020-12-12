@@ -11,7 +11,7 @@ A body of flesh and blood has its own advantages, for example, it can be used as
 Objects or buildings of the Fire Element increase the room/surrounding's temperature.
 Objects or buildings of the Water Element increase the room/surrounding's temperature.
 Placing a Dragon Bell at an appropriate location can ensure the safety of outer disciples.
-The soil's fertility and Qi affect the growth rate of crops.
+The soil's fertility and พลังชี่ affect the growth rate of crops.
 The size of a room can be anywhere between 4-400.
 The temperature of a room is the same anywhere in that room.
 Remember to bury disciples after they pass away.
@@ -21,7 +21,7 @@ Continuing to explore imporant locations on the map may unlock new locations.
 A giant ginkgo is a rare find.
 Place a Water Vat in an appropriate location. This will make life and work more convenient for Disciples.
 Take part in the annual เซียน Destiny Fair to arrange for a large quantity of outer disciples to visit the mountain.
-Only Disciples with Golden Core or above are allowed to take part in the annual Kunlun Qi Fair. Lower level Disciples may only watch the event.
+Only Disciples with Golden Core or above are allowed to take part in the annual Kunlun พลังชี่ Fair. Lower level Disciples may only watch the event.
 Press down the Ctrl key and use the demolish feature to rebuild buildings in batch.
 Press down the Ctrl key and use the cancel feature to ban/restore in batch.
 A character may die from stealing items from another sect.
@@ -30,7 +30,7 @@ If a sect is too weak, it can only wait to be slaughtered.
 Ancient Formations are surely powerful, but Formations created on your own can also be as destructive.
 Dragging or double-clicking can be used to select multiple units.
 Press down the Shift key to select multiple units.
-เซียน Rumors: Some sect's leader ate so much bread replete with Qi that he exploded and died.
+เซียน Rumors: Some sect's leader ate so much bread replete with พลังชี่ that he exploded and died.
 เซียน Rumors: Someone found an ancient Law within an old Stone Casket.
 เซียน Rumors: Even เซียน can get greedy; it's difficult to resist the pleasure of great food.
 เซียน Rumors: Toothache is the most difficult condition to cure.

@@ -11,7 +11,7 @@
 太阴符	Talisman of Supreme Yin
 可以提高身体自然恢复力的符咒。	Talisman used to raise natural recovery rate.
 药师祛病符	Talisman of Curer
-佩戴者可以从根本上提高法术威力，法术灵气消耗。	Fundamentally increases the wearer's Spell Power and Qi Cost.
+佩戴者可以从根本上提高法术威力，法术灵气消耗。	Fundamentally increases the wearer's Spell Power and พลังชี่ Cost.
 圣咒符	Sacredcurse Talisman
 角色出生点	
 逻辑点	

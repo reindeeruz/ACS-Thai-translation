@@ -36,7 +36,7 @@
 天枢斩仙枝	Dubhe เซียน Slaying  Branch
 可以大幅提高寒冷抵抗的符咒。	Talisman used to drastically raise resistance to cold.
 太阳符	Talisman of Supreme Yang
-佩戴者可以从根本上降低术法技能灵气消耗。	Fundamentally decreases the wearer's Qi Cost of Spells.
+佩戴者可以从根本上降低术法技能灵气消耗。	Fundamentally decreases the wearer's พลังชี่ Cost of Spells.
 灵咒符	Spiritcurse Talisman
 蜚皮薄衣衫	Fei Hide Thin Shirt
 蜚皮休闲下裳	Fei Hide Casual Pants
@@ -68,7 +68,7 @@
 角色出生点	Born Point
 逻辑点	Logic Point
 灵石栅栏	Spirit Stone Fence
-灵石法座	Spirit Stone Qi Cushion
+灵石法座	Spirit Stone พลังชี่ Cushion
 莫	Mo
 剑平	Jianping
 别	Bie

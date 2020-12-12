@@ -18,12 +18,12 @@
 坤元七魄镇	Earthbound Seven Souls Stone
 垃圾	Rubbish
 万里饮血渣	Marching Blood Draining  Dreg
-佩戴者可以从根本上提高法术威力，法术灵气消耗。	Fundamentally increases the wearer's Spell Power and Qi Cost.
+佩戴者可以从根本上提高法术威力，法术灵气消耗。	Fundamentally increases the wearer's Spell Power and พลังชี่ Cost.
 圣咒符	Sacredcurse Talisman
 佩戴者可以从根本上提高法宝威力，并全面提高法宝能力。	Fundamentally increases the wearer's Artifact Power, and comprehensively improves Artifact abilities.
 圣剑符	Sacredsword Talisman
-提高饮气辟谷的效率。	Used to raise efficiency of Qi absorption and fasting.
-饮气符	Talisman of Qi Absorption
+提高饮气辟谷的效率。	Used to raise efficiency of พลังชี่ absorption and fasting.
+饮气符	Talisman of พลังชี่ Absorption
 可以提高炼制法宝成功率的符咒。	Talisman used to improve success rate of artifact crafting.
 太上通宝符	Talisman of Riches
 角色出生点	Born Point

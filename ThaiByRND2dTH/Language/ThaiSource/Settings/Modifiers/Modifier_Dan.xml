@@ -18,14 +18,14 @@
 		</Text>
 		<Text Name="Dan_Ling1">
 			<DisplayName>ยาเม็ดฟื้นฟูพลังชี่</DisplayName>
-			<Desc>Increases Qi recovery rate by 2,000%.</Desc>
+			<Desc>Increases พลังชี่ recovery rate by 2,000%.</Desc>
 		</Text>
 		<Text Name="Dan_Ling2">
 			<DisplayName>ยาเม็ดดวงตะวัน</DisplayName>
 		</Text>
 		<Text Name="Dan_Ling3">
 			<DisplayName>Divine Powder</DisplayName>
-			<Desc>Increases Max Qi by 100,000.</Desc>
+			<Desc>Increases ค่าพลังชี่สูงสุด by 100,000.</Desc>
 		</Text>
 		<Text Name="Dan_Defense">
 			<DisplayName>Shield Pill</DisplayName>
@@ -64,16 +64,16 @@
 			<DisplayName>Increases Cultivation speed (Samsara).</DisplayName>
 		</Text>
 		<Text Name="Dan_CalmDown">
-			<DisplayName>Purity Pill</DisplayName>
-			<Desc>Consumption of the Purity Pill will calm one's Mental State to a certain extent, and reduces the fluctuation of mood within one day.</Desc>
+			<DisplayName>ยาเม็ดพิศุทธิ์</DisplayName>
+			<Desc>Consumption of the ยาเม็ดพิศุทธิ์ will calm one's Mental State to a certain extent, and reduces the fluctuation of mood within one day.</Desc>
 		</Text>
 		<Text Name="Dan_Happiness">
-			<DisplayName>Euphoria Pill</DisplayName>
-			<Desc>Consumption of the Euphoria Pill will immerse one in happiness within two days, but it greatly hinders work efficiency.</Desc>
+			<DisplayName>ยาเม็ดเคลิ้มสุข</DisplayName>
+			<Desc>Consumption of the ยาเม็ดเคลิ้มสุข will immerse one in happiness within two days, but it greatly hinders work efficiency.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger">
 			<DisplayName>Inedia Pill</DisplayName>
-			<Desc>Consumption of Inedia Pill grants one the ability of Qi Absorption for two days, enabling auto-replenishment of Hunger.</Desc>
+			<Desc>Consumption of Inedia Pill grants one the ability of พลังชี่ Absorption for two days, enabling auto-replenishment of Hunger.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger1">
 			<DisplayName>Nourish Pill</DisplayName>
@@ -140,7 +140,7 @@
 		</Text>
 		<Text Name="Modifier_Item_RedGinseng1">
 			<DisplayName>โสมแดง (Fruit)</DisplayName>
-			<Desc>Increases Max Qi.</Desc>
+			<Desc>Increases ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Laxative">
 			<DisplayName>Laxative Pill</DisplayName>
@@ -158,12 +158,12 @@
 			<Desc>Consumption of Spirit Dew will greatly improve one's recovery rate from wound for a short period of time.</Desc>
 		</Text>
 		<Text Name="Dan_LingStone">
-			<DisplayName>Advanced Qi Resonance</DisplayName>
-			<Desc>Use spirit stone in cultivation to resonate with Qi energies, greatly increasing one's Qi Recovery Rate and Cultivation Speed.</Desc>
+			<DisplayName>Advanced พลังชี่ Resonance</DisplayName>
+			<Desc>Use spirit stone in cultivation to resonate with พลังชี่ energies, greatly increasing one's พลังชี่ Recovery Rate and Cultivation Speed.</Desc>
 		</Text>
 		<Text Name="Dan_LingCrystal">
-			<DisplayName>Advanced Qi Resonance</DisplayName>
-			<Desc>Use Spirit Crystal in cultivation to deeply resonate with Qi energies, greatly increasing one's Qi Recovery Rate and Cultivation Speed.</Desc>
+			<DisplayName>Advanced พลังชี่ Resonance</DisplayName>
+			<Desc>Use Spirit Crystal in cultivation to deeply resonate with พลังชี่ energies, greatly increasing one's พลังชี่ Recovery Rate and Cultivation Speed.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseNeckCountdown1">
 			<DisplayName>Harmony Pill</DisplayName>
@@ -251,7 +251,7 @@
 		</Text>
 		<Text Name="Modifier_Item_Boss_Meat">
 			<DisplayName>Divine Beast Flesh</DisplayName>
-			<Desc>Greatly increases Max Qi and Lifespan.</Desc>
+			<Desc>Greatly increases ค่าพลังชี่สูงสุด and Lifespan.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_BossZhuLong_Meat">
 			<DisplayName>Primeval Flesh</DisplayName>

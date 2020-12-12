@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Story_LingZhiGet">
 			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that there is supposed to be a Spirit Root that grows here. After searching around it turned out that the area was replete with Earth Qi, there was something out of the ordinary here.</Desc>
+			<Desc>[NAME] arrived at [PLACE] and recalled that there is supposed to be a Spirit Root that grows here. After searching around it turned out that the area was replete with Earth พลังชี่, there was something out of the ordinary here.</Desc>
 			<Selections.0.Display>Search for the Spirit Root</Selections.0.Display>
 			<Selections.1.Display>Set up a Formation</Selections.1.Display>
 			<Selections.2.Display>Harvest Spirit Root</Selections.2.Display>
@@ -18,7 +18,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Jin">
 			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Metal Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
+			<Desc>[NAME] found that the area was replete with Metal พลังชี่ and people rarely came here, thus making it an excellent spot for Practice.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.1.Display>Meditate</Selections.1.Display>
 			<Selections.2.Display>Meditate</Selections.2.Display>
@@ -28,7 +28,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Mu">
 			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Wood Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
+			<Desc>[NAME] found that the area was replete with Wood พลังชี่ and people rarely came here, thus making it an excellent spot for Practice.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.1.Display>Meditate</Selections.1.Display>
 			<Selections.2.Display>Meditate</Selections.2.Display>
@@ -38,7 +38,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Shui">
 			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Water Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
+			<Desc>[NAME] found that the area was replete with Water พลังชี่ and people rarely came here, thus making it an excellent spot for Practice.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.1.Display>Meditate</Selections.1.Display>
 			<Selections.2.Display>Meditate</Selections.2.Display>
@@ -48,7 +48,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Huo">
 			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Fire Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
+			<Desc>[NAME] found that the area was replete with Fire พลังชี่ and people rarely came here, thus making it an excellent spot for Practice.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.1.Display>Meditate</Selections.1.Display>
 			<Selections.2.Display>Meditate</Selections.2.Display>
@@ -58,7 +58,7 @@
 		</Text>
 		<Text Name="Story_XiuLian_Tu">
 			<DisplayName>Cultivate here</DisplayName>
-			<Desc>[NAME] found that the area was replete with Earth Qi and people rarely came here, thus making it an excellent spot for Practice.</Desc>
+			<Desc>[NAME] found that the area was replete with Earth พลังชี่ and people rarely came here, thus making it an excellent spot for Practice.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.1.Display>Meditate</Selections.1.Display>
 			<Selections.2.Display>Meditate</Selections.2.Display>
@@ -232,7 +232,7 @@
 		</Text>
 		<Text Name="BaoZang_QingLianShan3">
 			<DisplayName>Mountain Scenery</DisplayName>
-			<Desc>Following the road to the mountain, [NAME] found that the Qi here was richer than anywhere else. That an Earthly Paradise such as this could be hidden in only a drop of water is unimaginable.</Desc>
+			<Desc>Following the road to the mountain, [NAME] found that the พลังชี่ here was richer than anywhere else. That an Earthly Paradise such as this could be hidden in only a drop of water is unimaginable.</Desc>
 			<Selections.0.Display>Sightsee</Selections.0.Display>
 			<Selections.1.Display>Return to the Entrance</Selections.1.Display>
 		</Text>
@@ -277,7 +277,7 @@
 			<Selections.0.Display>Gained something</Selections.0.Display>
 			<Selections.0.Tip>Artifact Mastery</Selections.0.Tip>
 			<Selections.1.Display>Gained something</Selections.1.Display>
-			<Selections.1.Tip>Qi Sense</Selections.1.Tip>
+			<Selections.1.Tip>พลังชี่ Sense</Selections.1.Tip>
 			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
 		</Text>
 		<Text Name="Story_TianJi">

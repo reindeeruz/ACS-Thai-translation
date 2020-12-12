@@ -81,15 +81,15 @@
 79	The room must have at least 1 building and relic with the same element.
 80	The room must have at least 2 building and relics with the same element.
 81	The room must have at least 3 building and relics with the same element.
-82	Must have at least 1,000 Relic Qi.
-83	Must have at least 5,000 Relic Qi.
-84	Must have at least 10,000 Relic Qi.
-85	Must have at least 30,000 Relic Qi.
-86	mustn't have more than 1,000 Relic Qi.
-87	mustn't have more than 5,000 Relic Qi.
-88	mustn't have more than 10,000 Relic Qi.
-89	mustn't have more than 30,000 Relic Qi.
-90	The Relic's location must be filled with Qi.
+82	Must have at least 1,000 Relic พลังชี่.
+83	Must have at least 5,000 Relic พลังชี่.
+84	Must have at least 10,000 Relic พลังชี่.
+85	Must have at least 30,000 Relic พลังชี่.
+86	mustn't have more than 1,000 Relic พลังชี่.
+87	mustn't have more than 5,000 Relic พลังชี่.
+88	mustn't have more than 10,000 Relic พลังชี่.
+89	mustn't have more than 30,000 Relic พลังชี่.
+90	The Relic's location must be filled with พลังชี่.
 91	All of the room's buildings must have ominous Feng Shui (ลางร้ายเล็กน้อย/Ominous/ลางร้ายมาก).
 92	All of the room's buildings must have auspicious Feng Shui (ฤกษ์ดีเล็กน้อย/Auspicious/ฤกษ์ดีมาก).
 93	The room mustn't have any ฤกษ์ดีมาก buildings.
@@ -103,7 +103,7 @@
 101	The room must have exactly 1 Feng Shui Relic.
 102	The room must have exactly 1 Feng Shui Relic.
 103	The room must have exactly 1 Feng Shui Relic.
-10001	Must have at least 100,000 Relic Qi.
+10001	Must have at least 100,000 Relic พลังชี่.
 10002	The room must have at least 5 ลางร้ายมาก buildings.
 10003	The room must have exactly 1 Feng Shui Relic.
 10004	The room must have at exactly 8 light sources.
@@ -113,5 +113,5 @@
 10008	The room must have exactly 2 censers.
 10009	The room must have exactly 2 banners.
 10010	The room must have exactly 1 bed.
-10011	The room mustn't have any cushions or qi cushions.
+10011	The room mustn't have any cushions or พลังชี่ cushions.
 20000	The room must have exactly 1 spirit relic.

@@ -13,7 +13,7 @@
 灵石门	Spirit Stone Door
 灵石床	Spirit Stone Bed
 灵石灯笼	Spirit Stone Lantern
-灵石法座	Spirit Stone Qi Cushion
+灵石法座	Spirit Stone พลังชี่ Cushion
 灵石藏经阁书架	Spirit Stone Manual Pavilion
 公兔子	Male Rabbit
 雌龟	เต่าตัวเมีย

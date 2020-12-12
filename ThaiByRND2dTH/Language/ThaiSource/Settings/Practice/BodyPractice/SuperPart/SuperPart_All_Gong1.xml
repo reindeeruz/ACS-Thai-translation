@@ -40,20 +40,20 @@
 		<Text Name="SuperPart_Gong_1_3">
 			<Prefix>The Five Elements</Prefix>
 			<Suffix>Fists</Suffix>
-			<Desc>Uses the energy of the Five Elements within the organs to drive both fists and attacks with five different forms. Excels at attacking the Qi barrier's weak point.</Desc>
+			<Desc>Uses the energy of the Five Elements within the organs to drive both fists and attacks with five different forms. Excels at attacking the พลังชี่ barrier's weak point.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Slightly increases the secret body Qi barrier penetration.</Levels.0.Desc>
+			<Levels.0.Desc>Slightly increases the secret body พลังชี่ barrier penetration.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Moderately increases the secret body Qi barrier penetration.</Levels.1.Desc>
+			<Levels.1.Desc>Moderately increases the secret body พลังชี่ barrier penetration.</Levels.1.Desc>
 			<Levels.2.Title>Third Layer</Levels.2.Title>
-			<Levels.2.Desc>Drastically increases the secret body Qi barrier penetration.</Levels.2.Desc>
+			<Levels.2.Desc>Drastically increases the secret body พลังชี่ barrier penetration.</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_1_4">
 			<Prefix>Eagle Bear</Prefix>
 			<Suffix>Combine Form</Suffix>
 			<Desc>The most advanced secret skill in กฎร่างบรรกาลเอกภาพ. Refines the back muscle to the extreme so that it resembles an eagle's wings. Refines the shoulders to the extreme so that it resembles a bear's torso. Wields power from the waist and sternum, works the spine like a dragon and fends off all attackers with both shoulders.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
-			<Levels.0.Desc>Fundamentally increases the secret body power by a large amount.\n Drastically increases the secret body attack accuracy.\n Drastically increases the secret body Qi barrier penetration.</Levels.0.Desc>
+			<Levels.0.Desc>Fundamentally increases the secret body power by a large amount.\n Drastically increases the secret body attack accuracy.\n Drastically increases the secret body พลังชี่ barrier penetration.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_1_5">
 			<Prefix>Luster of Yang</Prefix>
@@ -71,7 +71,7 @@
 			<Levels.0.Title>First Layer</Levels.0.Title>
 			<Levels.0.Desc>Moderately increases the physical cultivator's dodge rate.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
-			<Levels.1.Desc>Drastically reduces the physical cultivator's True Qi consumption rate of artifact suppression.</Levels.1.Desc>
+			<Levels.1.Desc>Drastically reduces the physical cultivator's True พลังชี่ consumption rate of artifact suppression.</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_1_7">
 			<Prefix>Heavenly Dragon</Prefix>
@@ -128,7 +128,7 @@
 		<Text Name="SuperPart_Gong_1_11">
 			<Prefix>Void Thundercatch</Prefix>
 			<Suffix>Hand - Left</Suffix>
-			<Desc>Uses a secret technique to remold both hands into hollow bones and infuses them with True Qi that grants extreme agility to even catch thunder and lightning in void.</Desc>
+			<Desc>Uses a secret technique to remold both hands into hollow bones and infuses them with True พลังชี่ that grants extreme agility to even catch thunder and lightning in void.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
 			<Levels.0.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>
@@ -139,7 +139,7 @@
 		<Text Name="SuperPart_Gong_1_11_1">
 			<Prefix>Void Thundercatch</Prefix>
 			<Suffix>Hand - Right</Suffix>
-			<Desc>Uses a secret technique to remold both hands into hollow bones and infuses them with True Qi that grants extreme agility to even catch thunder and lightning in void.</Desc>
+			<Desc>Uses a secret technique to remold both hands into hollow bones and infuses them with True พลังชี่ that grants extreme agility to even catch thunder and lightning in void.</Desc>
 			<Levels.0.Title>First Layer</Levels.0.Title>
 			<Levels.0.Desc>Slightly increases the secret body attack accuracy.\n Slightly increases the secret body defense success rate.</Levels.0.Desc>
 			<Levels.1.Title>Second Layer</Levels.1.Title>

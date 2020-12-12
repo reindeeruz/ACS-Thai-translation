@@ -18,7 +18,7 @@
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd1">
 			<DisplayName>SP: Hall of Storm</DisplayName>
-			<Desc>Part of the Sacred Pavilion. Grants Sacred Relic the Qi of wind and cloud, rendering it more agile and elegant.</Desc>
+			<Desc>Part of the Sacred Pavilion. Grants Sacred Relic the พลังชี่ of wind and cloud, rendering it more agile and elegant.</Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoLabelAdd2">
 			<DisplayName>SP: Hall of Weight</DisplayName>
@@ -87,8 +87,8 @@
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd6">
 			<DisplayName>SP: Hall of Recall</DisplayName>
-			<Desc>Grants Sacred Relic the power of spirit recalling. 3% of damage dealt will be replenished to the artifact's Qi.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>3% of damage dealt will be replenished to the artifact's Qi.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Grants Sacred Relic the power of spirit recalling. 3% of damage dealt will be replenished to the artifact's พลังชี่.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% of damage dealt will be replenished to the artifact's พลังชี่.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd7">
 			<DisplayName>SP: Hall of Specter</DisplayName>
@@ -107,8 +107,8 @@
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd10">
 			<DisplayName>SP: Hall of Infinity</DisplayName>
-			<Desc>Grants Sacred Relic the power of infinity. Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Desc>
-			<Levels.0.Effects.0.Ability.Desc>Power of first sword strike increased by 3 times. The effect is reset when replenishing Qi to the artifact.</Levels.0.Effects.0.Ability.Desc>
+			<Desc>Grants Sacred Relic the power of infinity. Power of first sword strike increased by 3 times. The effect is reset when replenishing พลังชี่ to the artifact.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Power of first sword strike increased by 3 times. The effect is reset when replenishing พลังชี่ to the artifact.</Levels.0.Effects.0.Ability.Desc>
 		</Text>
 		<Text Name="GodCity_GodFabaoAbilityAdd11">
 			<DisplayName>SP: Hall of Wind</DisplayName>
@@ -117,7 +117,7 @@
 		</Text>
 		<Text Name="GodCity_WishTree">
 			<DisplayName>Tree of Prayers</DisplayName>
-			<Desc>The wishes and prayers of ordinary people have concentrated and formed into a tree. You can harness its Qi of mortals to slightly reduce Divinity.</Desc>
+			<Desc>The wishes and prayers of ordinary people have concentrated and formed into a tree. You can harness its พลังชี่ of mortals to slightly reduce Divinity.</Desc>
 		</Text>
 		<Text Name="GodCity_XinyangShendian">
 			<DisplayName>Temple of Faith</DisplayName>

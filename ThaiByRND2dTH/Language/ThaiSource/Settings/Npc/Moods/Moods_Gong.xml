@@ -111,24 +111,24 @@
 			<StoryDesc>Feeling that Pleasant practice feels truly rewarding</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing1">
-			<DisplayName>Intense Qi</DisplayName>
-			<Desc>This place possesses such intense Qi, this place is truly great for one's Practice.</Desc>
-			<StoryDesc>Feeling that Practice goes smoothly in such a place of intense Qi</StoryDesc>
+			<DisplayName>Intense พลังชี่</DisplayName>
+			<Desc>This place possesses such intense พลังชี่, this place is truly great for one's Practice.</Desc>
+			<StoryDesc>Feeling that Practice goes smoothly in such a place of intense พลังชี่</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing2">
-			<DisplayName>Sufficient Qi</DisplayName>
-			<Desc>This place has enough Qi to make it a pretty good place for Practice.</Desc>
+			<DisplayName>Sufficient พลังชี่</DisplayName>
+			<Desc>This place has enough พลังชี่ to make it a pretty good place for Practice.</Desc>
 			<StoryDesc>Feeling that Practice goes well in a place like this</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing3">
-			<DisplayName>Insufficient Qi</DisplayName>
-			<Desc>There's not enough Qi here, but sometimes you just have to make do.</Desc>
-			<StoryDesc>Feeling that Places with such insufficient amounts of Qi are not ideal</StoryDesc>
+			<DisplayName>Insufficient พลังชี่</DisplayName>
+			<Desc>There's not enough พลังชี่ here, but sometimes you just have to make do.</Desc>
+			<StoryDesc>Feeling that Places with such insufficient amounts of พลังชี่ are not ideal</StoryDesc>
 		</Text>
 		<Text Name="PracticeLing4">
-			<DisplayName>Poor Qi</DisplayName>
-			<Desc>This place is not good for Practice, there's no where near enough Qi.</Desc>
-			<StoryDesc>Feeling that Trying to practice in a place with poor Qi leaves one discontent</StoryDesc>
+			<DisplayName>Poor พลังชี่</DisplayName>
+			<Desc>This place is not good for Practice, there's no where near enough พลังชี่.</Desc>
+			<StoryDesc>Feeling that Trying to practice in a place with poor พลังชี่ leaves one discontent</StoryDesc>
 		</Text>
 		<Text Name="PracticeElement1">
 			<DisplayName>Perfect Alignment of the Five Elements</DisplayName>

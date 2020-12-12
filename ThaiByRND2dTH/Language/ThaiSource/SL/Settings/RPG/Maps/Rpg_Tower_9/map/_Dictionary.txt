@@ -10,7 +10,7 @@
 冰银引魂碎	Icy Silver Attract Soul  Scrap
 可以提高移动速度的符咒。	Talisman used to raise move speed.
 轻身符	Agility Talisman
-佩戴者可以提高法宝回灵倍率。	Increases the wearer's Artifact Qi Recovery Multiplier.
+佩戴者可以提高法宝回灵倍率。	Increases the wearer's Artifact พลังชี่ Recovery Multiplier.
 灵剑符	Spiritsword Talisman
 角色出生点	
 逻辑点	

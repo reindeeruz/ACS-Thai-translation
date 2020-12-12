@@ -5,7 +5,7 @@
 3	3	[color=#D06508]Dried meats[/color] and [color=#D06508]Bread[/color] tend to do better in storage than fresh foods.
 4	3	You can take [color=#D06508]Forming Pill[/color] if you're wanting to make quick progress in your Foundation Training.
 5	4	Cultivation requires you be mindful of distractions, even as an inner disciple. You mustn't bother with trivial affairs, as it can impede your practice.
-6	4	You expend [color=#D06508]Stamina[/color] when cultivating, and increase your [color=#D06508]Max Qi[/color]. This is what is known as Refinement Qi.
+6	4	You expend [color=#D06508]Stamina[/color] when cultivating, and increase your [color=#D06508]ค่าพลังชี่สูงสุด[/color]. This is what is known as Refinement พลังชี่.
 7	1	If you're running low on food, you can [color=#D06508]gather[/color] resources from nearby plants or [color=#D06508]hunt[/color] animals in the area. I, too, will lend a hand when the time comes.
 8	1	Outer disciples certainly have their work cut out for them. You can build some [color=#D06508]leisure[/color] structures for them to let off some steam when necessary.
 9	1	[color=#D06508]Exploration[/color] consumes a lot of [color=#D06508]energy[/color]. When you've just started, it's a good idea to explore in moderation.

@@ -26,12 +26,12 @@
 		</Text>
 		<Text Name="Item_FeiLeather" sParam="Item">
 			<ThingName>หนังเฟย</ThingName>
-			<Desc>Hide of the demon beast Fei with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking Qi damage.</Desc>
+			<Desc>Hide of the demon beast Fei with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
 			<Item.BeMaterial.NamePrefix>หนังเฟย</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LuShuLeather" sParam="Item">
 			<ThingName>หนังลูชู</ThingName>
-			<Desc>Hide of the spirit beast Lushu, with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking Qi damage.</Desc>
+			<Desc>Hide of the spirit beast Lushu, with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
 			<Item.BeMaterial.NamePrefix>หนังลูชู</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CattleLeather" sParam="Item">
@@ -46,12 +46,12 @@
 		</Text>
 		<Text Name="Item_YaoLeather" sParam="Item">
 			<ThingName>หนังสัตว์ปีศาจ</ThingName>
-			<Desc>Hide of a demon beast, with demonic power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking Qi damage.</Desc>
+			<Desc>Hide of a demon beast, with demonic power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
 			<Item.BeMaterial.NamePrefix>หนังปีศาจ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YaoLeather1" sParam="Item">
 			<ThingName>หนังสัตว์ปีศาจแข็ง</ThingName>
-			<Desc>Hide of a great demon beast, with powerful demonic power dwelling within it. Warm in winter and cool in summer. It is even capable of effectively blocking Qi damage.</Desc>
+			<Desc>Hide of a great demon beast, with powerful demonic power dwelling within it. Warm in winter and cool in summer. It is even capable of effectively blocking พลังชี่ damage.</Desc>
 			<Item.BeMaterial.NamePrefix>หนังปีศาจแข็ง</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>

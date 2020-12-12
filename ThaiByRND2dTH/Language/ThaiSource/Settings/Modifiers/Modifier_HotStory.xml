@@ -25,7 +25,7 @@
 			<DisplayName>Artisanry Skill Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_QiLv">
-			<DisplayName>Qi Sense Comprehension Increased</DisplayName>
+			<DisplayName>พลังชี่ Sense Comprehension Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_FabaoLv">
 			<DisplayName>Artifact Mastery Comprehension Increased</DisplayName>
@@ -40,7 +40,7 @@
 			<DisplayName>Breakthrough Chance Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_Ling">
-			<DisplayName>Qi Cap Increased</DisplayName>
+			<DisplayName>พลังชี่ Cap Increased</DisplayName>
 		</Text>
 		<Text Name="HotStory_DanNum">
 			<DisplayName>Elixir Yield Increased</DisplayName>

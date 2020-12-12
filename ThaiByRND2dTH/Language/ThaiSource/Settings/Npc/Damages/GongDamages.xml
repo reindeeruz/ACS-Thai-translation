@@ -79,7 +79,7 @@
 			<DisplayName>Formation Tremors</DisplayName>
 		</Text>
 		<Text Name="DiffEnergyInvade">
-			<DisplayName>Alien Qi</DisplayName>
+			<DisplayName>Alien พลังชี่</DisplayName>
 		</Text>
 		<Text Name="MeridianRupture">
 			<DisplayName>Dissevered</DisplayName>
@@ -91,7 +91,7 @@
 			<DisplayName>Abdominal Palpitation</DisplayName>
 		</Text>
 		<Text Name="Damage_Boss_LingBoom">
-			<DisplayName>Turbulent Qi</DisplayName>
+			<DisplayName>Turbulent พลังชี่</DisplayName>
 		</Text>
 		<Text Name="Damage_Sys_SuppressGodCall">
 			<DisplayName>Tribulation Suppression</DisplayName>
@@ -103,10 +103,10 @@
 			<DisplayName>Damaged Meridians</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury">
-			<DisplayName>Overflow of Qi</DisplayName>
+			<DisplayName>Overflow of พลังชี่</DisplayName>
 		</Text>
 		<Text Name="SevereInjury">
-			<DisplayName>Loss of Primeval Qi</DisplayName>
+			<DisplayName>Loss of Primeval พลังชี่</DisplayName>
 		</Text>
 		<Text Name="Jin_ThunderDamage">
 			<DisplayName>Thunderstruck</DisplayName>

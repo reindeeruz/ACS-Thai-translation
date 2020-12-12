@@ -52,7 +52,7 @@
 		</Text>
 		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
 			<ThingName>Painting of the Four Symbols</ThingName>
-			<Desc>A mysterious diagram left by the เซียน Caerulea with great power. Carrier of the painting can utilize local Qi energy and the rotation power of the four seasons in the Boundless Universe to deceive the way of Heaven for 9 years, being immune from Heavenly Tribulation. If the painting scroll is unequipped during this process, the Heavenly Tribulation will arrive immediately.</Desc>
+			<Desc>A mysterious diagram left by the เซียน Caerulea with great power. Carrier of the painting can utilize local พลังชี่ energy and the rotation power of the four seasons in the Boundless Universe to deceive the way of Heaven for 9 years, being immune from Heavenly Tribulation. If the painting scroll is unequipped during this process, the Heavenly Tribulation will arrive immediately.</Desc>
 			<Item.FabaoSuffix>Picture</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Other_PuppetTest" sParam="Item">
@@ -70,15 +70,15 @@
 		</Text>
 		<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
 			<ThingName>Snake Demon's Scale</ThingName>
-			<Desc>Scale which has a concentration of Yin Qi of a Snake Demon. Allows one to be invulnerable to high temperature and having a pristine Mental State.</Desc>
+			<Desc>Scale which has a concentration of Yin พลังชี่ of a Snake Demon. Allows one to be invulnerable to high temperature and having a pristine Mental State.</Desc>
 		</Text>
 		<Text Name="Item_Yao_BearPiMao" sParam="Item">
 			<ThingName>Bear Demon's Fur</ThingName>
-			<Desc>The finest hairs from a Bear Demon's neck, with boisterous Yang Qi dwelling within it. Wearing it allows one to be invulnerable to low temperature and increases cultivation speed.</Desc>
+			<Desc>The finest hairs from a Bear Demon's neck, with boisterous Yang พลังชี่ dwelling within it. Wearing it allows one to be invulnerable to low temperature and increases cultivation speed.</Desc>
 		</Text>
 		<Text Name="Item_Yao_TurtleKe" sParam="Item">
 			<ThingName>Giant Turtle's Shell</ThingName>
-			<Desc>The very sturdy shell of a Giant Turtle, wearing it could hugely increase one's resistance to Qi damage.</Desc>
+			<Desc>The very sturdy shell of a Giant Turtle, wearing it could hugely increase one's resistance to พลังชี่ damage.</Desc>
 		</Text>
 		<Text Name="Item_Yao_TigerZhui" sParam="Item">
 			<ThingName>Tiger King's Bone</ThingName>

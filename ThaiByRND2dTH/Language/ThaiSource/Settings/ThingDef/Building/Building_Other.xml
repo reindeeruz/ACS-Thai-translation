@@ -13,11 +13,11 @@
 		</Text>
 		<Text Name="Building_Xiongfeng_dan" sParam="Building">
 			<ThingName>ไข่ฟินิกซ์</ThingName>
-			<Desc>Extremely hot and radiating light, it is trying to absorb Qi and hatch.</Desc>
+			<Desc>Extremely hot and radiating light, it is trying to absorb พลังชี่ and hatch.</Desc>
 		</Text>
 		<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
 			<ThingName>ไข่ฟินิกซ์</ThingName>
-			<Desc>The egg of a Phoenix whose Qi has dried up and stopped the Nirvana process as a result.</Desc>
+			<Desc>The egg of a Phoenix whose พลังชี่ has dried up and stopped the Nirvana process as a result.</Desc>
 		</Text>
 		<Text Name="Building_Zhulong_yingdan" sParam="Building">
 			<ThingName>ไข่แห่งหยิน</ThingName>

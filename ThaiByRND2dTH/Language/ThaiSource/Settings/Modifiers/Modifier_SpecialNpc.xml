@@ -8,7 +8,7 @@
 		</Text>
 		<Text Name="Modifier_SpNpc_Ling">
 			<DisplayName>Spiritual</DisplayName>
-			<Desc>This person has a deeply built-up foundation, with bottomless Qi energy.</Desc>
+			<Desc>This person has a deeply built-up foundation, with bottomless พลังชี่ energy.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_Shield">
 			<DisplayName>Resilient</DisplayName>
@@ -47,7 +47,7 @@
 			<Desc>When come face to face with arch-enemy, one's strength become stronger than ever due to the hatred.</Desc>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
-			<DisplayName>Qi Shaping Minimum</DisplayName>
+			<DisplayName>พลังชี่ Shaping Minimum</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
 			<DisplayName>Core Shaping Minimum</DisplayName>

@@ -35,22 +35,22 @@
 		</Text>
 		<Text Name="Item_SkyStone" sParam="Item">
 			<ThingName>หินศักดิ์สิทธิ์</ThingName>
-			<Desc>A rare kind of rock said to be dug up from the celestial pillars, with boisterous Qi of the Earth element dwelling within it.</Desc>
+			<Desc>A rare kind of rock said to be dug up from the celestial pillars, with boisterous พลังชี่ of the Earth element dwelling within it.</Desc>
 			<Item.BeMaterial.NamePrefix>หินศักดิ์สิทธิ์</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ExtremeJade" sParam="Item">
 			<ThingName>หินเทพ</ThingName>
-			<Desc>A much sought-after treasure among cultivators, it naturally presents the form of a cylindrical crystal. Possesses exceptional Qi adaptability.</Desc>
+			<Desc>A much sought-after treasure among cultivators, it naturally presents the form of a cylindrical crystal. Possesses exceptional พลังชี่ adaptability.</Desc>
 			<Item.BeMaterial.NamePrefix>หินเทพ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStone" sParam="Item">
 			<ThingName>หินวิญญาณ</ThingName>
-			<Desc>Solid formed by condensation of highly concentrated Qi. Consuming it restores 500 Qi, and improves your Qi Affinity for a certain period of time.</Desc>
+			<Desc>Solid formed by condensation of highly concentrated พลังชี่. Consuming it restores 500 พลังชี่, and improves your พลังชี่ Affinity for a certain period of time.</Desc>
 			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystal" sParam="Item">
 			<ThingName>คริสตัลวิญญาณ</ThingName>
-			<Desc>Crystal formed by condensation of highly concentrated Qi. Consuming it restores 20000 Qi, and significantly improves your Qi Affinity for a certain period of time.</Desc>
+			<Desc>Crystal formed by condensation of highly concentrated พลังชี่. Consuming it restores 20000 พลังชี่, and significantly improves your พลังชี่ Affinity for a certain period of time.</Desc>
 			<Item.BeMaterial.NamePrefix>คริสตัลวิญญาณ</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>

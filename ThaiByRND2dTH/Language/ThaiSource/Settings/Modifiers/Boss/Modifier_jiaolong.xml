@@ -17,7 +17,7 @@
 		</Text>
 		<Text Name="Boss_Jiaolong_JiSiGongYang">
 			<DisplayName>Grown</DisplayName>
-			<Desc>The demonic dragon has obtained strength from the sacrificial offerings, its Qi has become even thicker.</Desc>
+			<Desc>The demonic dragon has obtained strength from the sacrificial offerings, its พลังชี่ has become even thicker.</Desc>
 		</Text>
 		<Text Name="Boss_Jiaolong_Shuiling">
 			<DisplayName>Power of Water Spirit</DisplayName>
@@ -36,7 +36,7 @@
 		</Text>
 		<Text Name="Boss_Jiaolong_fanshi">
 			<DisplayName>Backfire - Flood Dragon's Counterattack</DisplayName>
-			<Desc>Flood Dragon will make an Artifact backfire on its owner after a period of time, causing the Artifact Qi to be reduced by half. The effect is doubled for Artifacts of Fire element, and halved for those of Earth element.</Desc>
+			<Desc>Flood Dragon will make an Artifact backfire on its owner after a period of time, causing the Artifact พลังชี่ to be reduced by half. The effect is doubled for Artifacts of Fire element, and halved for those of Earth element.</Desc>
 		</Text>
 	</List>
 </Texts>

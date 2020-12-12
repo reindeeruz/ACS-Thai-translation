@@ -31,23 +31,23 @@
 		</Text>
 		<Text Name="Rest6">
 			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Water Qi. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Water พลังชี่. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest7">
 			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Fire Qi. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Fire พลังชี่. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest8">
 			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Metal Qi. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Metal พลังชี่. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest9">
 			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Wood Qi. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Wood พลังชี่. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest10">
 			<DisplayName>Heal the Elder</DisplayName>
-			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Earth Qi. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder suffers from severe injuries that cannot be cured by common elixirs. Recovery is only possible through a continuous transfer of power accompanied by a large amount of Earth พลังชี่. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest11">
 			<DisplayName>Delay the Tribulation</DisplayName>
@@ -67,23 +67,23 @@
 		</Text>
 		<Text Name="Rest15">
 			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s elder was breakthroughing while Water Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder was breakthroughing while Water พลังชี่ suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest16">
 			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s elder was breakthroughing while Fire Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder was breakthroughing while Fire พลังชี่ suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest17">
 			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s elder was breakthroughing while Metal Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder was breakthroughing while Metal พลังชี่ suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest18">
 			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s elder was breakthroughing while Wood Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder was breakthroughing while Wood พลังชี่ suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Rest19">
 			<DisplayName>Breakthrough</DisplayName>
-			<Desc>{0}'s elder was breakthroughing while Earth Qi suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
+			<Desc>{0}'s elder was breakthroughing while Earth พลังชี่ suddenly dissipated. There is no available spirit root in the sect right now. Any timely help will be much appreciated.</Desc>
 		</Text>
 		<Text Name="Build1">
 			<DisplayName>Sect Building</DisplayName>

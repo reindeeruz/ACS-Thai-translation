@@ -160,7 +160,7 @@
 铁门（通常）	Iron Door
 玉石墙	Jade Wall
 铁书架	Iron Decoration Shelf
-梧桐木法座	Parasol Wood Qi Cushion
+梧桐木法座	Parasol Wood พลังชี่ Cushion
 铁墙	Iron Wall
 铁琴台	Iron Zither Table
 木灯柱	Wood Lamp Post
@@ -181,7 +181,7 @@
 铁花瓶	Iron Vase
 铁书画桌	Iron Talisman Table
 铁虫鸟架	Iron Bird Cage
-铁法座	Iron Qi Cushion
+铁法座	Iron พลังชี่ Cushion
 铁鼎	Iron Cauldron
 灵石置物台	Spirit Stone Display
 灵石道德天尊雕像	Spirit Stone Virtue Statue
@@ -230,7 +230,7 @@
 灵石元始天尊雕像	Spirit Stone Beginning Statue
 灵石神鹤灯	Spirit Stone Crane Lantern
 灵石狮子	Spirit Stone Stone Lion
-木法座	Wood Qi Cushion
+木法座	Wood พลังชี่ Cushion
 木太极旗	Wood Tai Chi Flag
 大理石塔	Marble Pagoda
 灰石灯柱	Graystone Lamp Post
@@ -252,7 +252,7 @@
 灵石雕塑	Spirit Stone Stone Giant
 灵石香炉	Spirit Stone Censer
 灵石祖师牌位	Spirit Stone Ancestral Shrine
-灵石法座	Spirit Stone Qi Cushion
+灵石法座	Spirit Stone พลังชี่ Cushion
 灵石八卦旗	Spirit Stone Trigrams Flag
 灵石灯笼	Spirit Stone Lantern
 灵石碑	Spirit Stone Stele

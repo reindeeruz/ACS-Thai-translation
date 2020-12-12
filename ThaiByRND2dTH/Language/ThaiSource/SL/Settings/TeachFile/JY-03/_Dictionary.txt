@@ -57,11 +57,11 @@
 灵晶墙	Spirit Crystal Wall
 灵晶门	Spirit Crystal Door
 梧桐木床	Parasol Wood Bed
-梧桐木法座	Parasol Wood Qi Cushion
+梧桐木法座	Parasol Wood พลังชี่ Cushion
 梧桐木琴台	Parasol Wood Zither Table
 梧桐木小方桌	Parasol Wood Square Table
 火铜床	Igneocopper Bed
-火铜法座	Igneocopper Qi Cushion
+火铜法座	Igneocopper พลังชี่ Cushion
 火铜琴台	Igneocopper Zither Table
 火铜小方桌	Igneocopper Square Table
 寒精置物台	Ice Essence Display
@@ -73,7 +73,7 @@
 寒晶灯笼	Ice Crystal Lantern
 寒晶屏风	Ice Crystal Folding Screen
 寒晶梳妆台	Ice Crystal Dressing Table
-天柱石法座	Holy Stone Qi Cushion
+天柱石法座	Holy Stone พลังชี่ Cushion
 火铜灯笼	Igneocopper Lantern
 火铜梳妆台	Igneocopper Dressing Table
 火铜屏风	Igneocopper Folding Screen
