@@ -1,0 +1,20 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Wheat" sParam="Plant">
+			<ThingName>ข้าวสาลี</ThingName>
+			<Desc>Main source of food. Despite a long growth period, it is resilient and can grow in a temperature between 0-40℃, and grants a hefty yield to boot.</Desc>
+		</Text>
+		<Text Name="Healroot" sParam="Plant">
+			<ThingName>สมุนไพร</ThingName>
+			<Desc>The most common and basic medicine. Can be processed and refined into other kinds of medicine. Can only grow in a temperature between 10-40℃.</Desc>
+		</Text>
+		<Text Name="Cotton" sParam="Plant">
+			<ThingName>ฝ้าย</ThingName>
+			<Desc>Main source for the manufacture of fabrics. Suitable to grow in a temperature between 5-35℃. Can also be obtained during an adventure to Mt. Barren.</Desc>
+		</Text>
+		<Text Name="Mushroom" sParam="Plant">
+			<ThingName>เห็ด</ThingName>
+			<Desc>Common mushroom. Often grows in an environment of 18-23℃, and can only grow in the dark.</Desc>
+		</Text>
+	</List>
+</Texts>

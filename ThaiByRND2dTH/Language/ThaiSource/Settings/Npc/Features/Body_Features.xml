@@ -1,0 +1,147 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FacialScar">
+			<DisplayName>หน้าแผลเป็น</DisplayName>
+			<Desc>There is a horrific scar on this person's face.</Desc>
+		</Text>
+		<Text Name="UglyFace1">
+			<DisplayName>ขี้เหร่</DisplayName>
+			<Desc>This person looks too ugly to be likable.</Desc>
+		</Text>
+		<Text Name="UglyFace2">
+			<DisplayName>น่าเกลียด</DisplayName>
+			<Desc>This person looks too terrifying to be a human.</Desc>
+		</Text>
+		<Text Name="BeautifulFace1">
+			<DisplayName>หล่อ</DisplayName>
+			<Desc>This person is incredibly good-looking.</Desc>
+		</Text>
+		<Text Name="BeautifulFace2">
+			<DisplayName>สวย</DisplayName>
+			<Desc>This person is incredibly good-looking.</Desc>
+		</Text>
+		<Text Name="OldViscusInjury">
+			<DisplayName>อวัยวะบาดเจ็บ</DisplayName>
+			<Desc>This person's internal organs have been severely damaged, and they are not healing.</Desc>
+		</Text>
+		<Text Name="CrippleLeft">
+			<DisplayName>เป๋ (ซ้าย)</DisplayName>
+			<Desc>This person has a limp in their left leg due to a long-term disease.</Desc>
+		</Text>
+		<Text Name="CrippleRight">
+			<DisplayName>เป๋ (ขวา)</DisplayName>
+			<Desc>This person has a limp in their right leg due to a long-term disease.</Desc>
+		</Text>
+		<Text Name="BanLeftTibia">
+			<DisplayName>ขาขาด (ซ้าย)</DisplayName>
+			<Desc>This person's left leg has been severed.</Desc>
+		</Text>
+		<Text Name="BanRightTibia">
+			<DisplayName>ขาขาด (ขวา)</DisplayName>
+			<Desc>This person's left leg has been severed.</Desc>
+		</Text>
+		<Text Name="BanLeftScapula">
+			<DisplayName>แขนขาด (ซ้าย)</DisplayName>
+			<Desc>This person's whole left arm has been severed.</Desc>
+		</Text>
+		<Text Name="BanRightScapula">
+			<DisplayName>แขนขาด (ขวา)</DisplayName>
+			<Desc>This person's whole right arm has been severed.</Desc>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>หูหนวก</DisplayName>
+			<Desc>This person was born deaf.</Desc>
+		</Text>
+		<Text Name="BanLeftEye">
+			<DisplayName>บอด (ซ้าย)</DisplayName>
+			<Desc>บอด in the left eye.</Desc>
+		</Text>
+		<Text Name="BanRightEye">
+			<DisplayName>บอด (ขวา)</DisplayName>
+			<Desc>บอด in the right eye.</Desc>
+		</Text>
+		<Text Name="BanLeftEar">
+			<DisplayName>หูหนวก (ซ้าย)</DisplayName>
+			<Desc>Deaf in the left ear.</Desc>
+		</Text>
+		<Text Name="BanRightEar">
+			<DisplayName>หูหนวก (ขวา)</DisplayName>
+			<Desc>Deaf in the right ear.</Desc>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>เมริเดียนพัง</DisplayName>
+			<Desc>This person was born with broken meridians.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft1">
+			<DisplayName>ทำงานหนักเกิน</DisplayName>
+			<Desc>This person has not paid much attention to their health, and has a shorter lifespan than others.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft2">
+			<DisplayName>หมดแรง</DisplayName>
+			<Desc>This person has not paid any attention to their health and has a much shorter lifespan than others.</Desc>
+		</Text>
+		<Text Name="HealthMaintain1">
+			<DisplayName>Healthy</DisplayName>
+			<Desc>This person knows how to maintain good health and has a longer lifespan than others.</Desc>
+		</Text>
+		<Text Name="HealthMaintain2">
+			<DisplayName>แข็งแรง</DisplayName>
+			<Desc>This person knows how to maintain good health and has a much longer lifespan than others.</Desc>
+		</Text>
+		<Text Name="ColdPatience">
+			<DisplayName>กันหนาว</DisplayName>
+			<Desc>This person lives in a cold region and can handle cold weather well.</Desc>
+		</Text>
+		<Text Name="HotPatience">
+			<DisplayName>กันร้อน</DisplayName>
+			<Desc>This person lives in a hot region and can handle hot weather well.</Desc>
+		</Text>
+		<Text Name="DarkPatience">
+			<DisplayName>ชอบที่มืด</DisplayName>
+			<Desc>This person likes dark places.</Desc>
+		</Text>
+		<Text Name="HighMan">
+			<DisplayName>สูง</DisplayName>
+			<Desc>This person is taller and stronger than most people, so is more likely to solve problems with violence.</Desc>
+		</Text>
+		<Text Name="LowMan">
+			<DisplayName>เล็ก</DisplayName>
+			<Desc>This person is short and small like a child, so is more likely to solve problems with intelligence.</Desc>
+		</Text>
+		<Text Name="NoHair">
+			<DisplayName>โล้น</DisplayName>
+			<Desc>This person has no hair.</Desc>
+		</Text>
+		<Text Name="LeftHanded">
+			<DisplayName>ถนัดซ้าย</DisplayName>
+			<Desc>This person is left-handed.</Desc>
+		</Text>
+		<Text Name="Mute">
+			<DisplayName>ใบ้</DisplayName>
+			<Desc>This person cannot talk with other people.</Desc>
+		</Text>
+		<Text Name="BanRightMiddleFinger">
+			<DisplayName>นิ้วหัก</DisplayName>
+		</Text>
+		<Text Name="RunFast">
+			<DisplayName>ไว</DisplayName>
+			<Desc>This person is very agile and can walk very fast.</Desc>
+		</Text>
+		<Text Name="Indigestion">
+			<DisplayName>ย่อยช้า</DisplayName>
+			<Desc>This person has bad indigestion that hinders the absorption of nutrients.</Desc>
+		</Text>
+		<Text Name="IronStomach">
+			<DisplayName>ท้องเหล็ก</DisplayName>
+			<Desc>This person has extremely healthy digestion that helps with the absorption of nutrients.</Desc>
+		</Text>
+		<Text Name="GoodEyesight">
+			<DisplayName>ตาเหยี่ยว</DisplayName>
+			<Desc>This person has good eyesight and can see very far.</Desc>
+		</Text>
+		<Text Name="ShallowSleep">
+			<DisplayName>นอนน้อยร้อยเปอร์</DisplayName>
+			<Desc>This person is likely to wake up in the middle of the night.</Desc>
+		</Text>
+	</List>
+</Texts>

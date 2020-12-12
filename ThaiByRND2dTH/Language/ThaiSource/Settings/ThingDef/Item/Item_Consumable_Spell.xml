@@ -1,0 +1,30 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SpellPaper" sParam="Item">
+			<ThingName>กระดาษยันต์</ThingName>
+			<Desc>Specially-made paper that can be turned into Talisman by drawing a specific symbol with Cinnabar on the its surface through one's mind power.</Desc>
+			<Item.FabaoSuffix>Talisman, Incantation, Forbidden</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellPaperLv2" sParam="Item">
+			<ThingName>กระดาษยันต์เลือด</ThingName>
+			<Desc>Paper made from Beast blood that can be turned into Talisman by drawing a specific symbol with Cinnabar on the its surface through one's mind power.</Desc>
+		</Text>
+		<Text Name="Item_SpellPaperLv3" sParam="Item">
+			<ThingName>กระดาษยันต์ศักดิ์สิทธิ์</ThingName>
+			<Desc>Talisman created with a Serenity Soul Gem. It was turned into Talisman by drawing a specific symbol with Cinnabar on the its surface through one's mind power.</Desc>
+		</Text>
+		<Text Name="Item_Spell" sParam="Item">
+			<ThingName>ยันต์</ThingName>
+			<Desc>A successfully-made Talisman, wearing it grants certain ability bonuses.</Desc>
+			<Item.FabaoSuffix>Talisman, Incantation, Forbidden</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellLv2" sParam="Item">
+			<ThingName>ยันต์</ThingName>
+			<Desc>A successfully-made Talisman, wearing it grants certain ability bonuses.</Desc>
+		</Text>
+		<Text Name="Item_SpellLv3" sParam="Item">
+			<ThingName>ยันต์</ThingName>
+			<Desc>A successfully-made Talisman, wearing it grants certain ability bonuses.</Desc>
+		</Text>
+	</List>
+</Texts>

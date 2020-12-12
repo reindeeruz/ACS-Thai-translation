@@ -1,0 +1,22 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="FaBaoBase" sParam="Item">
+			<ThingName>ของวิเศษ</ThingName>
+		</Text>
+		<Text Name="FaBaoTest" sParam="Item">
+			<ThingName>ของวิเศษทดสอบ</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Shock Damage</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="FightFaBao" sParam="Item">
+			<Desc>An artifact.</Desc>
+			<ThingName>ของวิเศษต่อสู้</ThingName>
+			<Item.Equip.AtkDamage.0.DescTags>Shock Damage</Item.Equip.AtkDamage.0.DescTags>
+		</Text>
+		<Text Name="TreasureFabao" sParam="Item">
+			<ThingName>Treasure Artifact Template</ThingName>
+		</Text>
+		<Text Name="JieCloud" sParam="Item">
+			<ThingName>Cloud of Tribulation</ThingName>
+		</Text>
+	</List>
+</Texts>

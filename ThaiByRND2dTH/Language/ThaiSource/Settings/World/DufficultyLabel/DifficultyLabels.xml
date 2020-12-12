@@ -1,0 +1,157 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="MapSize">
+			<DisplayName>ขนาดแผนที่</DisplayName>
+			<Values.0.Name>เล็ก</Values.0.Name>
+			<Values.0.Desc>ขนาดแผนที่: 96x96</Values.0.Desc>
+			<Values.1.Name>ปานกลาง</Values.1.Name>
+			<Values.1.Desc>ขนาดแผนที่: 128x128</Values.1.Desc>
+			<Values.2.Name>ใหญ่</Values.2.Name>
+			<Values.2.Desc>ขนาดแผนที่: 196x196</Values.2.Desc>
+		</Text>
+		<Text Name="ThunderAddion">
+			<DisplayName>ความยากของทัณฑ์สวรรค์</DisplayName>
+			<Desc>ระดับความยากของทัณฑ์สวรรค์</Desc>
+			<Values.0.Name>น้อยมาก</Values.0.Name>
+			<Values.0.Desc>0.25x ความยากของทัณฑ์สวรรค์</Values.0.Desc>
+			<Values.1.Name>อ่อนแอ</Values.1.Name>
+			<Values.1.Desc>0.7x ความยากของทัณฑ์สวรรค์</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x ความยากของทัณฑ์สวรรค์</Values.2.Desc>
+			<Values.3.Name>แกร่ง</Values.3.Name>
+			<Values.3.Desc>1.2x ความยากของทัณฑ์สวรรค์</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>1.4x ความยากของทัณฑ์สวรรค์</Values.4.Desc>
+		</Text>
+		<Text Name="FightDifficultCoefficient">
+			<DisplayName>ความยากของการต่อสู้</DisplayName>
+			<Desc>ความยากของผู้ฝึกตน, มอนสเตอร์, สัตว์โบราณ, ผู้ฝึกตนโบราณและสำนักต่าง ๆ.</Desc>
+			<Values.0.Name>น้อยมาก</Values.0.Name>
+			<Values.0.Desc>0.33x ความยากของการต่อสู้</Values.0.Desc>
+			<Values.1.Name>อ่อนแอ</Values.1.Name>
+			<Values.1.Desc>0.67x ความยากของการต่อสู้</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x ความยากของการต่อสู้</Values.2.Desc>
+			<Values.3.Name>แกร่ง</Values.3.Name>
+			<Values.3.Desc>1.33x ความยากของการต่อสู้</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>1.67x ความยากของการต่อสู้</Values.4.Desc>
+		</Text>
+		<Text Name="LiveDifficulty">
+			<DisplayName>ความยากในการเพาะปลูก</DisplayName>
+			<Desc>ความเร็วและจำนวนผลผลิตของการเพาะปลูก</Desc>
+			<Values.0.Name>น้อยมาก</Values.0.Name>
+			<Values.0.Desc>2x การเติบโตของพืช, 2x ผลผลิต</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>1.5x การเติบโตของพืช, 1.5x ผลผลิต</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x การเติบโตของพืช, 1x ผลผลิต</Values.2.Desc>
+		</Text>
+		<Text Name="BaseMood">
+			<DisplayName>อารมณ์พื้นฐาน</DisplayName>
+			<Desc>ค่าอารมณ์พื้นฐานของตัวละครในสถานะปรกติ</Desc>
+			<Values.0.Name>สูงมาก</Values.0.Name>
+			<Values.0.Desc>2x อารมณ์พื้นฐาน</Values.0.Desc>
+			<Values.1.Name>สูง</Values.1.Name>
+			<Values.1.Desc>1.5x อารมณ์พื้นฐาน</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x อารมณ์พื้นฐาน</Values.2.Desc>
+		</Text>
+		<Text Name="WorkAddp">
+			<DisplayName>ประสิทธิภาพในการทำงานพื้นฐาน</DisplayName>
+			<Desc>ความเร็วที่ตัวละครจะทำงานส่วนใหญ่</Desc>
+			<Values.0.Name>ไวมาก</Values.0.Name>
+			<Values.0.Desc>2x ประสิทธิภาพการทำงาน</Values.0.Desc>
+			<Values.1.Name>ไว</Values.1.Name>
+			<Values.1.Desc>1.5x ประสิทธิภาพการทำงาน</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x ประสิทธิภาพการทำงาน</Values.2.Desc>
+		</Text>
+		<Text Name="PracticeAddp">
+			<DisplayName>ความเร็วในการฝึกตนพื้นฐาน</DisplayName>
+			<Desc>ความเร็วที่ใช้ในการฝึกตน</Desc>
+			<Values.0.Name>ไวมาก</Values.0.Name>
+			<Values.0.Desc>2x ความเร็วในการฝึกตน</Values.0.Desc>
+			<Values.1.Name>ไว</Values.1.Name>
+			<Values.1.Desc>1.5x ความเร็วในการฝึกตน</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x ความเร็วในการฝึกตน</Values.2.Desc>
+		</Text>
+		<Text Name="MapExploringAddp">
+			<DisplayName>ความเร็วการผจญภัย</DisplayName>
+			<Desc>ความเร็วที่ตัวละครจะใช้ในการผจญภัย</Desc>
+			<Values.0.Name>ไวมาก</Values.0.Name>
+			<Values.0.Desc>2x ความเร็วการผจญภัย</Values.0.Desc>
+			<Values.1.Name>ไว</Values.1.Name>
+			<Values.1.Desc>1.5x ความเร็วการผจญภัย</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x ความเร็วการผจญภัย</Values.2.Desc>
+		</Text>
+		<Text Name="TreeExpAddtion">
+			<DisplayName>ค่าแรงบันดาลใจที่ต้องใช้</DisplayName>
+			<Desc>แรงบันดาลใจนั้นจะใช้ในตอนที่ตัวละครกำลังเรียนตำรา</Desc>
+			<Values.0.Name>น้อยมาก</Values.0.Name>
+			<Values.0.Desc>0.5x ค่าแรงบันดาลใจที่ต้องใช้</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>0.75x ค่าแรงบันดาลใจที่ต้องใช้</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>1x ค่าแรงบันดาลใจที่ต้องใช้</Values.2.Desc>
+		</Text>
+		<Text Name="AverageTimePerEvent">
+			<DisplayName>ความเร็วของการเกิดเหตุการณ์</DisplayName>
+			<Desc>ช่วงเวลาพักระหว่างเหตุการณ์แต่ละอย่าง</Desc>
+			<Values.0.Name>นานมาก</Values.0.Name>
+			<Values.0.Desc>โดยปรกติแล้วจะมีเหตุการณ์เกิดขึ้นทุก ๆ 3 วัน</Values.0.Desc>
+			<Values.1.Name>ยาว</Values.1.Name>
+			<Values.1.Desc>โดยปรกติแล้วจะมีเหตุการณ์เกิดขึ้นทุก ๆ 2.5 วัน</Values.1.Desc>
+			<Values.2.Name>ธรรมดา</Values.2.Name>
+			<Values.2.Desc>โดยปรกติแล้วจะมีเหตุการณ์เกิดขึ้นทุก ๆ 2 วัน</Values.2.Desc>
+			<Values.3.Name>สั้น</Values.3.Name>
+			<Values.3.Desc>โดยปรกติแล้วจะมีเหตุการณ์เกิดขึ้นทุก ๆ 1.5 วัน</Values.3.Desc>
+			<Values.4.Name>สั้นมาก</Values.4.Name>
+			<Values.4.Desc>โดยปรกติแล้วจะมีเหตุการณ์เกิดขึ้นทุกวัน</Values.4.Desc>
+		</Text>
+		<Text Name="DoubleRate">
+			<DisplayName>โอกาสเกิดเหตุ 2 เหตุ</DisplayName>
+			<Desc>เมื่อไหร่ก็ตามที่เกิดเหตุการณ์ มีโอกาสที่จะเกิดอีกเหตุการณ์หนึ่งขึ้นพร้อมกัน</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>โอกาสเกิดเหตุ 2 เหตุไม่มี</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>10% โอกาสเกิดเหตุ 2 เหตุ</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>20% โอกาสเกิดเหตุ 2 เหตุ</Values.2.Desc>
+			<Values.3.Name>สูง</Values.3.Name>
+			<Values.3.Desc>30% โอกาสเกิดเหตุ 2 เหตุ</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>40% โอกาสเกิดเหตุ 2 เหตุ</Values.4.Desc>
+		</Text>
+		<Text Name="TripleRate">
+			<DisplayName>โอกาสเกิดเหตุ 3 เหตุ</DisplayName>
+			<Desc>เมื่อไหร่ก็ตามที่เกิดเหตุการณ์ มีโอกาสที่จะเกิดอีกสองเหตุการณ์ขึ้นพร้อมกัน</Desc>
+			<Values.0.Name>ไม่มี</Values.0.Name>
+			<Values.0.Desc>โอกาสเกิดเหตุ 3 เหตุไม่มี</Values.0.Desc>
+			<Values.1.Name>ต่ำ</Values.1.Name>
+			<Values.1.Desc>5% โอกาสเกิดเหตุ 3 เหตุ</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>10% โอกาสเกิดเหตุ 3 เหตุ</Values.2.Desc>
+			<Values.3.Name>สูง</Values.3.Name>
+			<Values.3.Desc>15% โอกาสเกิดเหตุ 3 เหตุ</Values.3.Desc>
+			<Values.4.Name>สูงมาก</Values.4.Name>
+			<Values.4.Desc>20% โอกาสเกิดเหตุ 3 เหตุ</Values.4.Desc>
+		</Text>
+		<Text Name="BlankWeight">
+			<DisplayName>โอกาสที่จะไม่เกิดเหตุการณ์</DisplayName>
+			<Desc>เมื่อไหร่ก็ตามที่เกิดเหตุการณ์ มีโอกาสที่เหตุการณ์นั้น ๆ ไม่เกิดผล</Desc>
+			<Values.0.Name>สูงมาก</Values.0.Name>
+			<Values.0.Desc>60% โอกาสที่เหตุการณ์นั้นจะไม่เกิดผล</Values.0.Desc>
+			<Values.1.Name>สูง</Values.1.Name>
+			<Values.1.Desc>45% โอกาสที่เหตุการณ์นั้นจะไม่เกิดผล</Values.1.Desc>
+			<Values.2.Name>ปานกลาง</Values.2.Name>
+			<Values.2.Desc>30% โอกาสที่เหตุการณ์นั้นจะไม่เกิดผล</Values.2.Desc>
+			<Values.3.Name>ต่ำ</Values.3.Name>
+			<Values.3.Desc>15% โอกาสที่เหตุการณ์นั้นจะไม่เกิดผล</Values.3.Desc>
+			<Values.4.Name>ไม่มี</Values.4.Name>
+			<Values.4.Desc>เหตุการณ์ต่าง ๆ จะเกิดขึ้นเสมอ</Values.4.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,348 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="TwoRandom">
+			<DisplayName>เรือลำเดียวกัน</DisplayName>
+			<Desc>ตอนที่หนีออกมาจากการพ่ายแพ้ของสำนักไท่อี้ ศิษย์สองคนที่รู้จักกับเรา ขอเข้าร่วมกับเราด้วย</Desc>
+		</Text>
+		<Text Name="Coma50">
+			<DisplayName>ยื่นมือเข้าช่วย</DisplayName>
+			<Desc>ตอนที่หนีออกมาจากการพ่ายแพ้ของสำนักไท่อี้ ศิษย์หนึ่งคนที่บาดเจ็บหนัก ขอร้องให้เราช่วยพามาด้วย</Desc>
+		</Text>
+		<Text Name="Thunder100">
+			<DisplayName>ไม่แบ่งแยก</DisplayName>
+			<Desc>ตอนที่หนีออกมาจากการพ่ายแพ้ของสำนักไท่อี้ ปีศาจตนหนึ่งที่ได้สามารถแปลงร่างได้ ขอเข้าร่วมกับเราด้วย ปีศาจตนนี้จะต้องเผชิญกับ shapeshifting tribulation ใน 100 วันที่กำลังจะมา</Desc>
+		</Text>
+		<Text Name="HardLeave">
+			<DisplayName>รอดหวุดหวิด</DisplayName>
+			<Desc>ตอนที่หนีออกมาจากการพ่ายแพ้ของสำนักไท่อี้ ศิษย์สำนักไท่อี้ที่เราไม่ค่อยรู้จัก ขอเข้าร่วมกับเราด้วย และเราไม่มีทางเลือกนอกจากจะพามาด้วยกัน</Desc>
+		</Text>
+		<Text Name="HotSummer">
+			<DisplayName>หน้าร้อน.. ร้อน</DisplayName>
+			<Desc>เนื่องจากเหตุการณ์ที่ไม่คาดคิด ทำให้หน้าร้อนที่นี่ ร้อนกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="ColdWinter">
+			<DisplayName>หน้าหนาว.. หนาว</DisplayName>
+			<Desc>เนื่องจากเหตุการณ์ที่ไม่คาดคิด ทำให้หน้าหนาวที่นี่ หนาวกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="OffensiveThunder">
+			<DisplayName>พายุฟ้าคะนอง</DisplayName>
+			<Desc>เนื่องจากสภาพภูมิประเทศ ฟ้าผ่าที่นี้ มีอันตรายการที่อื่นโดยทั่วไป และชอบที่จะผ่าใส่คน</Desc>
+		</Text>
+		<Text Name="HardNature">
+			<DisplayName>สภาพอากาศแย่</DisplayName>
+			<Desc>สภาพอากาศที่นี่แย่กว่าที่อื่น ๆ</Desc>
+		</Text>
+		<Text Name="MoreYaoShou2">
+			<DisplayName>เพิ่มมอนสเตอร์ 1</DisplayName>
+			<Desc>จะมีมอนสเตอร์เกิดเพิ่มขึ้น 1 ตัวในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="MoreYaoShou3">
+			<DisplayName>เพิ่มมอนสเตอร์  2</DisplayName>
+			<Desc>จะมีมอนสเตอร์เกิดเพิ่มขึ้น 2 ตัวในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="MoreYaoShou4">
+			<DisplayName>เพิ่มมอนสเตอร์  3</DisplayName>
+			<Desc>จะมีมอนสเตอร์เกิดเพิ่มขึ้น 3 ตัวในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="YaoGuaiMore">
+			<DisplayName>มอนสเตอร์คลั่ง</DisplayName>
+			<Desc>จำนวนมอนสเตอร์จะเยอะกว่าปรกติในแผนที่เริ่มต้น</Desc>
+		</Text>
+		<Text Name="BuildMoreCost">
+			<DisplayName>สร้างชุ่ย ๆ</DisplayName>
+			<Desc>จำเป็นที่จะต้องใช้วัตถุดิบในการก่อสร้างมากกว่าปรกติเป็น 2 เท่า</Desc>
+		</Text>
+		<Text Name="BuildSlow">
+			<DisplayName>งานหนัก หนัก</DisplayName>
+			<Desc>การก่อสร้างช้ากว่าปรกติ 3 เท่า</Desc>
+		</Text>
+		<Text Name="BuildLessHp">
+			<DisplayName>ตากแดดตากฝน</DisplayName>
+			<Desc>ความคงทนของสิ่งก่อสร้างลดน้อยลงอย่างเห็นได้ชัด</Desc>
+		</Text>
+		<Text Name="HardBuild">
+			<DisplayName>ก่อสร้างยุ่งยาก</DisplayName>
+			<Desc>สร้างความยากเมื่อก่อสร้าง</Desc>
+		</Text>
+		<Text Name="InferiorFengShui">
+			<DisplayName>ฮวงจุ้ยหาย</DisplayName>
+			<Desc>การดูฮวงจุ้ยจะบอกเพียงเรทติ้ง แต่จะไม่บอกรายละเอียดเบื้องลึก</Desc>
+		</Text>
+		<Text Name="InferiorDan">
+			<DisplayName>การเล่นแร่แปรธาตุหาย</DisplayName>
+			<Desc>มีโอกาสที่จะทำยาไม่สำเร็จมากขึ้นกว่าปรกติ วัตถุดิบในการทำยาใช้มากกว่าเดิม 2 เท่า</Desc>
+		</Text>
+		<Text Name="LostPractice">
+			<DisplayName>ศาสตร์หายไป</DisplayName>
+			<Desc>ความรู้ในการฝึกตนบางอย่างได้หายไปจากโลก</Desc>
+		</Text>
+		<Text Name="FastRot">
+			<DisplayName>สายลมเน่า</DisplayName>
+			<Desc>ไอเท็มจะผุพังเร็วขึ้นกว่าเดิม 2 เท่า</Desc>
+		</Text>
+		<Text Name="HighPrice">
+			<DisplayName>ราคาเสียดฟ้า</DisplayName>
+			<Desc>ราคาซื้อของไอเท็มมากขึ้น 2 เท่า</Desc>
+		</Text>
+		<Text Name="LessGain">
+			<DisplayName>Scant Items</DisplayName>
+			<Desc>Wilderness maps hold lesser items.</Desc>
+		</Text>
+		<Text Name="SourceLimit">
+			<DisplayName>วัตถุดิบขาดตลาด</DisplayName>
+			<Desc>หาวัตถุดิบยากกว่าเดิม</Desc>
+		</Text>
+		<Text Name="LessWalker">
+			<DisplayName>สำนักห่างไกล</DisplayName>
+			<Desc>โอกาสที่ผู้คนโผล่มามีน้อยลง</Desc>
+		</Text>
+		<Text Name="LessMember">
+			<DisplayName>สำนักงั้น ๆ</DisplayName>
+			<Desc>จำนวนศิษย์สูงสุดที่รับได้ มีจำนวนน้อยลง</Desc>
+		</Text>
+		<Text Name="LessZhaolan">
+			<DisplayName>ยุคแห่งความวุ่นวาย</DisplayName>
+			<Desc>ผู้คนธรรมดา ไม่ค่อยสนใจเรื่องเกี่ยวกับการฝึกตนมากนัก ทำให้การรับศิษย์ลดลงครึ่งหนึ่ง</Desc>
+		</Text>
+		<Text Name="LessFiveBase">
+			<DisplayName>ขาดผู้มีความสามารถ</DisplayName>
+			<Desc>คนธรรมดาทั่วไป ความสามารถจะต่ำกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="DaoShuai">
+			<DisplayName>ช่วงเวลาลำบาก</DisplayName>
+			<Desc>ยากที่จะรับศิษย์ที่มีความสามารถ</Desc>
+		</Text>
+		<Text Name="LessWalkTrader">
+			<DisplayName>เส้นทางลำบาก</DisplayName>
+			<Desc>พ่อค้าจะโผล่มาน้อยลง</Desc>
+		</Text>
+		<Text Name="LessWalkLStone">
+			<DisplayName>เงินหายาก</DisplayName>
+			<Desc>พ่อค้าที่เดินทางมาจะพกหินวิญญาณน้อยลง</Desc>
+		</Text>
+		<Text Name="StrictWalker">
+			<DisplayName>ค้าขายเฉพาะ</DisplayName>
+			<Desc>เมื่อพ่อค้ามาแต่ละครั้ง พ่อค้าจะรับซื้อของเพียงชนิดเดียวจากเราเท่านั้น</Desc>
+		</Text>
+		<Text Name="StrictWTrader">
+			<DisplayName>พ่อค้าใจร้าย</DisplayName>
+			<Desc>การค้าขายกับพ่อค้าทำได้ยากขึ้น</Desc>
+		</Text>
+		<Text Name="MoreElementWeather">
+			<DisplayName>ความวุ่นวายของธาตุ</DisplayName>
+			<Desc>ภัยพิบัติจากธาตุทั้งห้า จะเกิดขึ้นบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="LessLingWeather">
+			<DisplayName>พลังฉีเสื่อม</DisplayName>
+			<Desc>พลังฉีแห้งลงบ่อยขึ้น และมีช่วงเวลานานขึ้น</Desc>
+		</Text>
+		<Text Name="ForeverNight20">
+			<DisplayName>ความวุ่นวายของหยินหยาง</DisplayName>
+			<Desc>Polar night จะเกิดขึ้นทุกปีในช่วงเวลาเดียวกัน</Desc>
+		</Text>
+		<Text Name="TianDaoWenLuan">
+			<DisplayName>เต๋าผิดปรกติ</DisplayName>
+			<Desc>สภาพภูมิอากาศแบบพิเศษ ที่ยากจะรับมือ</Desc>
+		</Text>
+		<Text Name="PetReviveInterval">
+			<DisplayName>ลงนรกแล้วกลับมา</DisplayName>
+			<Desc>มันใช้เวลานานกว่าปรกติที่จะชุบชีวิตสัตว์วิญญาณ</Desc>
+		</Text>
+		<Text Name="PetLingMax">
+			<DisplayName>พลังฉีถูกรบกวน</DisplayName>
+			<Desc>พลังฉีสูงสุดของสัตว์วิญญาณต่ำลง</Desc>
+		</Text>
+		<Text Name="PetFabao">
+			<DisplayName>แกนหลวม</DisplayName>
+			<Desc>พลังและเวทย์ของสัตว์วิญญาณลดน้อยลง</Desc>
+		</Text>
+		<Text Name="PetWeak">
+			<DisplayName>สัตว์ง่อย ๆ</DisplayName>
+			<Desc>ความแข็งแกร่งของสัตว์วิญญาณน้อยลง</Desc>
+		</Text>
+		<Text Name="FavorDown">
+			<DisplayName>ตัวแทนห่วย ๆ</DisplayName>
+			<Desc>การตั้งตัวแทน ทำให้ชื่อเสียงของสำนักลดลง</Desc>
+		</Text>
+		<Text Name="ColdMan">
+			<DisplayName>หัวใจเย็นชา</DisplayName>
+			<Desc>ตัวละครส่วนใหญ่ในภพมนุษย์มีนิสัยไม่ชอบสุงสิงกับใคร</Desc>
+		</Text>
+		<Text Name="NoTeacher">
+			<DisplayName>ทำด้วยตัวเอง</DisplayName>
+			<Desc>นักฝึกตนลึกลับจะไม่โผล่มาในตอนแรก</Desc>
+		</Text>
+		<Text Name="ColdMortal">
+			<DisplayName>โลกเย็น</DisplayName>
+			<Desc>อุณภูมิของโลกจะเย็นกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="YaoComing1">
+			<DisplayName>ปีศาจโจมตี: วันที่ 160 </DisplayName>
+			<Desc>กลุ่มปีศาจบุกจะบุกโจมตีสำนักของคุณในวันที่ 160</Desc>
+		</Text>
+		<Text Name="YaoComing2">
+			<DisplayName>ปีศาจโจมตี:  วันที่ 120</DisplayName>
+			<Desc>กลุ่มปีศาจบุกจะบุกโจมตีสำนักของคุณในวันที่ 120</Desc>
+		</Text>
+		<Text Name="YaoComing3">
+			<DisplayName>ปีศาจโจมตี: วันที่ 80</DisplayName>
+			<Desc>กลุ่มปีศาจบุกจะบุกโจมตีสำนักของคุณในวันที่ 80</Desc>
+		</Text>
+		<Text Name="YaoGuaiComing">
+			<DisplayName>กลุ่มปีศาจบุก</DisplayName>
+			<Desc>ปีศาจจ้องจะล่าสำนักของคุณ</Desc>
+		</Text>
+		<Text Name="KillerComing1">
+			<DisplayName>ผู้ตามล่าสำนักไท่อี้: วันที่ 250</DisplayName>
+			<Desc>แม้ว่าสำนักไท่อี้จะวินาศไปเรียบร้อยแล้ว แต่ยังมีกลุ่มผู้ฝึกตนลึกลับตามล่าที่ตามล่าเศษของสำนักไท่อี้ที่เหลืออยู่ จะมีกลุ่มหนึ่งที่จะมาในวันที่ 250</Desc>
+		</Text>
+		<Text Name="KillerComing2">
+			<DisplayName>ผู้ตามล่าสำนักไท่อี้: วันที่ 200</DisplayName>
+			<Desc>แม้ว่าสำนักไท่อี้จะวินาศไปเรียบร้อยแล้ว แต่ยังมีกลุ่มผู้ฝึกตนลึกลับตามล่าที่ตามล่าเศษของสำนักไท่อี้ที่เหลืออยู่ จะมีกลุ่มหนึ่งที่จะมาในวันที่ 200</Desc>
+		</Text>
+		<Text Name="KillerComing3">
+			<DisplayName>ผู้ตามล่าสำนักไท่อี้: วันที่ 150</DisplayName>
+			<Desc>แม้ว่าสำนักไท่อี้จะวินาศไปเรียบร้อยแล้ว แต่ยังมีกลุ่มผู้ฝึกตนลึกลับตามล่าที่ตามล่าเศษของสำนักไท่อี้ที่เหลืออยู่ จะมีกลุ่มหนึ่งที่จะมาในวันที่ 150</Desc>
+		</Text>
+		<Text Name="KillerComing">
+			<DisplayName>ผู้ตามล่าสำนักไท่อี้</DisplayName>
+			<Desc>แม้ว่าสำนักไท่อี้จะวินาศไปเรียบร้อยแล้ว แต่ยังมีกลุ่มผู้ฝึกตนลึกลับตามล่าที่ตามล่าเศษของสำนักไท่อี้ที่เหลืออยู่</Desc>
+		</Text>
+		<Text Name="SoonDragon1">
+			<DisplayName>ถ้ำลี้ลับ: วันที่ 160</DisplayName>
+			<Desc>ถ้ำลี้ลับโผล่ขึ้นมาในวันที่ 160</Desc>
+		</Text>
+		<Text Name="SoonDragon2">
+			<DisplayName>ถ้ำลี้ลับ: วันที่ 80</DisplayName>
+			<Desc>ถ้ำลี้ลับโผล่ขึ้นมาในวันที่ 80</Desc>
+		</Text>
+		<Text Name="SoonDragon3">
+			<DisplayName>ถ้ำลี้ลับ: วันที่ 30</DisplayName>
+			<Desc>ถ้ำลี้ลับโผล่ขึ้นมาในวันที่ 30</Desc>
+		</Text>
+		<Text Name="SoonDragon">
+			<DisplayName>ถ้ำหายนะ</DisplayName>
+			<Desc>ถ้ำลี้ลับโผล่ขึ้นมาก่อนเวลาอันควร</Desc>
+		</Text>
+		<Text Name="RequiredSacrifice">
+			<DisplayName>มังกรกร้าว</DisplayName>
+			<Desc>ถ้ำลี้ลับไม่สามารถที่จะถูกสะกดได้</Desc>
+		</Text>
+		<Text Name="Basfff">
+			<DisplayName>กินเก่ง</DisplayName>
+			<Desc>ถ้ำลี้ลับต้องการมากขึ้น</Desc>
+		</Text>
+		<Text Name="ThunderBeast">
+			<DisplayName>สายฟ้าแกร่ง</DisplayName>
+			<Desc>พายุฟ้าคะนองเกิดบ่อยขึ้น</Desc>
+		</Text>
+		<Text Name="StrictDragon">
+			<DisplayName>สิ่งโบราณน่าเกรงขาม</DisplayName>
+			<Desc>จัดการถ้ำลี้ลับได้ยากขึ้น</Desc>
+		</Text>
+		<Text Name="LowerPointEvent">
+			<DisplayName>นโยบายโหด</DisplayName>
+			<Desc>เหตุการณ์นโยบายเกิดยากขึ้น</Desc>
+		</Text>
+		<Text Name="MoreBuilding">
+			<DisplayName>ชีวิตที่หรูหรา</DisplayName>
+			<Desc>ค่าก่อสร้างตึกตัวแทนมากกว่าเดิม 2 เท่า</Desc>
+		</Text>
+		<Text Name="MorePolicy">
+			<DisplayName>ระบบราชการ</DisplayName>
+			<Desc>ค่าใช้จ่ายของนโยบายแพงขึ้น 2 เท่า</Desc>
+		</Text>
+		<Text Name="MoreMortal">
+			<DisplayName>งานทางโลก</DisplayName>
+			<Desc>ปัญหาที่เกิดขึ้นกับตัวแทน ถูกจัดการได้ยากกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="LowFavor">
+			<DisplayName>นอกสายตา</DisplayName>
+			<Desc>ความชื่นชอบของสำนักของเรา ในสายตา NPC นั้นต่ำลง</Desc>
+		</Text>
+		<Text Name="HardFavor">
+			<DisplayName>สายตาระมัดระวัง</DisplayName>
+			<Desc>ทำให้ NPC มีความชื่อชอบในสำนักของเราได้ช้าลง</Desc>
+		</Text>
+		<Text Name="MorePoint">
+			<DisplayName>ไร้บุคลิก</DisplayName>
+			<Desc>ต้องมีความเชื่อมต่อมากกว่าเดิมในกรณีที่ต้องการซื้อขายกับสำนักอื่น ๆ</Desc>
+		</Text>
+		<Text Name="ColdRealm">
+			<DisplayName>ผู้อมตะไร้อารมณ์</DisplayName>
+			<Desc>การติดต่อกับสำนักอื่นยากขึ้นกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="NoLimit1">
+			<DisplayName>เริ่มยากขึ้นแล้ว</DisplayName>
+			<Desc>ศัตรูที่มาโจมตีแข็งแกร่งขึ้นกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="NoLimit">
+			<DisplayName>เริ่มยากขึ้นแล้ว</DisplayName>
+			<Desc>ศัตรูที่มาโจมตีแข็งแกร่งขึ้นกว่าปรกติ</Desc>
+		</Text>
+		<Text Name="SchoolPower1">
+			<DisplayName>3x ค่าพลังของสำนัก</DisplayName>
+			<Desc>สำนักของ NPC ทั้งหมดแข็งแกร่งขึ้นกว่าเดิม 200%.</Desc>
+		</Text>
+		<Text Name="SchoolPower2">
+			<DisplayName>6x ค่าพลังของสำนัก</DisplayName>
+			<Desc>สำนักของ NPC ทั้งหมดแข็งแกร่งขึ้นกว่าเดิม 500%.</Desc>
+		</Text>
+		<Text Name="SchoolPower3">
+			<DisplayName>9x ค่าพลังของสำนัก</DisplayName>
+			<Desc>สำนักของ NPC ทั้งหมดแข็งแกร่งขึ้นกว่าเดิม800%.</Desc>
+		</Text>
+		<Text Name="SchoolPower">
+			<DisplayName>พลังผู้อมตะ</DisplayName>
+			<Desc>NPC ทั้งหมดแข็งแกร่งขึ้น</Desc>
+		</Text>
+		<Text Name="DragonPower1">
+			<DisplayName>2x พลังของมังกรหลากเพิ่มขึ้น</DisplayName>
+			<Desc>2x พลังของมังกรหลากเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="DragonPower2">
+			<DisplayName>3x พลังของมังกรหลากเพิ่มขึ้น</DisplayName>
+			<Desc>3x Jiao-dragon power</Desc>
+		</Text>
+		<Text Name="DragonPower3">
+			<DisplayName>4x พลังของมังกรหลากเพิ่มขึ้น</DisplayName>
+			<Desc>4x พลังของมังกรหลากเพิ่มขึ้น</Desc>
+		</Text>
+		<Text Name="DragonPower">
+			<DisplayName>พลังแห่งน้ำ</DisplayName>
+			<Desc>มังกรหลาก แข็งแกร่งมากขึ้น</Desc>
+		</Text>
+		<Text Name="FengPower1">
+			<DisplayName>2x พลังของฟินิกส์</DisplayName>
+			<Desc>2x พลังของฟินิกส์</Desc>
+		</Text>
+		<Text Name="FengPower2">
+			<DisplayName>3x พลังของฟินิกส์</DisplayName>
+			<Desc>3x พลังของฟินิกส์</Desc>
+		</Text>
+		<Text Name="FengPower3">
+			<DisplayName>4x พลังของฟินิกส์</DisplayName>
+			<Desc>4x พลังของฟินิกส์</Desc>
+		</Text>
+		<Text Name="FengPower">
+			<DisplayName>พลังแห่งไฟ</DisplayName>
+			<Desc>ฟินิกส์แข็งแกร่งขึ้น</Desc>
+		</Text>
+		<Text Name="ZhulongPower1">
+			<DisplayName>2xพลังมังกรเพลิง</DisplayName>
+			<Desc>2x พลังมังกรเพลิง</Desc>
+		</Text>
+		<Text Name="ZhulongPower2">
+			<DisplayName>3x พลังมังกรเพลิง</DisplayName>
+			<Desc>3x พลังมังกรเพลิง</Desc>
+		</Text>
+		<Text Name="ZhulongPower3">
+			<DisplayName>4x พลังมังกรเพลิง</DisplayName>
+			<Desc>4x พลังมังกรเพลิง</Desc>
+		</Text>
+		<Text Name="ZhulongPower">
+			<DisplayName>พลังหยินหยาง</DisplayName>
+			<Desc>มังกรเพลิง(Zhulong) มีพลังมากขึ้น</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,79 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JobPracticeFeeling">
+			<DisplayName>Epiphany</DisplayName>
+		</Text>
+		<Text Name="JobPractice">
+			<DisplayName>ฝึก</DisplayName>
+		</Text>
+		<Text Name="JobBrokenNeck">
+			<DisplayName>ก้าวข้ามขีดจำกัด</DisplayName>
+		</Text>
+		<Text Name="JobPracticeSkill">
+			<DisplayName>ฝึกสกิล</DisplayName>
+		</Text>
+		<Text Name="JobReceiveApprentice">
+			<DisplayName>รับเป็นศิษย์</DisplayName>
+		</Text>
+		<Text Name="JobBuildBody">
+			<DisplayName>หลอมกาย</DisplayName>
+		</Text>
+		<Text Name="JobRobBody">
+			<DisplayName>สิงร่าง</DisplayName>
+		</Text>
+		<Text Name="JobAbsorbLing">
+			<DisplayName>ดูดพลังฉี</DisplayName>
+		</Text>
+		<Text Name="JobRefiningFabao">
+			<DisplayName>สร้างของวิเศษ</DisplayName>
+		</Text>
+		<Text Name="JobPaintCharm">
+			<DisplayName>วาดยันต์</DisplayName>
+		</Text>
+		<Text Name="JobTeachHim">
+			<DisplayName>สอนตำรา</DisplayName>
+		</Text>
+		<Text Name="JobLeave2Explore">
+			<DisplayName>ผจญภัย</DisplayName>
+		</Text>
+		<Text Name="JobMasterHelp">
+			<DisplayName>ยาม</DisplayName>
+		</Text>
+		<Text Name="JobFeelEsoterica">
+			<DisplayName>ศึกษาตำรา</DisplayName>
+		</Text>
+		<Text Name="JobAbsorbGong">
+			<DisplayName>ได้รับประสบการณ์</DisplayName>
+		</Text>
+		<Text Name="JobMelting">
+			<DisplayName>หลอม</DisplayName>
+		</Text>
+		<Text Name="JobEatPracticeFood">
+			<DisplayName>Take Elixir</DisplayName>
+		</Text>
+		<Text Name="JobJiangdao">
+			<DisplayName>ให้ความรู้</DisplayName>
+		</Text>
+		<Text Name="JobMagicNormal">
+			<DisplayName>Perform Miracle</DisplayName>
+		</Text>
+		<Text Name="JobGodPractice">
+			<DisplayName>Balance</DisplayName>
+		</Text>
+		<Text Name="JobCangJingGe">
+			<DisplayName>Manual Pavilion</DisplayName>
+		</Text>
+		<Text Name="JobGodPractice_Renunciation">
+			<DisplayName>Restrained</DisplayName>
+		</Text>
+		<Text Name="JobBodyPractice">
+			<DisplayName>หลอมกาย</DisplayName>
+		</Text>
+		<Text Name="JobToHumanThunder">
+			<DisplayName>ทัณฑ์สวรรค์กึ่งมนุษย์</DisplayName>
+		</Text>
+		<Text Name="JobBodyTuna">
+			<DisplayName>หายใจ</DisplayName>
+		</Text>
+	</List>
+</Texts>

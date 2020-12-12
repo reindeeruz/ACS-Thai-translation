@@ -1,0 +1,58 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_BingCanSi" sParam="Item">
+			<ThingName>ไหมน้ำแข็ง</ThingName>
+			<Item.BeMaterial.NamePrefix>ไหมน้ำแข็ง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuZhiMing" sParam="Item">
+			<ThingName>ไม่รู้จักวัตถุดิบ</ThingName>
+		</Text>
+		<Text Name="Item_Other_JinJing" sParam="Item">
+			<ThingName>แกนโลหะตะวันตก</ThingName>
+			<Item.BeMaterial.NamePrefix>แกนโลหะ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_MuJing" sParam="Item">
+			<ThingName>แกนไม้ตะวันออก</ThingName>
+			<Item.BeMaterial.NamePrefix>แกนไม้</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_ShuiJing" sParam="Item">
+			<ThingName>แกนน้ำเหนือ</ThingName>
+			<Item.BeMaterial.NamePrefix>แกนน้ำ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_HuoJing" sParam="Item">
+			<ThingName>แกนไฟใต้</ThingName>
+			<Item.BeMaterial.NamePrefix>แกนไฟ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TuJing" sParam="Item">
+			<ThingName>แกนดินกลาง</ThingName>
+			<Item.BeMaterial.NamePrefix>แกนดิน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_NoneJing" sParam="Item">
+			<ThingName>แกนธรรมชาติ</ThingName>
+			<Item.BeMaterial.NamePrefix>แกนธรรมชาติ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LarkPerk" sParam="Item">
+			<ThingName>จะงอย</ThingName>
+			<Item.BeMaterial.NamePrefix>จะงอย</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
+			<ThingName>เขาควาย</ThingName>
+			<Item.BeMaterial.NamePrefix>เขาควาย</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LionFang" sParam="Item">
+			<ThingName>เขี้ยวเสือดาว</ThingName>
+			<Item.BeMaterial.NamePrefix>เขี้ยวเสือดาว</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TortoiseShell" sParam="Item">
+			<ThingName>กระดองเต่า</ThingName>
+			<Item.BeMaterial.NamePrefix>กระดองเต่า</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_DeerFeet" sParam="Item">
+			<ThingName>เท้ากวาง</ThingName>
+			<Item.BeMaterial.NamePrefix>เท้ากวาง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SPStuffCategories_1" sParam="Item">
+			<ThingName>ไม่รู้จัก</ThingName>
+		</Text>
+	</List>
+</Texts>

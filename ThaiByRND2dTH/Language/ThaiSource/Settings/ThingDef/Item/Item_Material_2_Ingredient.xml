@@ -1,0 +1,29 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Flour" sParam="Item">
+			<ThingName>แป้ง</ThingName>
+			<Desc>A bag of flour. Cooking ingredient.</Desc>
+			<Item.FabaoSuffix>Particle, Powder, Bag</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Pear" sParam="Item">
+			<ThingName>ลูกแพร์</ThingName>
+			<Desc>A crate of pears.</Desc>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wheat" sParam="Item">
+			<ThingName>ข้าวสาลี</ThingName>
+			<Desc>A sheaf of wheat.</Desc>
+			<Item.FabaoSuffix>Cord, Thread</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Mushroom" sParam="Item">
+			<ThingName>เห็ด</ThingName>
+			<Desc>A basket of mushrooms.</Desc>
+			<Item.FabaoSuffix>Basket, Mushroom</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Lotusroot" sParam="Item">
+			<ThingName>รากบัว</ThingName>
+			<Desc>A section of lotus root.</Desc>
+			<Item.FabaoSuffix>รากบัว</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

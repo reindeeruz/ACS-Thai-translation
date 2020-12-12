@@ -1,0 +1,68 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="WorkPlace" sParam="Building">
+			<ThingName>ที่สร้างอุปกรณ์เริ่มต้น</ThingName>
+			<Desc>Does not require any materials, just an area on the ground to make simple tools.</Desc>
+		</Text>
+		<Text Name="MaterialWorkPlace" sParam="Building">
+			<ThingName>ที่แปรรูปเบื้องต้น</ThingName>
+			<Desc>Does not require any materials, just an area on the ground to process simple materials.</Desc>
+		</Text>
+		<Text Name="Bonfire" sParam="Building">
+			<ThingName>กองไฟ</ThingName>
+			<Desc>A simple source of fire built from firewood that can bring light and heat to its surroundings. It can also be used for simple cooking.</Desc>
+		</Text>
+		<Text Name="Kitchen" sParam="Building">
+			<ThingName>เตา</ThingName>
+			<Desc>A place to cook food.</Desc>
+		</Text>
+		<Text Name="StoneMaker" sParam="Building">
+			<ThingName>โต๊ะสลักหิน</ThingName>
+			<Desc>A work station used to polish stone blocks into stone bricks.</Desc>
+		</Text>
+		<Text Name="WeaponMaker" sParam="Building">
+			<ThingName>โรงตีเหล็ก</ThingName>
+			<Desc>A work station used to forge metal bars into different weapons.</Desc>
+		</Text>
+		<Text Name="Furnace" sParam="Building">
+			<ThingName>เตาหลอม</ThingName>
+			<Desc>A work station used to smelt ores into metal bars.</Desc>
+		</Text>
+		<Text Name="TextileTable" sParam="Building">
+			<ThingName>กี่ทอผ้า</ThingName>
+			<Desc>A work station used to make fabric by weaving yarn or thread.</Desc>
+		</Text>
+		<Text Name="TailorTable" sParam="Building">
+			<ThingName>โต๊ะตัดเย็บ</ThingName>
+			<Desc>A work station used to make clothes.</Desc>
+		</Text>
+		<Text Name="WoodShed" sParam="Building">
+			<ThingName>ที่แปรรูปไม้</ThingName>
+			<Desc>A work station used to process wood into Timber. It can greatly facilitate the efficient usage of wood.</Desc>
+		</Text>
+		<Text Name="MillStone" sParam="Building">
+			<ThingName>โรงโม่</ThingName>
+			<Desc>A work station used to grind grain into powder for storage. It can facilitate the efficient use of grain.</Desc>
+		</Text>
+		<Text Name="HandWorkTable" sParam="Building">
+			<ThingName>โต๊ะประดิษย์</ThingName>
+			<Desc>สำหรับสร้างอุปกรณ์ต่าง ๆ ที่สามารถสร้างด้วยมือได้</Desc>
+		</Text>
+		<Text Name="Well" sParam="Building">
+			<ThingName>บ่อน้ำ</ThingName>
+			<Desc>A source of water. Well water is more sanitary than water from the wilderness, and so is less likely to carry disease.</Desc>
+		</Text>
+		<Text Name="MedicineTable" sParam="Building">
+			<ThingName>โต๊ะทำยา</ThingName>
+			<Desc>A work station used to make medicine.</Desc>
+		</Text>
+		<Text Name="Building_YiTui" sParam="Building">
+			<ThingName>ร่างของผู้อมตะ</ThingName>
+			<Desc>ร่างมนุษย์ที่ถูกทิ้งไว้โดยผู้อมตะที่จุติไปแล้ว</Desc>
+		</Text>
+		<Text Name="Building_YiTui1" sParam="Building">
+			<ThingName>ร่างเทพ</ThingName>
+			<Desc>ร่างมนุษย์ที่ถูกทิ้งไว้โดยผู้อมตะที่จุติไปแล้ว</Desc>
+		</Text>
+	</List>
+</Texts>

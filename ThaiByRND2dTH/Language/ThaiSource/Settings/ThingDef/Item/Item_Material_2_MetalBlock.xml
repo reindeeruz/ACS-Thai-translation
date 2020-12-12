@@ -1,0 +1,42 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Metal, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronBlock" sParam="Item">
+			<ThingName>แท่งเหล็ก</ThingName>
+			<Desc>Metal bar made by casting smelted iron. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็ก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock" sParam="Item">
+			<ThingName>แท่งเหล็กไฟ</ThingName>
+			<Desc>Metal bar made by casting smelted Igneocopper. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กไฟ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock" sParam="Item">
+			<ThingName>แท่งน้ำแข็งคริสตัล</ThingName>
+			<Desc>Metal bar made by casting smelted Ice Crystal. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>น้ำแข็งคริสตัล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock1" sParam="Item">
+			<ThingName>แท่งแกนไฟ</ThingName>
+			<Desc>Metal bar made by smelting a large amount of Igneocopper along with Beast blood. It takes a long time to produce each piece.</Desc>
+			<Item.BeMaterial.NamePrefix>แกนไฟ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock1" sParam="Item">
+			<ThingName>แท่งแกนน้ำแข็ง</ThingName>
+			<Desc>Metal bar made by smelting a large amount of Ice Crystals along with Beast blood. It takes a long time to produce each piece.</Desc>
+			<Item.BeMaterial.NamePrefix>แกนน้ำแข็ง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelBlock" sParam="Item">
+			<ThingName>แท่งเหล็กดำ</ThingName>
+			<Desc>Metal bar made by casting smelted Darksteel. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กดำ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceBlock" sParam="Item">
+			<ThingName>แท่งแกนสว่าง</ThingName>
+			<Desc>Metal bar made by casting smelted lumina core. Can be used in further crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>แกนสว่าง</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

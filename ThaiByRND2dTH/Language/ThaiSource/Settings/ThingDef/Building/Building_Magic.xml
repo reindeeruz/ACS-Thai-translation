@@ -1,0 +1,79 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="FengShui" sParam="Building">
+			<ThingName>เข็มทิศฮวงจุ้ย</ThingName>
+			<Desc>A structure used to observe the Five Elements, Feng Shui and distribution of Qi.</Desc>
+		</Text>
+		<Text Name="TheGate" sParam="Building">
+			<ThingName>แผ่นศิลาสำนัก</ThingName>
+			<Desc>A landmark stele of the sect.</Desc>
+		</Text>
+		<Text Name="Build_TheBigGate" sParam="Building">
+			<ThingName>ประตูสำนัก</ThingName>
+			<Desc>A majestic gate of the sect.</Desc>
+		</Text>
+		<Text Name="Cushion" sParam="Building">
+			<ThingName>ฟูก</ThingName>
+			<Desc>A soft cushion for people to sit on.</Desc>
+		</Text>
+		<Text Name="Building_MagicCushion" sParam="Building">
+			<ThingName>ฟูกพลังฉี</ThingName>
+			<Desc>A cushion specifically used for cultivation that can gather Qi.</Desc>
+		</Text>
+		<Text Name="BasePracticePlace" sParam="Building">
+			<ThingName>จุดฝึกฝน</ThingName>
+			<Desc>Does not need any materials, just a designated spot for outer disciples' training.</Desc>
+		</Text>
+		<Text Name="PuppetPlace" sParam="Building">
+			<ThingName>ที่เก็บหุ่นกระบอก</ThingName>
+			<Desc>Vessels will return here and wait when there is no work.</Desc>
+		</Text>
+		<Text Name="TrainingDummy" sParam="Building">
+			<ThingName>หุ่นไม้สำหรับฝึก</ThingName>
+			<Desc>A device used for outer disciples' foundation training.</Desc>
+		</Text>
+		<Text Name="ExploreBackPlace" sParam="Building">
+			<ThingName>จุดส่งของ</ThingName>
+			<Desc>หลังจากที่ศิษย์ในสำนักกลับมาจากการผจญภัย พวกเขาจะวางของที่ได้รับมา ไว้ที่นี่</Desc>
+		</Text>
+		<Text Name="Building_Statue1" sParam="Building">
+			<ThingName>รูปปั้นคุณธรรม</ThingName>
+			<Desc>A giant statue of the Lord of Virtue.</Desc>
+		</Text>
+		<Text Name="Building_Statue2" sParam="Building">
+			<ThingName>รูปปั้นจุดกำเนิด</ThingName>
+			<Desc>A giant statue of the Lord of Primordial Beginning.</Desc>
+		</Text>
+		<Text Name="Building_Statue3" sParam="Building">
+			<ThingName>รูปปั้นสมบัติ</ThingName>
+			<Desc>A giant statue of the Lord of Treasures.</Desc>
+		</Text>
+		<Text Name="Building_SacrificialTable" sParam="Building">
+			<ThingName>แท่นบูชาบรรพบุรุษ</ThingName>
+			<Desc>A shrine used to commemorate the ancestors.</Desc>
+		</Text>
+		<Text Name="DanStove" sParam="Building">
+			<ThingName>เตาเล่นแร่แปรธาตุ</ThingName>
+			<Desc>The best place to concoct elixirs.</Desc>
+		</Text>
+		<Text Name="DanStove_Part" sParam="Building">
+			<ThingName>ชิ้นส่วนเตา (ผู้พัฒนา)</ThingName>
+		</Text>
+		<Text Name="RefiningCushion" sParam="Building">
+			<ThingName>โต๊ะสร้างของวิเศษ</ThingName>
+			<Desc>The best place to craft artifacts.</Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace" sParam="Building">
+			<ThingName>จักรวาลเล็ก</ThingName>
+			<Desc>จักรวาลที่ไม่เสถียรที่ถูกสร้างขึ้นมาโดยการชี้นำพลังอวกาศของจักรวาล สามารถใช้เก็บของได้ แต่เนื่องจากความไม่สเถียรของจักรวาล จึงสามารถเป็นได้แค่เพียงของธรรมดาเท่านั้น</Desc>
+			<StoryBnts.0.Name>Acquisition</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Immediately collect all items on the map that are not covered by fog, not prohibited and collectable by the Mini Universe.</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>Inspect</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Use Divine Mind to inspect the secret of the Mini Universe.</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_SleeveSpace1" sParam="Building">
+			<ThingName>ประตูจักรวาลเล็ก</ThingName>
+			<Desc>A small gateway connecting to the Mini Universe, through which one can fetch items within it.</Desc>
+		</Text>
+	</List>
+</Texts>

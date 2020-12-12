@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>มนุษย์</DisplayName>
+			<Desc>Common Animal: Human</Desc>
+			<MaleName>ผู้ชาย</MaleName>
+			<FemaleName>ผู้หญิง</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>วิญญาณรับรู้</DisplayName>
+			<Desc>Collective term for objects/buildings/plants that accidentally become illuminated and shapeshifted into human form.</Desc>
+			<MaleName>ผู้ชาย</MaleName>
+			<FemaleName>ผู้หญิง</FemaleName>
+		</Text>
+	</List>
+</Texts>

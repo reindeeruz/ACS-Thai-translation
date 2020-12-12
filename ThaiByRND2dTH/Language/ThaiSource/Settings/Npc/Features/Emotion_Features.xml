@@ -1,0 +1,92 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Pessimism">
+			<DisplayName>มองโลกในแง่ร้าย</DisplayName>
+			<Desc>This person is very pessimistic, always assuming the worst.</Desc>
+		</Text>
+		<Text Name="Optimistic">
+			<DisplayName>มองโลกในแง่ดี</DisplayName>
+			<Desc>This person is very optimistic, always looking on the bright side.</Desc>
+		</Text>
+		<Text Name="Numbness">
+			<DisplayName>มึน</DisplayName>
+			<Desc>The stresses of day-to-day living have left this person feeling numb. However, this means that [IT] is even tired of thinking at all, is used to this numbness, and will not slack in their work due to their low spirits.</Desc>
+		</Text>
+		<Text Name="Sensitive">
+			<DisplayName>อ่อนไหว</DisplayName>
+			<Desc>[IT] is very curious about the world beyond, and cannot bear to live out a dull life.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>เป็นมิตร</DisplayName>
+			<Desc>[IT] is very friendly towards everyone.</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>แคลงใจในรัก</DisplayName>
+			<Desc>[IT] does not believe in true love, or place their trust in anybody.</Desc>
+		</Text>
+		<Text Name="Strong">
+			<DisplayName>แกร่ง</DisplayName>
+			<Desc>[IT] is strong-willed and can endure greater suffering than others.</Desc>
+		</Text>
+		<Text Name="Weak">
+			<DisplayName>อ่อนแอ</DisplayName>
+			<Desc>[IT] has always been sheltered and cannot bear the slightest pain.</Desc>
+		</Text>
+		<Text Name="BadMentality">
+			<DisplayName>อารมณ์ร้าย</DisplayName>
+			<Desc>[IT] is always too irritated to get any work done.</Desc>
+		</Text>
+		<Text Name="GoodMentality">
+			<DisplayName>อารมณ์ดี</DisplayName>
+			<Desc>[IT] has a good temper, and is not easily annoyed or saddened.</Desc>
+		</Text>
+		<Text Name="Rugged">
+			<DisplayName>ไม่ระวัง</DisplayName>
+			<Desc>[IT] is careless in their work, always finishing fast and paying little attention to the details.</Desc>
+		</Text>
+		<Text Name="Careful">
+			<DisplayName>พิถีพิถัน</DisplayName>
+			<Desc>[IT] is very meticulous in their work, always taking time to improve the details.</Desc>
+		</Text>
+		<Text Name="Lazy">
+			<DisplayName>ขี้เกียจ</DisplayName>
+			<Desc>[IT] does not want to work.</Desc>
+		</Text>
+		<Text Name="Industrious">
+			<DisplayName>ขยัน</DisplayName>
+			<Desc>[IT] is hardworking and efficient.</Desc>
+		</Text>
+		<Text Name="Feminization">
+			<DisplayName>ตุ้งติ้ง</DisplayName>
+			<Desc>Despite being a man, [IT] has a somewhat feminine manner and personality.</Desc>
+		</Text>
+		<Text Name="Masculinity">
+			<DisplayName>ทอม</DisplayName>
+			<Desc>Despite being a woman, [IT] has a somewhat masculine manner and personality.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>อ่อนโยน</DisplayName>
+			<Desc>This person is very agreeable and charming.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>กระด้าง</DisplayName>
+			<Desc>This person is very harsh, often upsetting other people.</Desc>
+		</Text>
+		<Text Name="HeartKnot">
+			<DisplayName>มีปัญหา</DisplayName>
+			<Desc>This person has a troubled soul, always depressed and sleep-deprived as a result of their nightmares.</Desc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>ไม่มีความสุข</DisplayName>
+			<Desc>This person has gone through a very bad breakup and is always unhappy.</Desc>
+		</Text>
+		<Text Name="Anatman">
+			<DisplayName>ปลดปล่อย</DisplayName>
+			<Desc>This person has reached a mental state of liberation, free from worldly troubles.</Desc>
+		</Text>
+		<Text Name="FearFlame">
+			<DisplayName>กลัวไฟ</DisplayName>
+			<Desc>This person is extremely afraid of fire and cannot do any fire-related work.</Desc>
+		</Text>
+	</List>
+</Texts>

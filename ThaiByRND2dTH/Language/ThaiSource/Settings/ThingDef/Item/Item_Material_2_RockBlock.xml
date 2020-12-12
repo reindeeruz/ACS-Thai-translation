@@ -1,0 +1,42 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="RockBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Stone, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRockBlock" sParam="Item">
+			<ThingName>บล๊อกหินสีน้ำตาล</ThingName>
+			<Desc>Very common brick made from brownstone. Can be used more effectively in crafting, but its Attractiveness is quite poor.</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีน้ำตาล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockBlock" sParam="Item">
+			<ThingName>บล๊อกหินสีเทา</ThingName>
+			<Desc>Brick made from Graystone. Can be used more effectively in crafting, but its Attractiveness is quite average.</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีเทา</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleBlock" sParam="Item">
+			<ThingName>บล๊อกหินอ่อน</ThingName>
+			<Desc>Brick made from marble. Can be used more effectively in crafting. Its texture is rather attractive.</Desc>
+			<Item.BeMaterial.NamePrefix>หินอ่อน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeBlock" sParam="Item">
+			<ThingName>บล๊อกหยก</ThingName>
+			<Desc>Brick made from jade stone. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>หยก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneBlock" sParam="Item">
+			<ThingName>บล๊อกหินศักดิ์สิทธิ์</ThingName>
+			<Desc>Brick made from Holy Stone. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>หินศักดิ์สิทธิ์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneBlock" sParam="Item">
+			<ThingName>บล๊อกหินวิญญาณ</ThingName>
+			<Desc>Brick made from หินวิญญาณ. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalBlock" sParam="Item">
+			<ThingName>บล๊อกคริสตัลวิญญาณ</ThingName>
+			<Desc>Brick made from Spirit Crystal. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>คริสตัลวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

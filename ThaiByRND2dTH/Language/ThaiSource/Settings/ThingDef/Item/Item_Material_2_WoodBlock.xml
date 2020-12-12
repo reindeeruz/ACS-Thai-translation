@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Wood, Column, Take</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_RoughWoodBlock" sParam="Item">
+			<ThingName>ไม้แปรรูป</ThingName>
+			<Desc>Lumber material made from wood. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodBlock" sParam="Item">
+			<ThingName>ไม้ทองแปรรูป</ThingName>
+			<Desc>Timber material made from Goldwood. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ทอง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodBlock" sParam="Item">
+			<ThingName>ไม้ร่มแปรรูป</ThingName>
+			<Desc>Timber material made from Parasol Wood. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ร่ม</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodBlock" sParam="Item">
+			<ThingName>ไม้วิญญาณแปรรูป</ThingName>
+			<Desc>Timber material made from Spiritwood. Can be used more effectively in crafting.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้วิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

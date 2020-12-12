@@ -1,0 +1,70 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JobLsDecide">
+			<DisplayName>ลังเล</DisplayName>
+		</Text>
+		<Text Name="JobEatItem2">
+			<DisplayName>กิน</DisplayName>
+		</Text>
+		<Text Name="JobAtk4Fun">
+			<DisplayName>โจมตี</DisplayName>
+		</Text>
+		<Text Name="JobGoShit">
+			<DisplayName>ขี้</DisplayName>
+		</Text>
+		<Text Name="JobLsCarry">
+			<DisplayName>แบก</DisplayName>
+		</Text>
+		<Text Name="JobLsCutoff">
+			<DisplayName>ตัดไม้</DisplayName>
+		</Text>
+		<Text Name="JobLsMine">
+			<DisplayName>ขุดเหมือง</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToBed">
+			<DisplayName>แบก</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToDest">
+			<DisplayName>แบก</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSelf">
+			<DisplayName>เล่น</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSth">
+			<DisplayName>เล่น</DisplayName>
+		</Text>
+		<Text Name="JobLsFun">
+			<DisplayName>เล่น</DisplayName>
+		</Text>
+		<Text Name="JobLsHelpPlay">
+			<DisplayName>เล่น</DisplayName>
+		</Text>
+		<Text Name="JobLsTrain">
+			<DisplayName>ฝึก</DisplayName>
+		</Text>
+		<Text Name="JobLsPee">
+			<DisplayName>รดน้ำ</DisplayName>
+		</Text>
+		<Text Name="JobLsCure">
+			<DisplayName>รักษา</DisplayName>
+		</Text>
+		<Text Name="JobLsFollow">
+			<DisplayName>ติดตาม</DisplayName>
+		</Text>
+		<Text Name="JobLsFeedHim">
+			<DisplayName>ให้อาหาร</DisplayName>
+		</Text>
+		<Text Name="JobLsSleep">
+			<DisplayName>หลับ</DisplayName>
+		</Text>
+		<Text Name="JobLsSleepWithNpc">
+			<DisplayName>หลับ</DisplayName>
+		</Text>
+		<Text Name="JobLsGotoThing">
+			<DisplayName>ไปที่</DisplayName>
+		</Text>
+		<Text Name="JobConfuse">
+			<DisplayName>สับสน</DisplayName>
+		</Text>
+	</List>
+</Texts>

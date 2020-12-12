@@ -1,0 +1,478 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Building_ZhengFaPlantBase" sParam="Building">
+			<ThingName>แบบพืช</ThingName>
+			<StoryBnts.0.Name>Collect sample</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Attempt to collect a sample of this object.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ZhengFaBuildBase" sParam="Building">
+			<ThingName>แบบสิ่งก่อสร้าง</ThingName>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="MiracleBase" sParam="Building">
+			<Desc>Sect Wonder</Desc>
+			<StoryBnts.0.Name>Take</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Take this wonder by force.</StoryBnts.0.Desc>
+			<StoryBnts.1.Name>Inspiration</StoryBnts.1.Name>
+			<StoryBnts.1.Desc>Meditate on the heavenly ways dwelling within it.</StoryBnts.1.Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe" sParam="Building">
+			<ThingName>บ่อแห่งความดี</ThingName>
+			<Desc>Iconic scenery of Sunshade Abode, it is said to have embodied secrets regarding the ways of the universe.</Desc>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our" sParam="Building">
+			<ThingName>บ่อแห่งความดี</ThingName>
+			<Desc>Iconic scenery of Sunshade Abode, it is said to have embodied secrets regarding the ways of the universe.</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo" sParam="Building">
+			<ThingName>บัลลังก์แห่งเต๋า</ThingName>
+			<Desc>Iconic scenery of Kunlun Palace, it is said to have embodied secrets regarding the ways of the creation of heaven and earth.</Desc>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
+			<ThingName>บัลลังก์แห่งเต๋า</ThingName>
+			<Desc>Iconic scenery of Kunlun Palace, it is said to have embodied secrets regarding the ways of the creation of heaven and earth.</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu" sParam="Building">
+			<ThingName>ไม้แห่งอารมณ์</ThingName>
+			<Desc>Iconic scenery of Skydome Palace, it is said to have embodied secrets regarding the ways of yin and yang.</Desc>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
+			<ThingName>ไม้แห่งอารมณ์</ThingName>
+			<Desc>Iconic scenery of Skydome Palace, it is said to have embodied secrets regarding the ways of yin and yang.</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan" sParam="Building">
+			<ThingName>จานดวงดาว</ThingName>
+			<Desc>Iconic scenery of Purple Cloud Temple, it is said to have embodied secrets regarding the origin of space and time, as well as the ways of the Sun and the Moon.</Desc>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
+			<ThingName>จานดวงดาว</ThingName>
+			<Desc>Iconic scenery of Purple Cloud Temple, it is said to have embodied secrets regarding the origin of space and time, as well as the ways of the Sun and the Moon.</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa" sParam="Building">
+			<ThingName>เจดีย์มังกร</ThingName>
+			<Desc>Iconic scenery of Mystic Unity Sect, it is said to have embodied secrets regarding the ways of the beginning and the end.</Desc>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
+			<ThingName>เจดีย์มังกร</ThingName>
+			<Desc>Iconic scenery of Mystic Unity Sect, it is said to have embodied secrets regarding the ways of the beginning and the end.</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi" sParam="Building">
+			<ThingName>บ่อแห่งดาบ</ThingName>
+			<Desc>Iconic scenery of Blue Lotus Temple, it is said to have embodied secrets regarding the ways of creation and destruction.</Desc>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our" sParam="Building">
+			<ThingName>บ่อแห่งดาบ</ThingName>
+			<Desc>Iconic scenery of Blue Lotus Temple, it is said to have embodied secrets regarding the ways of creation and destruction.</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng" sParam="Building">
+			<ThingName>ยอดเขาศักดิ์สิทธิ์</ThingName>
+			<Desc>Iconic scenery of Evenfall Abode, it is said to have embodied secrets of growth of all living things.</Desc>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our" sParam="Building">
+			<ThingName>ยอดเขาศักดิ์สิทธิ์</ThingName>
+			<Desc>Iconic scenery of Evenfall Abode, it is said to have embodied secrets of growth of all living things.</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan" sParam="Building">
+			<ThingName>แท่นบูชาความตาย</ThingName>
+			<Desc>Iconic scenery of Mt. Hundred Insects, it is said to have embodied secrets regarding the nullification of time and space.</Desc>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
+			<ThingName>แท่นบูชาความตาย</ThingName>
+			<Desc>Iconic scenery of Mt. Hundred Insects, it is said to have embodied secrets regarding the nullification of time and space.</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng" sParam="Building">
+			<ThingName>ปล่องภูเขาไฟแม่เหล็ก</ThingName>
+			<Desc>Iconic scenery of Pit of Doom, it is said to have embodied secrets regarding the desolation of heaven and earth.</Desc>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
+			<ThingName>ปล่องภูเขาไฟแม่เหล็ก</ThingName>
+			<Desc>Iconic scenery of Pit of Doom, it is said to have embodied secrets regarding the desolation of heaven and earth.</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei" sParam="Building">
+			<ThingName>แผ่นศิลาฆ่าฟัน</ThingName>
+			<Desc>Iconic scenery of Seven-Slaughtering Sect, it is said to have embodied secrets of death of all living things.</Desc>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our" sParam="Building">
+			<ThingName>แผ่นศิลาฆ่าฟัน</ThingName>
+			<Desc>Iconic scenery of Seven-Slaughtering Sect, it is said to have embodied secrets of death of all living things.</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan" sParam="Building">
+			<ThingName>แผ่นศิลาน้ำพุหยิน</ThingName>
+			<Desc>Iconic scenery of Exultant Sect, it is said to have embodied secrets regarding the ways of fortunes.</Desc>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
+			<ThingName>แผ่นศิลาน้ำพุหยิน</ThingName>
+			<Desc>Iconic scenery of Exultant Sect, it is said to have embodied secrets regarding the ways of fortunes.</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai" sParam="Building">
+			<ThingName>ซากบรรพบุรุตปีศาจ</ThingName>
+			<Desc>Iconic scenery of Daemonia Temple, it is said to have embodied memories of the Ancestral Demon.</Desc>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our" sParam="Building">
+			<ThingName>ซากบรรพบุรุตปีศาจ</ThingName>
+			<Desc>Iconic scenery of Daemonia Temple, it is said to have embodied memories of the Ancestral Demon.</Desc>
+		</Text>
+		<Text Name="Building_QiShi1" sParam="Building">
+			<ThingName>หินแปลก ๆ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1" sParam="Building">
+			<ThingName>หินน้ำแปลก ๆ</ThingName>
+		</Text>
+		<Text Name="Building_QiShi2" sParam="Building">
+			<ThingName>หินแปลก ๆ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2" sParam="Building">
+			<ThingName>หินน้ำแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_QiShi3" sParam="Building">
+			<ThingName>หินแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3" sParam="Building">
+			<ThingName>หินน้ำแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_QiShi4" sParam="Building">
+			<ThingName>หินแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4" sParam="Building">
+			<ThingName>หินน้ำแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_QiShi5" sParam="Building">
+			<ThingName>หินแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5" sParam="Building">
+			<ThingName>หินน้ำแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_QiShi6" sParam="Building">
+			<ThingName>หินแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6" sParam="Building">
+			<ThingName>หินน้ำแปลกๆ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu1" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu2" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu3" sParam="Building">
+			<ThingName>ต้นไม้วิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu4" sParam="Building">
+			<ThingName>ต้นไม้น้ำวิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu5" sParam="Building">
+			<ThingName>ต้นไม้น้ำวิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LingShu6" sParam="Building">
+			<ThingName>ต้นไม้น้ำวิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu" sParam="Building">
+			<ThingName>ต้นไม้น้ำเมฆม่วง</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu1" sParam="Building">
+			<ThingName>ต้นไม้ชั่วร้าย</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu2" sParam="Building">
+			<ThingName>ต้นไม้ชั่วร้าย</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu3" sParam="Building">
+			<ThingName>ต้นไม้ชั่วร้าย</ThingName>
+		</Text>
+		<Text Name="Building_ShaShenMu4" sParam="Building">
+			<ThingName>ต้นไม้ชั่วร้าย</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1" sParam="Building">
+			<ThingName>ต้นไม้น้ำ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2" sParam="Building">
+			<ThingName>ต้นไม้น้ำ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3" sParam="Building">
+			<ThingName>ต้นไม้น้ำ</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu1" sParam="Building">
+			<ThingName>ต้นพีช</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu2" sParam="Building">
+			<ThingName>ต้นพีช</ThingName>
+		</Text>
+		<Text Name="Building_TaoShu3" sParam="Building">
+			<ThingName>ต้นพีช</ThingName>
+		</Text>
+		<Text Name="Building_YuShu1" sParam="Building">
+			<ThingName>ต้นไม้อมตะ</ThingName>
+		</Text>
+		<Text Name="Building_YuShu2" sParam="Building">
+			<ThingName>ต้นไม้อมตะ</ThingName>
+		</Text>
+		<Text Name="Building_YuShu3" sParam="Building">
+			<ThingName>ต้นไม้อมตะ</ThingName>
+		</Text>
+		<Text Name="Building_YuShu4" sParam="Building">
+			<ThingName>ต้นไม้อมตะ</ThingName>
+		</Text>
+		<Text Name="Building_YuShu5" sParam="Building">
+			<ThingName>ต้นไม้อมตะ</ThingName>
+		</Text>
+		<Text Name="Building_YuShu6" sParam="Building">
+			<ThingName>ต้นไม้อมตะ</ThingName>
+		</Text>
+		<Text Name="Building_CongRong1" sParam="Building">
+			<ThingName>Cistanche</ThingName>
+		</Text>
+		<Text Name="Building_CongRong2" sParam="Building">
+			<ThingName>Cistanche</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4" sParam="Building">
+			<ThingName>ซากโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_LuoTuoCao" sParam="Building">
+			<ThingName>Camelthorn</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu1" sParam="Building">
+			<ThingName>Cornflower</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu2" sParam="Building">
+			<ThingName>Cornflower</ThingName>
+		</Text>
+		<Text Name="Building_ShiCheJu3" sParam="Building">
+			<ThingName>Cornflower</ThingName>
+		</Text>
+		<Text Name="Building_GuMu1" sParam="Building">
+			<ThingName>ต่อไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu2" sParam="Building">
+			<ThingName>ต่อไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu3" sParam="Building">
+			<ThingName>ต่อไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu4" sParam="Building">
+			<ThingName>ต่อไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu5" sParam="Building">
+			<ThingName>ต่อไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_GuMu6" sParam="Building">
+			<ThingName>ต่อไม้โบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5" sParam="Building">
+			<ThingName>ซากปรักหักพังโบราณ</ThingName>
+		</Text>
+		<Text Name="Building_LingDiShuiChi" sParam="Building">
+			<ThingName>แอ่งวิญญาณ</ThingName>
+		</Text>
+		<Text Name="Building_LianFaTan" sParam="Building">
+			<ThingName>แท่นบูชาเวทย์มนต์</ThingName>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu" sParam="Building">
+			<ThingName>เสาน้ำแข็งตลอดกาล</ThingName>
+		</Text>
+		<Text Name="Build_KunLunFang" sParam="Building">
+			<ThingName>ประตูคุนลุน</ThingName>
+			<Desc>A majestic gate of the sect.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong" sParam="Building">
+			<ThingName>มังกรทองแดง</ThingName>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu" sParam="Building">
+			<ThingName>ตะคันทองแดง</ThingName>
+		</Text>
+		<Text Name="Building_QingTongFanQi" sParam="Building">
+			<ThingName>ธงทองแดง</ThingName>
+		</Text>
+		<Text Name="Building_YanDiTai" sParam="Building">
+			<ThingName>เวทีแหล่งกำเนิด</ThingName>
+		</Text>
+		<Text Name="Building_JuXingXiangLu" sParam="Building">
+			<ThingName>ตะคันยักษ์</ThingName>
+		</Text>
+		<Text Name="Building_TengLongZhu" sParam="Building">
+			<ThingName>เสามังกรเหิน</ThingName>
+		</Text>
+		<Text Name="Building_HuangLongDengTai" sParam="Building">
+			<ThingName>เสาตะเกียงมังกร</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_LianHuaDengTai" sParam="Building">
+			<ThingName>ตะเกียงบัว</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_YuHeQingLian1" sParam="Building">
+			<ThingName>บัวหัวใจดาบ</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian2" sParam="Building">
+			<ThingName>บัวหัวใจดาบ</ThingName>
+		</Text>
+		<Text Name="Building_YuHeQingLian3" sParam="Building">
+			<ThingName>บัวหัวใจดาบ</ThingName>
+		</Text>
+		<Text Name="Building_JianYiFuDiao" sParam="Building">
+			<ThingName>ดาบบรรเทา</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu1" sParam="Building">
+			<ThingName>เตาเล็ก</ThingName>
+		</Text>
+		<Text Name="Building_XiaoDanLu2" sParam="Building">
+			<ThingName>เตาเล็ก</ThingName>
+		</Text>
+		<Text Name="Building_HuoDing" sParam="Building">
+			<ThingName>หม้อไฟ</ThingName>
+		</Text>
+		<Text Name="Building_ShuiLianTai" sParam="Building">
+			<ThingName>เวทีบัว</ThingName>
+		</Text>
+		<Text Name="Building_XieXiDeng" sParam="Building">
+			<ThingName>แสงวิญญาณบาป</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_KuLouDeng" sParam="Building">
+			<ThingName>แสงบาดาล</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Build_BaiManFang" sParam="Building">
+			<ThingName>ประตูแมลง</ThingName>
+			<Desc>A majestic gate of the sect.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiDeng" sParam="Building">
+			<ThingName>ตะเกียงเสียสละ</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_DiMuJiQi" sParam="Building">
+			<ThingName>ธงแม่ธรณี</ThingName>
+		</Text>
+		<Text Name="Building_DiMuMiXue" sParam="Building">
+			<ThingName>รังแม่ธรณี</ThingName>
+		</Text>
+		<Text Name="Building_QiShaJianZhu" sParam="Building">
+			<ThingName>เสาดาบ</ThingName>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang" sParam="Building">
+			<ThingName>มังกรปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_XiongKuiDeng" sParam="Building">
+			<ThingName>ตะเกียงหุ่นกระบอกชั่วร้าย</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShaZhang1" sParam="Building">
+			<ThingName>ม่านผ้าไหม</ThingName>
+		</Text>
+		<Text Name="Building_ShaZhang2" sParam="Building">
+			<ThingName>ม่านผ้าไหม</ThingName>
+		</Text>
+		<Text Name="Building_QingShaDeng" sParam="Building">
+			<ThingName>ตะเกียงผ้าคลุม</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu" sParam="Building">
+			<ThingName>ฟินิกซ์น้ำแข็ง</ThingName>
+		</Text>
+		<Text Name="Building_DiMuKuiShou" sParam="Building">
+			<ThingName>หัวหน้าเผ่าแม่ธรณี</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi" sParam="Building">
+			<ThingName>ธงปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_MoMenJiQi1" sParam="Building">
+			<ThingName>ธงปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu" sParam="Building">
+			<ThingName>รูปสลักกงเล็บ</ThingName>
+		</Text>
+		<Text Name="Building_MoWenHuaPing" sParam="Building">
+			<ThingName>ขวดหัวปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_KuLouHuaPing" sParam="Building">
+			<ThingName>กิ่งไม้ปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_XiePingFeng" sParam="Building">
+			<ThingName>ม่านร้าย</ThingName>
+		</Text>
+		<Text Name="Building_YaoHuoPen" sParam="Building">
+			<ThingName>เตาเผ่าสัตว์ตัดหัว</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChangMingDeng" sParam="Building">
+			<ThingName>ตะเกียงเผ่าสัตว์ที่ไหม้ไม่หยุด</ThingName>
+			<Desc>A light that shines at night to illuminate its surroundings.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_JuXingShouGu" sParam="Building">
+			<ThingName>กระดูกบิฮีมอธสลัก</ThingName>
+		</Text>
+		<Text Name="Building_LongXingYuanPan" sParam="Building">
+			<ThingName>บัลลังก์มังกรเกลียว</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang" sParam="Building">
+			<ThingName>รูปปั้นป่าเถื่อน</ThingName>
+		</Text>
+		<Text Name="Building_YaoShouDing" sParam="Building">
+			<ThingName>เตาจอมปีศาจ</ThingName>
+		</Text>
+		<Text Name="Build_WanYaoMen" sParam="Building">
+			<ThingName>ประตูปีศาจ</ThingName>
+			<Desc>A majestic gate of the sect.</Desc>
+			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Try to learn the construction method of this building.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_TianSheQi" sParam="Building">
+			<ThingName>ธงงู</ThingName>
+		</Text>
+		<Text Name="Building_YaoZuXingJia" sParam="Building">
+			<ThingName>ชั้นวางปีศาจ</ThingName>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai" sParam="Building">
+			<ThingName>แท่นบูชาสวรรค์คำราม</ThingName>
+			<Desc>A special building heard from a secret man in the Otherworld Rift. It can be used to communicate with other worlds in mind, so mysterious.</Desc>
+			<StoryBnts.0.Name>Enter</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Enter the space indicated by the แท่นบูชาสวรรค์คำราม.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
+			<ThingName>แท่นบูชาสวรรค์คำราม</ThingName>
+			<Desc>A special building heard from a secret man in the Otherworld Rift. It can be used to communicate with other worlds in mind, so mysterious.</Desc>
+		</Text>
+	</List>
+</Texts>

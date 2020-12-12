@@ -1,0 +1,43 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JobAnimalEatFood">
+			<DisplayName>กิน</DisplayName>
+		</Text>
+		<Text Name="JobBAnimalFree">
+			<DisplayName>เคลื่อนที่</DisplayName>
+		</Text>
+		<Text Name="JobBAnimalGiveBirth">
+			<DisplayName>ออกลูก</DisplayName>
+		</Text>
+		<Text Name="JobBirthIt">
+			<DisplayName>ฟักไข่</DisplayName>
+		</Text>
+		<Text Name="JobEatFood">
+			<DisplayName>กิน</DisplayName>
+		</Text>
+		<Text Name="JobDrinkWater">
+			<DisplayName>ดื่ม</DisplayName>
+		</Text>
+		<Text Name="JobTakeRest">
+			<DisplayName>หลับ</DisplayName>
+		</Text>
+		<Text Name="JobLookAtSky">
+			<DisplayName>มองท้องฟ้า</DisplayName>
+		</Text>
+		<Text Name="JobFree">
+			<DisplayName>เดินเล่น</DisplayName>
+		</Text>
+		<Text Name="JobRunAway">
+			<DisplayName>หนี</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithBuilding">
+			<DisplayName>กำลังสนุก</DisplayName>
+		</Text>
+		<Text Name="JobBasePractice">
+			<DisplayName>ฝึกฝนพื้นฐาน</DisplayName>
+		</Text>
+		<Text Name="JobIdle">
+			<DisplayName>ว่าง</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,88 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="LeftoverMaterialBase" sParam="Item">
+			<Desc>Material scraps that can be used to lay floors or build eaves.</Desc>
+			<Item.FabaoSuffix>Nail, Dart, Scrap</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WoodLeftover" sParam="Item">
+			<ThingName>เศษไม้</ThingName>
+			<Desc>Leftover building material mixed with wood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodLeftover" sParam="Item">
+			<ThingName>เศษไม้ทอง</ThingName>
+			<Desc>Leftover building material mixed with Goldwood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ทอง</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+			<ThingName>เศษไม้ร่ม</ThingName>
+			<Desc>Leftover building material mixed with Parasol wood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้ร่ม</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodLeftover" sParam="Item">
+			<ThingName>เศษไม้วิญญาณ</ThingName>
+			<Desc>Leftover building material mixed with Spiritwood offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>ไม้วิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BrownRockLeftover" sParam="Item">
+			<ThingName>เศษหินสีน้ำตาล</ThingName>
+			<Desc>Leftover building material mixed with brownstone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีน้ำตาล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockLeftover" sParam="Item">
+			<ThingName>เศษหินสีเทา</ThingName>
+			<Desc>Leftover building material mixed with Graystone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>หินสีเทา</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleLeftover" sParam="Item">
+			<ThingName>เศษหินอ่อน</ThingName>
+			<Desc>Leftover building material mixed with marble offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>หินอ่อน</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeLeftover" sParam="Item">
+			<ThingName>หยก</ThingName>
+			<Desc>Leftover building material mixed with jade offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>หยก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneLeftover" sParam="Item">
+			<ThingName>เศษหินศักดิ์สิทธิ์</ThingName>
+			<Desc>Leftover building material mixed with Holy Stone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>หินศักดิ์สิทธิ์</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneLeftover" sParam="Item">
+			<ThingName>เศษหินวิญญาณ</ThingName>
+			<Desc>Leftover building material mixed with spirit stone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalLeftover" sParam="Item">
+			<ThingName>เศษคริสตัลวิญญาณ</ThingName>
+			<Desc>Leftover building material mixed with Spirit Crystal offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>คริสตัลวิญญาณ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_IronRockLeftover" sParam="Item">
+			<ThingName>เศษเหล็ก</ThingName>
+			<Desc>Leftover building material mixed with iron offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็ก</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRockLeftover" sParam="Item">
+			<ThingName>เศษเหล็กไฟ</ThingName>
+			<Desc>Leftover building material mixed with Igneocopper offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กไฟ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRockLeftover" sParam="Item">
+			<ThingName>เศษน้ำแข็งคริสตัล</ThingName>
+			<Desc>Leftover building material mixed with Ice Crystal offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>น้ำแข็งคริสตัล</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+			<ThingName>เศษเหล็กดำ</ThingName>
+			<Desc>Leftover building material mixed with Darksteel offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>เหล็กดำ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceLeftover" sParam="Item">
+			<ThingName>เศษแกนสว่าง</ThingName>
+			<Desc>Leftover building material mixed with lumina core offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Item.BeMaterial.NamePrefix>แกนสว่าง</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>
