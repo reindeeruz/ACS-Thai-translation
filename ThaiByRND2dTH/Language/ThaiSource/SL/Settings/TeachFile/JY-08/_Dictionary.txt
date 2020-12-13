@@ -48,11 +48,11 @@
 干锅田鸡	Crispy & Spicy Frog Legs
 姜龙	
 猪肉饼	Pork Bone Soup with Rice
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
-灵石水缸	Spirit Stone Water Vat
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
+灵石水缸	หินวิญญาณ Water Vat
 梧桐木水井	Parasol Wood Well
 灵晶墙	Spirit Crystal Wall
 灵晶门	Spirit Crystal Door
@@ -102,7 +102,7 @@
 天柱石梳妆台	Holy Stone Dressing Table
 天柱石灯笼	Holy Stone Lantern
 天柱石屏风	Holy Stone Folding Screen
-灵石置物台	Spirit Stone Display
+灵石置物台	หินวิญญาณ Display
 <font color=MYCOLOR>程雪青</font>在割除<font color=OBJCOLOR>长草</font>时满怀动力，她觉得这也是修行的一环。	
 1天 17:07	1d 17:07
 <font color=MYCOLOR>程雪青</font>好像听到有谁在喊自己的名字。	

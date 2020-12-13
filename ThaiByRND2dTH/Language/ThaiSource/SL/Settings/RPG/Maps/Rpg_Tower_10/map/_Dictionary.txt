@@ -8,12 +8,12 @@
 天柱石门	Holy Stone Door
 木栅栏	Wood Fence
 灵石炉灶	เตาหินวิญญาณ
-灵石水缸	Spirit Stone Water Vat
+灵石水缸	หินวิญญาณ Water Vat
 玄铁假人桩	Darksteel Wooden Dummy
 玄铁水井	Darksteel Well
 玄铁灯笼	Darksteel Lantern
 木砍柴处	Wood Timber Station
-灵石磨坊	Spirit Stone Mill
+灵石磨坊	หินวิญญาณ Mill
 帝	Di
 归	Gui
 身躯	Body 

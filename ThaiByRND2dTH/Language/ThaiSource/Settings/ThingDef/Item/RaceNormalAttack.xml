@@ -48,7 +48,7 @@
 			<Item.Equip.AtkDamage.3.DescTags>Equable Charge</Item.Equip.AtkDamage.3.DescTags>
 		</Text>
 		<Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
-			<ThingName>Dark Phoenix Internal Core</ThingName>
+			<ThingName>Dark ฟินิกซ์ Internal Core</ThingName>
 			<Item.Equip.AtkDamage.0.DescTags>Fervent Charge</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Fervent Charge</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Fervent Charge</Item.Equip.AtkDamage.2.DescTags>

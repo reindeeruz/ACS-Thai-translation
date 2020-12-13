@@ -145,7 +145,7 @@
 			<Tasks.22.TaskDesc>Click the ore vein found in the exploration.</Tasks.22.TaskDesc>
 			<Tasks.23.TipsData.Desc>A vein of rare ores is found, which can be collected if needed.</Tasks.23.TipsData.Desc>
 			<Tasks.24.TaskDesc>Place the cursor on the newly discovered soil to check the info.</Tasks.24.TaskDesc>
-			<Tasks.25.TipsData.Desc>This is a fertile soil that can be used for farming.</Tasks.25.TipsData.Desc>
+			<Tasks.25.TipsData.Desc>This is a ดินที่อุดมสมบูรณ์ that can be used for farming.</Tasks.25.TipsData.Desc>
 			<Tasks.27.TipsData.Desc>Ore veins and fertile soils can be found during exploration. The player can use them for mining and farming if needed.</Tasks.27.TipsData.Desc>
 			<Tasks.29.TaskDesc>Use the hotkey {0} to quickly access Explore.</Tasks.29.TaskDesc>
 			<Tasks.30.TaskDesc>Click the fogged area in the top left corner to issue an Explore task.</Tasks.30.TaskDesc>
@@ -191,7 +191,7 @@
 			<Tasks.28.TaskDesc>Click the Area page.</Tasks.28.TaskDesc>
 			<Tasks.28.UiData.Name>Area</Tasks.28.UiData.Name>
 			<Tasks.29.TaskDesc>Click Field.</Tasks.29.TaskDesc>
-			<Tasks.30.TaskDesc>Select a field in the designated fertile soil.</Tasks.30.TaskDesc>
+			<Tasks.30.TaskDesc>Select a field in the designated ดินที่อุดมสมบูรณ์.</Tasks.30.TaskDesc>
 			<Tasks.33.TaskDesc>Select the field.</Tasks.33.TaskDesc>
 			<Tasks.34.TaskDesc>Click the interactive button Grow Plants.</Tasks.34.TaskDesc>
 			<Tasks.34.UiData.Name>Grow Plants</Tasks.34.UiData.Name>
@@ -494,9 +494,9 @@
 			<Chapters.0.Tasks.2>Use ยาเม็ดอดอาหาร</Chapters.0.Tasks.2>
 			<Chapters.0.Tasks.3>Check Need for Food Again</Chapters.0.Tasks.3>
 			<Chapters.1.DisplayName>What is พลังชี่ Absorption</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Check Inedia Pill</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.0>Check ยาเม็ดพลังอด</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Check the พลังชี่ Absorption Bar</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Use Inedia Pill</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.2>Use ยาเม็ดพลังอด</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Check the พลังชี่ Absorption Bar Again</Chapters.1.Tasks.3>
 			<Tasks.1.TaskDesc>The player can place the cursor on ยาเม็ดอดอาหาร to see the instruction.</Tasks.1.TaskDesc>
 			<Tasks.3.TaskDesc>Click and select an inner disciple.</Tasks.3.TaskDesc>
@@ -508,12 +508,12 @@
 			<Tasks.11.TaskDesc>Wait until the NPC eats the pill.</Tasks.11.TaskDesc>
 			<Tasks.13.TaskDesc>The player can place the cursor on the Need for Food bar to see the change.</Tasks.13.TaskDesc>
 			<Tasks.15.TipsData.Desc>The reason for fasting in the game is to reduce disciples' consumption of food and water to decrease their need for food and drink and therefore the cost of resources, but reducing an inner disciple's need for food and water will reduce the amount of stamina converted from food.</Tasks.15.TipsData.Desc>
-			<Tasks.17.TaskDesc>The player can place the cursor on Inedia Pill to see the instruction.</Tasks.17.TaskDesc>
+			<Tasks.17.TaskDesc>The player can place the cursor on ยาเม็ดพลังอด to see the instruction.</Tasks.17.TaskDesc>
 			<Tasks.19.TaskDesc>Click and select an inner disciple.</Tasks.19.TaskDesc>
 			<Tasks.20.TaskDesc>The player can place the cursor on the Need for Food bar to check the need.</Tasks.20.TaskDesc>
 			<Tasks.22.TaskDesc>Click Eat in the character's Status menu.</Tasks.22.TaskDesc>
 			<Tasks.22.UiData.Name>Eat</Tasks.22.UiData.Name>
-			<Tasks.23.TaskDesc>Click to select Inedia Pill.</Tasks.23.TaskDesc>
+			<Tasks.23.TaskDesc>Click to select ยาเม็ดพลังอด.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Wait until the NPC eats the pill.</Tasks.25.TaskDesc>
 			<Tasks.27.TaskDesc>The player can place the cursor on the Need for Food bar to see the change.</Tasks.27.TaskDesc>
 			<Tasks.29.TipsData.Desc>The reason for พลังชี่ absorption is to gain energy from the environment in order to maintain the level of hunger and thirst. The more efficient a disciple absorbs พลังชี่, the better they can convert food to stamina. When an inner disciple's consumption of food and water increase, the amount of stamina converted will increase too.</Tasks.29.TipsData.Desc>
@@ -637,7 +637,7 @@
 			<Tasks.11.TaskDesc>Click to select Gnarled Vine.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Click Place.</Tasks.12.TaskDesc>
 			<Tasks.12.UiData.Name>Place</Tasks.12.UiData.Name>
-			<Tasks.13.TaskDesc>Click to select Display (Spirit Stone Floor).</Tasks.13.TaskDesc>
+			<Tasks.13.TaskDesc>Click to select Display (หินวิญญาณ Floor).</Tasks.13.TaskDesc>
 			<Tasks.15.TaskDesc>Click to select Jade Essence.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Click Place.</Tasks.16.TaskDesc>
 			<Tasks.16.UiData.Name>Place</Tasks.16.UiData.Name>
@@ -789,12 +789,12 @@
 		<Text Name="LearnEso">
 			<Type>Cultivation</Type>
 			<DisplayName>Inspiration Acquisition &amp; Manual Learning</DisplayName>
-			<Desc>In this tutorial, learn what is inspiration, how to obtain it and the relation between learning manuals and attainment.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Inspiration &amp; Attainment</Chapters.0.DisplayName>
+			<Desc>In this tutorial, learn what is inspiration, how to obtain it and the relation between learning manuals and ค่าความสำเร็จ.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
+			<Chapters.0.DisplayName>Inspiration &amp; ค่าความสำเร็จ</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Open the Inspiration Menu</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Check the Use for Inspiration</Chapters.0.Tasks.1>
 			<Chapters.0.Tasks.2>Open the Basic Menu</Chapters.0.Tasks.2>
-			<Chapters.0.Tasks.3>Check the Use for Attainment</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.3>Check the Use for ค่าความสำเร็จ</Chapters.0.Tasks.3>
 			<Chapters.1.DisplayName>How to Learn Manuals</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Inspect the Skill Lunar Form</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Learn the Skill Lunar Form</Chapters.1.Tasks.1>
@@ -804,8 +804,8 @@
 			<Chapters.2.Tasks.0>Activate the Training Mode</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Check Notification</Chapters.2.Tasks.1>
 			<Chapters.2.Tasks.2>Check Inspiration</Chapters.2.Tasks.2>
-			<Chapters.2.Tasks.3>Inspect Eureka Pill</Chapters.2.Tasks.3>
-			<Chapters.2.Tasks.4>Eat Eureka Pill</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.3>Inspect ยาเม็ดยูเรก้า</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Eat ยาเม็ดยูเรก้า</Chapters.2.Tasks.4>
 			<Chapters.2.Tasks.5>Check Inspiration Again</Chapters.2.Tasks.5>
 			<Tasks.1.TaskDesc>Click and select an inner disciple.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
@@ -813,8 +813,8 @@
 			<Tasks.5.TaskDesc>The player can place the cursor to check inspiration and the info on it in the bottom right.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Click to close the Inspiration menu.</Tasks.6.TaskDesc>
 			<Tasks.8.TaskDesc>Click to open the General Stats menu in the left.</Tasks.8.TaskDesc>
-			<Tasks.10.TaskDesc>The player can hover the cursor to see attainment and related info.</Tasks.10.TaskDesc>
-			<Tasks.12.TipsData.Desc>Inner disciples will keep gaining inspiration during cultivation, which can be used to learn various manuals to improve their ability. Inspiration needed to learn a new skill increases as attainment becomes higher.</Tasks.12.TipsData.Desc>
+			<Tasks.10.TaskDesc>The player can hover the cursor to see ค่าความสำเร็จ and related info.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Inner disciples will keep gaining inspiration during cultivation, which can be used to learn various manuals to improve their ability. Inspiration needed to learn a new skill increases as ค่าความสำเร็จ becomes higher.</Tasks.12.TipsData.Desc>
 			<Tasks.14.TaskDesc>Click to open the General Stats menu in the left.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Click to open the Inspiration menu.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Inspect the requirements to learn the skill Lunar Form.</Tasks.16.TaskDesc>
@@ -855,8 +855,8 @@
 			<Chapters.1.DisplayName>Use Elixirs to Heal Inner Injuries</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Select Another Disciple</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Check Alchemy</Chapters.1.Tasks.1>
-			<Chapters.1.Tasks.2>Use พลังชี่ Flow Pill</Chapters.1.Tasks.2>
-			<Chapters.1.Tasks.3>Wait Until พลังชี่ Flow Pill Is Used</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.2>Use ยาเม็ดพลังชี่หลั่งไหล</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Wait Until ยาเม็ดพลังชี่หลั่งไหล Is Used</Chapters.1.Tasks.3>
 			<Chapters.1.Tasks.4>Check the Injury of the Disciple</Chapters.1.Tasks.4>
 			<Chapters.2.DisplayName>Use Miracles to Heal Inner Injuries</Chapters.2.DisplayName>
 			<Chapters.2.Tasks.0>Use the Miracle Panacea</Chapters.2.Tasks.0>
@@ -872,15 +872,15 @@
 			<Tasks.14.TaskDesc>Click Alchemy in the character's Status menu.</Tasks.14.TaskDesc>
 			<Tasks.14.UiData.Name>Alchemy</Tasks.14.UiData.Name>
 			<Tasks.15.TaskDesc>The player can place the cursor on Restoration Powder to see its effect.</Tasks.15.TaskDesc>
-			<Tasks.16.TaskDesc>The player can place the cursor on พลังชี่ Flow Pill to see its effect.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>The player can place the cursor on ยาเม็ดพลังชี่หลั่งไหล to see its effect.</Tasks.16.TaskDesc>
 			<Tasks.17.TaskDesc>Close the page.</Tasks.17.TaskDesc>
-			<Tasks.19.TaskDesc>Click to select พลังชี่ Flow Pill.</Tasks.19.TaskDesc>
+			<Tasks.19.TaskDesc>Click to select ยาเม็ดพลังชี่หลั่งไหล.</Tasks.19.TaskDesc>
 			<Tasks.20.TaskDesc>Click the Feed button in the Status menu.</Tasks.20.TaskDesc>
 			<Tasks.20.UiData.Name>Feed</Tasks.20.UiData.Name>
 			<Tasks.21.TaskDesc>Click and select an injured inner disciple.</Tasks.21.TaskDesc>
 			<Tasks.22.TaskDesc>Click Confirm.</Tasks.22.TaskDesc>
 			<Tasks.24.TaskDesc>Click 3x Speed in the top left.</Tasks.24.TaskDesc>
-			<Tasks.26.TaskDesc>Finished using the พลังชี่ Flow Pill.</Tasks.26.TaskDesc>
+			<Tasks.26.TaskDesc>Finished using the ยาเม็ดพลังชี่หลั่งไหล.</Tasks.26.TaskDesc>
 			<Tasks.28.TaskDesc>Click an injured inner disciple.</Tasks.28.TaskDesc>
 			<Tasks.29.TaskDesc>Click the Health button in the right side of the injured character's menu.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>The player can recheck the injury with the "Spirit" tag to see if the injury is healed.</Tasks.31.TaskDesc>
@@ -967,7 +967,7 @@
 			<Tasks.14.TaskDesc>Parasol Lumber is an item of Wood element that affects the elemental environment around it.</Tasks.14.TaskDesc>
 			<Tasks.15.TaskDesc>Parasol Lantern is a decoration of Wood element that affects the elemental environment around it.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Click Feng Shui in the top left to exit the Feng Shui mode.</Tasks.16.TaskDesc>
-			<Tasks.18.TaskDesc>Select the Spirit Stone Display on the left of the brownstone table.</Tasks.18.TaskDesc>
+			<Tasks.18.TaskDesc>Select the หินวิญญาณ Display on the left of the brownstone table.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Click Place Item.</Tasks.19.TaskDesc>
 			<Tasks.19.UiData.Name>Place Item</Tasks.19.UiData.Name>
 			<Tasks.20.TaskDesc>Click to select Igneocopper Bar.</Tasks.20.TaskDesc>
@@ -1065,7 +1065,7 @@
 			<Tasks.9.TaskDesc>Click Bed to begin the placing mode.</Tasks.9.TaskDesc>
 			<Tasks.10.TaskDesc>Drag and select a trade area at the designated location.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Right-click to cancel the Build mode.</Tasks.11.TaskDesc>
-			<Tasks.13.TaskDesc>Select Spirit Stone.</Tasks.13.TaskDesc>
+			<Tasks.13.TaskDesc>Select หินวิญญาณ.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Click Trade in the bottom menu.</Tasks.14.TaskDesc>
 			<Tasks.14.UiData.Name>Trade Area</Tasks.14.UiData.Name>
 			<Tasks.15.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.15.TaskDesc>
@@ -1207,7 +1207,7 @@
 			<Tasks.17.TaskDesc>Click Expand in the top left to enter the Expand mode.</Tasks.17.TaskDesc>
 			<Tasks.18.TipsData.Desc>Here's the quest item needed by the other sect. The player needs to place the prepared item in the trade area to give it to them.</Tasks.18.TipsData.Desc>
 			<Tasks.19.TaskDesc>Click Give.</Tasks.19.TaskDesc>
-			<Tasks.20.TaskDesc>Click Life Pill.</Tasks.20.TaskDesc>
+			<Tasks.20.TaskDesc>Click ยาเม็ดยืดชีวิต.</Tasks.20.TaskDesc>
 			<Tasks.21.TaskDesc>Click Confirm.</Tasks.21.TaskDesc>
 			<Tasks.22.TaskDesc>Click OK.</Tasks.22.TaskDesc>
 			<Tasks.23.TaskDesc>Click Confirm.</Tasks.23.TaskDesc>
@@ -1392,12 +1392,12 @@
 			<Type>Advanced</Type>
 			<DisplayName>ถ้ำลี้ลับ</DisplayName>
 			<Desc>In this tutorial, learn the influence of ถ้ำลี้ลับs and how to use Feng Shui relics to suppress them.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
-			<Chapters.0.DisplayName>Flood Dragon Cave</Chapters.0.DisplayName>
+			<Chapters.0.DisplayName>มังกรหลาก Cave</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>ถ้ำลี้ลับ</Chapters.0.Tasks.0>
 			<Chapters.1.DisplayName>Suppress ถ้ำลี้ลับs</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Place Feng Shui Relics</Chapters.1.Tasks.0>
 			<Tasks.2.TaskDesc>Click OK.</Tasks.2.TaskDesc>
-			<Tasks.3.TipsData.Desc>When a certain period of time has passed in the game, a special secret will happen where a ถ้ำลี้ลับ will appear at a random spot in the location of the player's sect, and a Flood Dragon will be sleeping inside it. The player can use different methods to handle the situation, one of which is to use Feng Shui relics that make rooms ฤกษ์ดีมาก to suppress the cavern.</Tasks.3.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>When a certain period of time has passed in the game, a special secret will happen where a ถ้ำลี้ลับ will appear at a random spot in the location of the player's sect, and a มังกรหลาก will be sleeping inside it. The player can use different methods to handle the situation, one of which is to use Feng Shui relics that make rooms ฤกษ์ดีมาก to suppress the cavern.</Tasks.3.TipsData.Desc>
 			<Tasks.5.TipsData.Desc>There are many ways to handle a ถ้ำลี้ลับ, but for late-stage players who are still not sure what to do, choose Feng Shui relics to suppress it. As the other methods requires deeper understanding of the game, this tutorial will not go into details.</Tasks.5.TipsData.Desc>
 			<Tasks.7.TaskDesc>An identified Feng Shui relic will have a detailed description. The player needs to refer to the description and place it in the right spot to correctly activate the relic. Once it is activated, it will instantaneously make the room ฤกษ์ดีมาก.</Tasks.7.TaskDesc>
 			<Tasks.8.TaskDesc>Click to select the Feng Shui relic Spirit Crystal.</Tasks.8.TaskDesc>
@@ -1408,7 +1408,7 @@
 			<Tasks.12.TaskDesc>When placing a Feng Shui relic, the player can observe the Feng Shui change in the room here.</Tasks.12.TaskDesc>
 			<Tasks.13.TaskDesc>Wait for them to be placed.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>When a Feng Shui relic is in an environment that meets the description, it will be a match that makes the room ฤกษ์ดีมาก, which can suppress the ถ้ำลี้ลับ.</Tasks.14.TaskDesc>
-			<Tasks.16.TipsData.Desc>When the player successfully suppresses the ถ้ำลี้ลับ, the Flood Dragon in slumber will also be effectively subdued, and the player can use this window of time to improve the disciples' ability in order to destroy it sooner.</Tasks.16.TipsData.Desc>
+			<Tasks.16.TipsData.Desc>When the player successfully suppresses the ถ้ำลี้ลับ, the มังกรหลาก in slumber will also be effectively subdued, and the player can use this window of time to improve the disciples' ability in order to destroy it sooner.</Tasks.16.TipsData.Desc>
 		</Text>
 		<Text Name="DragonFight">
 			<Type>Advanced</Type>
@@ -1416,26 +1416,26 @@
 			<Desc>In this tutorial, learn how to inspect the basic info on ancient beasts and use it to engage in battle with these beasts.\n[color=#BC1717](During the tutorial, players can press Esc twice to skip the task and continue the tutorial. )[/color]</Desc>
 			<Chapters.0.DisplayName>Learn About Ancient Beast</Chapters.0.DisplayName>
 			<Chapters.0.Tasks.0>Learn About Ancient Beast</Chapters.0.Tasks.0>
-			<Chapters.1.DisplayName>Flood Dragon Body Parts in Battle</Chapters.1.DisplayName>
+			<Chapters.1.DisplayName>มังกรหลาก Body Parts in Battle</Chapters.1.DisplayName>
 			<Chapters.1.Tasks.0>Check Each Body Part</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Check Stats of Disciple's Artifact</Chapters.1.Tasks.1>
 			<Tasks.1.TaskDesc>Open the Secret menu in the right.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Click Ancient Beast.</Tasks.2.TaskDesc>
-			<Tasks.3.TaskDesc>Click Flood Dragon.</Tasks.3.TaskDesc>
+			<Tasks.3.TaskDesc>Click มังกรหลาก.</Tasks.3.TaskDesc>
 			<Tasks.4.TipsData.Desc>Once an ancient beast secret is unlocked, the player can check the info on the related skills of the boss.</Tasks.4.TipsData.Desc>
-			<Tasks.5.TipsData.Desc>Here shows that the Flood Dragon is of Water element that is more suspectable to Earth damage.</Tasks.5.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Here shows that the มังกรหลาก is of Water element that is more suspectable to Earth damage.</Tasks.5.TipsData.Desc>
 			<Tasks.6.TaskDesc>Close the Secret menu.</Tasks.6.TaskDesc>
 			<Tasks.8.TipsData.Desc>The player can encounter the other ancient beasts through different methods in the game, which will not be listed here in detail.</Tasks.8.TipsData.Desc>
-			<Tasks.10.TaskDesc>Click Flood Dragon.</Tasks.10.TaskDesc>
+			<Tasks.10.TaskDesc>Click มังกรหลาก.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Click Focus.</Tasks.11.TaskDesc>
 			<Tasks.12.TipsData.Desc>You can keep track of พลังชี่ status of the Jiao-dragon's each body part through setting foci, and develop your strategy accordingly.</Tasks.12.TipsData.Desc>
 			<Tasks.13.TaskDesc>Click Focus.</Tasks.13.TaskDesc>
 			<Tasks.15.TaskDesc>Click and select an inner disciple.</Tasks.15.TaskDesc>
 			<Tasks.16.TaskDesc>Click to open the Items &amp; Equipment menu.</Tasks.16.TaskDesc>
-			<Tasks.17.TipsData.Desc>According to the info above, we can wear an artifact of Earth element to attack the Flood Dragon.</Tasks.17.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>According to the info above, we can wear an artifact of Earth element to attack the มังกรหลาก.</Tasks.17.TipsData.Desc>
 			<Tasks.18.TaskDesc>Click to close the Item &amp; Equipment menu.</Tasks.18.TaskDesc>
 			<Tasks.19.TaskDesc>Click the Attack button in the left of the character menu.</Tasks.19.TaskDesc>
-			<Tasks.20.TipsData.Desc>The player can focus the attack on a specific body part to quickly destroy this part of the Flood Dragon.</Tasks.20.TipsData.Desc>
+			<Tasks.20.TipsData.Desc>The player can focus the attack on a specific body part to quickly destroy this part of the มังกรหลาก.</Tasks.20.TipsData.Desc>
 			<Tasks.22.TipsData.Desc>Each player uses different controls and strategies in battle, so this tutorial will not go into detail about battles, which the player can experience in the game. Once the boss is defeated, there will be different remains from its body, which can be searched for spoils. More body parts destroyed means more spoils to be obtained.</Tasks.22.TipsData.Desc>
 		</Text>
 		<Text Name="GetFood">

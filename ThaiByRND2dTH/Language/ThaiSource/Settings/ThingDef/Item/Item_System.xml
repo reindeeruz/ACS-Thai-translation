@@ -377,17 +377,17 @@
 		</Text>
 		<Text Name="Item_AnimalBox" sParam="Item">
 			<ThingName>กรงสวย</ThingName>
-			<Desc>Inside the cage is a carefully cultivated animal at the Awakening State.</Desc>
+			<Desc>Inside the cage is a carefully cultivated animal at สถานะถูกปลุกให้ตื่น.</Desc>
 			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_NormalAnimalBox" sParam="Item">
 			<ThingName>กรงเรียบง่าย</ThingName>
-			<Desc>Inside the simple cage is an animal at the Awakening State.</Desc>
+			<Desc>Inside the simple cage is an animal at สถานะถูกปลุกให้ตื่น.</Desc>
 			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BodyAnimalBox" sParam="Item">
 			<ThingName>กรง</ThingName>
-			<Desc>Inside the cage is an animal at the Awakening State.</Desc>
+			<Desc>Inside the cage is an animal at สถานะถูกปลุกให้ตื่น.</Desc>
 			<Item.FabaoSuffix>กล่อง</Item.FabaoSuffix>
 		</Text>
 	</List>

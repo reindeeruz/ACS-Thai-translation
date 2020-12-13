@@ -1027,7 +1027,7 @@
 		</Text>
 		<Text Name="Melting">
 			<Display>หลอมแร่</Display>
-			<Desc>[color=#0000FF]Smelt Item[/color] ([keycode]Melting[/keycode])\nInner disciples will try to smelt this item into หินวิญญาณ. \nEvery 5,000 พลังชี่ in item means one spirit stone produced. If the item is an artifact, the higher its tier, the more หินวิญญาณ it will produce.</Desc>
+			<Desc>[color=#0000FF]Smelt Item[/color] ([keycode]Melting[/keycode])\nInner disciples will try to smelt this item into หินวิญญาณ. \nEvery 5,000 พลังชี่ in item means one หินวิญญาณ produced. If the item is an artifact, the higher its tier, the more หินวิญญาณ it will produce.</Desc>
 		</Text>
 		<Text Name="CancelCMD">
 			<Display>ยกเลิก</Display>

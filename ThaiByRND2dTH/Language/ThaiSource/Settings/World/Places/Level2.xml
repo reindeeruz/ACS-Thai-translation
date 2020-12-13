@@ -13,7 +13,7 @@
 		</Text>
 		<Text Name="Place_DanXia3">
 			<DisplayName>Five Dragons Pond</DisplayName>
-			<Desc>A magical pond located deep in Mt. Sunshade. Lotus flowers sprout vigorously in the lake, which seems bottomless, connecting to the water vein on the earth's crust. It is said that the Prism Lotus—the Spirit Root of the Sunshade Abode is planted here.</Desc>
+			<Desc>A magical pond located deep in Mt. Sunshade. Lotus flowers sprout vigorously in the lake, which seems bottomless, connecting to the water vein on the earth's crust. It is said that the Prism Lotus—the รากวิญญาณ of the Sunshade Abode is planted here.</Desc>
 		</Text>
 		<Text Name="Place_KunLun1">
 			<DisplayName>เซียน Summit</DisplayName>
@@ -21,7 +21,7 @@
 		</Text>
 		<Text Name="Place_KunLun2">
 			<DisplayName>Drake Cave</DisplayName>
-			<Desc>An endless cave deep in Mt. Kunlun, with complex and confusing passages and streams. It is said to be directly connected to and blessed by the Dragon's Vein, and thus the Kunlun Palace cultivates its Spirit Root—the Ocher Essence here.</Desc>
+			<Desc>An endless cave deep in Mt. Kunlun, with complex and confusing passages and streams. It is said to be directly connected to and blessed by the Dragon's Vein, and thus the Kunlun Palace cultivates its รากวิญญาณ—the Ocher Essence here.</Desc>
 		</Text>
 		<Text Name="Place_KunLun2_1">
 			<DisplayName>Mystic Cavern</DisplayName>
@@ -29,7 +29,7 @@
 		</Text>
 		<Text Name="Place_TianJi1">
 			<DisplayName>Nimbus Ravine</DisplayName>
-			<Desc>A deep ravine between the soaring precipices at the Heavenstep Peak, creating a giant vortex of พลังชี่ that spins without halt; even birds cannot fly over it. It is told that the Skydome Palace has the Spirit Root—ผลไม้ปราชญ์ planted on the precipice of the ravine.</Desc>
+			<Desc>A deep ravine between the soaring precipices at the Heavenstep Peak, creating a giant vortex of พลังชี่ that spins without halt; even birds cannot fly over it. It is told that the Skydome Palace has the รากวิญญาณ—ผลไม้ปราชญ์ planted on the precipice of the ravine.</Desc>
 		</Text>
 		<Text Name="Place_TianJi2">
 			<DisplayName>Celeste Pass</DisplayName>
@@ -44,8 +44,8 @@
 			<Desc>A popular scenic spot on Mt. Lucian. Standing by the Wyvern Pool, one can see the magnificent view of the surging sea of clouds. Legend has it that a sage once grazed dragons here in the ancient age.</Desc>
 		</Text>
 		<Text Name="Place_JiuHua3">
-			<DisplayName>Phoenix Cliff</DisplayName>
-			<Desc>A popular scenic spot on Mt. Lucian. The dry trunks of two giant sycamore trees still remain till this day. Legend has it that a phoenix once perched on this cliff in the ancient age.</Desc>
+			<DisplayName>ฟินิกซ์ Cliff</DisplayName>
+			<Desc>A popular scenic spot on Mt. Lucian. The dry trunks of two giant sycamore trees still remain till this day. Legend has it that a ฟินิกซ์ once perched on this cliff in the ancient age.</Desc>
 		</Text>
 		<Text Name="Place_LongHu1">
 			<DisplayName>Skypass Falls</DisplayName>
@@ -53,7 +53,7 @@
 		</Text>
 		<Text Name="Place_LongHu2">
 			<DisplayName>Mistwood Forest</DisplayName>
-			<Desc>A thick forest at the foot of Mt. Tiger Paw, in which many trees are well over several hundred years old. Rumor has it that Phoenixwood also grows here. Mt. Tiger Paw has its Spirit Root planted here for its richness in Wood พลังชี่.</Desc>
+			<Desc>A thick forest at the foot of Mt. Tiger Paw, in which many trees are well over several hundred years old. Rumor has it that Phoenixwood also grows here. Mt. Tiger Paw has its รากวิญญาณ planted here for its richness in Wood พลังชี่.</Desc>
 		</Text>
 		<Text Name="Place_Shu1">
 			<DisplayName>Jadestone Cliff</DisplayName>
@@ -181,7 +181,7 @@
 		</Text>
 		<Text Name="Place_FertileField5">
 			<DisplayName>Mt. Rue</DisplayName>
-			<Desc>A famous mountain south of the river. The Law leading through it is meandering and confusing, which means even animals as agile as monkeys cannot climb over it. There are a few exposed ore veins of spirit stone in the mountain. Though not worthy of any large-scale mining operation, rogue cultivators would often go in and mine some for their own use. Rumors has it that a cultivator once sensed strong พลังชี่ of Metal Element here, and it seems that the ผลไม้ปราชญ์, one of the Spirit Roots, is hidden somewhere in the mountain.</Desc>
+			<Desc>A famous mountain south of the river. The Law leading through it is meandering and confusing, which means even animals as agile as monkeys cannot climb over it. There are a few exposed ore veins of หินวิญญาณ in the mountain. Though not worthy of any large-scale mining operation, rogue cultivators would often go in and mine some for their own use. Rumors has it that a cultivator once sensed strong พลังชี่ of Metal Element here, and it seems that the ผลไม้ปราชญ์, one of the Spirit Roots, is hidden somewhere in the mountain.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains1">
 			<DisplayName>Mt. Cloudsreach</DisplayName>
@@ -189,7 +189,7 @@
 		</Text>
 		<Text Name="Place_CentralPlains2">
 			<DisplayName>Alchemist's Peak</DisplayName>
-			<Desc>The genius doctor used to practice alchemy here, but now only an abandoned mansion is standing here with nothing left inside. Most of the spiritual herbs in the garden have dried up; only the resilient Spirit Leaves were able to survive and spread across the mountain. It is said that the genius doctor used to plant the Spirit Root Ocher Essence here, which has attained spirituality. Only the luckiest of the adventurers is able to find it.</Desc>
+			<Desc>The genius doctor used to practice alchemy here, but now only an abandoned mansion is standing here with nothing left inside. Most of the spiritual herbs in the garden have dried up; only the resilient Spirit Leaves were able to survive and spread across the mountain. It is said that the genius doctor used to plant the รากวิญญาณ Ocher Essence here, which has attained spirituality. Only the luckiest of the adventurers is able to find it.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains3">
 			<DisplayName>Mt. Mesa</DisplayName>

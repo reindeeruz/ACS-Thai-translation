@@ -60,7 +60,7 @@
 			<Tip>Create a domain spanning an 8-meter radius around the target point. Increases the mental state, mood, cultivation speed of allied characters inside the domain.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointJian1">
-			<DisplayName>Divine Sword of Phoenix</DisplayName>
+			<DisplayName>Divine Sword of ฟินิกซ์</DisplayName>
 			<Tip>Everyone combines their พลังชี่ in order to control the formation pillar's artifact and refill it with พลังชี่, drastically boosting the Artifact Power according to the formation's Sword Mastery Power Bonus. Everyone in the formation shares the พลังชี่ cost.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointSkill1">

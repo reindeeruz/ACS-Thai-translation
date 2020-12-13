@@ -8,7 +8,7 @@
 		<Text Name="DanFang_2">
 			<DisplayName>Common Elixir Recipes</DisplayName>
 			<Desc>A recipe book teaching more commonplace elixirs, with many easy-to-make yet effective elixirs found between its covers.</Desc>
-			<EffectDesc>Acquire the following elixir recipes: \nEuphoria Pill\nยาเม็ดอดอาหาร\nInedia Pill\nPurity Pill\nFitness Pill\nPower Pill</EffectDesc>
+			<EffectDesc>Acquire the following elixir recipes: \nEuphoria Pill\nยาเม็ดอดอาหาร\nInedia Pill\nPurity Pill\nFitness Pill\nยาเม็ดพลังแรง</EffectDesc>
 		</Text>
 		<Text Name="DanFang_3">
 			<DisplayName>Pharmacopoeia of the Five Emperors</DisplayName>
@@ -38,12 +38,12 @@
 		<Text Name="DanFang_8">
 			<DisplayName>Book of Heavenly Exploits</DisplayName>
 			<Desc>A fascinating tome that was once considered lost in the mists of time. It includes several incredible recipes that allow the user to exploit the mysteries of the heavens, albeit at the expense of life itself.</Desc>
-			<EffectDesc>Acquire the following elixir recipes: \nHeaven Pill\nTerra Pill\nEther Pill\nWisdom Pill\nBlessed Pill\nPill of the Five Divines</EffectDesc>
+			<EffectDesc>Acquire the following elixir recipes: \nHeaven Pill\nTerra Pill\nยาเม็ดอีเธอร์\nยาเม็ดเมธา\nยาเม็ดผาสุก\nPill of the Five Divines</EffectDesc>
 		</Text>
 		<Text Name="DanFang_9">
 			<DisplayName>Secret Methods of the Specter</DisplayName>
-			<Desc>A work that details secret methods of creating numerous elixirs with Spirit Soul Gem, Anguish Soul Gem or Serenity Soul Gem as their active ingredients.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nAnguish Pill\nSoulrend Pill\nSerene Pill\nScorch Pill[/color][/size]</EffectDesc>
+			<Desc>A work that details secret methods of creating numerous elixirs with เพชรวิญญาณจิต, เพชรวิญญาณรวดร้าว or เพชรวิญญาณสงบ as their active ingredients.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nAnguish Pill\nยาเม็ดกระจายวิญญาณ\nยาเม็ดใจสงบ\nยาเม็ดแผดเผา[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="YouJi_1_2">
 			<DisplayName>Records of the Divine Lands: Central Plains</DisplayName>
@@ -78,7 +78,7 @@
 		<Text Name="YouJi_2_5">
 			<DisplayName>The Windtamer's Travels: Volume V</DisplayName>
 			<Desc>The เซียน Yufengzi, the Windtamer, roamed the lands and studied their mountains and rivers. This tome is the first of his travel diaries. The fifth volume, recounting travels upon Mt. Lucian.</Desc>
-			<EffectDesc>Acquire information on the following locales: \nMt. Lucian - Lucian Village\nMt. Lucian - Wyvern Pool\nMt. Lucian - Phoenix Cliff</EffectDesc>
+			<EffectDesc>Acquire information on the following locales: \nMt. Lucian - Lucian Village\nMt. Lucian - Wyvern Pool\nMt. Lucian - ฟินิกซ์ Cliff</EffectDesc>
 		</Text>
 		<Text Name="YouJi_2_6">
 			<DisplayName>The Windtamer's Travels: Volume VI</DisplayName>
@@ -108,7 +108,7 @@
 		<Text Name="YouJi_4_3">
 			<DisplayName>Supplementary Records: Book III of III</DisplayName>
 			<Desc>This book is said to have been penned by a senior เซียน in the world of cultivation. It records several secret places known only by a select few.</Desc>
-			<EffectDesc>Acquire information on the following locales: \nMt. Lucian - Phoenix Cliff\nMt. Lucian - Wyvern Pool\nExultant Isle - Poison Dragon Lake</EffectDesc>
+			<EffectDesc>Acquire information on the following locales: \nMt. Lucian - ฟินิกซ์ Cliff\nMt. Lucian - Wyvern Pool\nExultant Isle - Poison Dragon Lake</EffectDesc>
 		</Text>
 		<Text Name="YouJi_5">
 			<DisplayName>Records of Wandering เซียน</DisplayName>

@@ -10,11 +10,11 @@
 		</Text>
 		<Text Name="SoulCrystalYouPowerUp">
 			<DisplayName>Specter Refinement</DisplayName>
-			<Desc>Consume one Anguish Soul Gem to use on one item, with a chance to increase the tier of the item by 1.</Desc>
+			<Desc>Consume one เพชรวิญญาณรวดร้าว to use on one item, with a chance to increase the tier of the item by 1.</Desc>
 		</Text>
 		<Text Name="SoulCrystalLingPowerUp">
 			<DisplayName>Spiritual Refinement</DisplayName>
-			<Desc>Consume one Spirit Soul Gem to use on one item, with a chance to increase the พลังชี่ Containment Rate of the item (if the item is an artifact, raises พลังชี่ Capacity instead).</Desc>
+			<Desc>Consume one เพชรวิญญาณจิต to use on one item, with a chance to increase the พลังชี่ Containment Rate of the item (if the item is an artifact, raises พลังชี่ Capacity instead).</Desc>
 		</Text>
 		<Text Name="MakeSoulCrystal">
 			<DisplayName>Soul Chant</DisplayName>
@@ -114,7 +114,7 @@
 		</Text>
 		<Text Name="AbsorbGong_6">
 			<DisplayName>วิญญาณป่วย</DisplayName>
-			<Desc>Learn Miracle: วิญญาณป่วย\nRelease on an uncultivated being the same kind as yours, attach a wisp of your primordial spirit onto it and convert the Foundation of the infected target into your Cultivation and Inspiration of equivalent number everyday at 0:00. \nFor each unit you infect, your mind will be damaged and soul split, and the target will be weakened due to the parasite. You can stop performing the miracle by reusing it on the same target.</Desc>
+			<Desc>Learn Miracle: วิญญาณป่วย\nRelease on an uncultivated being the same kind as yours, attach a wisp of your วิญญาณบรรพกาล onto it and convert the Foundation of the infected target into your Cultivation and Inspiration of equivalent number everyday at 0:00. \nFor each unit you infect, your mind will be damaged and soul split, and the target will be weakened due to the parasite. You can stop performing the miracle by reusing it on the same target.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_7">
 			<DisplayName>Sacrifice Offering</DisplayName>
@@ -153,8 +153,8 @@
 			<Desc>Cast a spell on a living being with no cultivation experience, removing all of its temporary mood status.</Desc>
 		</Text>
 		<Text Name="LingStoneMake">
-			<DisplayName>Spirit Stone Refinement</DisplayName>
-			<Desc>Condense every 5000 พลังชี่ into a Spirit Stone. This process will continue indefinitely until you stop it or there is insufficient พลังชี่.</Desc>
+			<DisplayName>หินวิญญาณ Refinement</DisplayName>
+			<Desc>Condense every 5000 พลังชี่ into a หินวิญญาณ. This process will continue indefinitely until you stop it or there is insufficient พลังชี่.</Desc>
 		</Text>
 		<Text Name="LingCrystalMake">
 			<DisplayName>Spirit Crystal Refinement</DisplayName>

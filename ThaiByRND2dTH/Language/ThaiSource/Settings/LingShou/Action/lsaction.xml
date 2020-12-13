@@ -217,7 +217,7 @@
 			<Desc>Feed ยาเม็ดพิศุทธิ์</Desc>
 		</Text>
 		<Text Name="Feed_Item_LingStone">
-			<Desc>Feed Spirit Stone</Desc>
+			<Desc>Feed หินวิญญาณ</Desc>
 		</Text>
 		<Text Name="Feed_Item_LingCrystal">
 			<Desc>Feed Spirit Crystal</Desc>
@@ -253,10 +253,10 @@
 			<Desc>Consume Life Spring</Desc>
 		</Text>
 		<Text Name="Eat_Item_LongEgg">
-			<Desc>Consume Flood Dragon Egg</Desc>
+			<Desc>Consume มังกรหลาก Egg</Desc>
 		</Text>
 		<Text Name="Eat_Item_FengEgg">
-			<Desc>Consume Phoenix Egg</Desc>
+			<Desc>Consume ฟินิกซ์ Egg</Desc>
 		</Text>
 		<Text Name="Eat_Item_DragonShit">
 			<Desc>Consume Dragon Feces</Desc>
@@ -265,7 +265,7 @@
 			<Desc>Consume Dumpling</Desc>
 		</Text>
 		<Text Name="Eat_Item_BossFeng_Meat">
-			<Desc>Consume Phoenix Flesh</Desc>
+			<Desc>Consume ฟินิกซ์ Flesh</Desc>
 		</Text>
 		<Text Name="Eat_Item_BossLong_Meat">
 			<Desc>Consume Dragon Flesh</Desc>
@@ -307,7 +307,7 @@
 			<Desc>Consume ใบพิศุทธิ์</Desc>
 		</Text>
 		<Text Name="Eat_Item_MagicHerb">
-			<Desc>Consume Spirit Leaf</Desc>
+			<Desc>Consume ใบวิญญาณ</Desc>
 		</Text>
 		<Text Name="Eat_Item_Laxative">
 			<Desc>Consume Laxative</Desc>

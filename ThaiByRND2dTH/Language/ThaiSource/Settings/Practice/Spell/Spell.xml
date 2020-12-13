@@ -34,7 +34,7 @@
 		</Text>
 		<Text Name="Spell_Fatigue">
 			<DisplayName>Talisman of Spiritual Cleansing</DisplayName>
-			<Desc>Talisman used to improve sleep quality and reduce tendency of fatigue.</Desc>
+			<Desc>Talisman used to improve sleep quality and reduce tendency of ความเหนื่อยล้า.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition">
 			<DisplayName>Talisman of พลังชี่ Absorption</DisplayName>
@@ -210,7 +210,7 @@
 		</Text>
 		<Text Name="Spell_TongTian2">
 			<DisplayName>Heavenshrouding Talisman</DisplayName>
-			<Desc>Decreases the wearer's Attainment.</Desc>
+			<Desc>Decreases the wearer's ค่าความสำเร็จ.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian3">
 			<DisplayName>Latent Talisman</DisplayName>
@@ -218,7 +218,7 @@
 		</Text>
 		<Text Name="Spell_JieTian1">
 			<DisplayName>Heavenlent Talisman</DisplayName>
-			<Desc>Increases the wearer's Attainment.</Desc>
+			<Desc>Increases the wearer's ค่าความสำเร็จ.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice1">
 			<DisplayName>Talisman of Divine Residence</DisplayName>

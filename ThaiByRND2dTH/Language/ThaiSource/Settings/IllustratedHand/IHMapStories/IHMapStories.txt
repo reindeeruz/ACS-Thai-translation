@@ -14,4 +14,4 @@
 13	BaoZang_XuanKong	Jade เซียน Abode	Unlock the secret of the Jade เซียน Abode	
 14	BaoZang_ChiLianYuan	Emerald Palace เซียน Abode	Unlock the secret of the Emerald Palace เซียน Abode	
 15	BaoZang_DengXian	Dong Hua's Treasure	Unlock the secret of Dong Hua's Treasure	
-16	LingWu_JiuHua1	Hidden Dragon and the Perched Phoenix	Unlock the secret behind the Hidden Dragon and the Perched Phoenix	
+16	LingWu_JiuHua1	Hidden Dragon and the Perched ฟินิกซ์	Unlock the secret behind the Hidden Dragon and the Perched ฟินิกซ์	

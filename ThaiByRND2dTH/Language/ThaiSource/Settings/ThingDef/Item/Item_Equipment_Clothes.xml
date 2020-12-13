@@ -37,7 +37,7 @@
 		</Text>
 		<Text Name="Item_SP_Clothes4" sParam="Item">
 			<ThingName>เสื้อคลุมกันสวรรค์</ThingName>
-			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment.</Desc>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's ค่าความสำเร็จ.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes5" sParam="Item">
 			<ThingName>เสื้อคลุมขนนก</ThingName>
@@ -53,7 +53,7 @@
 		</Text>
 		<Text Name="Item_SP_Clothes8" sParam="Item">
 			<ThingName>เสื้อคลุมไหล</ThingName>
-			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment.</Desc>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's ค่าความสำเร็จ.</Desc>
 		</Text>
 		<Text Name="Item_SP_Clothes9" sParam="Item">
 			<ThingName>เสื้อคลุมผี</ThingName>

@@ -135,9 +135,9 @@
 			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Botanic Revitalization\nUtilize pure, refined Wood Element พลังชี่ to invigorate a plant, significantly increasing its growth rate for 1 day. Less effective on plants of higher tiers.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_LvUpEsoterica_2">
-			<DisplayName>Nirvana Pill</DisplayName>
+			<DisplayName>ยาเม็ดนิพพาน</DisplayName>
 			<Desc>An elixir created by harnessing energies that resound from cycles of reincarnation. Consuming it allows one to be reborn into a new body, while retaining all previous Inspiration.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nNirvana Pill[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nยาเม็ดนิพพาน[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_LvUpEsoterica_3">
 			<DisplayName>Alleviation of Singularity</DisplayName>
@@ -328,18 +328,18 @@
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_3">
 			<DisplayName>Sword Control</DisplayName>
-			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's meridians.</Desc>
+			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นพลังชี่.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_4">
 			<DisplayName>Sword Control</DisplayName>
-			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's meridians.</Desc>
+			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นพลังชี่.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_5">
 			<DisplayName>Swordsprite</DisplayName>
-			<Desc>Gather together a Demonic Aura to summon forth a sword spirit, increasing the number of artifacts you can control. It can also be utilized as the catalyst to split out a new sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases number of controllable Artifacts by 1.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Gather together a Demonic Aura to summon forth a sword spirit, increasing the number of artifacts you can control. It can also be utilized as the catalyst to split out a new วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases number of controllable Artifacts by 1.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_6">
 			<DisplayName>Sword Ultima II</DisplayName>
@@ -377,18 +377,18 @@
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_3">
 			<DisplayName>Meticulous Revision</DisplayName>
-			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces Attainment without affecting actual strength.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Decreases Attainment by 15.[/color][/size]</EffectDesc>
+			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces ค่าความสำเร็จ without affecting actual strength.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Decreases ค่าความสำเร็จ by 15.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_4">
 			<DisplayName>Meticulous Revision</DisplayName>
-			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces Attainment without affecting actual strength.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Decreases Attainment by 20.[/color][/size]</EffectDesc>
+			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces ค่าความสำเร็จ without affecting actual strength.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Decreases ค่าความสำเร็จ by 20.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_5">
 			<DisplayName>Meticulous Revision</DisplayName>
-			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces Attainment without affecting actual strength.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Decreases Attainment by 30.[/color][/size]</EffectDesc>
+			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces ค่าความสำเร็จ without affecting actual strength.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Decreases ค่าความสำเร็จ by 30.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_LvUpEsoterica_6">
 			<DisplayName>Divine Awareness - Absolution</DisplayName>
@@ -516,7 +516,7 @@
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_4">
 			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various meridian points around the body, greatly prolonging one's life and increasing Potential.</Desc>
+			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various เส้นพลังชี่ points around the body, greatly prolonging one's life and increasing Potential.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases Potential.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_5">
@@ -556,18 +556,18 @@
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_5">
 			<DisplayName>Soul-splitting Book of Eastwood</DisplayName>
-			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten sub-spirits. Very miraculous.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains two sub-spirits.[/color][/size]</EffectDesc>
+			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten วิญญาณย่อย. Very miraculous.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains two วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_6">
 			<DisplayName>Soul-splitting Book of Eastwood</DisplayName>
-			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten sub-spirits. Very miraculous.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains three sub-spirits.[/color][/size]</EffectDesc>
+			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten วิญญาณย่อย. Very miraculous.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains three วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_LvUpEsoterica_7">
 			<DisplayName>Soul-splitting Book of Eastwood</DisplayName>
-			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten sub-spirits. Very miraculous.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains four sub-spirits.[/color][/size]</EffectDesc>
+			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten วิญญาณย่อย. Very miraculous.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains four วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

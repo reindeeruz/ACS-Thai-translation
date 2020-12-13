@@ -24,34 +24,34 @@
 			<DisplayName>ยาเม็ดดวงตะวัน</DisplayName>
 		</Text>
 		<Text Name="Dan_Ling3">
-			<DisplayName>Divine Powder</DisplayName>
+			<DisplayName>ผงพลังเทพ</DisplayName>
 			<Desc>Increases ค่าพลังชี่สูงสุด by 100,000.</Desc>
 		</Text>
 		<Text Name="Dan_Defense">
-			<DisplayName>Shield Pill</DisplayName>
+			<DisplayName>ยาเม็ดโล่ห์</DisplayName>
 			<Desc>Increases your base Protection strength by 30%.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBaseFromLife">
 			<DisplayName>Pill of the Five Clingings</DisplayName>
 		</Text>
 		<Text Name="Dan_FiveBase1">
-			<DisplayName>Heavenly Pill</DisplayName>
+			<DisplayName>ยาเม็ดสวรรค์</DisplayName>
 			<Desc>Increases Perception by 30% for 48 hours.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase2">
-			<DisplayName>Earthly Pill</DisplayName>
+			<DisplayName>ยาเม็ดแผ่นดิน</DisplayName>
 			<Desc>Increases Constitution by 30% for 48 hours.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase3">
-			<DisplayName>Ether Pill</DisplayName>
+			<DisplayName>ยาเม็ดอีเธอร์</DisplayName>
 			<Desc>Increases Charisma by 30% for 48 hours.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase4">
-			<DisplayName>Wisdom Pill</DisplayName>
+			<DisplayName>ยาเม็ดเมธา</DisplayName>
 			<Desc>Increases Intelligence by 30% for 48 hours.</Desc>
 		</Text>
 		<Text Name="Dan_FiveBase5">
-			<DisplayName>Blessed Pill</DisplayName>
+			<DisplayName>ยาเม็ดผาสุก</DisplayName>
 			<Desc>Increases Luck by 30% for 48 hours.</Desc>
 		</Text>
 		<Text Name="Dan_PracticeRate">
@@ -72,35 +72,35 @@
 			<Desc>Consumption of the ยาเม็ดเคลิ้มสุข will immerse one in happiness within two days, but it greatly hinders work efficiency.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger">
-			<DisplayName>Inedia Pill</DisplayName>
-			<Desc>Consumption of Inedia Pill grants one the ability of พลังชี่ Absorption for two days, enabling auto-replenishment of Hunger.</Desc>
+			<DisplayName>ยาเม็ดพลังอด</DisplayName>
+			<Desc>Consumption of ยาเม็ดพลังอด grants one the ability of พลังชี่ Absorption for two days, enabling auto-replenishment of Hunger.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger1">
-			<DisplayName>Nourish Pill</DisplayName>
-			<Desc>Consumption of the Nourish Pill decreases one's Hunger and Fatigue rates within two days.</Desc>
+			<DisplayName>ยาเม็ดบำรุง</DisplayName>
+			<Desc>Consumption of the ยาเม็ดบำรุง decreases one's Hunger and ความเหนื่อยล้า rates within two days.</Desc>
 		</Text>
 		<Text Name="Dan_NoHunger2">
 			<DisplayName>ยาเม็ดอดอาหาร</DisplayName>
 			<Desc>Consumption of ยาเม็ดอดอาหาร will significantly decrease the speed at which one consumes food and water.</Desc>
 		</Text>
 		<Text Name="Dan_LostSoul">
-			<DisplayName>Sedation Pill</DisplayName>
+			<DisplayName>ยาเม็ดระงับประสาท</DisplayName>
 			<Desc>Very basic mineral-based pill. Consuming this pill will cause one's brain function to be repressed and fell into a coma for 3 whole days.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseLife1">
-			<DisplayName>Life Pill</DisplayName>
+			<DisplayName>ยาเม็ดยืดชีวิต</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife2">
-			<DisplayName>Vitata Elixir</DisplayName>
+			<DisplayName>ยาวิเศษวิตาทา</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife3">
-			<DisplayName>Eternity Pill</DisplayName>
+			<DisplayName>ยาเม็ดชั่วนิรันดร์</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife4">
-			<DisplayName>Regen Pill</DisplayName>
+			<DisplayName>ยาเม็ดฟื้นฟูชีวิต</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife5">
-			<DisplayName>Morrow Pill</DisplayName>
+			<DisplayName>ยาเม็ดวันใหม่</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife6">
 			<DisplayName>Life Spring</DisplayName>
@@ -151,7 +151,7 @@
 		</Text>
 		<Text Name="Modifier_Item_LongXianGuo">
 			<DisplayName>ผลไม้อำพัน</DisplayName>
-			<Desc>By consuming the Amber Fruit, one becomes immune to hunger and fatigue within half a day.</Desc>
+			<Desc>By consuming the Amber Fruit, one becomes immune to hunger and ความเหนื่อยล้า within half a day.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_LingWater">
 			<DisplayName>น้ำค้างวิญญาณ</DisplayName>
@@ -159,50 +159,50 @@
 		</Text>
 		<Text Name="Dan_LingStone">
 			<DisplayName>Advanced พลังชี่ Resonance</DisplayName>
-			<Desc>Use spirit stone in cultivation to resonate with พลังชี่ energies, greatly increasing one's พลังชี่ Recovery Rate and Cultivation Speed.</Desc>
+			<Desc>Use หินวิญญาณ in cultivation to resonate with พลังชี่ energies, greatly increasing one's พลังชี่ Recovery Rate and Cultivation Speed.</Desc>
 		</Text>
 		<Text Name="Dan_LingCrystal">
 			<DisplayName>Advanced พลังชี่ Resonance</DisplayName>
 			<Desc>Use Spirit Crystal in cultivation to deeply resonate with พลังชี่ energies, greatly increasing one's พลังชี่ Recovery Rate and Cultivation Speed.</Desc>
 		</Text>
 		<Text Name="Dan_IncreaseNeckCountdown1">
-			<DisplayName>Harmony Pill</DisplayName>
+			<DisplayName>ยาเม็ดสงบ</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseNeckCountdown2">
-			<DisplayName>Justice Pill</DisplayName>
+			<DisplayName>ยาเม็ดพิพากษา</DisplayName>
 		</Text>
 		<Text Name="Dan_Fail1">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>ยาเม็ดขยะ</DisplayName>
 			<Desc>After taking that strange elixir pill, my body was suddenly shrunk.</Desc>
 		</Text>
 		<Text Name="Dan_Fail2">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>ยาเม็ดขยะ</DisplayName>
 			<Desc>After taking that strange elixir pill, my body was suddenly enlarged.</Desc>
 		</Text>
 		<Text Name="Dan_Fail3">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>ยาเม็ดขยะ</DisplayName>
 		</Text>
 		<Text Name="Dan_Fail4">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>ยาเม็ดขยะ</DisplayName>
 		</Text>
 		<Text Name="Dan_Fail5">
-			<DisplayName>Junk Pill</DisplayName>
+			<DisplayName>ยาเม็ดขยะ</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul1">
-			<DisplayName>Anguish Pill</DisplayName>
+			<DisplayName>ยาเม็ดทรมาน</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul2">
-			<DisplayName>Soulrend Pill</DisplayName>
+			<DisplayName>ยาเม็ดกระจายวิญญาณ</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul3">
-			<DisplayName>Serene Pill</DisplayName>
+			<DisplayName>ยาเม็ดใจสงบ</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul4">
-			<DisplayName>Scorch Pill</DisplayName>
+			<DisplayName>ยาเม็ดแผดเผา</DisplayName>
 			<Desc>Consume part of your lifespan to gain superb intelligence for 2 hours, but it will leave permanent damage to intelligence afterwards.</Desc>
 		</Text>
 		<Text Name="Dan_Soul4_D">
-			<DisplayName>Scorch Pill Negative</DisplayName>
+			<DisplayName>ยาเม็ดแผดเผา Negative</DisplayName>
 		</Text>
 		<Text Name="Dan_LunHui1">
 			<DisplayName>Touched</DisplayName>
@@ -215,10 +215,10 @@
 			<DisplayName>Sarira</DisplayName>
 		</Text>
 		<Text Name="Dan_LingYuanZhong">
-			<DisplayName>Spirit Seed (Consumable)</DisplayName>
+			<DisplayName>เมล็ดวิญญาณ (Consumable)</DisplayName>
 		</Text>
 		<Text Name="Dan_LingYuanZhong_Equip">
-			<DisplayName>Spirit Seed (Equipment)</DisplayName>
+			<DisplayName>เมล็ดวิญญาณ (Equipment)</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_YuanHunLu">
 			<DisplayName>Holy Nectar</DisplayName>
@@ -238,7 +238,7 @@
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu">
 			<DisplayName>Fortune Nectar</DisplayName>
-			<Desc>By consuming the Fortune Nectar, one's Primordial Spirit enters a state of oblivion.</Desc>
+			<Desc>By consuming the Fortune Nectar, one's วิญญาณบรรพกาล enters a state of oblivion.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu1">
 			<DisplayName>Fortune Nectar Effects</DisplayName>
@@ -255,17 +255,17 @@
 		</Text>
 		<Text Name="Modifier_Item_BossZhuLong_Meat">
 			<DisplayName>Primeval Flesh</DisplayName>
-			<Desc>Decreases Attainment and increases Lifespan.</Desc>
+			<Desc>Decreases ค่าความสำเร็จ and increases Lifespan.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Dan_FabaoNumAdd">
 			<DisplayName>Increases number of Artifacts by 1.</DisplayName>
 			<Desc>Increases maximum number of Artifacts by 1.</Desc>
 		</Text>
 		<Text Name="Modifier_Dan_LieShenDan">
-			<DisplayName>Division Pill</DisplayName>
+			<DisplayName>ยาเม็ดแบ่งแยก</DisplayName>
 		</Text>
 		<Text Name="Modifier_Dan_TiShen">
-			<DisplayName>Clone Pill</DisplayName>
+			<DisplayName>ยาเม็ดโคลนนิ่ง</DisplayName>
 			<Desc>Allows you to escape from an Auction.</Desc>
 		</Text>
 	</List>

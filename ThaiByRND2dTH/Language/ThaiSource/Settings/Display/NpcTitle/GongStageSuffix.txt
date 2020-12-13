@@ -2,5 +2,5 @@
 Shaper,Hermit
 Essence Shaper,Taoist
 Golden Core,Spiritualist
-Primordial Spirit,Master
+วิญญาณบรรพกาล,Master
 Demi-เซียน,Saint

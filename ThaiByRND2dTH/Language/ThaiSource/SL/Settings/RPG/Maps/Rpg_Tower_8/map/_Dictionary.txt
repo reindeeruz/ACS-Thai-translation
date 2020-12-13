@@ -14,7 +14,7 @@
 苍莽五色简	Colossal Prismatic  Book
 佩戴者可以提高抵御土属性伤害之力。	Increases the wearer's resistance to Earth Damage.
 土甲符	Eartharmor Talisman
-佩戴者可以提高道行。	Increases the wearer's Attainment.
+佩戴者可以提高道行。	Increases the wearer's ค่าความสำเร็จ.
 借天符	Heavenlent Talisman
 可以轻微提高炼制丹药的产量。	Used to slightly raise yield of Alchemy.
 万化承丹符	Impermanence Talisman
@@ -32,8 +32,8 @@
 灵剑符	Spiritsword Talisman
 角色出生点	Born Point
 逻辑点	Logic Point
-圣火	Spirit Stone Fire Cauldron
-灵石长明兽神灯	Spirit Stone Animalian Ever-burning Lamp
+圣火	หินวิญญาณ Fire Cauldron
+灵石长明兽神灯	หินวิญญาณ Animalian Ever-burning Lamp
 火铜墙	Igneocopper Wall
 火铜长明兽神灯	Igneocopper Animalian Ever-burning Lamp
 火铜门	Igneocopper Door

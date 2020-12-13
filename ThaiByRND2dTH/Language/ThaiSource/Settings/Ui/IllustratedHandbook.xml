@@ -52,50 +52,50 @@
 				Floor Dragon will show its Prismatic Scale only after releasing Dragon Wrath for three times.]]></Text>
 		</Help>
 		<Help Name="Feng" Type="Icon" Def="Boss_Feng">
-			<Title>Phoenix</Title>
+			<Title>ฟินิกซ์</Title>
 			<Icon>ui/Other/bosstujian2</Icon>
 		</Help>
 		<Help Name="Feng_P1" Root="Feng" Type="Content">
 			<Title>Firestruck</Title>
 			<Text><![CDATA[
 [color=#9e6404]Iridescent Flame: [/color]
-				Phoenix blows blazing flames, continuously dealing damage to target with a chance of lighting up nearby ground.
+				ฟินิกซ์ blows blazing flames, continuously dealing damage to target with a chance of lighting up nearby ground.
 [color=#9e6404]Fuse: [/color]
-				Phoenix marks a character for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%.
+				ฟินิกซ์ marks a character for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If ฟินิกซ์ is counteractive with the marked character's stats, damage increases by 200%.
 [color=#9e6404]Firekeeper: [/color]
-				Phoenix breathes in deeply to absorb all fire in the location, recovering พลังชี่ and gaining the Power of Fire Spirit based on the amount of absorbed fire.
+				ฟินิกซ์ breathes in deeply to absorb all fire in the location, recovering พลังชี่ and gaining the Power of Fire Spirit based on the amount of absorbed fire.
 [color=#9e6404]Fire Eruption: [/color]
-				When the Power of Fire Spirit reaches 100 stacks, Phoenix will enter the Inferno form and risk its life to release 16 Feathers of Fire Spirit for attack.]]></Text>
+				When the Power of Fire Spirit reaches 100 stacks, ฟินิกซ์ will enter the Inferno form and risk its life to release 16 Feathers of Fire Spirit for attack.]]></Text>
 		</Help>
 		<Help Name="Feng_P2" Root="Feng" Type="Content">
 			<Title>Inferno Form</Title>
 			<Text><![CDATA[
 [color=#9e6404]Inferno Hold[/color]
-				Phoenix continues to consume the Power of Fire Spirit to maintain its Inferno form. When all Power of Fire Spirit is consumed, Phoenix will return to its original form and try to retrieve Feathers of Fire Spirit, each of which helps to recover 10% of its พลังชี่.
+				ฟินิกซ์ continues to consume the Power of Fire Spirit to maintain its Inferno form. When all Power of Fire Spirit is consumed, ฟินิกซ์ will return to its original form and try to retrieve Feathers of Fire Spirit, each of which helps to recover 10% of its พลังชี่.
 [color=#9e6404]Inferno Breath[/color]
-				Phoenix blows out flames in an arc, dealing damage to characters in the area with a chance of lighting up the ground.
+				ฟินิกซ์ blows out flames in an arc, dealing damage to characters in the area with a chance of lighting up the ground.
 [color=#9e6404]Flame Fuse: [/color]
-				Phoenix marks all Metal cultivators for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If Phoenix is counteractive with the marked character's stats, damage increases by 200%. If there is no Metal cultivator, it will mark a random character to release Flame Fuse upon.
+				ฟินิกซ์ marks all Metal cultivators for a period of time, and when it ends, deals huge damage to the area within 2 space of the character, distributed evenly to all creatures in the area. If ฟินิกซ์ is counteractive with the marked character's stats, damage increases by 200%. If there is no Metal cultivator, it will mark a random character to release Flame Fuse upon.
 [color=#9e6404]Firekeeper: [/color]
-				Phoenix breathes in deeply to absorb all fire in the location, recovering พลังชี่ and gaining the Power of Fire Spirit based on the amount of absorbed fire.
+				ฟินิกซ์ breathes in deeply to absorb all fire in the location, recovering พลังชี่ and gaining the Power of Fire Spirit based on the amount of absorbed fire.
 [color=#9e6404]Sun Crystal: [/color]
-				Phoenix risks its life to release the essence of fire, raising the temperature of the whole area in an attempt to burn the place to ashes.]]></Text>
+				ฟินิกซ์ risks its life to release the essence of fire, raising the temperature of the whole area in an attempt to burn the place to ashes.]]></Text>
 		</Help>
 		<Help Name="Feng_Secret" Root="Feng" Type="Content">
 			<Title>Secrets</Title>
 			<Text><![CDATA[
 [color=#9e6404]Fire Form: [/color]
-				Phoenix is of Fire element, more susceptible to Water damage, less to Fire damage and even less to Metal damage. Wood damage will be absorbed.
-[color=#9e6404]Enraged Phoenix[/color]
-				When it rains, Phoenix will enter its rage mode and stop all actions to immediately release Firestruck to nearby ground three times in a row. Deals great damage to all enemies in the area. Firestruck targets areas with more Fire and Water element first. Phoenix will immediately release Firekeeper after Enraged Phoenix and then dissipate clouds, maintaining the sunny weather for a period of time.
+				ฟินิกซ์ is of Fire element, more susceptible to Water damage, less to Fire damage and even less to Metal damage. Wood damage will be absorbed.
+[color=#9e6404]Enraged ฟินิกซ์[/color]
+				When it rains, ฟินิกซ์ will enter its rage mode and stop all actions to immediately release Firestruck to nearby ground three times in a row. Deals great damage to all enemies in the area. Firestruck targets areas with more Fire and Water element first. ฟินิกซ์ will immediately release Firekeeper after Enraged ฟินิกซ์ and then dissipate clouds, maintaining the sunny weather for a period of time.
 [color=#9e6404]Burning Pupil[/color]
-				If one part of Phoenix's body is destroyed, it will focus its power of true fire on releasing Burning Pupil to stare at the character that destroyed the part, dealing increasingly higher damage. And Phoenix's body will weaken for its lack of defense during the attack.
+				If one part of ฟินิกซ์'s body is destroyed, it will focus its power of true fire on releasing Burning Pupil to stare at the character that destroyed the part, dealing increasingly higher damage. And ฟินิกซ์'s body will weaken for its lack of defense during the attack.
 [color=#9e6404]Nirvana[/color]
-				Dead Phoenix will be transformed into Phoenix Egg and try to absorb พลังชี่ within 49 days in order to be reborn. During this period, if the Phoenix Egg exhausts its พลังชี่, the Phoenix will completely die. If it fully recharges its พลังชี่, the Phoenix will be reborn. It will also die if the Egg fails to absorb enough พลังชี่ within 49 days.
+				Dead ฟินิกซ์ will be transformed into ฟินิกซ์ Egg and try to absorb พลังชี่ within 49 days in order to be reborn. During this period, if the ฟินิกซ์ Egg exhausts its พลังชี่, the ฟินิกซ์ will completely die. If it fully recharges its พลังชี่, the ฟินิกซ์ will be reborn. It will also die if the Egg fails to absorb enough พลังชี่ within 49 days.
 [color=#9e6404]Wings of Fire Spirit[/color]
-				In the Firestruck form, Phoenix' wings are protected by Feathers of Fire Spirit and thus nearly indestructible. The wings can only be destroyed after it has released Feathers of Fire Spirit in its Inferno form.
+				In the Firestruck form, ฟินิกซ์' wings are protected by Feathers of Fire Spirit and thus nearly indestructible. The wings can only be destroyed after it has released Feathers of Fire Spirit in its Inferno form.
 [color=#9e6404]Sun Crystal: [/color]
-				Phoenix' Sun Crystal is the essence of all of its great power, and only Water artifacts can deal damage to it.]]></Text>
+				ฟินิกซ์' Sun Crystal is the essence of all of its great power, and only Water artifacts can deal damage to it.]]></Text>
 		</Help>
 		<Help Name="ZhuLong" Type="Icon" Def="Boss_ZhuLong">
 			<Title>มังกรประทีป</Title>

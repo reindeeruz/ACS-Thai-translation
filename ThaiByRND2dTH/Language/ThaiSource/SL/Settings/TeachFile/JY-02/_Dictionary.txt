@@ -47,11 +47,11 @@
 苍莽千光甲	Colossal Thousand Rays  Shirt
 棕石	Brownstone
 地龙圭	Groundragon  Dualjade
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
-灵石水缸	Spirit Stone Water Vat
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
+灵石水缸	หินวิญญาณ Water Vat
 梧桐木水井	Parasol Wood Well
 灵晶墙	Spirit Crystal Wall
 灵晶门	Spirit Crystal Door
@@ -91,7 +91,7 @@
 寒精门派石碑	Ice Essence Sect Stele
 寒精观星台	Ice Essence Observatory
 傀儡停放点	Vessel Spot
-灵石置物台	Spirit Stone Display
+灵石置物台	หินวิญญาณ Display
 棕石墙	Brownstone Wall
 铁床	Iron Bed
 棕石门	Brownstone Door

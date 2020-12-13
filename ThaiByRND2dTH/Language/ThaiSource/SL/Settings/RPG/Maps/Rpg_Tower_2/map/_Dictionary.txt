@@ -24,7 +24,7 @@
 梧桐木弓	Parasol Wood Bow
 鹿蜀皮休闲衣衫	Lushu Hide Casual Shirt
 火精剑	Fire Essence Sword
-灵石弓	Spirit Stone Bow
+灵石弓	หินวิญญาณ Bow
 妖韧皮休闲衣衫	Tough Demon Hide Casual Shirt
 妖韧皮薄下裳	Tough Demon Hide Thin Pants
 流星	Goldwood Spear

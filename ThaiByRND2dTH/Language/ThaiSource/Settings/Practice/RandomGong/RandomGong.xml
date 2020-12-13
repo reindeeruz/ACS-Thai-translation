@@ -12,7 +12,7 @@
 			<StageInfo.2.2.DisplayName>Embryonic</StageInfo.2.2.DisplayName>
 			<StageInfo.3.0.DisplayName>Origin Incubation</StageInfo.3.0.DisplayName>
 			<StageInfo.3.1.DisplayName>Spirit Soaring</StageInfo.3.1.DisplayName>
-			<StageInfo.3.2.DisplayName>Primordial Spirit</StageInfo.3.2.DisplayName>
+			<StageInfo.3.2.DisplayName>วิญญาณบรรพกาล</StageInfo.3.2.DisplayName>
 			<SkillTree.1.RandomNode.0.EsotericaTypeDesc>Artifact Mastery</SkillTree.1.RandomNode.0.EsotericaTypeDesc>
 			<SkillTree.1.RandomNode.1.EsotericaTypeDesc>Spell</SkillTree.1.RandomNode.1.EsotericaTypeDesc>
 			<SkillTree.1.RandomNode.2.EsotericaTypeDesc>Protect</SkillTree.1.RandomNode.2.EsotericaTypeDesc>
@@ -42,7 +42,7 @@
 			<SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>Considerably </SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>
 			<SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>Greatly </SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>
 			<SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>Massively </SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>
-			<SkillTree.FixNodes.0.DisplayName>Eureka Pill</SkillTree.FixNodes.0.DisplayName>
+			<SkillTree.FixNodes.0.DisplayName>ยาเม็ดยูเรก้า</SkillTree.FixNodes.0.DisplayName>
 			<SkillTree.FixNodes.1.DisplayName>Taoist Artifact</SkillTree.FixNodes.1.DisplayName>
 			<Desc.Format.0.Format>Law with very sub-par qualities, it is a shallow work of {0}. This method inherited the essence of {1} and developed a new Law focused on many innovative ideas on {2}. Although this is a rather shallow Law, there might yet be some hidden gems.</Desc.Format.0.Format>
 			<Desc.Format.1.Format>Law with rather mediocre qualities, it is an average work of {0}. This method inherited the essence of {1} and developed a new Law focused on many innovative ideas on {2}. Although one can only achieve Core Shaping with this Law, some of its theories could be inspirational.</Desc.Format.1.Format>

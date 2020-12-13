@@ -144,7 +144,7 @@
 				
 				Pain: The degree to which a character is feeling pain, which affects a character's consciousness. Each character has different tolerance of pain. Painkillers can be used to relieve pain.
 				Consciousness:  A character's consciousness, affected by any kind of brain injury or acute pain.
-				Meridians:  The flow of a character's meridians, which affects the character's cultivation process and ค่าพลังชี่สูงสุด.
+				เส้นพลังชี่:  The flow of a character's เส้นพลังชี่, which affects the character's cultivation process and ค่าพลังชี่สูงสุด.
 				Movement:  A character's ability to move, affected by any leg or spine injury. Movement affects a character's movement speed and efficiency for most types of work. 
 				Dexterity:  A character's ability to perform maneuvers, affected by any arm or spine injury. Dexterity affects a character's efficiency for most types of work. 
 				Observation: A character's ability to perceive the outer worlds, affected when the character's eyes and ears take damage. Observation affects one's viewing distance and efficiency for most types of work. 
@@ -442,13 +442,13 @@
 			Select a location to survive the tribulation before the countdown ends. The cultivator's progress will decide whether they can survive the tribulation.]]></Text>
 		</Help>
 		<Help Name="66" Root="6">
-			<Title>Inspiration &amp; Attainment</Title>
+			<Title>Inspiration &amp; ค่าความสำเร็จ</Title>
 			<Text><![CDATA[
 				Characters can gain [color=#2E589A]Inspiration[/color] during cultivation. In 'Inspiration' under the Cultivation tab, you can spend a character's Inspiration to enable them to study a manual, which will improve their ability.
 				
-				Each time a character studies a new manual by spending Inspiration, they become more acquainted with the Creed of Heaven. A character's Attainment will increase as they study more manuals. 
+				Each time a character studies a new manual by spending Inspiration, they become more acquainted with the Creed of Heaven. A character's ค่าความสำเร็จ will increase as they study more manuals. 
 				
-				[color=#2E589A]Attainment[/color] means how much knowledge a character has stolen from Heaven. Cultivation is not a natural progress. A character with more Attainment will attract more notice from Heaven, and the Inspiration cost for new manual learning will increase as well. 
+				[color=#2E589A]ค่าความสำเร็จ[/color] means how much knowledge a character has stolen from Heaven. Cultivation is not a natural progress. A character with more ค่าความสำเร็จ will attract more notice from Heaven, and the Inspiration cost for new manual learning will increase as well. 
 			[img]ui/Help_en2/043[/img]]]></Text>
 		</Help>
 		<Help Name="67" Root="6">
@@ -476,7 +476,7 @@
 			If a sect has one or more inner disciples, you can click on the interactive button 'Draw Talisman' to draw a talisman. Talisman drawing will require talisman paper, which can be created at the talisman drawing table. The better talisman paper is used, the stronger the talisman's effect will be. Learn new drawing patterns requires new talisman charts, which can be acquired in adventures. A finished talisman is only effective when equipped on a character. 
 			
 			[color=#9e6404]Smelt[/color] 
-			If a sect has one or more inner disciples, you will be able to smelt items into หินวิญญาณ. The number of หินวิญญาณ gained will be determined by the พลังชี่ value of the item. Every 500 พลังชี่ means one spirit stone generated. Smelting an artifact will always produce หินวิญญาณ. Smelting a higher tier artifact will result in more หินวิญญาณ produced.]]></Text>
+			If a sect has one or more inner disciples, you will be able to smelt items into หินวิญญาณ. The number of หินวิญญาณ gained will be determined by the พลังชี่ value of the item. Every 500 พลังชี่ means one หินวิญญาณ generated. Smelting an artifact will always produce หินวิญญาณ. Smelting a higher tier artifact will result in more หินวิญญาณ produced.]]></Text>
 		</Help>
 		<Help Name="69" Root="6">
 			<Title>Miracle</Title>
@@ -533,11 +533,11 @@
 				Branch disciples can have two types of stats bonuses. 
 					1. Area Bonus: Granted only in an area assigned to the branch. 
 					2. Normal Bonus: Granted as long as the disciple is under this branch. 
-			[color=#9e6404]5. Retirement & Fatigue[/color] 
-				When relieved from all duties, a character will experience a lasting fatigue. 
-				The fatigue will be decided by how exhausting their work used to be. 
-				The duration of fatigue will be decided by how many days the character was on duty. If the character had multiple duties, the time on duty will be from the start of the first duty to the end of the last one. (Shortest: 14d; Longest: 84d) 
-				Note: There will not be any fatigue if a character is only on duty for a short time before retiring.]]></Text>
+			[color=#9e6404]5. Retirement & ความเหนื่อยล้า[/color] 
+				When relieved from all duties, a character will experience a lasting ความเหนื่อยล้า. 
+				The ความเหนื่อยล้า will be decided by how exhausting their work used to be. 
+				The duration of ความเหนื่อยล้า will be decided by how many days the character was on duty. If the character had multiple duties, the time on duty will be from the start of the first duty to the end of the last one. (Shortest: 14d; Longest: 84d) 
+				Note: There will not be any ความเหนื่อยล้า if a character is only on duty for a short time before retiring.]]></Text>
 		</Help>
 		<Help Name="71" Root="7">
 			<Title>Explore the World</Title>
@@ -595,39 +595,39 @@
 					A claimed Legacy Artifact can only be used by its master.]]></Text>
 		</Help>
 		<Help Name="73" Root="7">
-			<Title>Sub-Spirits</Title>
+			<Title>วิญญาณย่อย</Title>
 			<Text><![CDATA[
-			After achieving the State of Primordial Spirit, a cultivator can split their spirit into Sub-Spirits. 
-			Sub-Spirits are important resources for a character of Primordial Spirit State to get stronger. 
+			After achieving the State of วิญญาณบรรพกาล, a cultivator can split their spirit into วิญญาณย่อย. 
+			วิญญาณย่อย are important resources for a character of วิญญาณบรรพกาล State to get stronger. 
 				[color=#9e6404]1. Split Spirit[/color] 
-					A cultivator can split their spirit at most 64 times. One can split one's spirit into more Sub-Spirits by Practicing, surviving Heavenly Tribulations, consuming pills or studying Secret Laws. 
-				[color=#9e6404]2. Put Sub-Spirits into Use[/color] 
-					After being able to split up one's spirit, a cultivator can Attach their Sub-Spirits onto objects to further strengthen themselves. 
-					The more Sub-Spirits Attached, the higher the State of the cultivator's Primordial Spirit. 
+					A cultivator can split their spirit at most 64 times. One can split one's spirit into more วิญญาณย่อย by Practicing, surviving Heavenly Tribulations, consuming pills or studying Secret Laws. 
+				[color=#9e6404]2. Put วิญญาณย่อย into Use[/color] 
+					After being able to split up one's spirit, a cultivator can Attach their วิญญาณย่อย onto objects to further strengthen themselves. 
+					The more วิญญาณย่อย Attached, the higher the State of the cultivator's วิญญาณบรรพกาล. 
 				[color=#9e6404]3. Attach Segments[/color] 
-					A cultivator possessing Primordial Spirit can Attach their Sub-Spirits in the Craft Artifact screen. 
+					A cultivator possessing วิญญาณบรรพกาล can Attach their วิญญาณย่อย in the Craft Artifact screen. 
 					[img]ui/Help_en2/055[/img]
-					To Attach a Sub-Spirit to a piece of equipment means infusing a portion of the cultivator's power into it using the Sub-Spirit as the vehicle. 
-					After Attaching a Sub-Spirit, while losing part of their power, the cultivator gains room to explore new powers. 
-					The higher the State of a cultivator's Primordial Spirit, the stronger the power can be attached through Sub-Spirits. 
+					To Attach a วิญญาณย่อย to a piece of equipment means infusing a portion of the cultivator's power into it using the วิญญาณย่อย as the vehicle. 
+					After Attaching a วิญญาณย่อย, while losing part of their power, the cultivator gains room to explore new powers. 
+					The higher the State of a cultivator's วิญญาณบรรพกาล, the stronger the power can be attached through วิญญาณย่อย. 
 					[img]ui/Help_en2/056[/img]
 				[color=#9e6404]4. Spiritual Equipment[/color] 
-					The pieces of equipment Attached with Sub-Spirits become Spiritual.
-					A Spiritual equipment takes effect unconditionally when equipped by the cultivator who produced the Sub-Spirit residing in it. 
-					However, other cultivators shall equip multiple pieces of Spiritual equipment to have them actually take effect, and the Sub-Spirits within them should come from the same cultivator. 
+					The pieces of equipment Attached with วิญญาณย่อย become Spiritual.
+					A Spiritual equipment takes effect unconditionally when equipped by the cultivator who produced the วิญญาณย่อย residing in it. 
+					However, other cultivators shall equip multiple pieces of Spiritual equipment to have them actually take effect, and the วิญญาณย่อย within them should come from the same cultivator. 
 					The stronger the power of the Spiritual equipment, the more other pieces of equipment are needed to activate it. 
 					[img]ui/Help_en2/057[/img]]]></Text>
 		</Help>
 		<Help Name="74" Root="7">
 			<Title>Tribulation Challenge</Title>
 			<Text><![CDATA[
-				After achieving the State of Primordial Spirit, a cultivator can take on a Challenge of Life Tribulation or Attainment Tribulation in the Cultivation panel. 
+				After achieving the State of วิญญาณบรรพกาล, a cultivator can take on a Challenge of Life Tribulation or ค่าความสำเร็จ Tribulation in the Cultivation panel. 
 				[img]ui/Help_en2/058[/img]
-				For every 100 Attainment a character has, they can take on Challenge of Attainment Tribulation for once. If they succeed, they'll lose Attainment and gain Sub-Spirits. 
-				For every 1000 Lifespan a character has, they can take on Challenge of Life Tribulation for once. If they succeed, they'll gain Sub-Spirits and extend their lifespan. 
-				Moreover, each time a character survives a tribulation to remain in the physical plane, they will also gain Sub-Spirits and lots of Inspiration. 
+				For every 100 ค่าความสำเร็จ a character has, they can take on Challenge of ค่าความสำเร็จ Tribulation for once. If they succeed, they'll lose ค่าความสำเร็จ and gain วิญญาณย่อย. 
+				For every 1000 Lifespan a character has, they can take on Challenge of Life Tribulation for once. If they succeed, they'll gain วิญญาณย่อย and extend their lifespan. 
+				Moreover, each time a character survives a tribulation to remain in the physical plane, they will also gain วิญญาณย่อย and lots of Inspiration. 
 				
-				Surviving Heavenly Tribulations can be an important source of Sub-Spirits, allowing one to explore new powers.]]></Text>
+				Surviving Heavenly Tribulations can be an important source of วิญญาณย่อย, allowing one to explore new powers.]]></Text>
 		</Help>
 		<Help Name="75" Root="7">
 			<Title>Formations</Title>
@@ -741,7 +741,7 @@
 			[color=#9e6404]1. Auctioned Items[/color] 
 				All auctioned items will be displayed at the beginning of the Auction. 
 			[color=#9e6404]2. Auction Rules[/color] 
-				You can click the price shown below the item to increase your bid. Once you've give up, then you can't bid on this item anymore. At the end of the auction, the highest bidder wins the item. If the price is colored in red, then you haven't got enough Spirit Stone to actually buy the item. Bid at your own risk. 
+				You can click the price shown below the item to increase your bid. Once you've give up, then you can't bid on this item anymore. At the end of the auction, the highest bidder wins the item. If the price is colored in red, then you haven't got enough หินวิญญาณ to actually buy the item. Bid at your own risk. 
 			[color=#9e6404]3. Unknown Items[/color] 
 				In some of the Auctions, you don't know what you are bidding for until you win the bid. 
 			[color=#9e6404]4. Auction Results[/color] 
@@ -985,7 +985,7 @@
 		<Help Name="111" Root="11">
 			<Title>Introduction to Pets</Title>
 			<Text><![CDATA[
-			Pets, or Spirit Pets, are a special type of animal. In a way, they are like Disciples in their possession of the full complement of behaviors. At the same time, once a pet's Stats have reached a certain level, they unlock access to stronger Miracles and Spells. Different pets unlock different miracles and spells. Pets have the following characteristics: 
+			Pets, or สัตว์เลี้ยงวิญญาณ, are a special type of animal. In a way, they are like Disciples in their possession of the full complement of behaviors. At the same time, once a pet's Stats have reached a certain level, they unlock access to stronger Miracles and Spells. Different pets unlock different miracles and spells. Pets have the following characteristics: 
 			[color=#9e6404]1. Training[/color]
 			Players can affect change to their behavior using training, thus enabling them to develop pets in a particular way or direction.
 			[color=#9e6404]2. Conduct[/color]
@@ -1142,7 +1142,7 @@
 			<Text><![CDATA[
 			Everything on Earth is affected by the changes in the cosmos, as well as from masters' opening minds and bringing Intelligence, this is also how วิญญาณรับรู้s are born. A thing could be illuminated in following situations:
 			[color=#9e6404]1. Awakening by a Master[/color]
-			Cultivators with deep Attainment have Epiphanies about heaven and earth that frequently affect those around them. With enough luck, this kind of influence could even lead to Intelligence.
+			Cultivators with deep ค่าความสำเร็จ have Epiphanies about heaven and earth that frequently affect those around them. With enough luck, this kind of influence could even lead to Intelligence.
 			[color=#9e6404]2. Celestial Phenomena[/color]
 			Natural celestial phenomena represent the tumultuous changes in the rules of heaven and earth. When one happens, there's a chance that it will result in the birth of Intelligence.
 			[color=#9e6404]3. Miracles[/color]
@@ -1183,14 +1183,14 @@
 		<Help Name="P12" Root="P1">
 			<Title>Manual Pavilion</Title>
 			<Text><![CDATA[
-			New Building: Manual Pavilion is added. You can now record and manage your Manuals through the Manual Pavilion. Each Shelf has its Capacity. The more Attainment is needed to study a Manual, the more space the Manual will take on the Shelf. You can record Manuals by the following means: 
+			New Building: Manual Pavilion is added. You can now record and manage your Manuals through the Manual Pavilion. Each Shelf has its Capacity. The more ค่าความสำเร็จ is needed to study a Manual, the more space the Manual will take on the Shelf. You can record Manuals by the following means: 
 			[color=#9e6404]1. Record by Law[/color] 
 				Record all non-advanced Manuals of a Law. 
 			[color=#9e6404]2. Record Single Manual[/color] 
 				Record a Single Manual. 
 			[color=#9e6404]3. Record by Learner[/color] 
 				Record all non-advanced Manuals learned by a single character.  
-			The more Manuals stored in Manual Pavilion, the greater the bonus received by all your disciples in Sect. They will need less Attainment to study a Manual.]]></Text>
+			The more Manuals stored in Manual Pavilion, the greater the bonus received by all your disciples in Sect. They will need less ค่าความสำเร็จ to study a Manual.]]></Text>
 		</Help>
 		<Help Name="P13" Root="P1">
 			<Title>Building Blueprint</Title>

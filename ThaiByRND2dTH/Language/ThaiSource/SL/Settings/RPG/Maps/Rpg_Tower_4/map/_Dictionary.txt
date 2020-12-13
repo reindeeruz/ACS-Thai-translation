@@ -60,9 +60,9 @@
 大理石置物台	Marble Display
 大理石墙	Marble Wall
 大理石巨灵雕像	Marble Stone Giant
-灵石灯柱	Spirit Stone Lamp Post
-灵石置物台	Spirit Stone Display
-灵石门	Spirit Stone Door
+灵石灯柱	หินวิญญาณ Lamp Post
+灵石置物台	หินวิญญาณ Display
+灵石门	หินวิญญาณ Door
 朱	Zhu
 乐语	Yueyu
 天苍 231年第72日,通过从闻药味获取的理智，对有点愤怒的感知，对墙的认知，产生了一点灵智碎片。

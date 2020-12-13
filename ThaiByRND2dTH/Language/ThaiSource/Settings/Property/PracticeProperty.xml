@@ -143,8 +143,8 @@
 			<Desc>The maximum amount of manuals.</Desc>
 		</Text>
 		<Text Name="AbilityLvAddV">
-			<DisplayName>Attainment Bonus</DisplayName>
-			<Desc>The actual Attainment bonus value.</Desc>
+			<DisplayName>ค่าความสำเร็จ Bonus</DisplayName>
+			<Desc>The actual ค่าความสำเร็จ bonus value.</Desc>
 			<FunctionKind>Cultivation Stats</FunctionKind>
 		</Text>
 		<Text Name="ExperiencePrestigeAddP">

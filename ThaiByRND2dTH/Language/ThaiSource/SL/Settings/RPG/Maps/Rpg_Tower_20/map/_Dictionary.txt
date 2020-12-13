@@ -16,7 +16,7 @@
 玄甲符	Darkarmor Talisman
 鹿蜀皮修行衣衫	Lushu Hide Sect Uniform
 鹿蜀皮薄下裳	Lushu Hide Thin Pants
-龙雀	Spirit Stone Mace
+龙雀	หินวิญญาณ Mace
 火精刀	Blade
 丙丁天机刀	Southern Phecda Blade
 火精矿镐	Pickaxe
@@ -25,7 +25,7 @@
 坤元太极石	Earthbound The Supreme Pole  Stele
 可以提高视野范围，并提高历练时发现新地点的速度。	Talisman used to improve range of views, and reduce time spent discovering a new location in adventure.
 千里神视符	Talisman of Foreseer
-佩戴者可以降低道行。	Decreases the wearer's Attainment.
+佩戴者可以降低道行。	Decreases the wearer's ค่าความสำเร็จ.
 遮天符	Heavenshrouding Talisman
 鹿蜀皮薄衣衫	Lushu Hide Thin Shirt
 鹿蜀皮修行下裳	Lushu Hide Cultivator Pants
@@ -67,8 +67,8 @@
 太上通宝符	Talisman of Riches
 角色出生点	Born Point
 逻辑点	Logic Point
-灵石栅栏	Spirit Stone Fence
-灵石法座	Spirit Stone พลังชี่ Cushion
+灵石栅栏	หินวิญญาณ Fence
+灵石法座	หินวิญญาณ พลังชี่ Cushion
 莫	Mo
 剑平	Jianping
 别	Bie

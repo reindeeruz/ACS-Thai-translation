@@ -2,7 +2,7 @@
 清心草	ใบพิศุทธิ์
 人参	โสม
 灵芝	GanodermaLucidum
-灵仙草	Spirit Leaf
+灵仙草	ใบวิญญาณ
 麦田	Wheat
 草药	Herb
 储存区	Storage
@@ -102,7 +102,7 @@
 兔皮薄衣衫	เสื้อบางหนังกระต่าย
 野猪皮薄下裳	Boar Hide Thin Pants
 星髓弓	Lumina Core Bow
-灵石刀	Spirit Stone Blade
+灵石刀	หินวิญญาณ Blade
 寒晶长枪	Ice Crystal Spear
 星髓剑	Lumina Core Sword
 大理石锤	Marble Mace
@@ -134,7 +134,7 @@
 熊皮休闲衣衫	Bear Hide Casual Shirt
 铁矿镐	Iron Pickaxe
 狼皮休闲下裳	Wolf Hide Casual Pants
-青冥	Spirit Stone Sword
+青冥	หินวิญญาณ Sword
 灵石剑	Sword
 万里异骨剑	Sword
 玄铁刀	Darksteel Blade
@@ -183,23 +183,23 @@
 铁虫鸟架	Iron Bird Cage
 铁法座	Iron พลังชี่ Cushion
 铁鼎	Iron Cauldron
-灵石置物台	Spirit Stone Display
-灵石道德天尊雕像	Spirit Stone Virtue Statue
-灵石灵宝天尊雕像	Spirit Stone Treasures Statue
-灵石屏风	Spirit Stone Folding Screen
-灵石墙	Spirit Stone Wall
-灵石门（通常）	Spirit Stone Door
-灵石花瓶	Spirit Stone Vase
-灵石双人床	Spirit Stone Double Bed
-灵石琴台	Spirit Stone Zither Table
-灵石围棋桌	Spirit Stone Go Table
-灵石鼎	Spirit Stone Cauldron
+灵石置物台	หินวิญญาณ Display
+灵石道德天尊雕像	หินวิญญาณ Virtue Statue
+灵石灵宝天尊雕像	หินวิญญาณ Treasures Statue
+灵石屏风	หินวิญญาณ Folding Screen
+灵石墙	หินวิญญาณ Wall
+灵石门（通常）	หินวิญญาณ Door
+灵石花瓶	หินวิญญาณ Vase
+灵石双人床	หินวิญญาณ Double Bed
+灵石琴台	หินวิญญาณ Zither Table
+灵石围棋桌	หินวิญญาณ Go Table
+灵石鼎	หินวิญญาณ Cauldron
 大理石门（通常）	Marble Door
-灵石桌子	Spirit Stone Table
+灵石桌子	หินวิญญาณ Table
 铁灯笼	Iron Lantern
 铁灯柱	Iron Lamp Post
 铁围棋桌	Iron Go Table
-灵石护山剑阵	Spirit Stone Sword Shield
+灵石护山剑阵	หินวิญญาณ Sword Shield
 铁油灯	Iron Oil Lamp
 木练功点	Wood Training Spot
 铁水缸	Iron Water Vat
@@ -227,9 +227,9 @@
 大理石太极旗	Marble Tai Chi Flag
 金丝木太极旗	Goldwood Tai Chi Flag
 金丝木八卦旗	Goldwood Trigrams Flag
-灵石元始天尊雕像	Spirit Stone Beginning Statue
-灵石神鹤灯	Spirit Stone Crane Lantern
-灵石狮子	Spirit Stone Stone Lion
+灵石元始天尊雕像	หินวิญญาณ Beginning Statue
+灵石神鹤灯	หินวิญญาณ Crane Lantern
+灵石狮子	หินวิญญาณ Stone Lion
 木法座	Wood พลังชี่ Cushion
 木太极旗	Wood Tai Chi Flag
 大理石塔	Marble Pagoda
@@ -237,10 +237,10 @@
 灰石盆栽-迎客	Graystone Bonsai (Pine)
 灰石盆栽-苍翠	Graystone Bonsai (Lush)
 灰石书架	Graystone Decoration Shelf
-灵石镇塔	Spirit Stone Subduer Pagoda
-灵石假山-叠嶂	Spirit Stone Rock Garden (Hill)
-灵石盆栽-苍翠	Spirit Stone Bonsai (Lush)
-灵石太极旗	Spirit Stone Tai Chi Flag
+灵石镇塔	หินวิญญาณ Subduer Pagoda
+灵石假山-叠嶂	หินวิญญาณ Rock Garden (Hill)
+灵石盆栽-苍翠	หินวิญญาณ Bonsai (Lush)
+灵石太极旗	หินวิญญาณ Tai Chi Flag
 大理石香炉	Marble Censer
 一	One
 大理石碑	Marble Stele
@@ -248,19 +248,19 @@
 大理石灯柱	Marble Lamp Post
 大理石神鹤灯	Marble Crane Lantern
 灰石钟	Graystone Bell
-灵石灯柱	Spirit Stone Lamp Post
-灵石雕塑	Spirit Stone Stone Giant
-灵石香炉	Spirit Stone Censer
-灵石祖师牌位	Spirit Stone Ancestral Shrine
-灵石法座	Spirit Stone พลังชี่ Cushion
-灵石八卦旗	Spirit Stone Trigrams Flag
-灵石灯笼	Spirit Stone Lantern
-灵石碑	Spirit Stone Stele
-灵石盆栽-迎客	Spirit Stone Bonsai (Pine)
-灵石假山-层峦	Spirit Stone Rock Garden (Peak)
+灵石灯柱	หินวิญญาณ Lamp Post
+灵石雕塑	หินวิญญาณ Stone Giant
+灵石香炉	หินวิญญาณ Censer
+灵石祖师牌位	หินวิญญาณ Ancestral Shrine
+灵石法座	หินวิญญาณ พลังชี่ Cushion
+灵石八卦旗	หินวิญญาณ Trigrams Flag
+灵石灯笼	หินวิญญาณ Lantern
+灵石碑	หินวิญญาณ Stele
+灵石盆栽-迎客	หินวิญญาณ Bonsai (Pine)
+灵石假山-层峦	หินวิญญาณ Rock Garden (Peak)
 红布蒲团	Red Fabric Cushion
 金丝木钟	Goldwood Bell
-灵石观星台	Spirit Stone Observatory
+灵石观星台	หินวิญญาณ Observatory
 吃东西	
 睡觉	Sleeping
 闲逛	

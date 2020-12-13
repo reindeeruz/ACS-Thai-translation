@@ -22,7 +22,7 @@
 		</Text>
 		<Text Name="SmallPool" sParam="Building">
 			<ThingName>บ่อดวงชะตา</ThingName>
-			<Desc>A pool made from Fire Copper and Ice Crystal with a Fortune Seed as its core. It can gradually improve the quality of the surrounding earth.</Desc>
+			<Desc>A pool made from Fire Copper and Ice Crystal with a เมล็ดดวง as its core. It can gradually improve the quality of the surrounding earth.</Desc>
 		</Text>
 		<Text Name="StreetLight" sParam="Building">
 			<ThingName>เสาตะเกียง</ThingName>

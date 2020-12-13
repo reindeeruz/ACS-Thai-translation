@@ -14,8 +14,8 @@
 		</Text>
 		<Text Name="Item_MiBao_ShiErShaShenMoLingSha" sParam="Item">
 			<ThingName>Sand of Destruction</ThingName>
-			<Desc>Vicious artifact recorded in the Book of a Hundred Poisons. It is crafted by first mixing thousands of pounds of Igneocopper Powder with the five Spirit Liquids and concoct them into a small bag of Spirit Powder, then sacrificing twelve living beings with Primordial Spirit level of cultivation to it to incite ferociousness. By using this artifact, one can pollute the artifact of his opponent, making it unavailable for a period of time.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 12 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Desc>Vicious artifact recorded in the Book of a Hundred Poisons. It is crafted by first mixing thousands of pounds of Igneocopper Powder with the five Spirit Liquids and concoct them into a small bag of ผงวิญญาณ, then sacrificing twelve living beings with วิญญาณบรรพกาล level of cultivation to it to incite ferociousness. By using this artifact, one can pollute the artifact of his opponent, making it unavailable for a period of time.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 12 living beings with วิญญาณบรรพกาล while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianMoHuaXueShenDao" sParam="Item">
@@ -26,8 +26,8 @@
 		</Text>
 		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
 			<ThingName>Vortex Orb</ThingName>
-			<Desc>Secret Legacy Artifact passed down from the ancient demonic school of Blood Master Searcher. It is created by combining 9 Soul Pearl s while utilizing grudges as the catalyst to form one small orb, and then harness the lives of 36 living beings with Primordial Spirit level of cultivation. By killing with this orb, one can gradually incite ferociousness within it. Each person killed will increase its power by 10%, up to a maximum stacks of 36. However, a single day without blood and it will return to slumber.</Desc>
-			<Item.Fabao.ActiveCondition.0.des>Kill 36 living beings with Primordial Spirit while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
+			<Desc>Secret Legacy Artifact passed down from the ancient demonic school of Blood Master Searcher. It is created by combining 9 Soul Pearl s while utilizing grudges as the catalyst to form one small orb, and then harness the lives of 36 living beings with วิญญาณบรรพกาล level of cultivation. By killing with this orb, one can gradually incite ferociousness within it. Each person killed will increase its power by 10%, up to a maximum stacks of 36. However, a single day without blood and it will return to slumber.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Kill 36 living beings with วิญญาณบรรพกาล while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JiuTianYuanYangChi" sParam="Item">
@@ -38,7 +38,7 @@
 		</Text>
 		<Text Name="Item_MiBao_LongXinYinYangGui" sParam="Item">
 			<ThingName>Draconic Tablet</ThingName>
-			<Desc>Legacy Artifact inspired by the remains of the มังกรประทีป's primordial spirit. Its core is formed by condensing a hundred pound of Jade and the essence of มังกรประทีป together, aided with the power of change harnessed from nine consecutive midday and midnights to become spirit. Significantly improves one's Comprehension in Protection.</Desc>
+			<Desc>Legacy Artifact inspired by the remains of the มังกรประทีป's วิญญาณบรรพกาล. Its core is formed by condensing a hundred pound of Jade and the essence of มังกรประทีป together, aided with the power of change harnessed from nine consecutive midday and midnights to become spirit. Significantly improves one's Comprehension in Protection.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Specter refine at midday or midnight successfully for 9 continuous days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Protection skill level increased by 10.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -56,7 +56,7 @@
 		</Text>
 		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
 			<ThingName>Stardust Shuttle</ThingName>
-			<Desc>Secret artifact of the ancient Taiyin Cult. An incubation is forged by combining the essence of Ice Crystal with the meridian channels from a Flood Dragon's tail, and then nurtured with breath of a maiden. When attacking with this artifact, a portion of damage it caused can be converted into the artifact's own พลังชี่.</Desc>
+			<Desc>Secret artifact of the ancient Taiyin Cult. An incubation is forged by combining the essence of Ice Crystal with the เส้นพลังชี่ channels from a มังกรหลาก's tail, and then nurtured with breath of a maiden. When attacking with this artifact, a portion of damage it caused can be converted into the artifact's own พลังชี่.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Carried and nurtured by a maiden girl for one year.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>10% of damage dealt will be replenished to the artifact's พลังชี่.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -78,55 +78,55 @@
 		</Text>
 		<Text Name="Item_MiBao_JinFabao" sParam="Item">
 			<ThingName>White Cloud Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Sagacity Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Earth element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Wood element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with Sagacity Fruit essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Earth element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Wood element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Earth element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Wood element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_MuFabao" sParam="Item">
 			<ThingName>Green Lotus Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Gnarled Vine essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Water element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Earth element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with Gnarled Vine essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Water element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Earth element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Water element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Earth element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShuiFabao" sParam="Item">
 			<ThingName>Black Vulture Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Prismatic Lotus essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Metal element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Fire element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with Prismatic Lotus essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Metal element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Fire element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Metal element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Fire element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_HuoFabao" sParam="Item">
 			<ThingName>Soaring Flame Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with ผลไม้แดงสด essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Wood element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Metal element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with ผลไม้แดงสด essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Wood element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Metal element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Wood element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Metal element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TuFabao" sParam="Item">
 			<ThingName>Yellow Apricot Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of Phoenix as the pole, drawing with Ochre Essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Fire element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Water element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with Ochre Essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Fire element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Water element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Fire element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Water element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JinLianShenZuo" sParam="Item">
 			<ThingName>Golden Lotus Stand</ThingName>
-			<Desc>Long-lost Legacy Artifact of Buddhist tradition. Using Prismatic Lotus as the incubation, it is infused with thirty-six Dark Scales of Flood Dragon, and then nurtured with its own essence to become spiritual. This artifact has such a huge พลังชี่ Capacity that, although it cannot be used to attack, it can protect one's body from any artifact damage.</Desc>
+			<Desc>Long-lost Legacy Artifact of Buddhist tradition. Using Prismatic Lotus as the incubation, it is infused with thirty-six Dark Scales of มังกรหลาก, and then nurtured with its own essence to become spiritual. This artifact has such a huge พลังชี่ Capacity that, although it cannot be used to attack, it can protect one's body from any artifact damage.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Spend 100,000 stamina while carrying this artifact.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Surrounding the whole body, it focuses on defense and will not attack.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TunLingShenJian" sParam="Item">
 			<ThingName>Spellbound Scissors</ThingName>
-			<Desc>Amazing artifact crafted by ancient Taoist school that imitated the Spellbound Beasts. This artifact was created by using 2 Flood Dragon's Horns as the basis and then smelting ten thousand pounds of Spirit Stone to quench it into being. The more พลังชี่ spent while using this artifact, the more powerful it becomes.</Desc>
+			<Desc>Amazing artifact crafted by ancient Taoist school that imitated the Spellbound Beasts. This artifact was created by using 2 มังกรหลาก's Horns as the basis and then smelting ten thousand pounds of หินวิญญาณ to quench it into being. The more พลังชี่ spent while using this artifact, the more powerful it becomes.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Spend a total of 100,000,000 พลังชี่ while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>For every 10,000 พลังชี่ consumed, damage is increased by 10%, up to a maximum of 1000%. The effect is reset when replenishing พลังชี่ to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_ShenNongDing" sParam="Item">
 			<ThingName>Cauldron of the Harvest</ThingName>
-			<Desc>It is said to be a imitation of the cauldron used by Divine Farmer of old. The cauldron's body is carved out of Divine Jade, and forged by using Phoenix Fire Jade as the Spark of fire while combined with the powerful potency from ten thousands pounds of Spirit Leaf. When using this artifact, the more types of Elixir the user has taken, the more extent to which they will be able to stimulate its power.</Desc>
+			<Desc>It is said to be a imitation of the cauldron used by Divine Farmer of old. The cauldron's body is carved out of Divine Jade, and forged by using ฟินิกซ์ Fire Jade as the Spark of fire while combined with the powerful potency from ten thousands pounds of ใบวิญญาณ. When using this artifact, the more types of Elixir the user has taken, the more extent to which they will be able to stimulate its power.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Concoct 36 Elixirs while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>For each kind of Elixir consumed, its power is increased by 5%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_QingNingFeiYu" sParam="Item">
 			<ThingName>Feather of Agility</ThingName>
-			<Desc>Precious artifact from the Otherworld. Combine Phoenix's Oblivion Feather and Mantle Feather, and then neutralize its blaze with the essence of ten thousand pounds of ใบพิศุทธิ์ to create the incubation. Which then needs to undergo a process of closed-door self-training in a quiet and tranquil location in order to become spiritual. When using this artifact to attack, there is a chance of activating Breath of Tranquility to compensate yourself, reducing Spell Cast Delay by 1 second.</Desc>
+			<Desc>Precious artifact from the Otherworld. Combine ฟินิกซ์'s Oblivion Feather and Mantle Feather, and then neutralize its blaze with the essence of ten thousand pounds of ใบพิศุทธิ์ to create the incubation. Which then needs to undergo a process of closed-door self-training in a quiet and tranquil location in order to become spiritual. When using this artifact to attack, there is a chance of activating Breath of Tranquility to compensate yourself, reducing Spell Cast Delay by 1 second.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Stay on Heavenstep Peak for 36 days while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Every 2 attacks reduce skill cooldown by 1 second.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -138,25 +138,25 @@
 		</Text>
 		<Text Name="Item_MiBao_ZhuXianJian" sParam="Item">
 			<ThingName>Ragestriker</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine Lumina Cores to create the incubation of Metal element, which then absorbs Celestial Thunders to become spiritual. Its power multiplies when fighting against enemies that are also using artifacts. (Once equipped, right click to try to absorb Thunderstorm)</Desc>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used มังกรหลาก's Horn as the core, combined with nine Lumina Cores to create the incubation of Metal element, which then absorbs Celestial Thunders to become spiritual. Its power multiplies when fighting against enemies that are also using artifacts. (Once equipped, right click to try to absorb Thunderstorm)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Thunderstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when fighting against other artifacts.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_LuXianJian" sParam="Item">
 			<ThingName>Deathbringer</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with a hundred pound of Fire Essence ore to create the incubation of Fire element, which then absorbs Foehn Wind to become spiritual. There is a chance of spirit power spike occurring when attacking with it, dealing multiplied damage. (Once equipped, right click to try to absorb Foehn Wind)</Desc>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used มังกรหลาก's Horn as the core, combined with a hundred pound of Fire Essence ore to create the incubation of Fire element, which then absorbs Foehn Wind to become spiritual. There is a chance of spirit power spike occurring when attacking with it, dealing multiplied damage. (Once equipped, right click to try to absorb Foehn Wind)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Foehn Wind 9 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>When dealing damage, there is a 10% chance of dealing 5x damage.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_XianXianJian" sParam="Item">
 			<ThingName>Endless Fury</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine branches of Phoenixwood to create the incubation of Wood element, which then absorbs Noxious Air to become spiritual. Its attacks are accompanied by a power of corrosion, dealing additional damage to พลังชี่ Barrier. (Once equipped, right click to try to absorb Noxious Air)</Desc>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used มังกรหลาก's Horn as the core, combined with nine branches of Phoenixwood to create the incubation of Wood element, which then absorbs Noxious Air to become spiritual. Its attacks are accompanied by a power of corrosion, dealing additional damage to พลังชี่ Barrier. (Once equipped, right click to try to absorb Noxious Air)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Noxious Air 9 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Deals 1.5x damage when attacking the enemy's body itself.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_JueXianJian" sParam="Item">
 			<ThingName>Wrathbringer</ThingName>
-			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used Flood Dragon's Horn as the core, combined with nine Holy Stones to create the incubation of Earth element, which then absorbs Sandstorms to become spiritual. When launching an attack, there is a small chance of dealing a special damage, the amount of which is relative to the enemy's พลังชี่. (Once equipped, right click to try to absorb Sandstorm)</Desc>
+			<Desc>Divine blade passed on from ancient times. Although this one is a copy, it possesses deadly killing power nonetheless. This sword used มังกรหลาก's Horn as the core, combined with nine Holy Stones to create the incubation of Earth element, which then absorbs Sandstorms to become spiritual. When launching an attack, there is a small chance of dealing a special damage, the amount of which is relative to the enemy's พลังชี่. (Once equipped, right click to try to absorb Sandstorm)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Sandstorm 9 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>When attacking the enemy's body itself, there is a 1% chance of dealing an additional damage that is equal to 30% of the current target's พลังชี่.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -168,49 +168,49 @@
 		</Text>
 		<Text Name="Item_MiBao_TianShu" sParam="Item">
 			<ThingName>Sword of Dubhe</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Power. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Power. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Power Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianQuan" sParam="Item">
 			<ThingName>Sword of Megrez</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact พลังชี่. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact พลังชี่. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact พลังชี่ Bonus by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianJi" sParam="Item">
 			<ThingName>Sword of Phegda</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact's Knockback Resistance. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact's Knockback Resistance. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact's Knockback Resistance by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_TianXuan" sParam="Item">
 			<ThingName>Sword of Merak</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Turn Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Turn Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Turn Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YuHeng" sParam="Item">
 			<ThingName>Sword of Alioth</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact พลังชี่ Recovery Rate. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact พลังชี่ Recovery Rate. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact พลังชี่ Recovery Rate by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_KaiYang" sParam="Item">
 			<ThingName>Sword of Mizar</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Knockback. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Knockback. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Knockback by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_YaoGuang" sParam="Item">
 			<ThingName>Sword of Elkeid</ThingName>
-			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use Flood Dragon's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Fly Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
+			<Desc>One of the divine weapons of Grand Chariot passed on from ancient times. One may use มังกรหลาก's Claw along with forty-nine units of Darksteel to create the incubation, and then harness the power of the Grand Chariot stars to make it spiritual, fundamentally improving its Artifact Fly Speed. (Once equipped, right click to try to absorb Grand Chariot Starlight)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Grand Chariot Starlight continuously for 7 days.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Fundamentally increases your Artifact Fly Speed by 30%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_KuiHuaShenJian" sParam="Item">
 			<ThingName>Unus</ThingName>
-			<Desc>Secret sword forged according to the กฎกลั่นทานตะวัน, it is made by carving and piecing 3 Divine Jade together and mounted with 1 Fortune Seed. It then needs to absorb the breath of Polar Night Ouroboros to become a spirit. Every time this sword is used against the enemy, the first strike is several times of its original power. (Once equipped, right click to try to absorb Breath of Polar Night)</Desc>
+			<Desc>Secret sword forged according to the กฎกลั่นทานตะวัน, it is made by carving and piecing 3 Divine Jade together and mounted with 1 เมล็ดดวง. It then needs to absorb the breath of Polar Night Ouroboros to become a spirit. Every time this sword is used against the enemy, the first strike is several times of its original power. (Once equipped, right click to try to absorb Breath of Polar Night)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Absorb Breath of Polar Night 12 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Power of first sword strike increased by 500%. The effect is reset when replenishing พลังชี่ to the artifact.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -245,8 +245,8 @@
 			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_FengHunZhenTu" sParam="Item">
-			<ThingName>Phoenix Sword Formation</ThingName>
-			<Desc>Secret chart of Formation Diagram that records the Phoenix Sword Formation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</Desc>
+			<ThingName>ฟินิกซ์ Sword Formation</ThingName>
+			<Desc>Secret chart of Formation Diagram that records the ฟินิกซ์ Sword Formation. It is said to be a ฟินิกซ์-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</Desc>
 			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Attempt to meditated on the Formation Diagram.</StoryBnts.0.Desc>
 		</Text>

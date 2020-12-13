@@ -329,11 +329,11 @@ NotEat_Item_ShuiEssence	I wouldn't eat Prism Lotus
 NotEat_Item_JinEssence	I wouldn't eat Sagacity Fruit				
 NotEat_Item_MuEssence	I wouldn't eat Gnarled Vine				
 NotEat_Item_LifeStream	I wouldn't drink Life Spring				
-NotEat_Item_LongEgg	I wouldn't eat Flood Dragon Eggs				
-NotEat_Item_FengEgg	I wouldn't eat Phoenix Eggs				
+NotEat_Item_LongEgg	I wouldn't eat มังกรหลาก Eggs				
+NotEat_Item_FengEgg	I wouldn't eat ฟินิกซ์ Eggs				
 NotEat_Item_DragonShit	I wouldn't eat Dragon Feces				
 NotEat_Item_Jiaozi	I wouldn't eat Dumplings				
-NotEat_Item_BossFeng_Meat	I wouldn't eat Phoenix Flesh				
+NotEat_Item_BossFeng_Meat	I wouldn't eat ฟินิกซ์ Flesh				
 NotEat_Item_BossLong_Meat	I wouldn't eat Dragon Flesh				
 NotEat_Item_BossZhuLong_Meat	I wouldn't eat Primordial Flesh				
 NotEat_Item_Cake	I wouldn't eat Bread				
@@ -347,7 +347,7 @@ NotEat_Item_EarthEssence_1	I wouldn't eat Holy Essence
 NotEat_Item_EarthEssence1_1	I wouldn't eat Evil Essence				
 NotEat_Item_Healroot	I wouldn't eat Healing Herb				
 NotEat_Item_Mint	I wouldn't eat ใบพิศุทธิ์				
-NotEat_Item_MagicHerb	I wouldn't eat Spirit Leaf				
+NotEat_Item_MagicHerb	I wouldn't eat ใบวิญญาณ				
 NotEat_Item_Laxative	I wouldn't eat Laxative				
 WannaEat_Item_SnakeGallbladder					I really want to eat Snake Gall
 WannaEat_Item_BearGallbladder					I really want to eat Bear Gall
@@ -359,11 +359,11 @@ WannaEat_Item_ShuiEssence					I really want to eat Prism Lotus
 WannaEat_Item_JinEssence					I really want to eat Sagacity Fruit
 WannaEat_Item_MuEssence					I really want to eat Gnarled Vines
 WannaEat_Item_LifeStream					I really want to drink Life Spring
-WannaEat_Item_LongEgg					I really want to eat Flood Dragon Eggs
-WannaEat_Item_FengEgg					I really want to eat Phoenix Eggs
+WannaEat_Item_LongEgg					I really want to eat มังกรหลาก Eggs
+WannaEat_Item_FengEgg					I really want to eat ฟินิกซ์ Eggs
 WannaEat_Item_DragonShit					I really want to eat Dragon Feces
 WannaEat_Item_Jiaozi					I really want to eat Dumplings
-WannaEat_Item_BossFeng_Meat					I really want to eat Phoenix Flesh
+WannaEat_Item_BossFeng_Meat					I really want to eat ฟินิกซ์ Flesh
 WannaEat_Item_BossLong_Meat					I really want to eat Dragon Flesh
 WannaEat_Item_BossZhuLong_Meat					I really want to eat Primordial Flesh
 WannaEat_Item_Cake					I really want to eat Bread
@@ -377,7 +377,7 @@ WannaEat_Item_EarthEssence_1					I really want to eat Holy Essence
 WannaEat_Item_EarthEssence1_1					I really want to eat Evil Essence
 WannaEat_Item_Healroot					I really want to eat Healing Herb
 WannaEat_Item_Mint					I really want to eat ใบพิศุทธิ์
-WannaEat_Item_MagicHerb					I really want to eat Spirit Leaf
+WannaEat_Item_MagicHerb					I really want to eat ใบวิญญาณ
 WannaEat_Item_Laxative					I really want to eat Laxative
 DoTalkEat_Item_SnakeGallbladder					I'm eating Snake Gall
 DoTalkEat_Item_BearGallbladder					I'm eating Bear Gall
@@ -389,11 +389,11 @@ DoTalkEat_Item_ShuiEssence					I am eating Prism Lotus
 DoTalkEat_Item_JinEssence					I'm eating Sagacity Fruit
 DoTalkEat_Item_MuEssence					I'm eating Gnarled Vine
 DoTalkEat_Item_LifeStream					I'm drinking Life Spring
-DoTalkEat_Item_LongEgg					I'm eating Flood Dragon Eggs
-DoTalkEat_Item_FengEgg					I'm eating Phoenix Eggs
+DoTalkEat_Item_LongEgg					I'm eating มังกรหลาก Eggs
+DoTalkEat_Item_FengEgg					I'm eating ฟินิกซ์ Eggs
 DoTalkEat_Item_DragonShit					I'm eating Dragon Feces
 DoTalkEat_Item_Jiaozi					I'm eating Dumplings
-DoTalkEat_Item_BossFeng_Meat					I'm eating Phoenix Flesh
+DoTalkEat_Item_BossFeng_Meat					I'm eating ฟินิกซ์ Flesh
 DoTalkEat_Item_BossLong_Meat					I'm eating Dragon Flesh
 DoTalkEat_Item_BossZhuLong_Meat					I'm eating Primordial Flesh
 DoTalkEat_Item_Cake					I'm eating Bread
@@ -407,7 +407,7 @@ DoTalkEat_Item_EarthEssence_1					I'm eating Holy Essence
 DoTalkEat_Item_EarthEssence1_1					I'm eating Evil Essence
 DoTalkEat_Item_Healroot					I'm eating Healing Herb
 DoTalkEat_Item_Mint					I'm eating ใบพิศุทธิ์
-DoTalkEat_Item_MagicHerb					I'm eating Spirit Leaf
+DoTalkEat_Item_MagicHerb					I'm eating ใบวิญญาณ
 DoTalkEat_Item_Laxative					I'm eating Laxative
 CantEat_Item_SnakeGallbladder	I can't find any Snake Gall to eat				
 CantEat_Item_BearGallbladder	I can't find any Bear Gall to eat				
@@ -419,11 +419,11 @@ CantEat_Item_ShuiEssence	I can't find any Prismatic to eat
 CantEat_Item_JinEssence	I can't find any Sagacity Fruit to eat				
 CantEat_Item_MuEssence	I can't find any Gnarled Vine to eat				
 CantEat_Item_LifeStream	I can't find any Life Spring to drink				
-CantEat_Item_LongEgg	I can't find any Flood Dragon Eggs to eat				
-CantEat_Item_FengEgg	I can't find any Phoenix Eggs to eat				
+CantEat_Item_LongEgg	I can't find any มังกรหลาก Eggs to eat				
+CantEat_Item_FengEgg	I can't find any ฟินิกซ์ Eggs to eat				
 CantEat_Item_DragonShit	I can't find any Dragon Feces to eat				
 CantEat_Item_Jiaozi	I can't find any Dumplings to eat				
-CantEat_Item_BossFeng_Meat	I can't find any Phoenix Flesh to eat				
+CantEat_Item_BossFeng_Meat	I can't find any ฟินิกซ์ Flesh to eat				
 CantEat_Item_BossLong_Meat	I can't find any Dragon Flesh to eat				
 CantEat_Item_BossZhuLong_Meat	I can't find any Primordial Flesh to eat				
 CantEat_Item_Cake	I can't find any Bread to eat				
@@ -437,7 +437,7 @@ CantEat_Item_EarthEssence_1	I can't find any Holy Essence to eat
 CantEat_Item_EarthEssence1_1	I can't find any Evil Essence to eat				
 CantEat_Item_Healroot	I can't find any Healing Herb to eat				
 CantEat_Item_Mint	I can't find any ใบพิศุทธิ์ to eat				
-CantEat_Item_MagicHerb	I can't find any Spirit Leaf to eat				
+CantEat_Item_MagicHerb	I can't find any ใบวิญญาณ to eat				
 CantEat_Item_Laxative	I can't find any Laxative to eat				
 Leave1					{0}, be careful out on the road
 Leave2					Come back soon, {0}

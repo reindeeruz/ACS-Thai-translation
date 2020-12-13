@@ -13,8 +13,8 @@
 			<Desc>Logging camps in the mortal realm. Produces wood.</Desc>
 		</Text>
 		<Text Name="LingMine">
-			<DisplayName>Spirit Stone Mine</DisplayName>
-			<Desc>Spirit stone mines in the mortal realm. Produces หินวิญญาณ.</Desc>
+			<DisplayName>หินวิญญาณ Mine</DisplayName>
+			<Desc>หินวิญญาณ mines in the mortal realm. Produces หินวิญญาณ.</Desc>
 		</Text>
 		<Text Name="Statue">
 			<DisplayName>Statue</DisplayName>

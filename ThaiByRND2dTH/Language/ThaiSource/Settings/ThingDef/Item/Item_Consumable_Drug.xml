@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Item_Fruit" sParam="Item">
 			<ThingName>ผลไม้อำพัน</ThingName>
-			<Desc>A handful of Amber Fruit. Consuming them allows one to become immune from hunger and fatigue for half a day. However, the fruits rot quickly after being harvested.</Desc>
+			<Desc>A handful of Amber Fruit. Consuming them allows one to become immune from hunger and ความเหนื่อยล้า for half a day. However, the fruits rot quickly after being harvested.</Desc>
 			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LingWater" sParam="Item">
@@ -12,7 +12,7 @@
 		</Text>
 		<Text Name="Item_ZaoHuaYuLu" sParam="Item">
 			<ThingName>Fortune Dew</ThingName>
-			<Desc>Dew with the power of creation formed on a Spiritual Root. It will quickly disperse after being separated from the Spiritual Root. When consumed, one's primordial spirit will perish and fall into a state of feign death for 81 days, recovering from all injuries. One's flesh and bones will be completely remolded afterwards, increasing Five Attributes by 20% each, but their Attainment is significantly reduced. It can only be taken once by each person. Repeated consumption will cause one's primordial spirit to be permanently extinguished and disperse into oblivion.</Desc>
+			<Desc>Dew with the power of creation formed on a Spiritual Root. It will quickly disperse after being separated from the Spiritual Root. When consumed, one's วิญญาณบรรพกาล will perish and fall into a state of feign death for 81 days, recovering from all injuries. One's flesh and bones will be completely remolded afterwards, increasing Five Attributes by 20% each, but their ค่าความสำเร็จ is significantly reduced. It can only be taken once by each person. Repeated consumption will cause one's วิญญาณบรรพกาล to be permanently extinguished and disperse into oblivion.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SilverGrit" sParam="Item">
@@ -132,7 +132,7 @@
 			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_MagicHerb" sParam="Item">
-			<ThingName>Spirit Leaf</ThingName>
+			<ThingName>ใบวิญญาณ</ThingName>
 			<Desc>Herb rich in spiritual power, it is of a warm quality and is widely used. Can be utilized along with a variety of other materials to make elixirs.</Desc>
 			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
 		</Text>
@@ -193,7 +193,7 @@
 		</Text>
 		<Text Name="Item_XianBone" sParam="Item">
 			<ThingName>Divine Bones</ThingName>
-			<Desc>The remaining bones with divine power after an เซียน's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly พลังชี่, significantly reducing your Attainment.</Desc>
+			<Desc>The remaining bones with divine power after an เซียน's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly พลังชี่, significantly reducing your ค่าความสำเร็จ.</Desc>
 			<Item.FabaoSuffix>Bone, Skeleton</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBoneBall" sParam="Item">
@@ -201,55 +201,55 @@
 			<Desc>The remaining bones with the power of Belief retrieved from destroyed Deity's Body. If you are capable of bearing its power and integrate it into your body, it can significantly increase your Divinity, improve Mental State permanently as well as raising the Max Divine Residents cap. It grants a smaller effect if worn on the body.</Desc>
 		</Text>
 		<Text Name="Item_ZaoHuaYuZi" sParam="Item">
-			<ThingName>Fortune Seed</ThingName>
+			<ThingName>เมล็ดดวง</ThingName>
 			<Desc>Essence of what's deep inside the Drake Cave of Mt. Kunlun condense into. A very compact substance, it can only be used with a special secret method.</Desc>
 			<Item.FabaoSuffix>Jade, Seal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BenYuan_None" sParam="Item">
 			<ThingName>Origin (None)</ThingName>
-			<Desc>Crystal containing the purest essence of Natural Root. Only by cultivating Undefined skills can one be able to refine it. Successful refinement reduces Attainment, while failure will result in injury and an increase in Condemnation. The higher your Attainment, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<Desc>Crystal containing the purest essence of Natural Root. Only by cultivating Undefined skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
 			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Refinement</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Attempt to refine Natural Root.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Jin" sParam="Item">
 			<ThingName>Origin (Metal)</ThingName>
-			<Desc>Crystal containing the Natural Root of Metal element. Only by cultivating Metal-type skills can one be able to refine it. Successful refinement reduces Attainment, while failure will result in injury and an increase in Condemnation. The higher your Attainment, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<Desc>Crystal containing the Natural Root of Metal element. Only by cultivating Metal-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Mu" sParam="Item">
 			<ThingName>Origin (Wood)</ThingName>
-			<Desc>Crystal containing the Natural Root of Wood element. Only by cultivating Wood-type skills can one be able to refine it. Successful refinement reduces Attainment, while failure will result in injury and an increase in Condemnation. The higher your Attainment, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<Desc>Crystal containing the Natural Root of Wood element. Only by cultivating Wood-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Shui" sParam="Item">
 			<ThingName>Origin (Water)</ThingName>
-			<Desc>Crystal containing the Natural Root of Water element. Only by cultivating Water-type skills can one be able to refine it. Successful refinement reduces Attainment, while failure will result in injury and an increase in Condemnation. The higher your Attainment, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<Desc>Crystal containing the Natural Root of Water element. Only by cultivating Water-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Huo" sParam="Item">
 			<ThingName>Origin (Fire)</ThingName>
-			<Desc>Crystal containing the Natural Root of Fire element. Only by cultivating Fire-type skills can one be able to refine it. Successful refinement reduces Attainment, while failure will result in injury and an increase in Condemnation. The higher your Attainment, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<Desc>Crystal containing the Natural Root of Fire element. Only by cultivating Fire-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Tu" sParam="Item">
 			<ThingName>Origin (Earth)</ThingName>
-			<Desc>Crystal containing the Natural Root of Earth element. Only by cultivating Earth-type skills can one be able to refine it. Successful refinement reduces Attainment, while failure will result in injury and an increase in Condemnation. The higher your Attainment, the higher the success rate of refining.</Desc>
+			<Desc>Crystal containing the Natural Root of Earth element. Only by cultivating Earth-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining.</Desc>
 		</Text>
 		<Text Name="Item_YuanHunLu" sParam="Item">
 			<ThingName>Holy Nectar</ThingName>
-			<Desc>Dew containing the essence of a Beast's soul. Consuming it will slow down one's thought process, repairing damage on Primordial Spirit. However, slowing down of thoughts will negatively affect one's mental skills, decreasing Intelligence by 10%.</Desc>
+			<Desc>Dew containing the essence of a Beast's soul. Consuming it will slow down one's thought process, repairing damage on วิญญาณบรรพกาล. However, slowing down of thoughts will negatively affect one's mental skills, decreasing Intelligence by 10%.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XieHunLu" sParam="Item">
 			<ThingName>Evil Nectar</ThingName>
-			<Desc>Dew containing the essence of a Beast's soul. Consuming it will accelerate one's thought process for a period of one season, increasing Intelligence by 10% and improving learning abilities. Such an act will overdraw the power of soul, however, causing damage on your Primordial Spirit.</Desc>
+			<Desc>Dew containing the essence of a Beast's soul. Consuming it will accelerate one's thought process for a period of one season, increasing Intelligence by 10% and improving learning abilities. Such an act will overdraw the power of soul, however, causing damage on your วิญญาณบรรพกาล.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_YanDaoGuo" sParam="Item">
 			<ThingName>Insight Fruit</ThingName>
-			<Desc>Peculiar fruit containing Heaven's Breath. Consuming it allows one to observe the evolution of the ways of heaven and become one with them in harmony, greatly increasing Attainment and greatly decreasing Condemnation.</Desc>
+			<Desc>Peculiar fruit containing Heaven's Breath. Consuming it allows one to observe the evolution of the ways of heaven and become one with them in harmony, greatly increasing ค่าความสำเร็จ and greatly decreasing Condemnation.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_QieDaoGuo" sParam="Item">
 			<ThingName>Impose Fruit</ThingName>
-			<Desc>Peculiar fruit containing Heaven's Breath. Consuming it allows one to steal from the ways of heaven and consequently become a threat to them, greatly decreasing Attainment and greatly increasing Condemnation.</Desc>
+			<Desc>Peculiar fruit containing Heaven's Breath. Consuming it allows one to steal from the ways of heaven and consequently become a threat to them, greatly decreasing ค่าความสำเร็จ and greatly increasing Condemnation.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoShenNian" sParam="Item">

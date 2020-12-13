@@ -6,13 +6,13 @@
 肉干	 เนื้อตากแห้ง
 黄布休闲衣衫	Yellow Fabric Casual Shirt
 熊皮休闲下裳	Bear Hide Casual Pants
-灵石锤	Spirit Stone Mace
+灵石锤	หินวิญญาณ Mace
 寒晶矿石	Ice Crystal Ore
 凝光道德碑	Aqua Moral  Stele
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
 练功点	Training Spot
 公兔子	Male Rabbit
 雌龟	เต่าตัวเมีย

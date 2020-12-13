@@ -88,8 +88,8 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 91	Invasion of Beasts	A few giant frogs have shown up near here, and they are very hostile.	JYFrog	TongYong_DropList
 92	Invasion of Beasts	A few giant tortoises have shown up near here, and they are very hostile.	JYTurtle	TongYong_DropList
 93	Invasion of Beasts	A few beasts have shown up near here, and they are very hostile.		TongYong_DropList
-94	Flood Dragon Tracks		53	
-95	Phoenix Tracks		54	
+94	มังกรหลาก Tracks		53	
+95	ฟินิกซ์ Tracks		54	
 96	มังกรประทีป Tracks		55	
 97	Ancient Cultivator		56	
 98	Secret		59	
@@ -127,7 +127,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 130	Animal Joined	A frog has come to your sect, it seems to enjoy being here.	Frog	
 1000	Dragon Passing By			Item_DragonShit|Item_DragonScale
 1001	Burst of พลังชี่			
-1002	Phoenix Passing By			Item_BossFeng_HuoYu
+1002	ฟินิกซ์ Passing By			Item_BossFeng_HuoYu
 10000	Establishment	We live in seclusion here, trying to restart our cultivation. We also established a little sect of our own. Will this be the beginning of a new legend?\n\n[color=#D06508]Unlocked decorations.\nUnlocked more buildings.[/color]	FoundOrganization1	
 10001	Famous	Our sect has gradually earned its fame, which is not an easy task. Let's continue building it into a larger sect.\n\n[color=#D06508]The maximum population of the sect has been raised.[/color]	FoundOrganization2	
 10002	Eminent	Our sect has gained its eminence in the world of cultivators. It has become a sanctum of practice that everyone dreams of joining.\n\n[color=#D06508]The maximum population of the sect has been raised.\nYou can set up a new branch through Sect Structure.	FoundOrganization3	
@@ -185,7 +185,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10054	Unhinged Beast	A few beasts went crazy out of fear, and they even left their own territory to wreak havoc everywhere.		
 10055	Blazing Wing Falling	A wave of heat swept across the sky, and something strange has fallen down.		Item_BossFeng_HuoYu
 10056	Shrilling Sound	After casting a spell to drive away the prolonged drought, you found that the world seemed to become eerily quite for an hour. A few moments later, a large flock of birds suddenly flew up from remote mountains. A shrilling and sinister sound broke the silence.		
-10057	Phoenix	Phoenix is here.		
+10057	ฟินิกซ์	ฟินิกซ์ is here.		
 10058	Polar Night Begins	For unknown reasons, the realm suddenly lost its balance of Yin and Yang. A dark night shroud the area around your sect.		
 10059	Eggs of Yin	A few strange eggs suddenly appeared near your sect in the middle of the night. There is something hatching inside them...		
 10060	Polar Day Begins	For unknown reasons, the realm suddenly lost its balance of Yin and Yang. It turned high noon in the area around your sect... You don't know how long this chaos will continue.		

@@ -70,7 +70,7 @@
 		</Text>
 		<Text Name="LsPhoenix_Carve" sParam="Building">
 			<ThingName>รูปปั้นฟีนิกซ์มืด</ThingName>
-			<Desc>Statue of a Dark Phoenix. Can be used to revive or summon Dark Phoenix.</Desc>
+			<Desc>Statue of a Dark ฟินิกซ์. Can be used to revive or summon Dark ฟินิกซ์.</Desc>
 		</Text>
 	</List>
 </Texts>

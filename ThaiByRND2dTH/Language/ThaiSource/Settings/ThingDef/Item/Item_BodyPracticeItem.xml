@@ -100,12 +100,12 @@
 			<Desc>Mysterious essence that permeate the space between heaven and earth in the Polar Night. Their exact origin is unknown, as if do not belong to this world.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
-			<ThingName>Flood Dragon Essence</ThingName>
-			<Desc>Essence that contains Flood Dragon's mystery of life, which could be a great reference for Physical Cultivators.</Desc>
+			<ThingName>มังกรหลาก Essence</ThingName>
+			<Desc>Essence that contains มังกรหลาก's mystery of life, which could be a great reference for Physical Cultivators.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
-			<ThingName>Phoenix Essence</ThingName>
-			<Desc>Essence that contains Phoenix's mystery of life, which could be a great reference for Physical Cultivators.</Desc>
+			<ThingName>ฟินิกซ์ Essence</ThingName>
+			<Desc>Essence that contains ฟินิกซ์'s mystery of life, which could be a great reference for Physical Cultivators.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
 			<ThingName>มังกรประทีป Essence</ThingName>

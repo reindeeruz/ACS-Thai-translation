@@ -13,7 +13,7 @@
 		<Text Name="Esoterica_ZhenFa_3">
 			<DisplayName>Diagrams of the Spiritual Beasts</DisplayName>
 			<Desc>Secret manual of Formation Diagrams passed down from ancient times that took inspiration from the spiritual forms of beasts. Very miraculous and unique.</Desc>
-			<EffectDesc>Slightly increases Max Formation Load.\nUnlocks Pillar: \nArmored Scorpion Tail\nScaled Snake Breath\nSworded Turtle Tail\nCursed Turtle Form\nPetrified Turtle Shell\nCry of the Crane\nThundercloud Dragon\nSoaring Flood Dragon\n\nUnlocks Auxiliary: \nSword\nCreed\nJustice\nPliability\nScorpion Tail\nSnake Breath\nAlligator Maw\nDragon Song\nTurtle Form\nCrane Sword\nMirage</EffectDesc>
+			<EffectDesc>Slightly increases Max Formation Load.\nUnlocks Pillar: \nArmored Scorpion Tail\nScaled Snake Breath\nSworded Turtle Tail\nCursed Turtle Form\nPetrified Turtle Shell\nCry of the Crane\nThundercloud Dragon\nSoaring มังกรหลาก\n\nUnlocks Auxiliary: \nSword\nCreed\nJustice\nPliability\nScorpion Tail\nSnake Breath\nAlligator Maw\nDragon Song\nTurtle Form\nCrane Sword\nMirage</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_4">
 			<DisplayName>Polarized Diagrams of Mt. Zhongyuan</DisplayName>
@@ -140,7 +140,7 @@
 			<Desc>Secret chart of Formation Diagram that records the Ragestriker Formation. It is said to be the most ruthless Formation of all on ancient battlefields, being virtually invincible and unstoppable.</Desc>
 			<EffectDesc>Significantly increases Formation Load.\nIncreases Formation Size\nUnlocks Ancient Formation Diagram: \nRagestriker Formation</EffectDesc>
 			<ZhenShapes.0.Name>Ragestriker Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate simultaneously, and the Formation is immediately filled with Sword Aura. Even the truest เซียน can hardly survive within it.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Descript>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with วิญญาณบรรพกาล, the four swords will vibrate simultaneously, and the Formation is immediately filled with Sword Aura. Even the truest เซียน can hardly survive within it.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit2">
 			<DisplayName>Conqueror's Formation</DisplayName>
@@ -168,14 +168,14 @@
 			<Desc>Secret Formation Diagram that records the Dragonrider Formation. It is said to be a dragon controlling Formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</Desc>
 			<EffectDesc>Increases Max Formation Load.\nUnlocks Ancient Formation Diagram: \nDragonrider Formation</EffectDesc>
 			<ZhenShapes.0.Name>Dragonrider Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Flood Dragon as foundation. It is said to be a dragon-controlling formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of มังกรหลาก as foundation. It is said to be a dragon-controlling formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit6">
-			<DisplayName>Phoenix Sword Formation</DisplayName>
-			<Desc>Secret chart of Formation Diagram that records the Phoenix Sword Formation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</Desc>
+			<DisplayName>ฟินิกซ์ Sword Formation</DisplayName>
+			<Desc>Secret chart of Formation Diagram that records the ฟินิกซ์ Sword Formation. It is said to be a ฟินิกซ์-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</Desc>
 			<EffectDesc>Increases Max Formation Load.\nUnlocks Ancient Formation Diagram: \nPhoenix Sword Formation</EffectDesc>
-			<ZhenShapes.0.Name>Phoenix Sword Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Phoenoxica as foundation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
+			<ZhenShapes.0.Name>ฟินิกซ์ Sword Formation</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Phoenoxica as foundation. It is said to be a ฟินิกซ์-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit7">
 			<DisplayName>Yin Yang Formation</DisplayName>

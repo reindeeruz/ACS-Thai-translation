@@ -8,8 +8,8 @@
 神感符	Talisman of Divine Perception
 佩戴者可以提高抵御水属性伤害之力。	Increases the wearer's resistance to Water Damage.
 水甲符	Waterarmor Talisman
-灵石玄阴圣泉	Spirit Stone Sacred Yin Spring
-灵石轻纱灯	Spirit Stone Veiled Lamp
+灵石玄阴圣泉	หินวิญญาณ Sacred Yin Spring
+灵石轻纱灯	หินวิญญาณ Veiled Lamp
 角色出生点	
 逻辑点	
 祝	Zhu

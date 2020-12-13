@@ -38,20 +38,20 @@ ID	Name	Description	胜利字符串	失败字符串
 20046	Conflict	Recently, {0} and {1} sent out their elite disciples to explore an เซียน's mansion, but unexpectedly, they were all wiped out. The two sects began to suspect each other and conflicted ensued.		
 20048	Power Increased	The {0} elder who had retreated into seclusion for over a thousand years, {1}, finally succeeded in their practice and reappeared in the world. {0} had gained another sage.		
 20049	Power Increased	{0} found a small Heavenly Abode of an ancient sect in [PLACE], after searching the place, the sect became much more powerful than before.		
-20050	Power Increased	{0} killed a Flood Dragon in [PLACE] and gained a large amount of rare resources, strengthening the sect's power.		
-20051	Power Increased	{0} killed a Phoenix in [PLACE] and gained a large amount of rare resources, strengthening the sect's power.		
+20050	Power Increased	{0} killed a มังกรหลาก in [PLACE] and gained a large amount of rare resources, strengthening the sect's power.		
+20051	Power Increased	{0} killed a ฟินิกซ์ in [PLACE] and gained a large amount of rare resources, strengthening the sect's power.		
 20052	Power Increased	{0} killed an มังกรประทีป in [PLACE] and gained a large amount of rare resources, strengthening the sect's power.		
 20053	Power Increased	{0} found a cave mansion of an ancient artifact cultivator and gained many artifacts attached with primordial spirits, strengthening the sect's power.		
 20054	Power Increased	An ascended ancestor of {0} suddenly blessed the sect with a large amount of fortune, strengthening the sect's power.		
 20055	Power Increased	{0} optimized the core formation of the sect, strengthening the sect's power.		
-20056	Power Increased	The ripe spirit root of {0} affected the Creed of Heaven and caused พลังชี่ to converge. Blessed by the converging พลังชี่, the sect's power was strengthened.		
+20056	Power Increased	The ripe รากวิญญาณ of {0} affected the Creed of Heaven and caused พลังชี่ to converge. Blessed by the converging พลังชี่, the sect's power was strengthened.		
 20057	Power Increased	The founder of {0} suddenly descended into the mortal world and gave a lecture to the whole sect. The sect's power was strengthened.		
 20058	Power Increased	A small sect living in seclusion under the deep sea came on land to escape the threat of giant sea beasts, and their whole sect joined {0} in exchange for their shelter, strengthening the {0}'s power.		
 20059	Power Increased	{0} reformed their sect regulations and rearranged their branches, giving the sect a whole new look. The sect's power was strengthened.		
 20060	Power Decreased	A sage of {0} was facing Heavenly Tribulation for staying in the mortal realm for too long. They failed to survive the tribulation due to the sudden change of astronomical phenomena and died under the sky.		
 20061	Power Decreased	The whole sect of {0} was plagued by a strange disease resembling the flu. Many inner disciples had died because of it. The sect's power was weakened.		
-20062	Power Decreased	All the sect elders of {0} were out on adventures when the sect was attacked by a Flood Dragon. A large amount of rare resources and treasures were destroyed by Deadly Flood. The sect's power was weakened.		
-20063	Power Decreased	All the sect elders of {0} were out on adventures when the sect was attacked by a Phoenix. A large amount of rare resources and treasures were destroyed by Solar Eye. The sect's power was weakened.		
+20062	Power Decreased	All the sect elders of {0} were out on adventures when the sect was attacked by a มังกรหลาก. A large amount of rare resources and treasures were destroyed by Deadly Flood. The sect's power was weakened.		
+20063	Power Decreased	All the sect elders of {0} were out on adventures when the sect was attacked by a ฟินิกซ์. A large amount of rare resources and treasures were destroyed by Solar Eye. The sect's power was weakened.		
 20064	Power Decreased	All the sect elders of {0} were out on adventures when the sect was attacked by a มังกรประทีป. The sect was severely damaged by a large amount of hatching Eggs of Yin and Yang. The sect's power was weakened.		
 20065	Power Decreased	A branch of {0} betrayed the sect and escaped with many treasures, weakening the sect's power.		
 20066	Power Decreased	An elite group of {0} accidentally triggered the alert for the เซียน Abode while exploring an ancient เซียน's cave mansion. The whole group was wiped out, weakening the sect's power.		
@@ -59,7 +59,7 @@ ID	Name	Description	胜利字符串	失败字符串
 20068	Power Decreased	An elder of {0} lost control over their mental state while practicing, became enthralled and went on a killing spree in the sect, weakening the sect's power.		
 20069	Power Decreased	A sect elder of {0} was turned by their enemy sect and escaped from the old sect. They even stole a large amount of treasures during the chaos before they left. The sect's power was weakened.		
 20070	Power Decreased	{0} encountered a rare series of Polar Nights; spirit trees and countless plants in the herb garden withered and died. The sect's power was weakened.		
-20071	Power Decreased	The ripe spirit root of {0} had too much curse, attracting many fallen demons to rob it. A bloody fight broke out in the sect, weakening the sect's power.		
+20071	Power Decreased	The ripe รากวิญญาณ of {0} had too much curse, attracting many fallen demons to rob it. A bloody fight broke out in the sect, weakening the sect's power.		
 20072	Emergency Supply	The {0} elder who had retreated into seclusion for over a thousand years, {1}, finally succeeded in their practice and reappeared in the world. {0} had gained another sage.		
 20073	Emergency Supply	The founder of {0} descended into the mortal world with a manifestation. {0} had gained another sage.		
 20074	Emergency Supply	An elder of {0} inherited the legacy of an ancient sage by chance, and their power was drastically increased to the old sage's level. {0} had gained another sage.		

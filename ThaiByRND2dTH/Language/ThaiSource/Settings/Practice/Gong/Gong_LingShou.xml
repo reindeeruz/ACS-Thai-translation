@@ -1,8 +1,8 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="Gong_LingShou">
-			<DisplayName>Spirit Pet Practice</DisplayName>
-			<Desc>Laws used by Spirit Pets for practice.</Desc>
+			<DisplayName>สัตว์เลี้ยงวิญญาณ Practice</DisplayName>
+			<Desc>Laws used by สัตว์เลี้ยงวิญญาณ for practice.</Desc>
 			<Stages.0.DisplayName>State I</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>State I</Stages.0.Necks.0.DisplayName>
 			<Stages.1.DisplayName>State II</Stages.1.DisplayName>

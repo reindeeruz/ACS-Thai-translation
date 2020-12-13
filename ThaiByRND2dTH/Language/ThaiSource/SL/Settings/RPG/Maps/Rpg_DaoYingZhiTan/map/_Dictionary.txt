@@ -3,7 +3,7 @@
 武当琢玉秘传	Wutang Jade Polishing Secret Method
 铁矿石	Iron Ore
 五雷戮血印	Five Thunders Slaughter Boulder
-灵石法座	Spirit Stone พลังชี่ Cushion
+灵石法座	หินวิญญาณ พลังชี่ Cushion
 天柱石神鹤灯	Holy Stone Crane Lantern
 天柱石剑心玉莲	Holy Stone Swordheart Lotus
 上古残迹	Ancient Ruins
@@ -15,7 +15,7 @@
 赑屃玄碑	Bixi Stele
 鼓	Drum
 云龙鼓	Dragon Drum
-灵石香炉	Spirit Stone Censer
+灵石香炉	หินวิญญาณ Censer
 上古残木	Ancient Stump
 玉石腾龙柱	Jade Dragonrising Pillar
 玉石灯柱	Jade Lamp Post

@@ -317,37 +317,37 @@
 			<DisplayName>Golden Casket Opened</DisplayName>
 			<Desc>When [NAME] arrived at Lake Jadestone, it looked like the water within the lake was boiling with radiating golden light. Hours passed, and the water in lake dispersed in all directions with a deafening booming sound. Countless streaks of light emerged from the water and bursted away pell-mell. Some of them are especially eye-catching.</Desc>
 			<Selections.0.Display>Chase after the book case sealed with talismans</Selections.0.Display>
-			<Selections.0.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.0.Tip>
+			<Selections.0.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.0.Tip>
 			<Selections.1.Display>Chase after the five artifacts blazing helix trails</Selections.1.Display>
-			<Selections.1.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.1.Tip>
+			<Selections.1.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.1.Tip>
 			<Selections.2.Display>Chase after the flashing black-and-white ring</Selections.2.Display>
-			<Selections.2.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.2.Tip>
+			<Selections.2.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.2.Tip>
 			<Selections.3.Display>Chase after the six pills radiating with violet aura</Selections.3.Display>
-			<Selections.3.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.3.Tip>
+			<Selections.3.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.3.Tip>
 			<Selections.4.Display>Chase after the black cloud made of the ghost of the wronged</Selections.4.Display>
-			<Selections.4.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.4.Tip>
+			<Selections.4.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.4.Tip>
 			<Selections.5.Display>Leave</Selections.5.Display>
 		</Text>
 		<Text Name="Secrets_YuJingTan1">
 			<DisplayName>Golden Casket Opened</DisplayName>
 			<Desc>When [NAME] arrived at Lake Jadestone, it looked like the water within the lake was boiling with radiating golden light. Hours passed, and the water in lake dispersed in all directions with a deafening booming sound. Countless streaks of light emerged from the water and bursted away pell-mell. Some of them are especially eye-catching.</Desc>
 			<Selections.0.Display>Go after a jade chest with a Bagua symbol</Selections.0.Display>
-			<Selections.0.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.0.Tip>
-			<Selections.1.Display>Go after an Elixir full of Primordial Spirit</Selections.1.Display>
-			<Selections.1.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.1.Tip>
+			<Selections.0.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.0.Tip>
+			<Selections.1.Display>Go after an Elixir full of วิญญาณบรรพกาล</Selections.1.Display>
+			<Selections.1.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.1.Tip>
 			<Selections.2.Display>Go after some Manuals with evil aura</Selections.2.Display>
-			<Selections.2.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.2.Tip>
+			<Selections.2.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.2.Tip>
 			<Selections.3.Display>Leave</Selections.3.Display>
 		</Text>
 		<Text Name="Secrets_YuJingTan2">
 			<DisplayName>Golden Casket Opened</DisplayName>
 			<Desc>When [NAME] arrived at Lake Jadestone, it looked like the water within the lake was boiling with radiating golden light. Hours passed, and the water in lake dispersed in all directions with a deafening booming sound. Countless streaks of light emerged from the water and bursted away pell-mell. Some of them are especially eye-catching.</Desc>
 			<Selections.0.Display>Go after a book with sacred aura</Selections.0.Display>
-			<Selections.0.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.0.Tip>
+			<Selections.0.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.0.Tip>
 			<Selections.1.Display>Go after 3 chunks of Metal with cursed aura</Selections.1.Display>
-			<Selections.1.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.1.Tip>
+			<Selections.1.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.1.Tip>
 			<Selections.2.Display>Go after an ancient scroll</Selections.2.Display>
-			<Selections.2.Tip>Fly Speed \ Luck \ Primordial Spirit</Selections.2.Tip>
+			<Selections.2.Tip>Fly Speed \ Luck \ วิญญาณบรรพกาล</Selections.2.Tip>
 			<Selections.3.Display>Go after a scroll fragment with a strange seal</Selections.3.Display>
 			<Selections.3.Tip>Flying Speed</Selections.3.Tip>
 			<Selections.4.Display>Leave</Selections.4.Display>
@@ -356,7 +356,7 @@
 			<DisplayName>Otherworld Tales</DisplayName>
 			<Desc>[NAME] came to Otherworld Rift in an attempt to investigate the mysterious passage that leads to dangerous lands.</Desc>
 			<Selections.0.Display>Explore</Selections.0.Display>
-			<Selections.0.Tip>Attainment</Selections.0.Tip>
+			<Selections.0.Tip>ค่าความสำเร็จ</Selections.0.Tip>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_YingTianTai">
@@ -379,14 +379,14 @@
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi11">
 			<DisplayName>Otherworld Sight</DisplayName>
-			<Desc>After the initial shock, [NAME] found that their Primordial Spirit has temporarily left their body and entered the Otherworld. Though deprived of their magic power in this strange realm, they can go back to their physical body at any time. Feeling relieved, [NAME] decided to take a look around the odd realm.</Desc>
+			<Desc>After the initial shock, [NAME] found that their วิญญาณบรรพกาล has temporarily left their body and entered the Otherworld. Though deprived of their magic power in this strange realm, they can go back to their physical body at any time. Feeling relieved, [NAME] decided to take a look around the odd realm.</Desc>
 			<Selections.0.Display>Look around</Selections.0.Display>
 			<Selections.1.Display>Go adventure</Selections.1.Display>
 			<Selections.2.Display>Made great gains</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_YiJieKaiQi21">
 			<DisplayName>Otherworld Sight</DisplayName>
-			<Desc>After the initial shock, [NAME] found that their Primordial Spirit has temporarily left their body and entered the Otherworld. Though deprived of their magic power in this strange realm, they can go back to their physical body at any time. Feeling relieved, [NAME] decided to take a look around the odd realm.</Desc>
+			<Desc>After the initial shock, [NAME] found that their วิญญาณบรรพกาล has temporarily left their body and entered the Otherworld. Though deprived of their magic power in this strange realm, they can go back to their physical body at any time. Feeling relieved, [NAME] decided to take a look around the odd realm.</Desc>
 			<Selections.0.Display>Look around</Selections.0.Display>
 			<Selections.1.Display>Investigate</Selections.1.Display>
 			<Selections.2.Display>Look up history</Selections.2.Display>
@@ -450,16 +450,16 @@
 			<Selections.0.Display>Birth of Sages</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_BossLong">
-			<DisplayName>Flood Dragon Tracks</DisplayName>
-			<Desc>[NAME] arrived at [PLACE], and sensed Flood Dragon's presence underground as expected.</Desc>
-			<Selections.0.Display>Lure out Flood Dragon</Selections.0.Display>
+			<DisplayName>มังกรหลาก Tracks</DisplayName>
+			<Desc>[NAME] arrived at [PLACE], and sensed มังกรหลาก's presence underground as expected.</Desc>
+			<Selections.0.Display>Lure out มังกรหลาก</Selections.0.Display>
 			<Selections.0.Tip>Adventuring Flying Speed</Selections.0.Tip>
 			<Selections.1.Display>Give up</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_BossFeng">
-			<DisplayName>Phoenix Tracks</DisplayName>
-			<Desc>[NAME] arrived at [PLACE], and sensed Phoenix's presence as expected.</Desc>
-			<Selections.0.Display>Lure out Phoenix</Selections.0.Display>
+			<DisplayName>ฟินิกซ์ Tracks</DisplayName>
+			<Desc>[NAME] arrived at [PLACE], and sensed ฟินิกซ์'s presence as expected.</Desc>
+			<Selections.0.Display>Lure out ฟินิกซ์</Selections.0.Display>
 			<Selections.0.Tip>Adventuring Flying Speed</Selections.0.Tip>
 			<Selections.1.Display>Give up</Selections.1.Display>
 		</Text>
@@ -627,7 +627,7 @@
 		</Text>
 		<Text Name="Story_Item_OpenAuction">
 			<DisplayName>Inspect</DisplayName>
-			<Desc>[NAME] opens the invitation letter: \nGreetings เซียน, I received treasures from all over the world, and you're invited to make purchases from my collection, if you so desire. The rule is simple: Whoever pays the most Spirit Stone can have my treasure. The more the merrier! \nSignature: Ye Xuan.</Desc>
+			<Desc>[NAME] opens the invitation letter: \nGreetings เซียน, I received treasures from all over the world, and you're invited to make purchases from my collection, if you so desire. The rule is simple: Whoever pays the most หินวิญญาณ can have my treasure. The more the merrier! \nSignature: Ye Xuan.</Desc>
 		</Text>
 		<Text Name="Story_Building_TaiYiTower">
 			<DisplayName>Memorial Ceremony</DisplayName>

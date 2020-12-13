@@ -4,16 +4,16 @@
 			<DisplayName>General BOSS Parts Battle Stats</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong">
-			<DisplayName>Flood Dragon</DisplayName>
+			<DisplayName>มังกรหลาก</DisplayName>
 		</Text>
 		<Text Name="Boss_JiaolongFight">
-			<DisplayName>Flood Dragon Battle Stats</DisplayName>
+			<DisplayName>มังกรหลาก Battle Stats</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_Part">
-			<DisplayName>Flood Dragon Body Part</DisplayName>
+			<DisplayName>มังกรหลาก Body Part</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_Part1">
-			<DisplayName>Flood Dragon body part weakened</DisplayName>
+			<DisplayName>มังกรหลาก body part weakened</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_JiSiGongYang">
 			<DisplayName>Grown</DisplayName>
@@ -21,7 +21,7 @@
 		</Text>
 		<Text Name="Boss_Jiaolong_Shuiling">
 			<DisplayName>Power of Water Spirit</DisplayName>
-			<Desc>Flood Dragon concentrates the power of Water Spirit until it reaches 100 stacks, by which time a huge flood will be released.</Desc>
+			<Desc>มังกรหลาก concentrates the power of Water Spirit until it reaches 100 stacks, by which time a huge flood will be released.</Desc>
 		</Text>
 		<Text Name="Boss_Jiaolong_LongNu">
 			<DisplayName>Dragon Wrath</DisplayName>
@@ -35,8 +35,8 @@
 			<DisplayName>True Dragon</DisplayName>
 		</Text>
 		<Text Name="Boss_Jiaolong_fanshi">
-			<DisplayName>Backfire - Flood Dragon's Counterattack</DisplayName>
-			<Desc>Flood Dragon will make an Artifact backfire on its owner after a period of time, causing the Artifact พลังชี่ to be reduced by half. The effect is doubled for Artifacts of Fire element, and halved for those of Earth element.</Desc>
+			<DisplayName>Backfire - มังกรหลาก's Counterattack</DisplayName>
+			<Desc>มังกรหลาก will make an Artifact backfire on its owner after a period of time, causing the Artifact พลังชี่ to be reduced by half. The effect is doubled for Artifacts of Fire element, and halved for those of Earth element.</Desc>
 		</Text>
 	</List>
 </Texts>

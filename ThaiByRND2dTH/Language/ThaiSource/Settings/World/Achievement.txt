@@ -91,8 +91,8 @@ ID	Achievement Title	Description
 89	Traveler	5 new spots discovered during adventures (spots learned through books not included)
 90	Explorer	25 new spots discovered during adventures (spots learned through books not included)
 91	Great Wanderer	50 new spots discovered during adventures (spots learned through books not included)
-1002	Purification	Concoct a Samsara Pill
-1003	Crystallization	Concoct an Eternity Pill
+1002	Purification	Concoct a ยาเม็ดสังสารวัฏ
+1003	Crystallization	Concoct an ยาเม็ดชั่วนิรันดร์
 1004	My Destiny	Golden Core Shaped
 1005	The Chosen One	Tier I Golden Core Shaped
 1006	Scion of Supreme Steps	Cultivate the กฎ 16 ขั้นสูงสุด
@@ -216,28 +216,28 @@ ID	Achievement Title	Description
 2021	Indifference	First time eating dirt
 2022	I Reject My Humanity	Possess an animal
 2023	Time to Sleep, Not Cultivate!	The game has been running for over 4 hours, and the current time is between 0:00-5:00 AM.
-2024	Slain	Slay Flood Dragon
-2025	Fallen	Slay Phoenix
+2024	Slain	Slay มังกรหลาก
+2025	Fallen	Slay ฟินิกซ์
 2026	Yin-Yang Rule	มังกรประทีป killed
-2027	Fast-paced	Have Flood Dragon turn into its true form in under 60 sec
-2028	Horn Breaker	Slay Flood Dragon after destroying its horn
-2029	Tail Cutter	Slay Flood Dragon after destroying its tail
-2030	Furious	Slay Flood Dragon after destroying its Forbidden Scale
-2031	Enraged	Slay Flood Dragon before it casts Dragon's Rage
-2032	Hydrated	Slay Flood Dragon before it casts Deadly Flood
-2033	Sun Strike! Sun Strike!	5 people each absorb Phoenix's Melting, and nobody gets injured
+2027	Fast-paced	Have มังกรหลาก turn into its true form in under 60 sec
+2028	Horn Breaker	Slay มังกรหลาก after destroying its horn
+2029	Tail Cutter	Slay มังกรหลาก after destroying its tail
+2030	Furious	Slay มังกรหลาก after destroying its Forbidden Scale
+2031	Enraged	Slay มังกรหลาก before it casts Dragon's Rage
+2032	Hydrated	Slay มังกรหลาก before it casts Deadly Flood
+2033	Sun Strike! Sun Strike!	5 people each absorb ฟินิกซ์'s Melting, and nobody gets injured
 2034	Staring	Endure Flame Eyes for 20 sec without getting injured
-2035	Radiating	Slay Phoenix after it casts Crystal of the Sun
-2036	Beauty of the Beast	Slay Phoenix after destroying its crown feather
-2037	Tail of Troubles	Slay Phoenix after destroying its tail feather
-2038	พลังชี่ Condenser	Keep a Phoenix egg neither hatching nor dying for over 36 days
+2035	Radiating	Slay ฟินิกซ์ after it casts Crystal of the Sun
+2036	Beauty of the Beast	Slay ฟินิกซ์ after destroying its crown feather
+2037	Tail of Troubles	Slay ฟินิกซ์ after destroying its tail feather
+2038	พลังชี่ Condenser	Keep a ฟินิกซ์ egg neither hatching nor dying for over 36 days
 2039	Clean Sweep	More than 9 eggs are subdued defeating the มังกรประทีป
 2040	Irreverence	Defeat the มังกรประทีป after destroying its divine scale
 2041	Chaos	Defeat the มังกรประทีป after destroying its jade
 2042	Paradox	Defeat the มังกรประทีป with one character in Mind Mask and Wild Fire
 2043	Subduer	Defeat the มังกรประทีป without any egg hatched
 2044	Breathtaking	Defeat the มังกรประทีป without anyone hit by its breath
-2045	Spirit Root	First time planting a Spirit Root
+2045	รากวิญญาณ	First time planting a รากวิญญาณ
 2046	Harvest	Harvest a Root of Five Elements
 2047	Extremity	Root of Five Elements reaches its blessed or cursed limit
 2048	Natural Law	First time comprehending a natural Law
@@ -255,10 +255,10 @@ ID	Achievement Title	Description
 3000	Education First	Construct a Manual Pavilion for the first time.
 3001	Knowledge Sharing	Transcribe a manual using Manual Pavilion for the first time.
 3002	Study Hard	Learn a manual in Manual Pavilion's collection for the first time.
-3003	A Great Collection	Total Attainment of Manual Pavilion's collection reaches 500.
-3004	A Vast Collection	Total Attainment of Manual Pavilion's collection reaches 2000.
-3005	An Immense Collection	Total Attainment of Manual Pavilion's collection reaches 5000.
-3006	An Unrivaled Collection	Total Attainment of Manual Pavilion's collection reaches 10000.
+3003	A Great Collection	Total ค่าความสำเร็จ of Manual Pavilion's collection reaches 500.
+3004	A Vast Collection	Total ค่าความสำเร็จ of Manual Pavilion's collection reaches 2000.
+3005	An Immense Collection	Total ค่าความสำเร็จ of Manual Pavilion's collection reaches 5000.
+3006	An Unrivaled Collection	Total ค่าความสำเร็จ of Manual Pavilion's collection reaches 10000.
 3007	Unleash the Light	Craft a Rare Artifact for the first time.
 3008	Blood Pact	Activate a Rare Artifact for the first time.
 3009	Artifact Novice	Activate 1 Rare Artifact.
@@ -281,8 +281,8 @@ ID	Achievement Title	Description
 3026	Strict Budget	Construct Mini Universe within the 1st year with all Scarce Resources options activated.
 3027	Best You Can Get	Take in a character with all General Stats above 5 with all Hard Times options activated.
 3028	Hard Bargain	Buy an item of Tier 10 or above from a Traveling Merchant within the 1st year with all Mean Merchants options activated.
-3029	Go with the Flow	Help a character achieve Primordial Spirit or equivalent cultivational states within the first year with all Tao Inordinance options activated.
-3030	Good Doggo	Kill a monster in Golden Core state or above with your spirit pet alone within the first year with all Frail Pets options activated.
+3029	Go with the Flow	Help a character achieve วิญญาณบรรพกาล or equivalent cultivational states within the first year with all Tao Inordinance options activated.
+3030	Good Doggo	Kill a monster in Golden Core state or above with your สัตว์เลี้ยงวิญญาณ alone within the first year with all Frail Pets options activated.
 3031	Well-connected	Reach 100 Favor with all sect leaders with all Cold World options activated.
 3032	Taoist Exorcist	Kill all attacking Yaoguai on the 80th day.
 3033	Cultivator Killer Killer	Kill the Cultivator Killer attacking on the 150th day.
@@ -292,7 +292,7 @@ ID	Achievement Title	Description
 3037	เซียน do not believe in tears	Buy an item of Tier 12 or above from a cultivational sect within the 1st year with all Emotionless เซียน options activated.
 3038	เซียน Slayer	Make all the sects surrender under the highest NPC sect power setting.
 3039	Yin Slayer	Kill Jiao-dragon under the highest Jiao-dragon power setting.
-3040	Yang Slayer	Kill Phoenix under the highest Phoenix power setting.
+3040	Yang Slayer	Kill ฟินิกซ์ under the highest ฟินิกซ์ power setting.
 3041	Tao Slayer	Kill มังกรประทีป under the highest มังกรประทีป power setting.
 3042	Final Showdown	Defeat the enemies attacking at the 1000th day with It gets Harder option activated.
 3043	Ascension Beginner	Make a disciple ascend on or higher than Tribulation I difficulty.
@@ -318,7 +318,7 @@ ID	Achievement Title	Description
 3075	Lucky Deal	Bid with a price lower than market price and get the item being auctioned.
 3076	Did I Win?	Bid with a price 10 times the market price or higher and get the item being auctioned.
 3077	Fair Exchange	Trade with the Traveling Merchant for the first time.
-3078	Last in Stock	Buy up a Traveling Merchant's Spirit Stone.
+3078	Last in Stock	Buy up a Traveling Merchant's หินวิญญาณ.
 3079	Kill Not the Goose	Kill the Traveling Merchant.
 3080	Timely Assistance	Gain 1 Connection from an NPC sect.
 3081	BFF	Gain 10 Connection from a single NPC sect.
@@ -348,16 +348,16 @@ ID	Achievement Title	Description
 3105	Play with Heart	Take down someone's guard for the first time.
 3106	Let Me Show You Around	Invite someone to your sect for the first time.
 3107	Truth Revealed	Solve a mystery.
-3108	Spirit Pet: Divine Dog	Obtain the Divine Dog.
-3109	Spirit Pet: Spirit Fox	Obtain the Spirit Fox.
-3110	Spirit Pet: Float Dragon	Obtain the Float Dragon.
-3111	Spirit Pet: Dark Phoenix	Obtain the Dark Phoenix.
-3112	Fully Grown	Fully awaken a Spirit Pet.
+3108	สัตว์เลี้ยงวิญญาณ: Divine Dog	Obtain the Divine Dog.
+3109	สัตว์เลี้ยงวิญญาณ: Spirit Fox	Obtain the Spirit Fox.
+3110	สัตว์เลี้ยงวิญญาณ: Float Dragon	Obtain the Float Dragon.
+3111	สัตว์เลี้ยงวิญญาณ: Dark ฟินิกซ์	Obtain the Dark ฟินิกซ์.
+3112	Fully Grown	Fully awaken a สัตว์เลี้ยงวิญญาณ.
 3113	Animal Friend	Enlighten a beast.
 3114	Shapeshifting: 5 Shards	Make a Yaoguai possessing 5 or more Intelligence Shards survive Shapeshifting Tribulation.
 3115	Shapeshifting: 7 Shards	Make a Yaoguai possessing 7 or more Intelligence Shards survive Shapeshifting Tribulation.
 3116	Shapeshifting: 9 Shards	Make a Yaoguai possessing 9 or more Intelligence Shards survive Shapeshifting Tribulation.
-3117	Heaven Survivor	Survive 5 attainment tribulations.
+3117	Heaven Survivor	Survive 5 ค่าความสำเร็จ tribulations.
 3118	Unmatched Longevity	Survive 5 lifespan tribulations.
 3119	A Cult of One's Own	Erect statue of belief in a city and connect it to a Shendao cultivator.
 3120	A Guard of One's Own	Appoint a Guard.
@@ -368,15 +368,15 @@ ID	Achievement Title	Description
 3125	A Heart of One's Own	Reach the highest mental state of Shendao cultivation.
 3126	Prayer: Celestial Thunder	Learn Sutra of Celestial Thunder.
 3127	Creation: Celestial Thunder	Establish a Divine Realm using Sutra of Celestial Thunder.
-3128	Attainment: Celestial Thunder	Achieve the maximum size possible when establishing Divine Realm using Sutra of Celestial Thunder.
+3128	ค่าความสำเร็จ: Celestial Thunder	Achieve the maximum size possible when establishing Divine Realm using Sutra of Celestial Thunder.
 3129	Ascension: Celestial Thunder	Ascend by studying Sutra of Celestial Thunder.
 3130	Prayer: Eight Cosmos	Learn Sutra of Eight Cosmos.
 3131	Creation: Eight Cosmos	Establish a Divine Realm using Sutra of Eight Cosmos.
-3132	Attainment: Eight Cosmos	Achieve the maximum size possible when establishing Divine Realm using Sutra of Eight Cosmos.
+3132	ค่าความสำเร็จ: Eight Cosmos	Achieve the maximum size possible when establishing Divine Realm using Sutra of Eight Cosmos.
 3133	Ascension: Eight Cosmos	Ascend by studying Sutra of Eight Cosmos.
 3134	Prayer: Nether Salvation	Learn Sutra of Nether Salvation.
 3135	Creation: Nether Salvation	Establish a Divine Realm using Sutra of Nether Salvation.
-3136	Attainment: Nether Salvation	Achieve the maximum size possible when establishing Divine Realm using Sutra of Nether Salvation.
+3136	ค่าความสำเร็จ: Nether Salvation	Achieve the maximum size possible when establishing Divine Realm using Sutra of Nether Salvation.
 3137	Ascension: Nether Salvation	Ascend by studying Sutra of Nether Salvation.
 3138	Illusion Essence	Gain Illusion Essence through breathing.
 3139	Nimbus Essence	Gain Nimbus Essence through breathing.
@@ -400,6 +400,6 @@ ID	Achievement Title	Description
 3157	10,000 Fish	Catch 10,000 fish.
 3158	Bait Taken	Catch an animal while fishing.
 3159	I Choose You!	Catch a monster while fishing.
-3160	Shiny Object	Catch a Spirit Stone while fishing.
+3160	Shiny Object	Catch a หินวิญญาณ while fishing.
 3161	Master Fisher	Catch all species of fish.
 3162	Kraken Catcher	Catch a fish weighed more than 25 catties.

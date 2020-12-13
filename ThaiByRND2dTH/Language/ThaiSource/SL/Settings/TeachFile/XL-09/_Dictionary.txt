@@ -6,11 +6,11 @@
 紫布修行衣衫	Purple Fabric Sect Uniform
 野猪皮修行下裳	Boar Hide Cultivator Pants
 肉干	 เนื้อตากแห้ง
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
-灵石围棋桌	Spirit Stone Go Table
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
+灵石围棋桌	หินวิญญาณ Go Table
 公兔子	Male Rabbit
 雌龟	เต่าตัวเมีย
 雄龟	เต่าตัวผู้

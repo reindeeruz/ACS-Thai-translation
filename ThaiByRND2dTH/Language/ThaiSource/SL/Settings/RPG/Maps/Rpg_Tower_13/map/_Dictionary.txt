@@ -13,12 +13,12 @@
 避寒符	Cold-resistant Talisman
 可以大幅提高寒冷抵抗的符咒。	Talisman used to drastically raise resistance to cold.
 太阳符	Talisman of Supreme Yang
-灵石万骨邪法坛	Spirit Stone Altar of Death
+灵石万骨邪法坛	หินวิญญาณ Altar of Death
 寒晶幽冥灯	Ice Crystal Nether Light
-灵石幽冥灯	Spirit Stone Nether Light
+灵石幽冥灯	หินวิญญาณ Nether Light
 角色出生点	
 逻辑点	
-灵石邪骨幽光	Spirit Stone Evil Specter Light
+灵石邪骨幽光	หินวิญญาณ Evil Specter Light
 青	Farm
 蛙	Chicken
 天苍 227年第75日,通过从闻药味获取的理智，对有点担忧的感知，对雷的认知，产生了一点灵智碎片。

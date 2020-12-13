@@ -14,7 +14,7 @@
 提高制作物的品质。	Used to improve quality of crafted items.
 天工符	Talisman of Craftsmanship
 上古残迹	Ancient Ruins
-灵石灯柱	Spirit Stone Lamp Post
+灵石灯柱	หินวิญญาณ Lamp Post
 角色出生点	Born Point
 逻辑点	Logic Point
 西	Xi

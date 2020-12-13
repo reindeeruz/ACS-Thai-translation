@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Magic_FenShenZhiShu">
 			<DisplayName>แยกวิญญาณ</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แยกวิญญาณ\nManipulate your Primordial Spirit, forcing it to split in order to obtain an additional sub-spirit. You will lose ค่าพลังชี่สูงสุด in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แยกวิญญาณ\nManipulate your วิญญาณบรรพกาล, forcing it to split in order to obtain an additional วิญญาณย่อย. You will lose ค่าพลังชี่สูงสุด in this process and age rapidly. The more times you perform the splitting, the higher the price you pay.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_FengshuiItemOpen">
 			<DisplayName>Feng Shui Identifying</DisplayName>
@@ -14,11 +14,11 @@
 		</Text>
 		<Text Name="Magic_KongZhi1">
 			<DisplayName>Incantation of Consonance</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Incantation of Consonance\n Try to persuade the opponent to join your side by communicating to them using spirituality. The higher your Attainment, and the greater the difference between your and your opponent's State and Perception, the easier it is to succeed. Reverse control may occur if the difference is too large. Target with Cultivation experience must be unconscious. Can only be used once on each target.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Incantation of Consonance\n Try to persuade the opponent to join your side by communicating to them using spirituality. The higher your ค่าความสำเร็จ, and the greater the difference between your and your opponent's State and Perception, the easier it is to succeed. Reverse control may occur if the difference is too large. Target with Cultivation experience must be unconscious. Can only be used once on each target.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_KongZhi2">
 			<DisplayName>Chant of Resonance</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Chant of Resonance\n Connect and resonate with each other's mind in an attempt to persuade the opponent to join your side. The higher your Attainment, and the greater the difference between your and your opponent's State, the easier it is to succeed. Reverse control may occur if the difference is too large. The success rate is significantly higher if both sides have similar adulthood traits or blood relatives. Target with Cultivation experience must be unconscious. This is a very risky magic. If it fails, the target will die and you will be injured.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Chant of Resonance\n Connect and resonate with each other's mind in an attempt to persuade the opponent to join your side. The higher your ค่าความสำเร็จ, and the greater the difference between your and your opponent's State, the easier it is to succeed. Reverse control may occur if the difference is too large. The success rate is significantly higher if both sides have similar adulthood traits or blood relatives. Target with Cultivation experience must be unconscious. This is a very risky magic. If it fails, the target will die and you will be injured.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_KongZhi3">
 			<DisplayName>Celestial Demon Dance</DisplayName>
@@ -34,11 +34,11 @@
 		</Text>
 		<Text Name="Magic_RebornSelf">
 			<DisplayName>Reverie Rebirth</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nRebirth Pill\nLearn Miracle: Reverie Rebirth\nUnique secret technique of the Taiyi Sect. Using the Soul Pearl  as the catalyst, this technique destroys one's own cultivation and burns out one's Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nยาเม็ดเกิดใหม่\nLearn Miracle: Reverie Rebirth\nUnique secret technique of the Taiyi Sect. Using the Soul Pearl  as the catalyst, this technique destroys one's own cultivation and burns out one's Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_SoulCrystalYouPowerUp">
 			<DisplayName>Specter Refinement</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Specter Refinement\nConsume one Anguish Soul Gem and use on an item, granting a chance to increase the item's tier by 1.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Specter Refinement\nConsume one เพชรวิญญาณรวดร้าว and use on an item, granting a chance to increase the item's tier by 1.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_SoulCrystalLingPowerUp">
 			<DisplayName>Spiritual Refinement</DisplayName>
@@ -122,7 +122,7 @@
 		</Text>
 		<Text Name="Magic_AbsorbGong_6_1">
 			<DisplayName>วิญญาณป่วย</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: วิญญาณป่วย\nRelease on an uncultivated being the same kind as yours, attach a wisp of your primordial spirit onto it and convert the Foundation of the infected target into your Cultivation and Inspiration of equivalent number everyday at 0:00. \nFor each unit you infect, your mind will be damaged and soul split, and the target will be weakened due to the parasite. You can stop performing the miracle by reusing it on the same target.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: วิญญาณป่วย\nRelease on an uncultivated being the same kind as yours, attach a wisp of your วิญญาณบรรพกาล onto it and convert the Foundation of the infected target into your Cultivation and Inspiration of equivalent number everyday at 0:00. \nFor each unit you infect, your mind will be damaged and soul split, and the target will be weakened due to the parasite. You can stop performing the miracle by reusing it on the same target.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_7_1">
 			<DisplayName>Sacrifice Offering</DisplayName>
@@ -146,12 +146,12 @@
 		</Text>
 		<Text Name="Magic_AbsorbGong_10_1">
 			<DisplayName>Wise Detachment</DisplayName>
-			<Desc>A heart trained in the ways of Obliviousness can eliminate all distracting thoughts. By cultivating this method, you acquire the Miracle Wise Detachment, which also allows you to utilize these thoughts and direct them into a new sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Wise Detachment\nCast a spell on a living being with no cultivation experience, removing all of its temporary mood status. \n\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>A heart trained in the ways of Obliviousness can eliminate all distracting thoughts. By cultivating this method, you acquire the Miracle Wise Detachment, which also allows you to utilize these thoughts and direct them into a new วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Wise Detachment\nCast a spell on a living being with no cultivation experience, removing all of its temporary mood status. \n\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_LingStoneMake_1">
-			<DisplayName>Spirit Stone Refinement</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Spirit Stone Refinement\nCondense พลังชี่ into หินวิญญาณ.[/color][/size]</EffectDesc>
+			<DisplayName>หินวิญญาณ Refinement</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: หินวิญญาณ Refinement\nCondense พลังชี่ into หินวิญญาณ.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_LingCrystalMake_1">
 			<DisplayName>Spirit Crystal Refinement</DisplayName>
@@ -167,7 +167,7 @@
 		</Text>
 		<Text Name="Magic_LiuRenShensuan">
 			<DisplayName>Astrological Foresight</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Astrological Foresight\nSelect a character to try to learn their whereabouts. The higher your Attainment and the more information you have, the higher the success rate of learning target's whereabouts.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: Astrological Foresight\nSelect a character to try to learn their whereabouts. The higher your ค่าความสำเร็จ and the more information you have, the higher the success rate of learning target's whereabouts.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForRain_1">
 			<DisplayName>Rainmaking</DisplayName>
@@ -219,7 +219,7 @@
 		</Text>
 		<Text Name="Magic_FenShenZhiShu_1">
 			<DisplayName>แยกวิญญาณ</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แยกวิญญาณ\nAllows you to obtain a sub-spirit.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: แยกวิญญาณ\nAllows you to obtain a วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

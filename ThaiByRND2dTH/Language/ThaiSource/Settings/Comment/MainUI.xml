@@ -23,10 +23,10 @@
 			<Tips>Right-click to open the comment panel of [color=#D06508]Room's Feng Shui[/color].</Tips>
 		</Text>
 		<Text Name="MainUILingShi">
-			<Notes>Comment Panel of Spirit Stone</Notes>
-			<Title>Spirit Stone Coin</Title>
+			<Notes>Comment Panel of หินวิญญาณ</Notes>
+			<Title>หินวิญญาณ Coin</Title>
 			<Desc>Universally accepted commodity that can be used as currency to trade with others.</Desc>
-			<Tips>Right-click to open the comment panel of [color=#D06508]Spirit Stone[/color].</Tips>
+			<Tips>Right-click to open the comment panel of [color=#D06508]หินวิญญาณ[/color].</Tips>
 		</Text>
 		<Text Name="MainUIInfluence">
 			<Notes>Comment Panel of Influence</Notes>

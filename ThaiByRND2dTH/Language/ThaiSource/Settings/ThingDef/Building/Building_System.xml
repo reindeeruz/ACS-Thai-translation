@@ -10,7 +10,7 @@
 		</Text>
 		<Text Name="FillFertileSoil" sParam="Building">
 			<ThingName>ดินที่อุดมสมบูรณ์</ThingName>
-			<Desc>Reconstruct a ground area into fertile soil. This work will take a long time.</Desc>
+			<Desc>Reconstruct a ground area into ดินที่อุดมสมบูรณ์. This work will take a long time.</Desc>
 		</Text>
 		<Text Name="FillShallowWater" sParam="Building">
 			<ThingName>น้ำตื้น</ThingName>

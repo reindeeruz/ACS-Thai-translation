@@ -52,9 +52,9 @@
 洞真符	Talisman of Truth Comprehension
 佩戴者可以提高潜力。	Increases the wearer's Potential.
 真潜符	Latent Talisman
-灵石墙	Spirit Stone Wall
+灵石墙	หินวิญญาณ Wall
 木神鹤灯	Wood Crane Lantern
-灵石置物台	Spirit Stone Display
+灵石置物台	หินวิญญาณ Display
 火铜法座	Igneocopper พลังชี่ Cushion
 玉石法座	Jade พลังชี่ Cushion
 灵木法座	Spiritwood พลังชี่ Cushion
@@ -63,10 +63,10 @@
 灵木置物台	Spiritwood Display
 上古残木	Ancient Stump
 灵木神鹤灯	Spiritwood Crane Lantern
-灵石神鹤灯	Spirit Stone Crane Lantern
-灵石丹炉	Spirit Stone Alchemy Furnace
-灵石炼宝台	Spirit Stone Crafting Table
-灵石护山剑阵	Spirit Stone Sword Shield
+灵石神鹤灯	หินวิญญาณ Crane Lantern
+灵石丹炉	หินวิญญาณ Alchemy Furnace
+灵石炼宝台	หินวิญญาณ Crafting Table
+灵石护山剑阵	หินวิญญาณ Sword Shield
 角色出生点	Born Point
 逻辑点	Logic Point
 烬灵傀儡·	Ember spirit puppet

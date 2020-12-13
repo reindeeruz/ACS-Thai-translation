@@ -22,7 +22,7 @@
 			<DisplayName>Hearing Loss</DisplayName>
 		</Text>
 		<Text Name="MeridianBlocking">
-			<DisplayName>Blocked Meridians</DisplayName>
+			<DisplayName>Blocked เส้นพลังชี่</DisplayName>
 		</Text>
 		<Text Name="Palpitation">
 			<DisplayName>Palpitations</DisplayName>
@@ -193,7 +193,7 @@
 			<DisplayName>Damage Testing</DisplayName>
 		</Text>
 		<Text Name="Puppet_Abrasion">
-			<DisplayName>Fatigue</DisplayName>
+			<DisplayName>ความเหนื่อยล้า</DisplayName>
 		</Text>
 		<Text Name="SYS_LOST">
 			<DisplayName>Empty</DisplayName>

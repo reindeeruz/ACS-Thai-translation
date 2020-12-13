@@ -4,7 +4,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎสมบัติเหลือคณนา." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
@@ -12,7 +12,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "เจ็ดดาบสังหาร." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
@@ -20,7 +20,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "Jade Purity เซียน Law." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
@@ -28,7 +28,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎขโมยสวรรค์." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
@@ -36,7 +36,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎเล่นแร่แปลธาตุดึกดำบรรพ์." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
@@ -44,7 +44,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered that this is the place that had inherited the teachings of the "กฎสะบั้นอารมณ์." The inheritance is surrounded by a circle of ancient เซียน. It seems that this is the seal set by the ancient เซียน to select the candidates suitable to inherit their teachings. There is lightning shooting out from the array, it seems like it possesses great magical power.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.2.Display>Leave</Selections.2.Display>
 		</Text>
@@ -52,7 +52,7 @@
 			<DisplayName>Manifesting Mandate</DisplayName>
 			<Desc>[NAME] arrived at [PLACE] and discovered a mysterious Law, though knew not whence it came.</Desc>
 			<Selections.0.Display>Take it by force</Selections.0.Display>
-			<Selections.0.Tip>Primordial Spirit and Luck</Selections.0.Tip>
+			<Selections.0.Tip>วิญญาณบรรพกาล and Luck</Selections.0.Tip>
 			<Selections.1.Display>Accept Teachings</Selections.1.Display>
 			<Selections.1.Tip>Luck</Selections.1.Tip>
 			<Selections.2.Display>Leave</Selections.2.Display>

@@ -11,7 +11,7 @@
 太上通宝符	Talisman of Riches
 可以使心境提高的符咒。	Talisman used to improve mental state.
 洞神符	Talisman of Cave Mind
-佩戴者可以降低道行。	Decreases the wearer's Attainment.
+佩戴者可以降低道行。	Decreases the wearer's ค่าความสำเร็จ.
 遮天符	Heavenshrouding Talisman
 蜚皮休闲衣衫	Fei Hide Casual Shirt
 蜚皮薄下裳	Fei Hide Thin Pants
@@ -51,7 +51,7 @@
 碧光辟邪帛	Opalescent Evil Deterring  Gauze
 花布	Patterned Fabric
 万骨罗	All Bones Textile
-灵石砖	Spirit Stone Block
+灵石砖	หินวิญญาณ Block
 千光石	Thousand Rays Stone
 可以提高移动速度的符咒。	Talisman used to raise move speed.
 轻身符	Agility Talisman

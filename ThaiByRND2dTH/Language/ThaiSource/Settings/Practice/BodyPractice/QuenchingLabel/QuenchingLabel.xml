@@ -320,27 +320,27 @@
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_JiaoLongYuanJing">
 			<DisplayName>Dragon Scaling</DisplayName>
-			<Desc>The flesh mutates and grows dragonesque scales. This change has more chance of happening when refining the flesh with Flood Dragon Essence.[size=10][color=#D06508]\n Increases the secret body endurance drastically.[/color][/size]</Desc>
+			<Desc>The flesh mutates and grows dragonesque scales. This change has more chance of happening when refining the flesh with มังกรหลาก Essence.[size=10][color=#D06508]\n Increases the secret body endurance drastically.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_JiaoLongYuanJing">
 			<DisplayName>Dragonesque Bone</DisplayName>
-			<Desc>The bones mutate and form patterns that look like dragon horns. This change has more chance of happening when refining the bones with Flood Dragon Essence.[size=10][color=#D06508]\n Increases the secret body power drastically.[/color][/size]</Desc>
+			<Desc>The bones mutate and form patterns that look like dragon horns. This change has more chance of happening when refining the bones with มังกรหลาก Essence.[size=10][color=#D06508]\n Increases the secret body power drastically.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_JiaoLongYuanJing">
 			<DisplayName>Thunderstruck Breath</DisplayName>
-			<Desc>The organs mutate and become able to generate True พลังชี่ that is merged with the strong, numbing power of thunder. This change has more chance of happening when refining the organs with Flood Dragon Essence.[size=10][color=#D06508]\n Increases the secret body's artifact suppression chance drastically.[/color][/size]</Desc>
+			<Desc>The organs mutate and become able to generate True พลังชี่ that is merged with the strong, numbing power of thunder. This change has more chance of happening when refining the organs with มังกรหลาก Essence.[size=10][color=#D06508]\n Increases the secret body's artifact suppression chance drastically.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_XiongFengYuanJing">
 			<DisplayName>Blazing Blood</DisplayName>
-			<Desc>The flesh mutates and becomes blazingly hot and aggressive as if merged with phoenix blood. This change has more chance of happening when refining the flesh with Phoenix Essence.[size=10][color=#D06508]\n Increases the secret body attack accuracy drastically.[/color][/size]</Desc>
+			<Desc>The flesh mutates and becomes blazingly hot and aggressive as if merged with ฟินิกซ์ blood. This change has more chance of happening when refining the flesh with ฟินิกซ์ Essence.[size=10][color=#D06508]\n Increases the secret body attack accuracy drastically.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_B01_XiongFengYuanJing">
 			<DisplayName>Imperishable Bone</DisplayName>
-			<Desc>The bones mutate and become as firm but light and airy as those of a phoenix. This change has more chance of happening when refining the bones with Phoenix Essence.[size=10][color=#D06508]\n Increases the secret body defense success rate drastically.[/color][/size]</Desc>
+			<Desc>The bones mutate and become as firm but light and airy as those of a ฟินิกซ์. This change has more chance of happening when refining the bones with ฟินิกซ์ Essence.[size=10][color=#D06508]\n Increases the secret body defense success rate drastically.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_O01_XiongFengYuanJing">
 			<DisplayName>Firestruck Breath</DisplayName>
-			<Desc>The organs mutate and generate mysterious True พลังชี่ that can continuously burn the target like fire. This change has more chance of happening when refining the bones with Phoenix Essence.[size=10][color=#D06508]\n Increases the secret body พลังชี่ barrier penetration chance drastically.[/color][/size]</Desc>
+			<Desc>The organs mutate and generate mysterious True พลังชี่ that can continuously burn the target like fire. This change has more chance of happening when refining the bones with ฟินิกซ์ Essence.[size=10][color=#D06508]\n Increases the secret body พลังชี่ barrier penetration chance drastically.[/color][/size]</Desc>
 		</Text>
 		<Text Name="QuenchingLabel_Lv3_F01_ZhuLongYuanJing">
 			<DisplayName>Phantom Blood</DisplayName>

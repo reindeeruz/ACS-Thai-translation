@@ -15,11 +15,11 @@
 镇岳饮血陀	Hill Fall Blood Draining  Tablecloth
 石髓	Stone Essence
 合天石	Heavenly Merger  Boulder
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
-灵石丹炉	Spirit Stone Alchemy Furnace
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
+灵石丹炉	หินวิญญาณ Alchemy Furnace
 公兔子	Male Rabbit
 雌龟	เต่าตัวเมีย
 雄龟	เต่าตัวผู้

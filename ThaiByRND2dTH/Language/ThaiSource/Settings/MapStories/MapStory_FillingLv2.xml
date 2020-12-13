@@ -2,17 +2,17 @@
 	<List>
 		<Text Name="Story_LingZhiGet">
 			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that there is supposed to be a Spirit Root that grows here. After searching around it turned out that the area was replete with Earth พลังชี่, there was something out of the ordinary here.</Desc>
-			<Selections.0.Display>Search for the Spirit Root</Selections.0.Display>
+			<Desc>[NAME] arrived at [PLACE] and recalled that there is supposed to be a รากวิญญาณ that grows here. After searching around it turned out that the area was replete with Earth พลังชี่, there was something out of the ordinary here.</Desc>
+			<Selections.0.Display>Search for the รากวิญญาณ</Selections.0.Display>
 			<Selections.1.Display>Set up a Formation</Selections.1.Display>
-			<Selections.2.Display>Harvest Spirit Root</Selections.2.Display>
+			<Selections.2.Display>Harvest รากวิญญาณ</Selections.2.Display>
 			<Selections.3.Display>Wander around</Selections.3.Display>
 			<Selections.4.Display>Ignore</Selections.4.Display>
 		</Text>
 		<Text Name="Story_LingZhiBeg">
 			<DisplayName>Adventure here</DisplayName>
-			<Desc>[NAME] arrived at [PLACE] and recalled that this is where Spirit Root grows.</Desc>
-			<Selections.0.Display>Search for Spirit Root</Selections.0.Display>
+			<Desc>[NAME] arrived at [PLACE] and recalled that this is where รากวิญญาณ grows.</Desc>
+			<Selections.0.Display>Search for รากวิญญาณ</Selections.0.Display>
 			<Selections.1.Display>Wander around</Selections.1.Display>
 			<Selections.2.Display>Ignore</Selections.2.Display>
 		</Text>
@@ -265,8 +265,8 @@
 			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
 		</Text>
 		<Text Name="LingWu_JiuHua2">
-			<DisplayName>The Land of the Phoenix</DisplayName>
-			<Desc>[NAME] stood before the fossilized Phoenixwood at Phoenix Cliff, sighed with emotion, and seemed to hear what sounded like a phoenix call.</Desc>
+			<DisplayName>The Land of the ฟินิกซ์</DisplayName>
+			<Desc>[NAME] stood before the fossilized Phoenixwood at ฟินิกซ์ Cliff, sighed with emotion, and seemed to hear what sounded like a ฟินิกซ์ call.</Desc>
 			<Selections.0.Display>Gained something</Selections.0.Display>
 			<Selections.1.Display>Meditate</Selections.1.Display>
 			<Selections.2.Display>Take in the Scenery</Selections.2.Display>
@@ -286,7 +286,7 @@
 			<Selections.0.Display>Inspect</Selections.0.Display>
 			<Selections.1.Display>Meditate on the Stone Wall</Selections.1.Display>
 			<Selections.1.Tip>State / Artisanry / Intelligence</Selections.1.Tip>
-			<Selections.2.Display>Inspect the Fortune Seed</Selections.2.Display>
+			<Selections.2.Display>Inspect the เมล็ดดวง</Selections.2.Display>
 			<Selections.3.Display>Depart</Selections.3.Display>
 		</Text>
 		<Text Name="Story_HighFind_SpPlace">

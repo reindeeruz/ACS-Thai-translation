@@ -1,13 +1,13 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="MakeLingSoil">
-			<DisplayName>Spiritual Soil of Creator</DisplayName>
-			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Spiritual Soil.</Desc>
+			<DisplayName>ดินวิญญาณ of Creator</DisplayName>
+			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into ดินวิญญาณ.</Desc>
 			<TargetDesc>Select an empty area on the ground.</TargetDesc>
 		</Text>
 		<Text Name="MakeFatSoil">
-			<DisplayName>Fertile Soil</DisplayName>
-			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Fertile Soil.</Desc>
+			<DisplayName>ดินที่อุดมสมบูรณ์</DisplayName>
+			<Desc>Exchanges one's own growth and nutrition to convert a parcel of land into ดินที่อุดมสมบูรณ์.</Desc>
 			<TargetDesc>Select an empty area on the ground.</TargetDesc>
 		</Text>
 		<Text Name="LcBrokeHeartLock">
@@ -17,17 +17,17 @@
 		</Text>
 		<Text Name="LcClearHanyu">
 			<DisplayName>Cold Prison Dispelling</DisplayName>
-			<Desc>As the same type of creature as a Flood Dragon, it can dispel the Cold Prison that the Flood Dragons leave behind to acquire a large amount of nutrition.</Desc>
+			<Desc>As the same type of creature as a มังกรหลาก, it can dispel the Cold Prison that the Flood Dragons leave behind to acquire a large amount of nutrition.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="LcStopColdWave">
 			<DisplayName>Scorching Breath</DisplayName>
-			<Desc>Uses the Phoenix's power from within to emit scorching breath and expel bitter cold.</Desc>
+			<Desc>Uses the ฟินิกซ์'s power from within to emit scorching breath and expel bitter cold.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="LcStopHeatWave">
 			<DisplayName>Icy Breath</DisplayName>
-			<Desc>Uses the Flood Dragon's power from within to emit icy breath and expel scorching heat.</Desc>
+			<Desc>Uses the มังกรหลาก's power from within to emit icy breath and expel scorching heat.</Desc>
 			<TargetDesc>Select a target.</TargetDesc>
 		</Text>
 		<Text Name="LcBaipiao">

@@ -18,7 +18,7 @@
 		</Text>
 		<Text Name="XiongFengFightPowerUp">
 			<DisplayName>Force of Fire</DisplayName>
-			<Desc>Phoenix’s พลังชี่ and Attack has increased.</Desc>
+			<Desc>ฟินิกซ์’s พลังชี่ and Attack has increased.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp">
 			<DisplayName>Might of Yin Yang</DisplayName>
@@ -38,11 +38,11 @@
 		</Text>
 		<Text Name="XiongFengFightPowerUp2">
 			<DisplayName>Force of Fire</DisplayName>
-			<Desc>Phoenix’s พลังชี่ and Attack has increased.</Desc>
+			<Desc>ฟินิกซ์’s พลังชี่ and Attack has increased.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp3">
 			<DisplayName>Force of Fire</DisplayName>
-			<Desc>Phoenix’s พลังชี่ and Attack has increased.</Desc>
+			<Desc>ฟินิกซ์’s พลังชี่ and Attack has increased.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp2">
 			<DisplayName>Might of Yin Yang</DisplayName>

@@ -9,12 +9,12 @@
 甲木神农丹方	Exuberant Divine Farmer Elixir Recipe
 狼肉	Wolf Meat
 地龙辟邪糜	Groundragon Evil Deterring Meatstew
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
-灵石法座	Spirit Stone พลังชี่ Cushion
-灵石藏经阁书架	Spirit Stone Manual Pavilion
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
+灵石法座	หินวิญญาณ พลังชี่ Cushion
+灵石藏经阁书架	หินวิญญาณ Manual Pavilion
 公兔子	Male Rabbit
 雌龟	เต่าตัวเมีย
 雄龟	เต่าตัวผู้

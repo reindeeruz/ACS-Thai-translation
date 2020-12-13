@@ -36,9 +36,9 @@
 			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Chaos Void[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_2">
-			<DisplayName>Spirit Shield</DisplayName>
+			<DisplayName>โล่ห์วิญญาณ</DisplayName>
 			<Desc>Enhance พลังชี่ Shield effects for all friendly characters.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Acquire Skill: Spirit Shield[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Acquire Skill: โล่ห์วิญญาณ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_3">
 			<DisplayName>Vitality Chant</DisplayName>

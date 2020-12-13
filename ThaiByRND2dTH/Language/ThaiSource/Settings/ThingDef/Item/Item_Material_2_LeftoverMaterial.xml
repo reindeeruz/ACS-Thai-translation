@@ -51,7 +51,7 @@
 		</Text>
 		<Text Name="Item_LingStoneLeftover" sParam="Item">
 			<ThingName>เศษหินวิญญาณ</ThingName>
-			<Desc>Leftover building material mixed with spirit stone offcuts. Can be used to lay floors or build eaves.</Desc>
+			<Desc>Leftover building material mixed with หินวิญญาณ offcuts. Can be used to lay floors or build eaves.</Desc>
 			<Item.BeMaterial.NamePrefix>หินวิญญาณ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystalLeftover" sParam="Item">

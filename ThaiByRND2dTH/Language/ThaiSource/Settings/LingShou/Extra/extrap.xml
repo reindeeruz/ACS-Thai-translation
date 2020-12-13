@@ -41,18 +41,18 @@
 			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Every 9th attack will cast a spell at the target enemy.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="GrowPercent">
-			<RaceExtra.0.Lv.0.SName>Flood Dragon</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.SName>มังกรหลาก</RaceExtra.0.Lv.0.SName>
 			<RaceExtra.0.Lv.0.Desc>Possesses a small portion of the full power of a dragon.</RaceExtra.0.Lv.0.Desc>
-			<RaceExtra.0.Lv.1.SName>Flood Dragon</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.SName>มังกรหลาก</RaceExtra.0.Lv.1.SName>
 			<RaceExtra.0.Lv.1.Desc>Possesses a portion of the full power of a dragon.</RaceExtra.0.Lv.1.Desc>
-			<RaceExtra.0.Lv.2.SName>Flood Dragon</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.SName>มังกรหลาก</RaceExtra.0.Lv.2.SName>
 			<RaceExtra.0.Lv.2.Desc>Possesses the fully awakened power of a dragon.</RaceExtra.0.Lv.2.Desc>
-			<RaceExtra.1.Lv.0.SName>Fenghuang Phoenix</RaceExtra.1.Lv.0.SName>
-			<RaceExtra.1.Lv.0.Desc>Possesses a small portion of the full power of a phoenix.</RaceExtra.1.Lv.0.Desc>
-			<RaceExtra.1.Lv.1.SName>Fenghuang Phoenix</RaceExtra.1.Lv.1.SName>
-			<RaceExtra.1.Lv.1.Desc>Possesses a portion of the full power of a phoenix.</RaceExtra.1.Lv.1.Desc>
-			<RaceExtra.1.Lv.2.SName>Fenghuang Phoenix</RaceExtra.1.Lv.2.SName>
-			<RaceExtra.1.Lv.2.Desc>Possesses the fully awakened power of a phoenix.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.0.SName>Fenghuang ฟินิกซ์</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Possesses a small portion of the full power of a ฟินิกซ์.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Fenghuang ฟินิกซ์</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Possesses a portion of the full power of a ฟินิกซ์.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Fenghuang ฟินิกซ์</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Possesses the fully awakened power of a ฟินิกซ์.</RaceExtra.1.Lv.2.Desc>
 			<RaceExtra.2.Lv.0.SName>Nine-tailed Fox</RaceExtra.2.Lv.0.SName>
 			<RaceExtra.2.Lv.0.Desc>Possesses a small portion of the full power of a fox.</RaceExtra.2.Lv.0.Desc>
 			<RaceExtra.2.Lv.1.SName>Nine-tailed Fox</RaceExtra.2.Lv.1.SName>

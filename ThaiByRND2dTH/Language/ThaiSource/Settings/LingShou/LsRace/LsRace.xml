@@ -4,7 +4,7 @@
 			<PossibleMagic.0.DisplayName>Watering Plants</PossibleMagic.0.DisplayName>
 			<PossibleMagic.0.Desc>Water plants causing them to mature faster. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Fertilize Soil</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Fertile Soil. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>Exchanges one's own growth and nutrition to convert a parcel of land into ดินที่อุดมสมบูรณ์. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Act Playful</PossibleMagic.2.DisplayName>
 			<PossibleMagic.2.Desc>Act Playful towards a character, using enthusiasm and charisma to break down the defenses around their heart. \n[color=#FF0000]Requires 100 Intelligence.[/color]</PossibleMagic.2.Desc>
 			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Protection[/color]</PossibleSkill.0.Desc>
@@ -15,8 +15,8 @@
 		<Text Name="LsFox">
 			<PossibleMagic.0.DisplayName>Panacea</PossibleMagic.0.DisplayName>
 			<PossibleMagic.0.Desc>Heals a Disciple's Inner Injuries. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
-			<PossibleMagic.1.DisplayName>Spiritual Soil of Creator</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Exchanges one's own growth and nutrition to convert a parcel of land into Spiritual Soil. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.DisplayName>ดินวิญญาณ of Creator</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Exchanges one's own growth and nutrition to convert a parcel of land into ดินวิญญาณ. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Act Playful</PossibleMagic.2.DisplayName>
 			<PossibleMagic.2.Desc>Acts Playful with Traveling Merchant in order to curry Favor. \n [color=#FF0000] Requires 100 Intelligence.[/color]</PossibleMagic.2.Desc>
 			<PossibleSkill.0.Desc>[color=#FF0000]Requires 50 Core[/color]</PossibleSkill.0.Desc>
@@ -28,9 +28,9 @@
 			<PossibleMagic.0.DisplayName>Chilly Wind</PossibleMagic.0.DisplayName>
 			<PossibleMagic.0.Desc>Heals a Disciple's Heatstroke. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Cold Prison Dispelling</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>As the same type of creature as a Flood Dragon, it can dispel the Cold Prison that the Flood Dragons leave behind. \n [color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>As the same type of creature as a มังกรหลาก, it can dispel the Cold Prison that the Flood Dragons leave behind. \n [color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Icy Breath</PossibleMagic.2.DisplayName>
-			<PossibleMagic.2.Desc>Uses the Flood Dragon's True พลังชี่ from within to expel scorching heat. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.2.Desc>Uses the มังกรหลาก's True พลังชี่ from within to expel scorching heat. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.2.Desc>
 			<PossibleMagic.3.DisplayName>Renowned Might</PossibleMagic.3.DisplayName>
 			<PossibleMagic.3.Desc>Display your incredible might before an Agency to increase Stability. [color=#FF0000]Requires 100 Intelligence to unlock.[/color]</PossibleMagic.3.Desc>
 			<PossibleSkill.0.Desc>Flood Thunder</PossibleSkill.0.Desc>
@@ -41,7 +41,7 @@
 			<PossibleMagic.0.DisplayName>Furnace Spell</PossibleMagic.0.DisplayName>
 			<PossibleMagic.0.Desc>Heals a Disciple's Frostbite. Only useable via a pet's behavior, can't be used manually.</PossibleMagic.0.Desc>
 			<PossibleMagic.1.DisplayName>Scorching Breath</PossibleMagic.1.DisplayName>
-			<PossibleMagic.1.Desc>Uses the Phoenix's True พลังชี่ from within to expel bitter cold. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.1.Desc>Uses the ฟินิกซ์'s True พลังชี่ from within to expel bitter cold. \n[color=#FF0000]Must be mature to do so.[/color]</PossibleMagic.1.Desc>
 			<PossibleMagic.2.DisplayName>Piercing Sight</PossibleMagic.2.DisplayName>
 			<PossibleMagic.2.Desc>Grant Piercing Sight to an Inner Disciple so that they will be able to see through to an Item's true features while at an Auction. \n[color=#FF0000]Requires 50 Intelligence to unlock. [/color]</PossibleMagic.2.Desc>
 			<PossibleMagic.3.DisplayName>Auspicious Signs</PossibleMagic.3.DisplayName>

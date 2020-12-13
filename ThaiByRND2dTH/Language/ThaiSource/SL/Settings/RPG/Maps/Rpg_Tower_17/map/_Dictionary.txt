@@ -17,21 +17,21 @@
 神居符	Talisman of Divine Residence
 角色出生点	Born Point
 逻辑点	Logic Point
-灵石钟	Spirit Stone Bell
-灵石栅栏	Spirit Stone Fence
+灵石钟	หินวิญญาณ Bell
+灵石栅栏	หินวิญญาณ Fence
 梧桐木墙	กำแพงไม้ร่ม
 梧桐木门	ประตูไม้ร่ม
 天柱石栅栏	Holy Stone Fence
 天柱石门派山门	Holy Stone Sect Gate
 天柱石床	Holy Stone Bed
 黑布蒲团	Black Fabric Cushion
-灵石香炉	Spirit Stone Censer
+灵石香炉	หินวิญญาณ Censer
 梧桐木小方桌	Parasol Wood Square Table
 梧桐木装饰书架	Parasol Wood Decoration Shelf
 梧桐木油灯	Parasol Wood Oil Lamp
-灵石神鹤灯	Spirit Stone Crane Lantern
+灵石神鹤灯	หินวิญญาณ Crane Lantern
 天柱石门派石碑	Holy Stone Sect Stele
-灵石剑心玉莲	Spirit Stone Swordheart Lotus
+灵石剑心玉莲	หินวิญญาณ Swordheart Lotus
 灵石炉灶	เตาหินวิญญาณ
 梧桐木桌子	โต๊ะไม้ร่ม
 母鸡	Female Chicken

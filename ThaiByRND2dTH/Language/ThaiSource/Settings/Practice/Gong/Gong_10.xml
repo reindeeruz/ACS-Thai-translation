@@ -6,7 +6,7 @@
 			<SelectDesc>One will excel in spells when cultivating in this Law, but the breakthroughing will be relatively risky. Are you sure you want to follow this Law?</SelectDesc>
 			<Stages.0.DisplayName>Man-made Fire</Stages.0.DisplayName>
 			<Stages.0.Necks.0.DisplayName>Spark</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Sense one's natural spark and light it up. It marks the beginning of cultivation. [color=#D06508]\nFailing to light up the spark may lead to meridian injury.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.0.Desc>Sense one's natural spark and light it up. It marks the beginning of cultivation. [color=#D06508]\nFailing to light up the spark may lead to เส้นพลังชี่ injury.[/color]</Stages.0.Necks.0.Desc>
 			<Stages.0.Necks.1.DisplayName>Man-made Fire</Stages.0.Necks.1.DisplayName>
 			<Stages.0.Necks.1.Desc>Gather the true fire at the mind gate to light up the fire in one's mind and connect with heaven and earth. [color=#D06508]\nIf it goes wrong, the true fire will overflow and burn through one's body, causing immense pain.[/color]</Stages.0.Necks.1.Desc>
 			<Stages.1.DisplayName>Earth Fire</Stages.1.DisplayName>

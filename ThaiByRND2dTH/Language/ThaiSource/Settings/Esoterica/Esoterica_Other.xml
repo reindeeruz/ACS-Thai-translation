@@ -42,12 +42,12 @@
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
 			<DisplayName>Secret Eastern Codex (Purple Star Sword)</DisplayName>
-			<Desc>Ultimate sword skill invented by the เซียน Emperor of the East. Harness the imperial power dwelling in the Purple Star with your primordial spirit and integrate it into sword aura, making it absolutely unstoppable. This volume also recorded the crafting recipe for Borealis, a Legacy Artifact invented by เซียน Emperor of the East.</Desc>
+			<Desc>Ultimate sword skill invented by the เซียน Emperor of the East. Harness the imperial power dwelling in the Purple Star with your วิญญาณบรรพกาล and integrate it into sword aura, making it absolutely unstoppable. This volume also recorded the crafting recipe for Borealis, a Legacy Artifact invented by เซียน Emperor of the East.</Desc>
 			<EffectDesc>Significantly increases Artifact Power.\n Acquire Legacy Artifact: \nBorealis</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
-			<DisplayName>Codex of Dragon and Phoenix</DisplayName>
-			<Desc>Secret technique invented by ancient sages, who were inspired by analyzing the way the inner พลังชี่ circulate within dragons and phoenixes. Mastering this technique allows one to transform one's mortal body into that of a dragon and phoenix, improving physical qualities.</Desc>
+			<DisplayName>Codex of Dragon and ฟินิกซ์</DisplayName>
+			<Desc>Secret technique invented by ancient sages, who were inspired by analyzing the way the inner พลังชี่ circulate within dragons and phoenixes. Mastering this technique allows one to transform one's mortal body into that of a dragon and ฟินิกซ์, improving physical qualities.</Desc>
 			<EffectDesc>Increases Perception by 10%.\nIncreases Constitution by 10%.\nIncreases Charisma by 10%.\nIncreases Intelligence by 10%.\nExtends Lifespan.</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu1">
@@ -77,17 +77,17 @@
 		</Text>
 		<Text Name="Other_Esoterica_ShanHeJue">
 			<DisplayName>Chant of Mountains and Rivers</DisplayName>
-			<Desc>Secret technique discovered by the Celestial Patriarch who was inspired by the circulation of Dragon's Vein, it includes several ways of rebuilding terrains by utilizing the Fortune Seed.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Learn Miracle: \nLake Shaping\nLand Shaping\nCreator's Spiritual Soil\nCreator's Spiritual Pond\nFertile Soil\nAcquire Elixir Recipes: \nSpirit Seed\nFortune Sand\nUnlock Building: \nJade Pond of Creator[/color][/size]</EffectDesc>
+			<Desc>Secret technique discovered by the Celestial Patriarch who was inspired by the circulation of Dragon's Vein, it includes several ways of rebuilding terrains by utilizing the เมล็ดดวง.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Learn Miracle: \nLake Shaping\nLand Shaping\nCreator's ดินวิญญาณ\nCreator's Spiritual Pond\nFertile Soil\nAcquire Elixir Recipes: \nSpirit Seed\nFortune Sand\nUnlock Building: \nJade Pond of Creator[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongDan">
 			<DisplayName>Dragon Spirit Soul</DisplayName>
-			<Desc>Secret technique that took its inspiration from memory fragments of Flood Dragon.</Desc>
+			<Desc>Secret technique that took its inspiration from memory fragments of มังกรหลาก.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nDragon Elixir\nGreatly increases Artifact Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FengDan">
-			<DisplayName>Phoenix Spirit Soul</DisplayName>
-			<Desc>Secret technique that took its inspiration from memory fragments of Phoenix.</Desc>
+			<DisplayName>ฟินิกซ์ Spirit Soul</DisplayName>
+			<Desc>Secret technique that took its inspiration from memory fragments of ฟินิกซ์.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nPhoenix Elixir\nGreatly increases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ZhuLongDan">
@@ -97,23 +97,23 @@
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
 			<DisplayName>พลังชี่ of Triple Purity</DisplayName>
-			<Desc>Secret Law of Spirit Forging from ancient schools of creed, thought to be long lost. Cultivation of this method will split one's Primordial Spirit, creating three sub-spirits.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains three sub-spirits.[/color][/size]</EffectDesc>
+			<Desc>Secret Law of Spirit Forging from ancient schools of creed, thought to be long lost. Cultivation of this method will split one's วิญญาณบรรพกาล, creating three วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains three วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen2">
 			<DisplayName>Apparition of Three Corpses: Good Self Slaying</DisplayName>
-			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own good consciousness as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own good consciousness as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen3">
 			<DisplayName>Apparition of Three Corpses: Evil Self Slaying</DisplayName>
-			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own good consciousness as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own good consciousness as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen4">
 			<DisplayName>Apparition of Three Corpses: True Self Slaying</DisplayName>
-			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own endogenous consciousness as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Secret move of spirit-splitting invented by ancient cultivators based on the method of slaying three corpses to achieve enlightenment. Practitioner of this manual can utilize one's own endogenous consciousness as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_YanHuangTongShi">
 			<DisplayName>A Comprehensive History of Serica</DisplayName>

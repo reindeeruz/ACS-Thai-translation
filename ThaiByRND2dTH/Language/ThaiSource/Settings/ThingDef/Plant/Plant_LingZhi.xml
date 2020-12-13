@@ -1,52 +1,52 @@
 ﻿<Texts Type="Thing">
 	<List>
 		<Text Name="LingZhi_Huo" sParam="Plant">
-			<ThingName>Fire Spirit Root: ผลไม้แดงสด Tree</ThingName>
-			<Desc>The plant of ผลไม้แดงสด, an Elemental Medicine. Grows in a place with dense พลังชี่, compatible element and fertile soil. For its special trait, it has to grow in an environment above 200℃.</Desc>
+			<ThingName>Fire รากวิญญาณ: ผลไม้แดงสด Tree</ThingName>
+			<Desc>The plant of ผลไม้แดงสด, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. For its special trait, it has to grow in an environment above 200℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Jin" sParam="Plant">
-			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
-			<Desc>The plant of ผลไม้ปราชญ์, an Elemental Medicine. Grows in a place with dense พลังชี่, compatible element and fertile soil. Extremely sensitive to high temperature, but relatively resistant to cold. It has to grow in an environment below 20℃.</Desc>
+			<ThingName>Metal รากวิญญาณ: Sagacity Tree</ThingName>
+			<Desc>The plant of ผลไม้ปราชญ์, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. Extremely sensitive to high temperature, but relatively resistant to cold. It has to grow in an environment below 20℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Mu" sParam="Plant">
-			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
-			<Desc>The plant of Gnarled Vine, an Elemental Medicine. Grows in a place with dense พลังชี่, compatible element and fertile soil. It has a strict requirement for environment temperature, and only grows in between 15-35℃.</Desc>
+			<ThingName>Wood รากวิญญาณ: Gnarled Vine</ThingName>
+			<Desc>The plant of Gnarled Vine, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It has a strict requirement for environment temperature, and only grows in between 15-35℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Shui" sParam="Plant">
-			<ThingName>Water Spirit Root: Prism Lotus</ThingName>
-			<Desc>The Prism Lotus plant, an Elemental Medicine. Grows in places with dense พลังชี่, compatible element and fertile soil. It prefers low temperature, and only grows in an environment below -120℃.</Desc>
+			<ThingName>Water รากวิญญาณ: Prism Lotus</ThingName>
+			<Desc>The Prism Lotus plant, an ยาแห่งธาตุ. Grows in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It prefers low temperature, and only grows in an environment below -120℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Tu" sParam="Plant">
-			<ThingName>Earth Spirit Root: Ocher Essence</ThingName>
-			<Desc>The plant of Ocher Essence, an elemental medicine. Grows in a place with dense พลังชี่, compatible element and fertile soil. It avoids low temperature, and only grows in an environment above 30℃.</Desc>
+			<ThingName>Earth รากวิญญาณ: Ocher Essence</ThingName>
+			<Desc>The plant of Ocher Essence, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It avoids low temperature, and only grows in an environment above 30℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
-			<ThingName>Fire Spirit Root: ผลไม้แดงสด Tree</ThingName>
-			<Desc>The plant of ผลไม้แดงสด, an Elemental Medicine. It is said to only grow in places with dense พลังชี่, compatible element and fertile soil.</Desc>
+			<ThingName>Fire รากวิญญาณ: ผลไม้แดงสด Tree</ThingName>
+			<Desc>The plant of ผลไม้แดงสด, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Jin_ZF" sParam="Plant">
-			<ThingName>Metal Spirit Root: Sagacity Tree</ThingName>
-			<Desc>The plant of Sagacity Fruit, an Elemental Medicine. It is said to only grow in places with dense พลังชี่, compatible element and fertile soil.</Desc>
+			<ThingName>Metal รากวิญญาณ: Sagacity Tree</ThingName>
+			<Desc>The plant of Sagacity Fruit, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
-			<ThingName>Wood Spirit Root: Gnarled Vine</ThingName>
-			<Desc>The plant of Gnarled Vine, an Elemental Medicine. It is said to only grow in places with dense พลังชี่, compatible element and fertile soil.</Desc>
+			<ThingName>Wood รากวิญญาณ: Gnarled Vine</ThingName>
+			<Desc>The plant of Gnarled Vine, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
-			<ThingName>Water Spirit Root: Prism Lotus</ThingName>
-			<Desc>The plant of Prismatic Lotus, an Elemental Medicine. It is said to only grow in places with dense พลังชี่, compatible element and fertile soil.</Desc>
+			<ThingName>Water รากวิญญาณ: Prism Lotus</ThingName>
+			<Desc>The plant of Prismatic Lotus, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
-			<ThingName>Earth Spirit Root: Ocher Essence</ThingName>
-			<Desc>The plant of Ochre Essence, an Elemental Medicine. It is said to only grow in places with dense พลังชี่, compatible element and fertile soil.</Desc>
+			<ThingName>Earth รากวิญญาณ: Ocher Essence</ThingName>
+			<Desc>The plant of Ochre Essence, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>

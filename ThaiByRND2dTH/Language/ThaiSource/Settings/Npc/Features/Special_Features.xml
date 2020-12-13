@@ -62,7 +62,7 @@
 		</Text>
 		<Text Name="LunHui_7">
 			<DisplayName>เลือดฟินิกซ์</DisplayName>
-			<Desc>This person is born with the phoenix blood, but it was meaningless in a modern society where cultivation Laws no longer exist.</Desc>
+			<Desc>This person is born with the ฟินิกซ์ blood, but it was meaningless in a modern society where cultivation Laws no longer exist.</Desc>
 		</Text>
 		<Text Name="LunHui_8">
 			<DisplayName>สมัยใหม่</DisplayName>
@@ -78,11 +78,11 @@
 		</Text>
 		<Text Name="LunHui_11">
 			<DisplayName>สมัยใหม่</DisplayName>
-			<Desc>This one is used to hiding their own existence due to a modern life, and their little presence is even ignored by heaven in this realm, so this one is born with less attainment. This one is used to modern lifestyle, which deprives them of the capability of handling many types of work in the old times. This one is bent on returning to their own realm through ascension, having no intention to have any relationship here.</Desc>
+			<Desc>This one is used to hiding their own existence due to a modern life, and their little presence is even ignored by heaven in this realm, so this one is born with less ค่าความสำเร็จ. This one is used to modern lifestyle, which deprives them of the capability of handling many types of work in the old times. This one is bent on returning to their own realm through ascension, having no intention to have any relationship here.</Desc>
 		</Text>
 		<Text Name="LunHui_12">
 			<DisplayName>เด็ดเดี่ยว</DisplayName>
-			<Desc>This person went through extreme training for decades to make up for their lack of natural attainment, laying a solid foundation for practice. These experience means that this person can endure more hardship than others.</Desc>
+			<Desc>This person went through extreme training for decades to make up for their lack of natural ค่าความสำเร็จ, laying a solid foundation for practice. These experience means that this person can endure more hardship than others.</Desc>
 		</Text>
 		<Text Name="LunHui_13">
 			<DisplayName>ขี้เกียจ</DisplayName>
@@ -407,7 +407,7 @@
 		</Text>
 		<Text Name="Features_JingGuai_1">
 			<DisplayName>วิญญาณรับรู้(หิน)</DisplayName>
-			<Desc>It was originally a spirit stone that became sentient, thus was naturally born with a higher Base พลังชี่.</Desc>
+			<Desc>It was originally a หินวิญญาณ that became sentient, thus was naturally born with a higher Base พลังชี่.</Desc>
 		</Text>
 		<Text Name="Features_JingGuai_2">
 			<DisplayName>วิญญาณรับรู้(ของกิน)</DisplayName>

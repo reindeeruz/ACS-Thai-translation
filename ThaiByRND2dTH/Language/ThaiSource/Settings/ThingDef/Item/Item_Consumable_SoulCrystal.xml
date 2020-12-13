@@ -21,7 +21,7 @@
 		</Text>
 		<Text Name="Item_Yao_CatSoul" sParam="Item">
 			<ThingName>เพชรวิญญาณแมว</ThingName>
-			<Desc>Soul fragment of a cat Yaoguai, probably has something to do with the saying that cats have nine lives. It contains some mysterious power, consuming it will grant you an extra sub-spirit. This item can only be taken once during a lifetime. Only effective to cultivators that have reached their Primordial Spirit phase.</Desc>
+			<Desc>Soul fragment of a cat Yaoguai, probably has something to do with the saying that cats have nine lives. It contains some mysterious power, consuming it will grant you an extra วิญญาณย่อย. This item can only be taken once during a lifetime. Only effective to cultivators that have reached their วิญญาณบรรพกาล phase.</Desc>
 		</Text>
 	</List>
 </Texts>

@@ -12,10 +12,10 @@
 肉干	 เนื้อตากแห้ง
 母兔子粪便	Feces
 木水井	Wood Well
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石油灯	Spirit Stone Oil Lamp
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石油灯	หินวิญญาณ Oil Lamp
 母兔子	กระต่ายตัวเมีย
 母狼	Female Wolf
 雌蛇	Female Snake

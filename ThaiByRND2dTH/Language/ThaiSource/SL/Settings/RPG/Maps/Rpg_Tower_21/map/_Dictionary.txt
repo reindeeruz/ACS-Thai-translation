@@ -1,8 +1,8 @@
 妖韧皮薄下裳	Tough Demon Hide Thin Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 分水	Wood Chakram
-灵石凶蛮雕像	Spirit Stone Savage Statue
-灵石花瓶	Spirit Stone Vase
+灵石凶蛮雕像	หินวิญญาณ Savage Statue
+灵石花瓶	หินวิญญาณ Vase
 角色出生点	Born Point
 逻辑点	Logic Point
 劫	Tribulation

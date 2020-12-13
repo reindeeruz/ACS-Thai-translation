@@ -82,7 +82,7 @@
 		</Text>
 		<Text Name="Item_Yao_TigerZhui" sParam="Item">
 			<ThingName>Tiger King's Bone</ThingName>
-			<Desc>Bone slice of a tiger Yaoguai resplendent with authoritative power. Wearing it improves one's Charisma and Attainment.</Desc>
+			<Desc>Bone slice of a tiger Yaoguai resplendent with authoritative power. Wearing it improves one's Charisma and ค่าความสำเร็จ.</Desc>
 		</Text>
 		<Text Name="Item_Yao_CattleJiao" sParam="Item">
 			<ThingName>Yaoguai Bull's Horn</ThingName>

@@ -22,7 +22,7 @@ WeaponKind	Weapon	Weapon Type
 Damage	Base Damage	The base Damage of the weapon. The actual value has to do with Gear Quality and the Materials used. (Range: 1-999)
 AttackSpeed	Attack Speed	The attack rate of the weapon per second. (Range: 0.3-3)
 AttackRange	Attack Range	The maximum distance at which the weapon can attack. Unit: Tiles. (Range: 1.5-20)
-Difficulty	Difficulty of Study	The Manual's difficulty: the greater the difficulty, the more Inspiration will be required for its study, but Attainment will in turn be greater as well. (Range: 0-999)
+Difficulty	Difficulty of Study	The Manual's difficulty: the greater the difficulty, the more Inspiration will be required for its study, but ค่าความสำเร็จ will in turn be greater as well. (Range: 0-999)
 EsotericaType	Manual Type	The Manual's Type.
 MaxStack	Multiplier	
 Duration	Duration	The amount of time that the Special Effect lasts. Unit: Second. (Range: -1 or 1-999,999, if the value is -1, then it will be effective in perpetuity)

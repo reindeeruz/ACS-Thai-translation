@@ -329,20 +329,20 @@
 			<Desc>ฟินิกส์แข็งแกร่งขึ้น</Desc>
 		</Text>
 		<Text Name="ZhulongPower1">
-			<DisplayName>2xพลังมังกรเพลิง</DisplayName>
-			<Desc>2x พลังมังกรเพลิง</Desc>
+			<DisplayName>2xพลังมังกรประทีป</DisplayName>
+			<Desc>2x พลังมังกรประทีป</Desc>
 		</Text>
 		<Text Name="ZhulongPower2">
-			<DisplayName>3x พลังมังกรเพลิง</DisplayName>
-			<Desc>3x พลังมังกรเพลิง</Desc>
+			<DisplayName>3x พลังมังกรประทีป</DisplayName>
+			<Desc>3x พลังมังกรประทีป</Desc>
 		</Text>
 		<Text Name="ZhulongPower3">
-			<DisplayName>4x พลังมังกรเพลิง</DisplayName>
-			<Desc>4x พลังมังกรเพลิง</Desc>
+			<DisplayName>4x พลังมังกรประทีป</DisplayName>
+			<Desc>4x พลังมังกรประทีป</Desc>
 		</Text>
 		<Text Name="ZhulongPower">
 			<DisplayName>พลังหยินหยาง</DisplayName>
-			<Desc>มังกรเพลิง(Zhulong) มีพลังมากขึ้น</Desc>
+			<Desc>มังกรประทีป(Zhulong) มีพลังมากขึ้น</Desc>
 		</Text>
 	</List>
 </Texts>

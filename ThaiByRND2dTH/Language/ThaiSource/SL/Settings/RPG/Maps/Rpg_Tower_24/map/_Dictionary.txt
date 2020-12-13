@@ -20,7 +20,7 @@
 玄甲符	Darkarmor Talisman
 角色出生点	Born Point
 逻辑点	Logic Point
-灵石天水莲台	Spirit Stone Lotus Platform
+灵石天水莲台	หินวิญญาณ Lotus Platform
 汪	Wang
 海安	Haian
 冠	Guan

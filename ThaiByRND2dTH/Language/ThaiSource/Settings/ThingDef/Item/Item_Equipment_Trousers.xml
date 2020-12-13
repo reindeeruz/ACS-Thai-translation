@@ -37,7 +37,7 @@
 		</Text>
 		<Text Name="Item_SP_Trousers4" sParam="Item">
 			<ThingName>กางเกงกันสวรรค์</ThingName>
-			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment and enables travel by windriding. Very miraculous.</Desc>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's ค่าความสำเร็จ and enables travel by windriding. Very miraculous.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers5" sParam="Item">
 			<ThingName>กางเกงขนนก</ThingName>
@@ -53,7 +53,7 @@
 		</Text>
 		<Text Name="Item_SP_Trousers8" sParam="Item">
 			<ThingName>กางเกงไหล</ThingName>
-			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's Attainment and enables travel by windriding. Very miraculous.</Desc>
+			<Desc>Magical cloth capable of deceiving the ways of heaven. Wearing it decreases one's ค่าความสำเร็จ and enables travel by windriding. Very miraculous.</Desc>
 		</Text>
 		<Text Name="Item_SP_Trousers9" sParam="Item">
 			<ThingName>กางเกงผี</ThingName>

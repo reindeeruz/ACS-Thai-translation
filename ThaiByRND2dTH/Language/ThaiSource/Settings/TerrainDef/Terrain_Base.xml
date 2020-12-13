@@ -28,7 +28,7 @@
 			<StoryDesc>It is on the area with wet earth</StoryDesc>
 		</Text>
 		<Text Name="FertileSoil">
-			<DisplayName>Fertile Soil</DisplayName>
+			<DisplayName>ดินที่อุดมสมบูรณ์</DisplayName>
 			<StoryDesc>It is on the area in which plants may be grown</StoryDesc>
 		</Text>
 		<Text Name="StoneLand">

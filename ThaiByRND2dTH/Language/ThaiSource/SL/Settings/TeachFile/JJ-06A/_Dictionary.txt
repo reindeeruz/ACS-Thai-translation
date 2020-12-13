@@ -132,46 +132,46 @@
 干栋	
 棕石弓	Brownstone Bow
 昌志用	
-灵石墙	Spirit Stone Wall
+灵石墙	หินวิญญาณ Wall
 傀儡停放点	Vessel Spot
-灵石灯笼	Spirit Stone Lantern
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石手工桌	Spirit Stone Handcraft Station
-灵石缝纫桌	Spirit Stone Sewing Table
-灵石画符桌	Spirit Stone Talisman Table
-灵石纺织机	Spirit Stone Loom
-灵石石匠台	Spirit Stone Stonework
-灵石磨坊	Spirit Stone Mill
+灵石灯笼	หินวิญญาณ Lantern
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石手工桌	หินวิญญาณ Handcraft Station
+灵石缝纫桌	หินวิญญาณ Sewing Table
+灵石画符桌	หินวิญญาณ Talisman Table
+灵石纺织机	หินวิญญาณ Loom
+灵石石匠台	หินวิญญาณ Stonework
+灵石磨坊	หินวิญญาณ Mill
 灵石水井	บ่อหินวิญญาณ
-灵石丹炉	Spirit Stone Alchemy Furnace
+灵石丹炉	หินวิญญาณ Alchemy Furnace
 木砍柴处	Wood Timber Station
-灵石炼宝台	Spirit Stone Crafting Table
-灵石熔炉	Spirit Stone Furnace
-灵石锻铁台	Spirit Stone Forge
-灵石观星台	Spirit Stone Observatory
+灵石炼宝台	หินวิญญาณ Crafting Table
+灵石熔炉	หินวิญญาณ Furnace
+灵石锻铁台	หินวิญญาณ Forge
+灵石观星台	หินวิญญาณ Observatory
 灵石炉灶	เตาหินวิญญาณ
-灵石桌子	Spirit Stone Table
-灵石小方桌	Spirit Stone Square Table
-灵石水缸	Spirit Stone Water Vat
+灵石桌子	หินวิญญาณ Table
+灵石小方桌	หินวิญญาณ Square Table
+灵石水缸	หินวิญญาณ Water Vat
 练功点	Training Spot
-灵石祖师牌位	Spirit Stone Ancestral Shrine
+灵石祖师牌位	หินวิญญาณ Ancestral Shrine
 红布蒲团	Red Fabric Cushion
 历练归来点	Reward Spot
-灵石置物台	Spirit Stone Display
-灵石钟	Spirit Stone Bell
-灵石门派山门	Spirit Stone Sect Gate
-灵石神鹤灯	Spirit Stone Crane Lantern
-灵石鼓	Spirit Stone Drum
-灵石黄龙灯台	Spirit Stone Dragon Lampstand
-灵石琴台	Spirit Stone Zither Table
-灵石香炉	Spirit Stone Censer
-灵石假人桩	Spirit Stone Wooden Dummy
-灵石鼎	Spirit Stone Cauldron
-灵石围棋桌	Spirit Stone Go Table
-灵石烟花-龙歌	Spirit Stone Firework (Dragon)
-灵石护山剑阵	Spirit Stone Sword Shield
-灵石制药桌	Spirit Stone Medicine Table
+灵石置物台	หินวิญญาณ Display
+灵石钟	หินวิญญาณ Bell
+灵石门派山门	หินวิญญาณ Sect Gate
+灵石神鹤灯	หินวิญญาณ Crane Lantern
+灵石鼓	หินวิญญาณ Drum
+灵石黄龙灯台	หินวิญญาณ Dragon Lampstand
+灵石琴台	หินวิญญาณ Zither Table
+灵石香炉	หินวิญญาณ Censer
+灵石假人桩	หินวิญญาณ Wooden Dummy
+灵石鼎	หินวิญญาณ Cauldron
+灵石围棋桌	หินวิญญาณ Go Table
+灵石烟花-龙歌	หินวิญญาณ Firework (Dragon)
+灵石护山剑阵	หินวิญญาณ Sword Shield
+灵石制药桌	หินวิญญาณ Medicine Table
 母猫	Female Cat
 <font color=MYCOLOR>钭世</font>因<font color=OBJCOLOR>房间风水好</font>心情不错，忍不住来<font color=OBJCOLOR>随便看看</font>抒怀。	
 2天 09:36	2d 09:36

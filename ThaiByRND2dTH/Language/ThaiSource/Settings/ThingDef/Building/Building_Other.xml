@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Building_Jiaolong_Body" sParam="Building">
 			<ThingName>ศพมังกรหลาก</ThingName>
-			<Desc>The corpse left by a fallen Flood Dragon.</Desc>
+			<Desc>The corpse left by a fallen มังกรหลาก.</Desc>
 		</Text>
 		<Text Name="Building_Dragon_Hole" sParam="Building">
 			<ThingName>ถ้ำลี้ลับ</ThingName>
@@ -17,7 +17,7 @@
 		</Text>
 		<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
 			<ThingName>ไข่ฟินิกซ์</ThingName>
-			<Desc>The egg of a Phoenix whose พลังชี่ has dried up and stopped the Nirvana process as a result.</Desc>
+			<Desc>The egg of a ฟินิกซ์ whose พลังชี่ has dried up and stopped the Nirvana process as a result.</Desc>
 		</Text>
 		<Text Name="Building_Zhulong_yingdan" sParam="Building">
 			<ThingName>ไข่แห่งหยิน</ThingName>

@@ -13,7 +13,7 @@
 			<Desc>Mountain rich in Ice Crystal, from which Ice Crystal ore can be mined.</Desc>
 		</Text>
 		<Text Name="RockLing" sParam="Plant">
-			<ThingName>Spirit Stone Vein</ThingName>
+			<ThingName>หินวิญญาณ Vein</ThingName>
 			<Desc>Mountain rock rich in พลังชี่, from which หินวิญญาณ can be mined.</Desc>
 		</Text>
 	</List>

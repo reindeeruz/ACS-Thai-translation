@@ -70,7 +70,7 @@
 		</Text>
 		<Text Name="MeridianIncomplete">
 			<DisplayName>เมริเดียนพัง</DisplayName>
-			<Desc>This person was born with broken meridians.</Desc>
+			<Desc>This person was born with broken เส้นพลังชี่.</Desc>
 		</Text>
 		<Text Name="HealthOverdraft1">
 			<DisplayName>ทำงานหนักเกิน</DisplayName>

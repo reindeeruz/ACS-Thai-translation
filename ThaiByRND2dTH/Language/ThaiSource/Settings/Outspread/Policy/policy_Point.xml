@@ -10,7 +10,7 @@
 		</Text>
 		<Text Name="Policy_Acceleration">
 			<DisplayName>Manual Labor</DisplayName>
-			<Desc>Send agents or disciples to supervise manual labor. Will gain extra production once in a while. The productivity of fields is affected by the farming stats; that of mines and spirit stone mines by minerals; that of logging camps by the population.</Desc>
+			<Desc>Send agents or disciples to supervise manual labor. Will gain extra production once in a while. The productivity of fields is affected by the farming stats; that of mines and หินวิญญาณ mines by minerals; that of logging camps by the population.</Desc>
 		</Text>
 		<Text Name="Policy_Discipline">
 			<DisplayName>Abstinence</DisplayName>

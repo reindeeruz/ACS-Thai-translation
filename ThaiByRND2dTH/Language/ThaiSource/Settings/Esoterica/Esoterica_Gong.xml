@@ -1,7 +1,7 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="God2_Dan">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>ยาเม็ดยูเรก้า</DisplayName>
 			<Desc>Fully comprehend the ways of the Heavens after surviving heavenly tribulation. Once you have reached an elite level of alchemy, you come to understand how the way of heavens can be harnessed in order to create divine elixirs.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipes: \nEureka Pill[/color][/size]</EffectDesc>
 		</Text>
@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="Gong1_Esoterica_5">
 			<DisplayName>Chant of the Rapids</DisplayName>
-			<Desc>Focus the พลังชี่ within your body and enhance its power, causing it to surge like a raging river between your meridians. Releases the limits of your core, where one gathers their พลังชี่. Become a master cultivator, and you shall be able to gather พลังชี่ not just in your core but throughout your entire body.</Desc>
+			<Desc>Focus the พลังชี่ within your body and enhance its power, causing it to surge like a raging river between your เส้นพลังชี่. Releases the limits of your core, where one gathers their พลังชี่. Become a master cultivator, and you shall be able to gather พลังชี่ not just in your core but throughout your entire body.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases your พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_6">
@@ -46,8 +46,8 @@
 			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_8">
-			<DisplayName>Meridian Osmosis</DisplayName>
-			<Desc>Supplement your meridians with the primal force of water, strengthening and invigorating your entire being. Practicing this skill significantly increases one's Charisma and efficiency of พลังชี่ Absorption.</Desc>
+			<DisplayName>เส้นพลังชี่ Osmosis</DisplayName>
+			<Desc>Supplement your เส้นพลังชี่ with the primal force of water, strengthening and invigorating your entire being. Practicing this skill significantly increases one's Charisma and efficiency of พลังชี่ Absorption.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nSignificantly increases พลังชี่ absorption efficiency.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_9">
@@ -112,8 +112,8 @@
 		</Text>
 		<Text Name="Gong3_Esoterica_2">
 			<DisplayName>Seven-Slaughtering Form</DisplayName>
-			<Desc>Control your killing intent to imbue your meridians with the strength of the Seven-Slaughtering. Significantly improves Constitution. You also learn how to create Blade Pill.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 20%.\nSlightly increases ค่าพลังชี่สูงสุด.\nAcquire Elixir Recipe: Blade Pill[/color][/size]</EffectDesc>
+			<Desc>Control your killing intent to imbue your เส้นพลังชี่ with the strength of the Seven-Slaughtering. Significantly improves Constitution. You also learn how to create ยาเม็ดใบมีด.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 20%.\nSlightly increases ค่าพลังชี่สูงสุด.\nAcquire Elixir Recipe: ยาเม็ดใบมีด[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_3">
 			<DisplayName>Demonic Aura</DisplayName>
@@ -122,7 +122,7 @@
 		</Text>
 		<Text Name="Gong3_Esoterica_4">
 			<DisplayName>Sword Control</DisplayName>
-			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's meridians.</Desc>
+			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นพลังชี่.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_5">
@@ -202,7 +202,7 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_1">
 			<DisplayName>Waterfall Flow</DisplayName>
-			<Desc>A hidden method that hails from the Kunlun Palace, it can increase one's meridian activity and massively expand their พลังชี่ reserves.</Desc>
+			<Desc>A hidden method that hails from the Kunlun Palace, it can increase one's เส้นพลังชี่ activity and massively expand their พลังชี่ reserves.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_2">
@@ -222,8 +222,8 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_5">
 			<DisplayName>Meticulous Revision</DisplayName>
-			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces Attainment without affecting actual strength.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Decreases Attainment by 10.[/color][/size]</EffectDesc>
+			<Desc>Thoroughly re-examine and comprehend all that you have learned and witnessed in your efforts to solve the mysteries of the Heavens. Reduces ค่าความสำเร็จ without affecting actual strength.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Decreases ค่าความสำเร็จ by 10.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_6">
 			<DisplayName>Goddess of the Grain's Blessing</DisplayName>
@@ -237,28 +237,28 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_8">
 			<DisplayName>Divine Awareness</DisplayName>
-			<Desc>Cultivate one's cognitive capabilities, increasing Perception and significantly increasing Artifact power. It also allows one to utilize the way of Lustrous as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Perception by 10%.\nIncreases Artifact Power.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Cultivate one's cognitive capabilities, increasing Perception and significantly increasing Artifact power. It also allows one to utilize the way of Lustrous as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Perception by 10%.\nIncreases Artifact Power.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_9">
 			<DisplayName>Celestial Oak</DisplayName>
-			<Desc>Instill within one's mind the resilience of legendary oaks, reputed to possess immortality-granting sap, increasing one's Constitution and significantly prolonging Lifespan. It also allows one to utilize the way of Exuberant as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nExtends Lifespan.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Instill within one's mind the resilience of legendary oaks, reputed to possess immortality-granting sap, increasing one's Constitution and significantly prolonging Lifespan. It also allows one to utilize the way of Exuberant as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.\nExtends Lifespan.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_10">
 			<DisplayName>Hallowed Cascade</DisplayName>
-			<Desc>One's พลังชี่ flows with the strength of the Hallowed Cascade, waters within a sacred channel that dates back to the dawn of time. Increases Charisma and ค่าพลังชี่สูงสุด. It also allows one to utilize the way of Cascade as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nIncreases ค่าพลังชี่สูงสุด.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>One's พลังชี่ flows with the strength of the Hallowed Cascade, waters within a sacred channel that dates back to the dawn of time. Increases Charisma and ค่าพลังชี่สูงสุด. It also allows one to utilize the way of Cascade as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nIncreases ค่าพลังชี่สูงสุด.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_11">
 			<DisplayName>Fervent Spirit</DisplayName>
-			<Desc>Embrace the forces of the Fervent Spirit, granting you both clarity and power to increase Intelligence and Spell Power. It also allows one to utilize the way of Fervent as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Intelligence by 10%.\nIncreases Spell Power.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Embrace the forces of the Fervent Spirit, granting you both clarity and power to increase Intelligence and Spell Power. It also allows one to utilize the way of Fervent as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Intelligence by 10%.\nIncreases Spell Power.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_12">
 			<DisplayName>Terraforce</DisplayName>
-			<Desc>Within the earth lies a force dating back to antiquity that protects those who draw upon its power, granting good fortune and strengthening พลังชี่ Shields. It also allows one to utilize the way of Grim as the catalyst to split out one branch of sub-spirit.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Luck by 10%.\nIncreases พลังชี่ Barrier Effect.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Within the earth lies a force dating back to antiquity that protects those who draw upon its power, granting good fortune and strengthening พลังชี่ Shields. It also allows one to utilize the way of Grim as the catalyst to split out one branch of วิญญาณย่อย.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Luck by 10%.\nIncreases พลังชี่ Barrier Effect.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_1">
 			<DisplayName>Defiled Image</DisplayName>
@@ -427,7 +427,7 @@
 		</Text>
 		<Text Name="Gong7_Esoterica_8">
 			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various meridian points around the body, greatly prolonging one's life.</Desc>
+			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various เส้นพลังชี่ points around the body, greatly prolonging one's life.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly extends Lifespan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_9">
@@ -621,8 +621,8 @@
 			<EffectDesc>[size=10][color=#D06508]Increases each of the Five Attributes by 5%.\nIncreases Stamina Conversion Rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_7">
-			<DisplayName>Skyfire Meridians</DisplayName>
-			<Desc>Refine your meridian points with a holy fire. Increases maximum พลังชี่ and slightly increases Constitution.</Desc>
+			<DisplayName>Skyfire เส้นพลังชี่</DisplayName>
+			<Desc>Refine your เส้นพลังชี่ points with a holy fire. Increases maximum พลังชี่ and slightly increases Constitution.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด.\nIncreases Constitution by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_8">
@@ -662,8 +662,8 @@
 		</Text>
 		<Text Name="Gong11_Esoterica_4">
 			<DisplayName>Void Worship</DisplayName>
-			<Desc>Entrust yourself to the void in order to see the gods that lay within. Significantly increases Luck and Artifact Power, and incidentally gains a sub-spirit. Such is the ultimate of the secret techniques mentioned within the Sunspirit Codex.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Increases Intelligence by 20%.\nSignificantly increases Artifact Power.\nGains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Entrust yourself to the void in order to see the gods that lay within. Significantly increases Luck and Artifact Power, and incidentally gains a วิญญาณย่อย. Such is the ultimate of the secret techniques mentioned within the Sunspirit Codex.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Increases Intelligence by 20%.\nSignificantly increases Artifact Power.\nGains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_5">
 			<DisplayName>Way of the Nine Provinces</DisplayName>
@@ -782,8 +782,8 @@
 		</Text>
 		<Text Name="Gong12_Esoterica_12">
 			<DisplayName>Soul-splitting Book of Eastwood</DisplayName>
-			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten sub-spirits. Very miraculous.</Desc>
-			<EffectDesc>[size=10][color=#D06508]Gains one sub-spirit.[/color][/size]</EffectDesc>
+			<Desc>Secret soul-splitting technique passed on by the East Wood Palace. When cultivated to extreme, it can split out a total of ten วิญญาณย่อย. Very miraculous.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Gains one วิญญาณย่อย.[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>

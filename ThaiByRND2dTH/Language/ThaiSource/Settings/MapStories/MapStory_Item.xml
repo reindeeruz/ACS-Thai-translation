@@ -68,7 +68,7 @@
 		</Text>
 		<Text Name="Story_Item_BenYuan">
 			<DisplayName>Refine the Heavenly Font</DisplayName>
-			<Desc>To refine the Heavenly Font, the same class of Law must be used at the highest State, otherwise there is no hope of success. The higher your Attainment, the higher the success rate of refining. If you fail, you will sustain injury and it will increase Condemnation. Are you sure you want to refine the Heavenly Font?</Desc>
+			<Desc>To refine the Heavenly Font, the same class of Law must be used at the highest State, otherwise there is no hope of success. The higher your ค่าความสำเร็จ, the higher the success rate of refining. If you fail, you will sustain injury and it will increase Condemnation. Are you sure you want to refine the Heavenly Font?</Desc>
 			<Selections.0.Display>Refine</Selections.0.Display>
 			<Selections.1.Display>Give up</Selections.1.Display>
 		</Text>
@@ -80,7 +80,7 @@
 		<Text Name="Story_Item_BossSoulItem">
 			<DisplayName>Inspiration</DisplayName>
 			<Desc>[NAME] attempted to obtain some useful information from it.</Desc>
-			<Selections.0.Display>Use Primordial Spirit</Selections.0.Display>
+			<Selections.0.Display>Use วิญญาณบรรพกาล</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Item_OldSchool_Letter">
 			<DisplayName>จดหมายลึกลับ</DisplayName>
@@ -191,11 +191,11 @@
 		<Text Name="Story_ZhuLongXuYuan_2">
 			<DisplayName>Wish for fine medicines</DisplayName>
 			<Desc>Under the influence of the ways of heaven of the Otherworld, some temporary changes have occurred to the heavenly ways in this world as well. Even มังกรประทีป, the manifestation of the Rule of Yin and Yang, has been acting less frantically than before, as it become interested in a kind of metal disc called "coins" from the Otherworld. As this coin has harbored many wishes for health, the มังกรประทีป can harness the power of wish onto it to bring you a manifestation of some miraculous medicines.</Desc>
-			<Selections.0.Display>1 Metal Elemental Medicine</Selections.0.Display>
-			<Selections.1.Display>1 Wood Elemental Medicine</Selections.1.Display>
-			<Selections.2.Display>1 Water Elemental Medicine</Selections.2.Display>
-			<Selections.3.Display>1 Fire Elemental Medicine</Selections.3.Display>
-			<Selections.4.Display>1 Earth Elemental Medicine</Selections.4.Display>
+			<Selections.0.Display>1 Metal ยาแห่งธาตุ</Selections.0.Display>
+			<Selections.1.Display>1 Wood ยาแห่งธาตุ</Selections.1.Display>
+			<Selections.2.Display>1 Water ยาแห่งธาตุ</Selections.2.Display>
+			<Selections.3.Display>1 Fire ยาแห่งธาตุ</Selections.3.Display>
+			<Selections.4.Display>1 Earth ยาแห่งธาตุ</Selections.4.Display>
 			<Selections.5.Display>15 Resin Essence</Selections.5.Display>
 			<Selections.6.Display>3 Earth Flux</Selections.6.Display>
 			<Selections.7.Display>1 ยาเม็ดสารพัดโรค</Selections.7.Display>

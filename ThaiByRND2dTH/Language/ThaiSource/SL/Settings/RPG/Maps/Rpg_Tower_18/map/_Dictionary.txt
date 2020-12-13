@@ -136,7 +136,7 @@
 戊己斩仙灵宝	Central เซียน Slaying Numinous Treasure
 腾岳飞星御	Hill Rise Starlite  Shirt
 苍龙卷	Marinagon Volume
-灵石砖	Spirit Stone Block
+灵石砖	หินวิญญาณ Block
 万世环空石	All Generations Chakram  Dualjade
 蓝布	Blue Fabric
 大日天璇罗	Big Day Merak Textile
@@ -605,13 +605,13 @@
 无极卷	Infinite Sheet
 提高战斗能力，提高疼痛忍耐。	Used to improve fighting abilities and pain endurance.
 武昌符	Talisman of Military Prosperity
-佩戴者可以降低道行。	Decreases the wearer's Attainment.
+佩戴者可以降低道行。	Decreases the wearer's ค่าความสำเร็จ.
 遮天符	Heavenshrouding Talisman
 佩戴者可以提高寿元，远离疾瘴。恭祝各位新春快乐，万事如意！	Used to raise lifespan and immunity to diseases for whomever wears it. Happy Spring Festival and all the best!
 万寿图	Illustration of Everlasting Longevity
 角色出生点	Born Point
 逻辑点	Logic Point
-灵石玄磁天坑	Spirit Stone Magnetic Crater
+灵石玄磁天坑	หินวิญญาณ Magnetic Crater
 上古残木	Ancient Stump
 奚	Xi
 天苍 227年第102日,通过从打喷嚏获取的理智，对非常愤怒的感知，对湖的认知，产生了一点灵智碎片。

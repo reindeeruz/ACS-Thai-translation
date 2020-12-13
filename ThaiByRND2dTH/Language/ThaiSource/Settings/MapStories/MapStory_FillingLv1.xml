@@ -123,9 +123,9 @@
 			<Selections.5.Display>Visit</Selections.5.Display>
 			<Selections.6.Display>Visit</Selections.6.Display>
 			<Selections.7.Display>Visit</Selections.7.Display>
-			<Selections.7.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.7.Tip>
+			<Selections.7.Tip>วิญญาณบรรพกาล or both parties have to have a good relationship.</Selections.7.Tip>
 			<Selections.8.Display>Sneak in</Selections.8.Display>
-			<Selections.8.Tip>Primordial Spirit state and Luck is high</Selections.8.Tip>
+			<Selections.8.Tip>วิญญาณบรรพกาล state and Luck is high</Selections.8.Tip>
 			<Selections.9.Display>Ignore</Selections.9.Display>
 		</Text>
 		<Text Name="Story_Base">
@@ -355,9 +355,9 @@
 			<Selections.3.Display>Visit</Selections.3.Display>
 			<Selections.4.Display>Visit</Selections.4.Display>
 			<Selections.5.Display>Visit</Selections.5.Display>
-			<Selections.5.Tip>Primordial Spirit or both parties have to have a good relationship.</Selections.5.Tip>
+			<Selections.5.Tip>วิญญาณบรรพกาล or both parties have to have a good relationship.</Selections.5.Tip>
 			<Selections.6.Display>Sneak in</Selections.6.Display>
-			<Selections.6.Tip>Primordial Spirit state and Luck is high</Selections.6.Tip>
+			<Selections.6.Tip>วิญญาณบรรพกาล state and Luck is high</Selections.6.Tip>
 			<Selections.7.Display>Ignore</Selections.7.Display>
 		</Text>
 	</List>

@@ -79,10 +79,10 @@
 			<DisplayName>Dragon Scale</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_BossFeng_HuoYu">
-			<DisplayName>Phoenix Feather</DisplayName>
+			<DisplayName>ฟินิกซ์ Feather</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_BossFeng_TouYu">
-			<DisplayName>Phoenix Crown Feather</DisplayName>
+			<DisplayName>ฟินิกซ์ Crown Feather</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_BossLong_Jiao">
 			<DisplayName>Dragon's Heavenly Horn</DisplayName>
@@ -94,10 +94,10 @@
 			<DisplayName>Dragon Jade of Chaos</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_BossLong_NiLin">
-			<DisplayName>Flood Dragon Forbidden Scale</DisplayName>
+			<DisplayName>มังกรหลาก Forbidden Scale</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_BossFeng_HongYu">
-			<DisplayName>Fiery Jade of Phoenix</DisplayName>
+			<DisplayName>Fiery Jade of ฟินิกซ์</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_TaiYiMiDian">
 			<DisplayName>Effects of carrying the Taiyi secret manual</DisplayName>

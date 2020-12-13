@@ -27,8 +27,8 @@ ID	Description	中间词缀 参与名字随机
 6002	Increases Constitution	Homecoming
 6003	Increases พลังชี่ Absorption Efficiency	Fasting
 6004	Increases Stamina Acquisition Rate	Taotie
-6005	Reduces Fatigue Cost	พลังชี่ Absorption
-6006	Increases Fatigue Recovery	Whale Bite
+6005	Reduces ความเหนื่อยล้า Cost	พลังชี่ Absorption
+6006	Increases ความเหนื่อยล้า Recovery	Whale Bite
 6007	Extends Lifespan	Divine Turtle, Epochs, Eternal
 6008	Increases Pain Endurance	Determination
 6009	Improves Mentality	Tranquility

@@ -13,7 +13,7 @@
 			<DisplayName>Innate พลังชี่</DisplayName>
 		</Text>
 		<Text Name="Gong10_b2">
-			<DisplayName>Skyfire Meridians</DisplayName>
+			<DisplayName>Skyfire เส้นพลังชี่</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3">
 			<DisplayName>Visceral Blaze</DisplayName>
@@ -85,7 +85,7 @@
 			<DisplayName>Heavenly Radiance</DisplayName>
 		</Text>
 		<Text Name="Gong10_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>ยาเม็ดยูเรก้า</DisplayName>
 		</Text>
 		<Text Name="Gong10_e8">
 			<DisplayName>Taoist Artifact</DisplayName>

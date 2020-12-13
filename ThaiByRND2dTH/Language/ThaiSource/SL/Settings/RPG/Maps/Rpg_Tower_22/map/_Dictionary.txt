@@ -3,10 +3,10 @@
 天柱石长枪	Holy Stone Spear
 角色出生点	Born Point
 逻辑点	Logic Point
-灵石七杀神碑	Spirit Stone Stele of Slaughter
+灵石七杀神碑	หินวิญญาณ Stele of Slaughter
 上古残迹	Ancient Ruins
 上古残骸	Ancient Remains
-灵石巨兽骨雕	Spirit Stone Behemoth Bone Carving
+灵石巨兽骨雕	หินวิญญาณ Behemoth Bone Carving
 虬	Qiu
 胤	Yin
 身躯	Body 

@@ -17,12 +17,12 @@
 		</Text>
 		<Text Name="Story_LingZhi_Grow">
 			<DisplayName>Spiritual Plant Maturing</DisplayName>
-			<Desc>As the Spirit Root finished maturing, the พลังชี่ throughout heaven and earth suddenly changed, something special happened.</Desc>
+			<Desc>As the รากวิญญาณ finished maturing, the พลังชี่ throughout heaven and earth suddenly changed, something special happened.</Desc>
 			<Selections.0.Display>Inspect</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_Ripe">
 			<DisplayName>Spiritual Plant Ripening</DisplayName>
-			<Desc>There was some sort of sudden reaction on heaven and earth as the Spirit Root ripened, something special happened.</Desc>
+			<Desc>There was some sort of sudden reaction on heaven and earth as the รากวิญญาณ ripened, something special happened.</Desc>
 			<Selections.0.Display>Inspect</Selections.0.Display>
 		</Text>
 		<Text Name="Story_LingZhi_LingSha">
@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="Story_LingZhi_Attack">
 			<DisplayName>Invasion of Enemies</DisplayName>
-			<Desc>The Spirit Root was ripe, something big must be about to happen, get ready.</Desc>
+			<Desc>The รากวิญญาณ was ripe, something big must be about to happen, get ready.</Desc>
 			<Selections.0.Display>Inspect</Selections.0.Display>
 		</Text>
 	</List>

@@ -16,11 +16,11 @@
 逻辑点	
 天地共土	
 渊土神碑	Nether Soil Stele
-灵石栅栏	Spirit Stone Fence
+灵石栅栏	หินวิญญาณ Fence
 上古残迹	Ancient Ruins
 棕石凶蛮雕像	Brownstone Savage Statue
-灵石凶蛮雕像	Spirit Stone Savage Statue
-灵石灯笼	Spirit Stone Lantern
+灵石凶蛮雕像	หินวิญญาณ Savage Statue
+灵石灯笼	หินวิญญาณ Lantern
 乱界	
 冤孽	
 双	Shuang

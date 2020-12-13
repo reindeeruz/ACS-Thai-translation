@@ -1,11 +1,11 @@
 ﻿<Texts Type="Other">
 	<List>
 		<Text Name="jiaolong_baoyu">
-			<DisplayName>Rainstorm (Flood Dragon)</DisplayName>
+			<DisplayName>Rainstorm (มังกรหลาก)</DisplayName>
 			<StoryDesc>Rainstorm is wreaking havoc.</StoryDesc>
 		</Text>
 		<Text Name="xiongfeng_lieyang">
-			<DisplayName>Shining Sun (Phoenix)</DisplayName>
+			<DisplayName>Shining Sun (ฟินิกซ์)</DisplayName>
 			<StoryDesc>The sun is shining above. The current weather cannot be replaced.</StoryDesc>
 		</Text>
 		<Text Name="xiongfeng_suneye">

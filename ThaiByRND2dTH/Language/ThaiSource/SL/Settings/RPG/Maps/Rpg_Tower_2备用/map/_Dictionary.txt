@@ -7,6 +7,6 @@
 灰石置物台	Graystone Display
 灰石水缸	Graystone Water Vat
 灰石门	Graystone Door
-灵石磨坊	Spirit Stone Mill
+灵石磨坊	หินวิญญาณ Mill
 木篝火	Wood Bonfire
 母牛	Female Bull

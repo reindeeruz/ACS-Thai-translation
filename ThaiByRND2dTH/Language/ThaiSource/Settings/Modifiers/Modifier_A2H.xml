@@ -22,15 +22,15 @@
 		</Text>
 		<Text Name="Modifier_LingChong_Heal">
 			<DisplayName>Companion</DisplayName>
-			<Desc>With the spirit pet as company, the injury is recovering more quickly.</Desc>
+			<Desc>With the สัตว์เลี้ยงวิญญาณ as company, the injury is recovering more quickly.</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Stay">
 			<DisplayName>Companion</DisplayName>
-			<Desc>With the spirit pet as company during training, the mental state is more stable.</Desc>
+			<Desc>With the สัตว์เลี้ยงวิญญาณ as company during training, the mental state is more stable.</Desc>
 		</Text>
 		<Text Name="Modifier_GlitterEyes">
 			<DisplayName>Piercing Sight</DisplayName>
-			<Desc>Owns Dark Phoenix's Piercing Sight to be able to see through to an item's true features while at an auction.</Desc>
+			<Desc>Owns Dark ฟินิกซ์'s Piercing Sight to be able to see through to an item's true features while at an auction.</Desc>
 		</Text>
 		<Text Name="Modifier_Shelter">
 			<DisplayName>Aegis</DisplayName>

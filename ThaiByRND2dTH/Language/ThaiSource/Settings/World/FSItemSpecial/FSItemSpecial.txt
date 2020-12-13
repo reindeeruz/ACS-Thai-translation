@@ -4,7 +4,7 @@
 2	Room residents must all be Shapers.
 3	Room residents must all be Core Shapers.
 4	Room residents must all be of Golden Core.
-5	Room residents must all be of Primordial Spirit.
+5	Room residents must all be of วิญญาณบรรพกาล.
 6	Room residents must all be Demi-Gods.
 7	Room residents must all be Inner Disciples.
 8	Room residents must all be Outer Disciples.

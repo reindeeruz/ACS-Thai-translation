@@ -12,10 +12,10 @@
 戊己囊	Central Bag
 垃圾	Rubbish
 戊土屠神散	Grim God Slaughtering Powder
-灵石墙	Spirit Stone Wall
-灵石门	Spirit Stone Door
-灵石床	Spirit Stone Bed
-灵石灯笼	Spirit Stone Lantern
+灵石墙	หินวิญญาณ Wall
+灵石门	หินวิญญาณ Door
+灵石床	หินวิญญาณ Bed
+灵石灯笼	หินวิญญาณ Lantern
 练功点	Training Spot
 公兔子	Male Rabbit
 雌龟	เต่าตัวเมีย
