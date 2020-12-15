@@ -22,7 +22,7 @@
 		</Text>
 		<Text Name="LingShu" sParam="Building">
 			<ThingName>ต้นไม้เรืองแสง</ThingName>
-			<Desc>A curious plant that can turn soil nearby into ดินวิญญาณ. However, the pollen it releases may cause blocked เส้นพลังชี่ and suppressed พลังชี่.</Desc>
+			<Desc>A curious plant that can turn soil nearby into ดินวิญญาณ. However, the pollen it releases may cause blocked เส้นลมปราณ and suppressed พลังชี่.</Desc>
 			<StoryBnts.0.Name>Feel</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Feel the พลังชี่ around Illumitree.</StoryBnts.0.Desc>
 		</Text>

@@ -32,7 +32,7 @@
 		</Text>
 		<Text Name="Gong1_Esoterica_5">
 			<DisplayName>Chant of the Rapids</DisplayName>
-			<Desc>Focus the พลังชี่ within your body and enhance its power, causing it to surge like a raging river between your เส้นพลังชี่. Releases the limits of your core, where one gathers their พลังชี่. Become a master cultivator, and you shall be able to gather พลังชี่ not just in your core but throughout your entire body.</Desc>
+			<Desc>Focus the พลังชี่ within your body and enhance its power, causing it to surge like a raging river between your เส้นลมปราณ. Releases the limits of your core, where one gathers their พลังชี่. Become a master cultivator, and you shall be able to gather พลังชี่ not just in your core but throughout your entire body.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases your พลังชี่ recovery rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_6">
@@ -46,8 +46,8 @@
 			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_8">
-			<DisplayName>เส้นพลังชี่ Osmosis</DisplayName>
-			<Desc>Supplement your เส้นพลังชี่ with the primal force of water, strengthening and invigorating your entire being. Practicing this skill significantly increases one's Charisma and efficiency of พลังชี่ Absorption.</Desc>
+			<DisplayName>เส้นลมปราณ Osmosis</DisplayName>
+			<Desc>Supplement your เส้นลมปราณ with the primal force of water, strengthening and invigorating your entire being. Practicing this skill significantly increases one's Charisma and efficiency of พลังชี่ Absorption.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Charisma by 10%.\nSignificantly increases พลังชี่ absorption efficiency.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_9">
@@ -112,7 +112,7 @@
 		</Text>
 		<Text Name="Gong3_Esoterica_2">
 			<DisplayName>Seven-Slaughtering Form</DisplayName>
-			<Desc>Control your killing intent to imbue your เส้นพลังชี่ with the strength of the Seven-Slaughtering. Significantly improves Constitution. You also learn how to create ยาเม็ดใบมีด.</Desc>
+			<Desc>Control your killing intent to imbue your เส้นลมปราณ with the strength of the Seven-Slaughtering. Significantly improves Constitution. You also learn how to create ยาเม็ดใบมีด.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Constitution by 20%.\nSlightly increases ค่าพลังชี่สูงสุด.\nAcquire Elixir Recipe: ยาเม็ดใบมีด[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_3">
@@ -122,7 +122,7 @@
 		</Text>
 		<Text Name="Gong3_Esoterica_4">
 			<DisplayName>Sword Control</DisplayName>
-			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นพลังชี่.</Desc>
+			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นลมปราณ.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_5">
@@ -202,7 +202,7 @@
 		</Text>
 		<Text Name="Gong4_Esoterica_1">
 			<DisplayName>Waterfall Flow</DisplayName>
-			<Desc>A hidden method that hails from the Kunlun Palace, it can increase one's เส้นพลังชี่ activity and massively expand their พลังชี่ reserves.</Desc>
+			<Desc>A hidden method that hails from the Kunlun Palace, it can increase one's เส้นลมปราณ activity and massively expand their พลังชี่ reserves.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Greatly increases ค่าพลังชี่สูงสุด.\nIncreases Spell Power.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_2">
@@ -427,7 +427,7 @@
 		</Text>
 		<Text Name="Gong7_Esoterica_8">
 			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various เส้นพลังชี่ points around the body, greatly prolonging one's life.</Desc>
+			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various เส้นลมปราณ points around the body, greatly prolonging one's life.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly extends Lifespan.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_9">
@@ -621,8 +621,8 @@
 			<EffectDesc>[size=10][color=#D06508]Increases each of the Five Attributes by 5%.\nIncreases Stamina Conversion Rate.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_7">
-			<DisplayName>Skyfire เส้นพลังชี่</DisplayName>
-			<Desc>Refine your เส้นพลังชี่ points with a holy fire. Increases maximum พลังชี่ and slightly increases Constitution.</Desc>
+			<DisplayName>Skyfire เส้นลมปราณ</DisplayName>
+			<Desc>Refine your เส้นลมปราณ points with a holy fire. Increases maximum พลังชี่ and slightly increases Constitution.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases ค่าพลังชี่สูงสุด.\nIncreases Constitution by 10%.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_8">

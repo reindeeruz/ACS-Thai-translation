@@ -75,7 +75,7 @@
 		</Text>
 		<Text Name="Item_BossLong_Jing" sParam="Item">
 			<ThingName>มังกรหลาก Wrath Vein</ThingName>
-			<Desc>The toughest tendon-เส้นพลังชี่ in มังกรหลาก's tail, it is of excellent พลังชี่ conductivity. It should have some peculiar effects after having been processed with a special method.</Desc>
+			<Desc>The toughest tendon-เส้นลมปราณ in มังกรหลาก's tail, it is of excellent พลังชี่ conductivity. It should have some peculiar effects after having been processed with a special method.</Desc>
 			<Item.FabaoSuffix>Tendon</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BossLong_Meat" sParam="Item">

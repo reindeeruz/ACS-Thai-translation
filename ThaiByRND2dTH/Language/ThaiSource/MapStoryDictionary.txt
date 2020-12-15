@@ -813,7 +813,7 @@
 {0}尝试安抚他，但除此之外也别无他法。他最终还是去世了。	{0} tried to pacify him, since there was nothing they can to beside this. He passed away in the end.
 {0}说道：“别放弃！还有希望！快给我爬起来！”但他已没有了力气。	{0} said: "Don't give up! There's still hope! Get on up! " He didn't have any more strength though.
 {0}对众人说：“来加入我们吧，这样我们就能帮你。”他倒是说加入我们，但还是无法再活下去。	{0} said to the crowd: "If you come join us, we can help you. " He said he would join, but he didn't have any life left in him.
-{0}尝试查明他的病因，但无奈他经脉全断，身边又无修行之人，只能离去.	{0} tried to looked into his ailments, but his เส้นพลังชี่ were all cut. Without a cultivator that can take care of it around, they had to leave.
+{0}尝试查明他的病因，但无奈他经脉全断，身边又无修行之人，只能离去.	{0} tried to looked into his ailments, but his เส้นลมปราณ were all cut. Without a cultivator that can take care of it around, they had to leave.
 {0}带了些食物。可他就算吃了也无济于事。	{0} brought some Food. Even if he ate it, it wouldn't help.
 {0}查明了病因，并找附近的散修购买药物，并让他服用，居然很快就显效了。那位散修在周边有一定声望，对{0}大加赞许。	{0} discovered the reason for the illness, found a place nearby selling Medicine, and had him take it. He recovered in short order. That Individual Cultivator was well known around here and praised {0} greatly.
 {0}查明了病因，并找附近的散修购买药物，售价100，但身上的灵石数量居然不够买。	{0} discovered the reason for the illness, and found a place nearby selling elixirs…unfortunately the price of 100 was too high.

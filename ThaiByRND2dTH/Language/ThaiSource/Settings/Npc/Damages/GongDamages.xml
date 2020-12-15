@@ -100,7 +100,7 @@
 			<DisplayName>Pain of Skeletal Change</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury_Sp">
-			<DisplayName>Damaged เส้นพลังชี่</DisplayName>
+			<DisplayName>Damaged เส้นลมปราณ</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury">
 			<DisplayName>Overflow of พลังชี่</DisplayName>
@@ -139,7 +139,7 @@
 			<DisplayName>Frostbite</DisplayName>
 		</Text>
 		<Text Name="Shui_ColdBlood">
-			<DisplayName>Cold เส้นพลังชี่</DisplayName>
+			<DisplayName>Cold เส้นลมปราณ</DisplayName>
 		</Text>
 		<Text Name="Shui_ColdPoison">
 			<DisplayName>Cold Poison</DisplayName>

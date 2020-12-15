@@ -328,12 +328,12 @@
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_3">
 			<DisplayName>Sword Control</DisplayName>
-			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นพลังชี่.</Desc>
+			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นลมปราณ.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_4">
 			<DisplayName>Sword Control</DisplayName>
-			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นพลังชี่.</Desc>
+			<Desc>A foundational artifact mastery skill recorded in the เจ็ดดาบสังหาร. Wielding artifacts through this method can allow one to stimulate the activity of one's เส้นลมปราณ.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Increases Artifact พลังชี่ Recovery Multiplier.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_LvUpEsoterica_5">
@@ -516,7 +516,7 @@
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_4">
 			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various เส้นพลังชี่ points around the body, greatly prolonging one's life and increasing Potential.</Desc>
+			<Desc>A wondrous tome passed down the generations, once penned by ancient เซียน. It can help develop potential of various เส้นลมปราณ points around the body, greatly prolonging one's life and increasing Potential.</Desc>
 			<EffectDesc>[size=10][color=#D06508]Significantly increases Potential.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_LvUpEsoterica_5">
