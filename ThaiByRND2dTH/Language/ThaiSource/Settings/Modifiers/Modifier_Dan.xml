@@ -119,10 +119,10 @@
 			<DisplayName>ใบพิศุทธิ์</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence">
-			<DisplayName>Earth Flux</DisplayName>
+			<DisplayName>ฟลักซ์ดิน</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence1">
-			<DisplayName>Wicked Flux</DisplayName>
+			<DisplayName>ฟลักซ์ชั่วร้าย</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_EarthEssence_1">
 			<DisplayName>Holy Essence</DisplayName>
@@ -155,7 +155,7 @@
 		</Text>
 		<Text Name="Modifier_Item_LingWater">
 			<DisplayName>น้ำค้างวิญญาณ</DisplayName>
-			<Desc>Consumption of Spirit Dew will greatly improve one's recovery rate from wound for a short period of time.</Desc>
+			<Desc>Consumption of น้ำค้างวิญญาณ will greatly improve one's recovery rate from wound for a short period of time.</Desc>
 		</Text>
 		<Text Name="Dan_LingStone">
 			<DisplayName>Advanced พลังชี่ Resonance</DisplayName>

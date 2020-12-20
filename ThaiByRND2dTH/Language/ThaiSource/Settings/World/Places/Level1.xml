@@ -5,11 +5,11 @@
 		</Text>
 		<Text Name="Place_DanXia">
 			<DisplayName>Mt. Sunshade</DisplayName>
-			<Desc>A world-renowned mountain that gives sanctuary to the Sunshade Abode, the third biggest Taoist Heavenly Abode. The towering mountain is full of majesty and grandeur, and most famous for the breath-taking scenery of its overlooking cliffs at sunset. Mt. Sunshade is rich in old โสม. It is said that there is a miraculous place called the Five Dragons Pond where the Prism Lotus—the รากวิญญาณ of the Sunshade Abode is planted.</Desc>
+			<Desc>A world-renowned mountain that gives sanctuary to the Sunshade Abode, the third biggest Taoist Heavenly Abode. The towering mountain is full of majesty and grandeur, and most famous for the breath-taking scenery of its overlooking cliffs at sunset. Mt. Sunshade is rich in old โสม. It is said that there is a miraculous place called the Five Dragons Pond where the ดอกบัวปริซึม—the รากวิญญาณ of the Sunshade Abode is planted.</Desc>
 		</Text>
 		<Text Name="Place_KunLun">
 			<DisplayName>Mt. Kunlun</DisplayName>
-			<Desc>The most sacred, spiritual mountains in the world, the source of the Dragon's Vein, and home to the greatest Taoist Heavenly Abode of all— Jade Void Abode of the Kunlun Palace. The mountains are rich in various stones, most notably for its Holy Stones. There is one cave connecting directly to the Dragon's Vein where the Kunlun Palace cultivates its รากวิญญาณ—the Ocher Essence.</Desc>
+			<Desc>The most sacred, spiritual mountains in the world, the source of the Dragon's Vein, and home to the greatest Taoist Heavenly Abode of all— Jade Void Abode of the Kunlun Palace. The mountains are rich in various stones, most notably for its Holy Stones. There is one cave connecting directly to the Dragon's Vein where the Kunlun Palace cultivates its รากวิญญาณ—the ดินเหลืองสกัด.</Desc>
 		</Text>
 		<Text Name="Place_TianJi">
 			<DisplayName>Heavenstep Peak</DisplayName>
@@ -21,7 +21,7 @@
 		</Text>
 		<Text Name="Place_LongHu">
 			<DisplayName>Mt. Tiger Paw</DisplayName>
-			<Desc>A world-renowned Taoist mountain in the Central Plains that has been visited by numerous poets and scholars ever since the ancient times, and the respected sect—Mystic Unity Sect also resides here. Legend has it that there is a patch of spiritual wood hidden deep in the mountain, where many rare woods can be found and the รากวิญญาณ—Gnarled Vine is planted by the sect.</Desc>
+			<Desc>A world-renowned Taoist mountain in the Central Plains that has been visited by numerous poets and scholars ever since the ancient times, and the respected sect—Mystic Unity Sect also resides here. Legend has it that there is a patch of spiritual wood hidden deep in the mountain, where many rare woods can be found and the รากวิญญาณ—เถาวัลย์ตะปุ่มตะป่ำ is planted by the sect.</Desc>
 		</Text>
 		<Text Name="Place_Shu">
 			<DisplayName>Mt. Shu</DisplayName>
@@ -45,7 +45,7 @@
 		</Text>
 		<Text Name="Place_HeHuan">
 			<DisplayName>Exultant Isle</DisplayName>
-			<Desc>Home to the demonic cult of the east. A beautiful wonderland on the East Sea, rich in พลังชี่. The Exultant Sect has been painstakingly managed for a hundred years, with a formation of desires built around a 50-mile-radius of the island. Ordinary fishermen that mistakenly step inside the circle will be enchanted and turned into a cauldron for their practice. Most disciples of the Exultant Sect stay forever young, which is speculated to be because there is a holy spring of the Earth Flux on the island.</Desc>
+			<Desc>Home to the demonic cult of the east. A beautiful wonderland on the East Sea, rich in พลังชี่. The Exultant Sect has been painstakingly managed for a hundred years, with a formation of desires built around a 50-mile-radius of the island. Ordinary fishermen that mistakenly step inside the circle will be enchanted and turned into a cauldron for their practice. Most disciples of the Exultant Sect stay forever young, which is speculated to be because there is a holy spring of the ฟลักซ์ดิน on the island.</Desc>
 		</Text>
 		<Text Name="Place_Desert">
 			<DisplayName>Great Desert</DisplayName>
@@ -53,11 +53,11 @@
 		</Text>
 		<Text Name="Place_SouthForest">
 			<DisplayName>Wild South</DisplayName>
-			<Desc>An untamed wilderness on the south of the country, permeated by poisonous fog and infested with venomous snakes and insects. Legend has it that the mystical Wormwrought Valley is in the Wild South. Filled with poisonous fog and insects, the Valley is extremely dangerous. However, due to its humidity and warmth, it is especially suitable for the growth of the magical medicine—Gnarled Vine. It is also said that the Demon Emperor, the founder of the southern demonic cult, was buried a thousand years ago deep in the Wild South.</Desc>
+			<Desc>An untamed wilderness on the south of the country, permeated by poisonous fog and infested with venomous snakes and insects. Legend has it that the mystical Wormwrought Valley is in the Wild South. Filled with poisonous fog and insects, the Valley is extremely dangerous. However, due to its humidity and warmth, it is especially suitable for the growth of the magical medicine—เถาวัลย์ตะปุ่มตะป่ำ. It is also said that the Demon Emperor, the founder of the southern demonic cult, was buried a thousand years ago deep in the Wild South.</Desc>
 		</Text>
 		<Text Name="Place_Snowfield">
 			<DisplayName>The Great Snowland</DisplayName>
-			<Desc>A snow-covered northern land that stretches to the horizon, with untrodden hills and large patches of pine trees amidst the snow and ice. It is rich in ginseng and jade stones that are difficult to extricate. It is said that deep in the snow, there is a mythical Lake Jadestone that will never freeze, where the รากวิญญาณ—Prism Lotus grows.</Desc>
+			<Desc>A snow-covered northern land that stretches to the horizon, with untrodden hills and large patches of pine trees amidst the snow and ice. It is rich in ginseng and jade stones that are difficult to extricate. It is said that deep in the snow, there is a mythical Lake Jadestone that will never freeze, where the รากวิญญาณ—ดอกบัวปริซึม grows.</Desc>
 		</Text>
 		<Text Name="Place_FertileField">
 			<DisplayName>Riverbank Plains</DisplayName>
@@ -65,7 +65,7 @@
 		</Text>
 		<Text Name="Place_CentralPlains">
 			<DisplayName>Central Plain</DisplayName>
-			<Desc>The highly populated central highland, abundant in various kinds of crops. There are many well-known mountains and sacred sites, one of which is called Alchemist's Peak, the place where the genius doctor used to cultivate the รากวิญญาณ—Ocher Essence.</Desc>
+			<Desc>The highly populated central highland, abundant in various kinds of crops. There are many well-known mountains and sacred sites, one of which is called Alchemist's Peak, the place where the genius doctor used to cultivate the รากวิญญาณ—ดินเหลืองสกัด.</Desc>
 		</Text>
 		<Text Name="Place_SouthMount">
 			<DisplayName>Mt. South</DisplayName>

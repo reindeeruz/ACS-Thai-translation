@@ -325,9 +325,9 @@ NotEat_Item_RedGinseng	I wouldn't eat โสมแดง
 NotEat_Item_PurpleGanodermaLucidum	I wouldn't eat เห็ดหลินจือม่วง				
 NotEat_Item_TuEssence	I wouldn't eat Ochre Essence				
 NotEat_Item_HuoEssence	I wouldn't eat ผลไม้แดงสด				
-NotEat_Item_ShuiEssence	I wouldn't eat Prism Lotus				
+NotEat_Item_ShuiEssence	I wouldn't eat ดอกบัวปริซึม				
 NotEat_Item_JinEssence	I wouldn't eat Sagacity Fruit				
-NotEat_Item_MuEssence	I wouldn't eat Gnarled Vine				
+NotEat_Item_MuEssence	I wouldn't eat เถาวัลย์ตะปุ่มตะป่ำ				
 NotEat_Item_LifeStream	I wouldn't drink Life Spring				
 NotEat_Item_LongEgg	I wouldn't eat มังกรหลาก Eggs				
 NotEat_Item_FengEgg	I wouldn't eat ฟินิกซ์ Eggs				
@@ -338,11 +338,11 @@ NotEat_Item_BossLong_Meat	I wouldn't eat Dragon Flesh
 NotEat_Item_BossZhuLong_Meat	I wouldn't eat Primordial Flesh				
 NotEat_Item_Cake	I wouldn't eat Bread				
 NotEat_Item_MonsterBlood	I wouldn't eat Beast Blood				
-NotEat_Item_EarthEssence	I wouldn't drink Earth Flux				
+NotEat_Item_EarthEssence	I wouldn't drink ฟลักซ์ดิน				
 NotEat_Item_SilverGrit	I wouldn't eat ผงน้ำแข็งคริสตัล				
 NotEat_Item_CopperGrit	I wouldn't eat Igneocopper Powder				
-NotEat_Item_Cinnabar	I wouldn't eat Cinnabar				
-NotEat_Item_LingMuXueJie	I wouldn't eat Resin Essence				
+NotEat_Item_Cinnabar	I wouldn't eat ตะกั่วแดง				
+NotEat_Item_LingMuXueJie	I wouldn't eat ชันสกัด				
 NotEat_Item_EarthEssence_1	I wouldn't eat Holy Essence				
 NotEat_Item_EarthEssence1_1	I wouldn't eat Evil Essence				
 NotEat_Item_Healroot	I wouldn't eat Healing Herb				
@@ -355,7 +355,7 @@ WannaEat_Item_RedGinseng					I really want to eat โสมแดง
 WannaEat_Item_PurpleGanodermaLucidum					I really want to eat เห็ดหลินจือม่วง
 WannaEat_Item_TuEssence					I really want to eat Ochre Essence
 WannaEat_Item_HuoEssence					I really want to eat ผลไม้แดงสด
-WannaEat_Item_ShuiEssence					I really want to eat Prism Lotus
+WannaEat_Item_ShuiEssence					I really want to eat ดอกบัวปริซึม
 WannaEat_Item_JinEssence					I really want to eat Sagacity Fruit
 WannaEat_Item_MuEssence					I really want to eat Gnarled Vines
 WannaEat_Item_LifeStream					I really want to drink Life Spring
@@ -368,11 +368,11 @@ WannaEat_Item_BossLong_Meat					I really want to eat Dragon Flesh
 WannaEat_Item_BossZhuLong_Meat					I really want to eat Primordial Flesh
 WannaEat_Item_Cake					I really want to eat Bread
 WannaEat_Item_MonsterBlood					I really want to eat Beast Blood
-WannaEat_Item_EarthEssence					I really want to drink Earth Flux
+WannaEat_Item_EarthEssence					I really want to drink ฟลักซ์ดิน
 WannaEat_Item_SilverGrit					I really want to eat ผงน้ำแข็งคริสตัล
 WannaEat_Item_CopperGrit					I really want to eat Igneocopper Powder
-WannaEat_Item_Cinnabar					I really want to eat Cinnabar
-WannaEat_Item_LingMuXueJie					I really want to eat Resin Essence
+WannaEat_Item_Cinnabar					I really want to eat ตะกั่วแดง
+WannaEat_Item_LingMuXueJie					I really want to eat ชันสกัด
 WannaEat_Item_EarthEssence_1					I really want to eat Holy Essence
 WannaEat_Item_EarthEssence1_1					I really want to eat Evil Essence
 WannaEat_Item_Healroot					I really want to eat Healing Herb
@@ -385,9 +385,9 @@ DoTalkEat_Item_RedGinseng					I'm eating โสมแดง
 DoTalkEat_Item_PurpleGanodermaLucidum					I'm eating เห็ดหลินจือม่วง
 DoTalkEat_Item_TuEssence					I'm eating Ochre Essence
 DoTalkEat_Item_HuoEssence					I'm eating ผลไม้แดงสด
-DoTalkEat_Item_ShuiEssence					I am eating Prism Lotus
+DoTalkEat_Item_ShuiEssence					I am eating ดอกบัวปริซึม
 DoTalkEat_Item_JinEssence					I'm eating Sagacity Fruit
-DoTalkEat_Item_MuEssence					I'm eating Gnarled Vine
+DoTalkEat_Item_MuEssence					I'm eating เถาวัลย์ตะปุ่มตะป่ำ
 DoTalkEat_Item_LifeStream					I'm drinking Life Spring
 DoTalkEat_Item_LongEgg					I'm eating มังกรหลาก Eggs
 DoTalkEat_Item_FengEgg					I'm eating ฟินิกซ์ Eggs
@@ -398,11 +398,11 @@ DoTalkEat_Item_BossLong_Meat					I'm eating Dragon Flesh
 DoTalkEat_Item_BossZhuLong_Meat					I'm eating Primordial Flesh
 DoTalkEat_Item_Cake					I'm eating Bread
 DoTalkEat_Item_MonsterBlood					I'm eating Beast Blood
-DoTalkEat_Item_EarthEssence					I'm drinking Earth Flux
+DoTalkEat_Item_EarthEssence					I'm drinking ฟลักซ์ดิน
 DoTalkEat_Item_SilverGrit					I'm eating ผงน้ำแข็งคริสตัล
 DoTalkEat_Item_CopperGrit					I'm eating Igneocopper Powder
-DoTalkEat_Item_Cinnabar					I'm eating Cinnabar
-DoTalkEat_Item_LingMuXueJie					I'm eating Resin Essence
+DoTalkEat_Item_Cinnabar					I'm eating ตะกั่วแดง
+DoTalkEat_Item_LingMuXueJie					I'm eating ชันสกัด
 DoTalkEat_Item_EarthEssence_1					I'm eating Holy Essence
 DoTalkEat_Item_EarthEssence1_1					I'm eating Evil Essence
 DoTalkEat_Item_Healroot					I'm eating Healing Herb
@@ -417,7 +417,7 @@ CantEat_Item_TuEssence	I can't find any Ochre Essence to eat
 CantEat_Item_HuoEssence	I can't find any ผลไม้แดงสด to eat				
 CantEat_Item_ShuiEssence	I can't find any Prismatic to eat				
 CantEat_Item_JinEssence	I can't find any Sagacity Fruit to eat				
-CantEat_Item_MuEssence	I can't find any Gnarled Vine to eat				
+CantEat_Item_MuEssence	I can't find any เถาวัลย์ตะปุ่มตะป่ำ to eat				
 CantEat_Item_LifeStream	I can't find any Life Spring to drink				
 CantEat_Item_LongEgg	I can't find any มังกรหลาก Eggs to eat				
 CantEat_Item_FengEgg	I can't find any ฟินิกซ์ Eggs to eat				
@@ -428,11 +428,11 @@ CantEat_Item_BossLong_Meat	I can't find any Dragon Flesh to eat
 CantEat_Item_BossZhuLong_Meat	I can't find any Primordial Flesh to eat				
 CantEat_Item_Cake	I can't find any Bread to eat				
 CantEat_Item_MonsterBlood	I can't find any Beast Blood to eat				
-CantEat_Item_EarthEssence	I can't find any Earth Flux to drink				
+CantEat_Item_EarthEssence	I can't find any ฟลักซ์ดิน to drink				
 CantEat_Item_SilverGrit	I can't find any ผงน้ำแข็งคริสตัล to eat				
 CantEat_Item_CopperGrit	I can't find any Igneocopper Powder to eat				
-CantEat_Item_Cinnabar	I can't find any Cinnabar to eat				
-CantEat_Item_LingMuXueJie	I can't find any Resin Essence to eat				
+CantEat_Item_Cinnabar	I can't find any ตะกั่วแดง to eat				
+CantEat_Item_LingMuXueJie	I can't find any ชันสกัด to eat				
 CantEat_Item_EarthEssence_1	I can't find any Holy Essence to eat				
 CantEat_Item_EarthEssence1_1	I can't find any Evil Essence to eat				
 CantEat_Item_Healroot	I can't find any Healing Herb to eat				

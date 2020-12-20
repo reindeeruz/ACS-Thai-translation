@@ -9,16 +9,16 @@
 			<Desc>The plant of ผลไม้ปราชญ์, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. Extremely sensitive to high temperature, but relatively resistant to cold. It has to grow in an environment below 20℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Mu" sParam="Plant">
-			<ThingName>Wood รากวิญญาณ: Gnarled Vine</ThingName>
-			<Desc>The plant of Gnarled Vine, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It has a strict requirement for environment temperature, and only grows in between 15-35℃.</Desc>
+			<ThingName>Wood รากวิญญาณ: เถาวัลย์ตะปุ่มตะป่ำ</ThingName>
+			<Desc>The plant of เถาวัลย์ตะปุ่มตะป่ำ, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It has a strict requirement for environment temperature, and only grows in between 15-35℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Shui" sParam="Plant">
-			<ThingName>Water รากวิญญาณ: Prism Lotus</ThingName>
-			<Desc>The Prism Lotus plant, an ยาแห่งธาตุ. Grows in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It prefers low temperature, and only grows in an environment below -120℃.</Desc>
+			<ThingName>Water รากวิญญาณ: ดอกบัวปริซึม</ThingName>
+			<Desc>The ดอกบัวปริซึม plant, an ยาแห่งธาตุ. Grows in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It prefers low temperature, and only grows in an environment below -120℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Tu" sParam="Plant">
-			<ThingName>Earth รากวิญญาณ: Ocher Essence</ThingName>
-			<Desc>The plant of Ocher Essence, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It avoids low temperature, and only grows in an environment above 30℃.</Desc>
+			<ThingName>Earth รากวิญญาณ: ดินเหลืองสกัด</ThingName>
+			<Desc>The plant of ดินเหลืองสกัด, an ยาแห่งธาตุ. Grows in a place with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์. It avoids low temperature, and only grows in an environment above 30℃.</Desc>
 		</Text>
 		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
 			<ThingName>Fire รากวิญญาณ: ผลไม้แดงสด Tree</ThingName>
@@ -33,19 +33,19 @@
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
-			<ThingName>Wood รากวิญญาณ: Gnarled Vine</ThingName>
-			<Desc>The plant of Gnarled Vine, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
+			<ThingName>Wood รากวิญญาณ: เถาวัลย์ตะปุ่มตะป่ำ</ThingName>
+			<Desc>The plant of เถาวัลย์ตะปุ่มตะป่ำ, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
-			<ThingName>Water รากวิญญาณ: Prism Lotus</ThingName>
+			<ThingName>Water รากวิญญาณ: ดอกบัวปริซึม</ThingName>
 			<Desc>The plant of Prismatic Lotus, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
-			<ThingName>Earth รากวิญญาณ: Ocher Essence</ThingName>
+			<ThingName>Earth รากวิญญาณ: ดินเหลืองสกัด</ThingName>
 			<Desc>The plant of Ochre Essence, an ยาแห่งธาตุ. It is said to only grow in places with dense พลังชี่, compatible element and ดินที่อุดมสมบูรณ์.</Desc>
 			<StoryBnts.0.Name>Examine</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Try to examine it closely with your Perception.</StoryBnts.0.Desc>

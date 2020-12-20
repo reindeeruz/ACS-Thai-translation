@@ -13,7 +13,7 @@
 		</Text>
 		<Text Name="Place_DanXia3">
 			<DisplayName>Five Dragons Pond</DisplayName>
-			<Desc>A magical pond located deep in Mt. Sunshade. Lotus flowers sprout vigorously in the lake, which seems bottomless, connecting to the water vein on the earth's crust. It is said that the Prism Lotus—the รากวิญญาณ of the Sunshade Abode is planted here.</Desc>
+			<Desc>A magical pond located deep in Mt. Sunshade. Lotus flowers sprout vigorously in the lake, which seems bottomless, connecting to the water vein on the earth's crust. It is said that the ดอกบัวปริซึม—the รากวิญญาณ of the Sunshade Abode is planted here.</Desc>
 		</Text>
 		<Text Name="Place_KunLun1">
 			<DisplayName>เซียน Summit</DisplayName>
@@ -21,7 +21,7 @@
 		</Text>
 		<Text Name="Place_KunLun2">
 			<DisplayName>Drake Cave</DisplayName>
-			<Desc>An endless cave deep in Mt. Kunlun, with complex and confusing passages and streams. It is said to be directly connected to and blessed by the Dragon's Vein, and thus the Kunlun Palace cultivates its รากวิญญาณ—the Ocher Essence here.</Desc>
+			<Desc>An endless cave deep in Mt. Kunlun, with complex and confusing passages and streams. It is said to be directly connected to and blessed by the Dragon's Vein, and thus the Kunlun Palace cultivates its รากวิญญาณ—the ดินเหลืองสกัด here.</Desc>
 		</Text>
 		<Text Name="Place_KunLun2_1">
 			<DisplayName>Mystic Cavern</DisplayName>
@@ -69,7 +69,7 @@
 		</Text>
 		<Text Name="Place_Shu4">
 			<DisplayName>Gemspring Cave</DisplayName>
-			<Desc>One of the twelve renowned caves in Mt. Shu. Legend has it that a holy spring of Earth Flux is hidden deep inside the cave, and only destiny can be one's guide to finding it.</Desc>
+			<Desc>One of the twelve renowned caves in Mt. Shu. Legend has it that a holy spring of ฟลักซ์ดิน is hidden deep inside the cave, and only destiny can be one's guide to finding it.</Desc>
 		</Text>
 		<Text Name="Place_Shu5">
 			<DisplayName>Bladesmith Tomb</DisplayName>
@@ -121,7 +121,7 @@
 		</Text>
 		<Text Name="Place_HeHuan2">
 			<DisplayName>Poison Dragon Lake</DisplayName>
-			<Desc>A deep lake on the Exultant Isle. Legend has it that deep inside the lake, there is a den of Toxagons that often attack nearby cultivators. It is also told that there is a holy spring of Earth Flux and the Toxagon den is only a misleading story made up by the Exultant Isle.</Desc>
+			<Desc>A deep lake on the Exultant Isle. Legend has it that deep inside the lake, there is a den of Toxagons that often attack nearby cultivators. It is also told that there is a holy spring of ฟลักซ์ดิน and the Toxagon den is only a misleading story made up by the Exultant Isle.</Desc>
 		</Text>
 		<Text Name="Place_Desert1">
 			<DisplayName>Daemonia Temple</DisplayName>
@@ -149,7 +149,7 @@
 		</Text>
 		<Text Name="Place_SouthForest3">
 			<DisplayName>Wormwrought Valley</DisplayName>
-			<Desc>A valley deep in the Wild South, most of which are dangerous thick woods with snakes and insects crawling inside. However, its damp environment is especially suitable for the growth of the magical medicine—Gnarled Vine, so cultivators often come here to seek an easier way to immortality.</Desc>
+			<Desc>A valley deep in the Wild South, most of which are dangerous thick woods with snakes and insects crawling inside. However, its damp environment is especially suitable for the growth of the magical medicine—เถาวัลย์ตะปุ่มตะป่ำ, so cultivators often come here to seek an easier way to immortality.</Desc>
 		</Text>
 		<Text Name="Place_Snowfield1">
 			<DisplayName>Skye Conch Valley</DisplayName>
@@ -157,7 +157,7 @@
 		</Text>
 		<Text Name="Place_Snowfield2">
 			<DisplayName>Lake Jadestone</DisplayName>
-			<Desc>A magical lake deep in the Great Snowland that never freezes. It is told that there is a Prism Lotus growing in the lake, but only the luckiest cultivator will be able to find it. The source of the water connects directly to the deep end of the earth's crust—the core of the magnetic field. No one can escape the pull once stuck inside. Before Fu, the ultimate overlord as well as the Emperor of Demons that once ruled the society of cultivators, was struck dead by the hand of the gods, he hid all his possessions in a golden box and let it sink down the lake. The box was caught by the pull of the magnetic field, and it never faced the light of day again.</Desc>
+			<Desc>A magical lake deep in the Great Snowland that never freezes. It is told that there is a ดอกบัวปริซึม growing in the lake, but only the luckiest cultivator will be able to find it. The source of the water connects directly to the deep end of the earth's crust—the core of the magnetic field. No one can escape the pull once stuck inside. Before Fu, the ultimate overlord as well as the Emperor of Demons that once ruled the society of cultivators, was struck dead by the hand of the gods, he hid all his possessions in a golden box and let it sink down the lake. The box was caught by the pull of the magnetic field, and it never faced the light of day again.</Desc>
 		</Text>
 		<Text Name="Place_Snowfield3">
 			<DisplayName>Blizzard Plains</DisplayName>
@@ -185,11 +185,11 @@
 		</Text>
 		<Text Name="Place_CentralPlains1">
 			<DisplayName>Mt. Cloudsreach</DisplayName>
-			<Desc>A famous mountain surrounded by thick clouds in the hinterland of Central Plains, thus the name Mt. Cloudsreach. It is rich in Cinnabar, and alchemist cultivators often come here to gather them.</Desc>
+			<Desc>A famous mountain surrounded by thick clouds in the hinterland of Central Plains, thus the name Mt. Cloudsreach. It is rich in ตะกั่วแดง, and alchemist cultivators often come here to gather them.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains2">
 			<DisplayName>Alchemist's Peak</DisplayName>
-			<Desc>The genius doctor used to practice alchemy here, but now only an abandoned mansion is standing here with nothing left inside. Most of the spiritual herbs in the garden have dried up; only the resilient Spirit Leaves were able to survive and spread across the mountain. It is said that the genius doctor used to plant the รากวิญญาณ Ocher Essence here, which has attained spirituality. Only the luckiest of the adventurers is able to find it.</Desc>
+			<Desc>The genius doctor used to practice alchemy here, but now only an abandoned mansion is standing here with nothing left inside. Most of the spiritual herbs in the garden have dried up; only the resilient Spirit Leaves were able to survive and spread across the mountain. It is said that the genius doctor used to plant the รากวิญญาณ ดินเหลืองสกัด here, which has attained spirituality. Only the luckiest of the adventurers is able to find it.</Desc>
 		</Text>
 		<Text Name="Place_CentralPlains3">
 			<DisplayName>Mt. Mesa</DisplayName>

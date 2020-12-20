@@ -241,13 +241,13 @@
 			<Desc>Consume ผลไม้แดงสด</Desc>
 		</Text>
 		<Text Name="Eat_Item_ShuiEssence">
-			<Desc>Eat Prism Lotus</Desc>
+			<Desc>Eat ดอกบัวปริซึม</Desc>
 		</Text>
 		<Text Name="Eat_Item_JinEssence">
 			<Desc>Consume Sagacity Fruit</Desc>
 		</Text>
 		<Text Name="Eat_Item_MuEssence">
-			<Desc>Consume Gnarled Vine</Desc>
+			<Desc>Consume เถาวัลย์ตะปุ่มตะป่ำ</Desc>
 		</Text>
 		<Text Name="Eat_Item_LifeStream">
 			<Desc>Consume Life Spring</Desc>
@@ -280,7 +280,7 @@
 			<Desc>Consume Beast Blood</Desc>
 		</Text>
 		<Text Name="Eat_Item_EarthEssence">
-			<Desc>Consume Earth Flux</Desc>
+			<Desc>Consume ฟลักซ์ดิน</Desc>
 		</Text>
 		<Text Name="Eat_Item_SilverGrit">
 			<Desc>Consume ผงน้ำแข็งคริสตัล</Desc>
@@ -289,10 +289,10 @@
 			<Desc>Consume Igneocopper Powder</Desc>
 		</Text>
 		<Text Name="Eat_Item_Cinnabar">
-			<Desc>Consume Cinnabar</Desc>
+			<Desc>Consume ตะกั่วแดง</Desc>
 		</Text>
 		<Text Name="Eat_Item_LingMuXueJie">
-			<Desc>Consume Resin Essence</Desc>
+			<Desc>Consume ชันสกัด</Desc>
 		</Text>
 		<Text Name="Eat_Item_EarthEssence_1">
 			<Desc>Consume Holy Essence</Desc>

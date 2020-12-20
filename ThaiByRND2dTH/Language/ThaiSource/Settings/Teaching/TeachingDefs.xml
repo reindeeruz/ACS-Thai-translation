@@ -618,11 +618,11 @@
 			<Chapters.0.Tasks.0>Check พลังชี่ and พลังชี่ Recovery Rate</Chapters.0.Tasks.0>
 			<Chapters.0.Tasks.1>Check พลังชี่ Density</Chapters.0.Tasks.1>
 			<Chapters.1.DisplayName>Effect and Range of พลังชี่ Gathering</Chapters.1.DisplayName>
-			<Chapters.1.Tasks.0>Place Gnarled Vine</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.0>Place เถาวัลย์ตะปุ่มตะป่ำ</Chapters.1.Tasks.0>
 			<Chapters.1.Tasks.1>Place Jade Essence</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Place Spiritwood</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Wait for Them to be Placed</Chapters.1.Tasks.3>
-			<Chapters.1.Tasks.4>Inspect Gnarled Vine</Chapters.1.Tasks.4>
+			<Chapters.1.Tasks.4>Inspect เถาวัลย์ตะปุ่มตะป่ำ</Chapters.1.Tasks.4>
 			<Chapters.1.Tasks.5>Inspect Jade Essence</Chapters.1.Tasks.5>
 			<Chapters.1.Tasks.6>Inspect Spiritwood</Chapters.1.Tasks.6>
 			<Chapters.2.DisplayName>Other Items that Condense พลังชี่</Chapters.2.DisplayName>
@@ -634,7 +634,7 @@
 			<Tasks.6.TipsData.Desc>The player can place the cursor to see the current พลังชี่ Density in the Practice menu and therefore use it to assess the environment of พลังชี่ around an disciple.</Tasks.6.TipsData.Desc>
 			<Tasks.7.TaskDesc>Click to close the Law &amp; Cultivation menu.</Tasks.7.TaskDesc>
 			<Tasks.9.TipsData.Desc>The player can let inner disciples practice in a place with high พลังชี่ density that helps to increase the cultivation speed and quickly recover their พลังชี่.</Tasks.9.TipsData.Desc>
-			<Tasks.11.TaskDesc>Click to select Gnarled Vine.</Tasks.11.TaskDesc>
+			<Tasks.11.TaskDesc>Click to select เถาวัลย์ตะปุ่มตะป่ำ.</Tasks.11.TaskDesc>
 			<Tasks.12.TaskDesc>Click Place.</Tasks.12.TaskDesc>
 			<Tasks.12.UiData.Name>Place</Tasks.12.UiData.Name>
 			<Tasks.13.TaskDesc>Click to select Display (หินวิญญาณ Floor).</Tasks.13.TaskDesc>
@@ -648,7 +648,7 @@
 			<Tasks.21.TaskDesc>Click to select Display (Holy Stone Floor).</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Click 3x Speed in the top left to accelerate the game.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Wait for them to be placed.</Tasks.25.TaskDesc>
-			<Tasks.27.TaskDesc>Check the พลังชี่ Gathering of Gnarled Vine on the Display.</Tasks.27.TaskDesc>
+			<Tasks.27.TaskDesc>Check the พลังชี่ Gathering of เถาวัลย์ตะปุ่มตะป่ำ on the Display.</Tasks.27.TaskDesc>
 			<Tasks.29.TaskDesc>Check the พลังชี่ Gathering of Jade Essence on the Display.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Check the พลังชี่ Gathering of Spiritwood on the Display.</Tasks.31.TaskDesc>
 			<Tasks.33.TipsData.Desc>An item's ability to condense พลังชี่ is positively associated with its พลังชี่ Gathering, and the พลังชี่ Density around the item will slowly increase as well. A wider range of พลังชี่ Gathering means it will affect the พลังชี่ Density of a larger area. Therefore, พลังชี่ is always flowing from areas with low พลังชี่ Gathering to those with high พลังชี่ Gathering.</Tasks.33.TipsData.Desc>
@@ -1248,7 +1248,7 @@
 			<Tasks.6.TaskDesc>Click Trade.</Tasks.6.TaskDesc>
 			<Tasks.7.TipsData.Desc>Access can be purchased in advance to freely enter all the locations belonged to the sect, which helps the player explore the other locations of the sect.</Tasks.7.TipsData.Desc>
 			<Tasks.8.TaskDesc>Click Access from Sect Access in the left.</Tasks.8.TaskDesc>
-			<Tasks.9.TaskDesc>Click Earth Flux from Player Items in the right.</Tasks.9.TaskDesc>
+			<Tasks.9.TaskDesc>Click ฟลักซ์ดิน from Player Items in the right.</Tasks.9.TaskDesc>
 			<Tasks.10.TaskDesc>Click Confirm.</Tasks.10.TaskDesc>
 			<Tasks.11.TaskDesc>Click Confirm.</Tasks.11.TaskDesc>
 			<Tasks.13.TipsData.Desc>The red area in World Map is where the player has no access to. You can purchase access to the areas that belonged to this power. After being unlocked, the area will turn to the normal color, which means the player can enter and explore there.</Tasks.13.TipsData.Desc>

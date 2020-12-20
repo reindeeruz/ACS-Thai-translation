@@ -2,31 +2,31 @@
 	<List>
 		<Text Name="Item_Fruit" sParam="Item">
 			<ThingName>ผลไม้อำพัน</ThingName>
-			<Desc>A handful of Amber Fruit. Consuming them allows one to become immune from hunger and ความเหนื่อยล้า for half a day. However, the fruits rot quickly after being harvested.</Desc>
+			<Desc>เมื่อกินผลไม้อำพันจะทำให้ไม่รู้สึกหิวและเหนื่อยล้าเป็นเวลาครึ่งวัน ผลไม้นี้เน่าเร็วมากหลังจากถูกเก็บเกี่ยว</Desc>
 			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LingWater" sParam="Item">
-			<ThingName>Spirit Dew</ThingName>
+			<ThingName>น้ำค้างวิญญาณ</ThingName>
 			<Desc>A drop of dew on Spiritual Grass, rich in life force. It will quickly disperse after being separated from the Spiritual Grass. Consuming it replenishes a lot of stamina, as well as greatly improving body recovery rate for a short period of time.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ZaoHuaYuLu" sParam="Item">
-			<ThingName>Fortune Dew</ThingName>
+			<ThingName>น้ำค้างโชค</ThingName>
 			<Desc>Dew with the power of creation formed on a Spiritual Root. It will quickly disperse after being separated from the Spiritual Root. When consumed, one's วิญญาณบรรพกาล will perish and fall into a state of feign death for 81 days, recovering from all injuries. One's flesh and bones will be completely remolded afterwards, increasing Five Attributes by 20% each, but their ค่าความสำเร็จ is significantly reduced. It can only be taken once by each person. Repeated consumption will cause one's วิญญาณบรรพกาล to be permanently extinguished and disperse into oblivion.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SilverGrit" sParam="Item">
-			<ThingName>Frost Powder</ThingName>
+			<ThingName>ผงน้ำแข็งคริสตัล</ThingName>
 			<Desc>Mineral powder grinded from Ice Crystal Ore, can be used as medicinal ingredient.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_CopperGrit" sParam="Item">
-			<ThingName>Igne Powder</ThingName>
+			<ThingName>ผงเหล็กไฟ</ThingName>
 			<Desc>Mineral powder grinded from Igneocopper Ore, can be used as medicinal ingredient.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cinnabar" sParam="Item">
-			<ThingName>Cinnabar</ThingName>
+			<ThingName>ตะกั่วแดง</ThingName>
 			<Desc>This special mineral is commonly used as a medium in alchemy and when drawing talismans.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
@@ -38,15 +38,15 @@
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MuEssence" sParam="Item">
-			<ThingName>Gnarled Vine</ThingName>
+			<ThingName>เถาวัลย์ตะปุ่มตะป่ำ</ThingName>
 			<Desc>Miraculous medicine of the Wood element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the vine can be found on Mt. Tiger Paw and the Wormwrought Valley of the Wild South.</Desc>
 			<Item.FabaoSuffix>Vine, Lock, Chain, Rope, Cord</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShuiEssence" sParam="Item">
-			<ThingName>Prism Lotus</ThingName>
-			<Desc>Miraculous medicine of the Water element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that a Prism Lotus can be found in the Five Dragons Pond of Mt. Sunshade.</Desc>
+			<ThingName>ดอกบัวปริซึม</ThingName>
+			<Desc>Miraculous medicine of the Water element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that a ดอกบัวปริซึม can be found in the Five Dragons Pond of Mt. Sunshade.</Desc>
 			<Item.FabaoSuffix>Lotus, Platform, Seal, Cover, Field</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
@@ -59,30 +59,30 @@
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_TuEssence" sParam="Item">
-			<ThingName>Ocher Essence</ThingName>
-			<Desc>Miraculous medicine of the Earth element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the Ocher Essence grows in the Drake Cave of Mt. Kunlun.</Desc>
+			<ThingName>ดินเหลืองสกัด</ThingName>
+			<Desc>Miraculous medicine of the Earth element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the ดินเหลืองสกัด grows in the Drake Cave of Mt. Kunlun.</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_LingMuXueJie" sParam="Item">
-			<ThingName>Resin Essence</ThingName>
+			<ThingName>ชันสกัด</ThingName>
 			<Desc>Gelatinous substance extracted from the Spiritual Root when nourished, it can replenish the human body's Stamina directly.</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence" sParam="Item">
-			<ThingName>Earth Flux</ThingName>
-			<Desc>Essence of what's deep inside the earth's crust, it is a liquid of milky white appearance and an ingredient that can be used in making various kinds of miraculous elixirs. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. Consuming it in large quantities significantly diminish the effect of พลังชี่ Reserve expansion. It's said that a spring of Earth Flux can be found on Exultant Isle and in the Gemspring Cave of Mt. Shu.</Desc>
+			<ThingName>ฟลักซ์ดิน</ThingName>
+			<Desc>Essence of what's deep inside the earth's crust, it is a liquid of milky white appearance and an ingredient that can be used in making various kinds of miraculous elixirs. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. Consuming it in large quantities significantly diminish the effect of พลังชี่ Reserve expansion. It's said that a spring of ฟลักซ์ดิน can be found on Exultant Isle and in the Gemspring Cave of Mt. Shu.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1" sParam="Item">
-			<ThingName>Wicked Flux</ThingName>
+			<ThingName>ฟลักซ์ชั่วร้าย</ThingName>
 			<Desc>Essence of what's deep inside the earth's crust with a bright red color. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. This substance has weak medicine ebb and can be taken multiple times. However, it will cause negative พลังชี่ to concentrate within, which has a permanent influence on the mind. Consuming it in large quantities greatly affect one's cultivation.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence_1" sParam="Item">
 			<ThingName>Holy Essence</ThingName>
-			<Desc>Cream-like substance formed by coagulated Earth Flux. It can convert one's พลังชี่ into vital essence, decreasing ค่าพลังชี่สูงสุด. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Only works the first time it's consumed.</Desc>
+			<Desc>Cream-like substance formed by coagulated ฟลักซ์ดิน. It can convert one's พลังชี่ into vital essence, decreasing ค่าพลังชี่สูงสุด. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Only works the first time it's consumed.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1_1" sParam="Item">

@@ -56,7 +56,7 @@
 		</Text>
 		<Text Name="Item_MiBao_XiXingShenSuo" sParam="Item">
 			<ThingName>Stardust Shuttle</ThingName>
-			<Desc>Secret artifact of the ancient Taiyin Cult. An incubation is forged by combining the essence of Ice Crystal with the เส้นพลังชี่ channels from a มังกรหลาก's tail, and then nurtured with breath of a maiden. When attacking with this artifact, a portion of damage it caused can be converted into the artifact's own พลังชี่.</Desc>
+			<Desc>Secret artifact of the ancient Taiyin Cult. An incubation is forged by combining the essence of Ice Crystal with the เส้นลมปราณ channels from a มังกรหลาก's tail, and then nurtured with breath of a maiden. When attacking with this artifact, a portion of damage it caused can be converted into the artifact's own พลังชี่.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Carried and nurtured by a maiden girl for one year.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>10% of damage dealt will be replenished to the artifact's พลังชี่.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -84,7 +84,7 @@
 		</Text>
 		<Text Name="Item_MiBao_MuFabao" sParam="Item">
 			<ThingName>Green Lotus Banner</ThingName>
-			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with Gnarled Vine essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Water element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Earth element.</Desc>
+			<Desc>One of the five Vast Banners. It uses bone of ฟินิกซ์ as the pole, drawing with เถาวัลย์ตะปุ่มตะป่ำ essence on a Tough Demon Beast Hide as the flag, and then utilized the power of a Tier I Golden Core of Water element in the making to complete itself. Although this one is a copy, it's still quite marvelous. This artifact deals double damage to targets of Earth element.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Generate a Tier I Golden Core of Water element while carrying this incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Increases damage to targets of Earth element by 100%.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -162,7 +162,7 @@
 		</Text>
 		<Text Name="Item_MiBao_TianLangDing" sParam="Item">
 			<ThingName>Sirius Spike</ThingName>
-			<Desc>Wicked artifact from another realm. Using the remaining evilness left by ascended เซียน as the catalyst, the essence of Gnarled Vine's power is condensed onto a Demon Wolf's Fang. Nurture it with your own essence to make it spiritual. This artifact is extremely thin and sensitive when being used in battle. Once triggered, it will split into 9 apparitions to attack the enemy. It is a vicious weapon. (Once equipped, right click to feed essence to it)</Desc>
+			<Desc>Wicked artifact from another realm. Using the remaining evilness left by ascended เซียน as the catalyst, the essence of เถาวัลย์ตะปุ่มตะป่ำ's power is condensed onto a Demon Wolf's Fang. Nurture it with your own essence to make it spiritual. This artifact is extremely thin and sensitive when being used in battle. Once triggered, it will split into 9 apparitions to attack the enemy. It is a vicious weapon. (Once equipped, right click to feed essence to it)</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Feed the artifact 18 times with your essence.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>

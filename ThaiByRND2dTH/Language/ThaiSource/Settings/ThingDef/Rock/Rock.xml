@@ -17,8 +17,8 @@
 			<Desc>Mountain rock rich in jade, from which Jade can be mined.</Desc>
 		</Text>
 		<Text Name="RockCinnabar" sParam="Plant">
-			<ThingName>Cinnabar Rock</ThingName>
-			<Desc>Mountain rock rich in cinnabar, from which Cinnabar can be mined.</Desc>
+			<ThingName>ตะกั่วแดง Rock</ThingName>
+			<Desc>Mountain rock rich in ตะกั่วแดง, from which ตะกั่วแดง can be mined.</Desc>
 		</Text>
 	</List>
 </Texts>
