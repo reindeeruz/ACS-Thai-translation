@@ -7,274 +7,274 @@
 		</Text>
 		<Text Name="Item_LingWater" sParam="Item">
 			<ThingName>น้ำค้างวิญญาณ</ThingName>
-			<Desc>A drop of dew on Spiritual Grass, rich in life force. It will quickly disperse after being separated from the Spiritual Grass. Consuming it replenishes a lot of stamina, as well as greatly improving body recovery rate for a short period of time.</Desc>
+			<Desc>หยดน้ำค้างจากหญ้าวิญญาณ ที่เต็มไปด้วยพลังชีวิต มันจะสลายไปอย่างเร็วถ้าถูกแยกออกมาจากหญ้าวิญญาณ หากกินมันจะเพิ่มค่าความแข็งแกร่ง และเพิ่มอัตราการรักษาอาการบาดเจ็บอย่างมากเป็นช่วงระยะเวลาสั้น ๆ</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ZaoHuaYuLu" sParam="Item">
 			<ThingName>น้ำค้างโชค</ThingName>
-			<Desc>Dew with the power of creation formed on a Spiritual Root. It will quickly disperse after being separated from the Spiritual Root. When consumed, one's วิญญาณบรรพกาล will perish and fall into a state of feign death for 81 days, recovering from all injuries. One's flesh and bones will be completely remolded afterwards, increasing Five Attributes by 20% each, but their ค่าความสำเร็จ is significantly reduced. It can only be taken once by each person. Repeated consumption will cause one's วิญญาณบรรพกาล to be permanently extinguished and disperse into oblivion.</Desc>
+			<Desc>หยดน้ำค้างที่มีพลังแห่งการถือกำเนิดที่เกิดมาจากรากวิญญาณ มันจะสลายไปอย่างเร็วถ้าถูกแยกออกมาจากรากวิญญาณ เมื่อกินมันจะทำให้วิญญาณบรรพกาลของผู้กินสลายไปและจะอยู๋ในสถานะ "แกล้งตาย" เป็นเวลา 81 วันและรักษาอาการบาดเจ็บทุกอย่างที่มี	โดยร่างกายของผู้กินจะถูกหลอมขึ้นมาใหม่ทำให้เพิ่มค่าสถิติพื้นฐาน 5 อย่าง อย่างละ 20% แต่จะลดค่าความสำเร็จลงอย่างมาก น้ำค้างโชคสามารถกินได้เพียงครั้งเดียวต่อคน หากกินมากกว่าหนึ่งครั้งจะทำให้วิญญาณบรรพกาลของผู้กินสลายไปและไม่กลับมาอีกเลย</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SilverGrit" sParam="Item">
 			<ThingName>ผงน้ำแข็งคริสตัล</ThingName>
-			<Desc>Mineral powder grinded from Ice Crystal Ore, can be used as medicinal ingredient.</Desc>
+			<Desc>ผงแร่ที่ได้มาจากการป่นแร่น้ำแข็งคริสตัล สามารถใช้เป็นส่วนผสมยาต่าง ๆ ได้</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_CopperGrit" sParam="Item">
 			<ThingName>ผงเหล็กไฟ</ThingName>
-			<Desc>Mineral powder grinded from Igneocopper Ore, can be used as medicinal ingredient.</Desc>
+			<Desc>ผงแร่ที่ได้มาจากการป่นแร่เหล็กไฟ สามารถใช้เป็นส่วนผสมยาต่าง ๆ ได้</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Cinnabar" sParam="Item">
 			<ThingName>ตะกั่วแดง</ThingName>
-			<Desc>This special mineral is commonly used as a medium in alchemy and when drawing talismans.</Desc>
+			<Desc>เป็นแร่พิเศษที่มีสรรพคุณทางยา ใช้เป็นตัวกลางในขณะเล่นแร่แปรธาตุและยังใช้ในตอนที่วาดยันต์อีกด้วย</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_JinEssence" sParam="Item">
 			<ThingName>ผลไม้ปราชญ์</ThingName>
-			<Desc>Miraculous medicine of the Metal element, with boisterous พลังชี่ dwelling within it. It is said that the fruit can be found in the Nimbus Ravine of Heavenstep Peak.</Desc>
+			<Desc>ยาวิเศษแห่งธาตุโลหะ ที่เต็มไปด้วยพลังชี่ ว่ากันว่าสามารถหาได้ที่ Nimbus Ravine แห่ง Heavenstep Peak</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_MuEssence" sParam="Item">
 			<ThingName>เถาวัลย์ตะปุ่มตะป่ำ</ThingName>
-			<Desc>Miraculous medicine of the Wood element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the vine can be found on Mt. Tiger Paw and the Wormwrought Valley of the Wild South.</Desc>
+			<Desc>ยาวิเศษแห่งธาตุไม้ ที่เต็มไปด้วยพลังชี่ ไม่สามารถกินโดยตรงได้ ว่ากันว่าสามารถหาได้ที่ Mt. Tiger Paw และ Wormwrought Valley แห่ง Wild South</Desc>
 			<Item.FabaoSuffix>Vine, Lock, Chain, Rope, Cord</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_ShuiEssence" sParam="Item">
 			<ThingName>ดอกบัวปริซึม</ThingName>
-			<Desc>Miraculous medicine of the Water element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that a ดอกบัวปริซึม can be found in the Five Dragons Pond of Mt. Sunshade.</Desc>
+			<Desc>ยาวิเศษแห่งธาตุน้ำ ที่เต็มไปด้วยพลังชี่ ไม่สามารถกินโดยตรงได้ ว่ากันว่าสามารถหาได้ที่ Five Dragons Pond แห่ง Mt. Sunshade.</Desc>
 			<Item.FabaoSuffix>Lotus, Platform, Seal, Cover, Field</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_HuoEssence" sParam="Item">
 			<ThingName>ผลไม้แดงสด</ThingName>
-			<Desc>Miraculous medicine of the Fire element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the fruit grows at the Jadestone Cliff of Mt. Shu and in the Blazenest of Great Western Desert.</Desc>
+			<Desc>ยาวิเศษแห่งธาตุไฟ ที่เต็มไปด้วยพลังชี่ ไม่สามารถกินโดยตรงได้ ว่ากันว่าสามารถหาได้ที่ Jadestone Cliff แห่ง Mt. Shu และใน Blazenest แห่ง Great Western Desert.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_TuEssence" sParam="Item">
 			<ThingName>ดินเหลืองสกัด</ThingName>
-			<Desc>Miraculous medicine of the Earth element, with boisterous พลังชี่ dwelling within it. Cannot be consumed directly. It is said that the ดินเหลืองสกัด grows in the Drake Cave of Mt. Kunlun.</Desc>
+			<Desc>ยาวิเศษแห่งธาตุดิน ที่เต็มไปด้วยพลังชี่ ไม่สามารถกินโดยตรงได้ ว่ากันว่าสามารถหาได้ที่ Drake Cave แห่ง Mt. Kunlun.</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Root, Seal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Plant</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Plant to cultivate a Spiritual Plant.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_LingMuXueJie" sParam="Item">
 			<ThingName>ชันสกัด</ThingName>
-			<Desc>Gelatinous substance extracted from the Spiritual Root when nourished, it can replenish the human body's Stamina directly.</Desc>
+			<Desc>สารที่สกัดออกมาจากรากวิญญาณมีลักษณะเป็นวุ้น สามารถช่วยฟื้นค่าความแข็งแกร่งได้โดยตรง</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence" sParam="Item">
 			<ThingName>ฟลักซ์ดิน</ThingName>
-			<Desc>Essence of what's deep inside the earth's crust, it is a liquid of milky white appearance and an ingredient that can be used in making various kinds of miraculous elixirs. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. Consuming it in large quantities significantly diminish the effect of พลังชี่ Reserve expansion. It's said that a spring of ฟลักซ์ดิน can be found on Exultant Isle and in the Gemspring Cave of Mt. Shu.</Desc>
+			<Desc>แก่นของแผ่นดิน มีลักษณะเป็นของเหลวสีขาวเหมือนนม สิ่งนี้เป็นวัตถุดิบที่ใช้ทำยาวิเศษหลายอย่าง สามารถกินโดยตรงได้ จะทำให้เพิ่มค่าความแข็งแกร่งจำนวนมากและเพิ่มค่าพลังชี่สูงสุด การกินสิ่งนี้หลายครั้งจะลดผลของการเพิ่มค่าพลังชี่สูงสุดลง ว่ากันว่าสิ่งนี้สามารถหาได้จาก Exultant Isle และใน Gemspring Cave แห่ง Mt. Shu.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1" sParam="Item">
 			<ThingName>ฟลักซ์ชั่วร้าย</ThingName>
-			<Desc>Essence of what's deep inside the earth's crust with a bright red color. Consuming it directly replenishes a large amount of Stamina and expands พลังชี่ Reserve, increasing one's ค่าพลังชี่สูงสุด. This substance has weak medicine ebb and can be taken multiple times. However, it will cause negative พลังชี่ to concentrate within, which has a permanent influence on the mind. Consuming it in large quantities greatly affect one's cultivation.</Desc>
+			<Desc>แก่นของแผ่นดิน มีลักษณะเป็นของเหลวสีแดงสว่าง สามารถกินโดยตรงได้ จะทำให้เพิ่มค่าความแข็งแกร่งจำนวนมากและเพิ่มค่าพลังชี่สูงสุด สิ่งนี้มีความเป็นยาเล็กน้อย สามารถกินได้หลายครั้ง อย่างไรก็ตามจะทำให้รวบรวมพลังชี่ได้ยาก ซึ่งส่งผลต่อสภาพจิตใจของผู้กิน การกินสิ่งนี้จำนวนมากจะส่งผลเสียกับการฝึกตน ของผู้กิน</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence_1" sParam="Item">
-			<ThingName>Holy Essence</ThingName>
-			<Desc>Cream-like substance formed by coagulated ฟลักซ์ดิน. It can convert one's พลังชี่ into vital essence, decreasing ค่าพลังชี่สูงสุด. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Only works the first time it's consumed.</Desc>
+			<ThingName>ไขวิญญาณ</ThingName>
+			<Desc>สารคล้ายครีมที่เกิดมาจากการแข็งตัวของฟลักซ์ดิน สามารถเปลี่ยนแปลงพลังชี่เป็น (1)vital essence ส่งผลให้ลดค่าพลังชี่สูงสุด ลดค่ารับรู้,อึดและปัญญาลง อย่างละ 10% มีผลแค่การกินครั้งแรกเท่านั้น</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_EarthEssence1_1" sParam="Item">
-			<ThingName>Evil Essence</ThingName>
-			<Desc>Cream-like substance formed by coagulated Corrupted Flux. It can convert one's vital essence into พลังชี่, increasing ค่าพลังชี่สูงสุด. However, one's primeval lifeforce will be damaged as a result, decreasing Perception, Constitution and Intelligence by 10% each. Can be consumed multiple times.</Desc>
+			<ThingName>ไขเลือด</ThingName>
+			<Desc>สารคล้ายครีมที่เกิดมาจากการแข็งตัวของฟลักซ์ชั่วร้าย สามารถเปลี่ยน (1)vital essence เป็นพลังชี่ เพิ่มค่าพลังชี่สูงสุด อย่างไรก็ตามจะ ลดค่ารับรู้,อึดและปัญญาลง อย่างละ 10% สามารถกินได้หลายครั้ง</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_LifeStream" sParam="Item">
-			<ThingName>Life Spring</ThingName>
-			<Desc>Divine spring water said to grant immortality when drunk, it is an ingredient that can be used in making various kinds of miraculous elixirs. Drinking it directly prolongs one's Lifespan by 99 years. Consuming it in large quantities significantly diminish the effect. It's said that the spring can be found in the Celestial Pool of Mt. Nelumbo.</Desc>
+			<ThingName>น้ำพุชีวิต</ThingName>
+			<Desc>น้ำพุสวรรค์ที่ว่ากันว่าจะทำให้ผู้กินเป็นอมตะ สิ่งนี้สามารถใช้เป็นส่วนผสมยาวิเศษหลายอย่าง การกินมันโดยตรงจะทำให้ยืดอายุขัยออกไป 99 ปี หากกินหลาย ๆ ครั้งจะมีผลลดลงอย่างมาก ว่ากันว่าสิ่งนี้สามารถหาได้จาก Celestial Pool แห่ง Mt. Nelumbo.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Ginseng" sParam="Item">
 			<ThingName>โสม</ThingName>
-			<Desc>Expensive herb that can improve people's natural resilience for 2 hours if consumed directly. It can boost their Foundation building process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
+			<Desc>สมุนไพรราคาแพงที่ช่วยความอดทนของผู้กินเป็นเวลา 2 ชั่วโมง นอกจากนี้ยังช่วยเพิ่มผลการฝึกผู้ฝึกชั้นต้นของศิษย์นอก และเพิ่มค่าความแข็งแกร่งเล็กน้อยของศิษย์ใน สิ่งนี้ส่วนใหญ่แล้วจะใช้เป็นส่วนผสมยา การกินโสมหลาย ๆ ครั้งจะมีผลน้อยลงในทุกครั้ง</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_GanodermaLucidum" sParam="Item">
-			<ThingName>Lingzhi</ThingName>
-			<Desc>Expensive herb that can prolong one's Lifespan by 3 years if consumed directly. It can boost their Foundation building process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as a medicinal ingredient. Consuming it in large quantities significantly diminish the effect, however.</Desc>
+			<ThingName>เห็ดหลินจือ</ThingName>
+			<Desc>สมุนไพรราคาแพงที่ทำให้ผู้กินอายุขัยเพิ่มขึ้น 3 ปี นอกจากนี้ยังช่วยเพิ่มผลการฝึกผู้ฝึกชั้นต้นของศิษย์นอก และเพิ่มค่าความแข็งแกร่งเล็กน้อยของศิษย์ใน สิ่งนี้ส่วนใหญ่แล้วจะใช้เป็นส่วนผสมยา การกินโสมหลาย ๆ ครั้งจะมีผลน้อยลงในทุกครั้ง</Desc>
 			<Item.FabaoSuffix>Boongiver, เห็ดหลินจือม่วง, Powder, Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_RedGinseng" sParam="Item">
 			<ThingName>โสมแดง</ThingName>
-			<Desc>The finest of โสม with a crimson red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Often used as an elixir ingredient. When consumed directly, it can significantly improve people's natural resilience for 2 hours, and increase ค่าพลังชี่สูงสุด by a small amount. But consuming it in large quantities significantly diminish the effect.</Desc>
+			<Desc>เป็นสุดยอดแห่งโสม มีสีแดงเลือด เพิ่มความอดทนของผู้กินเป็นเวลา 2 ชั่วโมง สามารถใช้เพิ่มผลการฝึกผู้ฝึกชั้นต้นของศิษย์นอก และเพิ่มค่าความแข็งแกร่งเล็กน้อยของศิษย์ใน และนอกจากนีัยังเพิ่มค่าพลังชี่สูงสุดเล็กน้อยอีกด้วย การกินโสมแดงหลาย ๆ ครั้งจะมีผลน้อยลงในทุกครั้ง</Desc>
 			<Item.FabaoSuffix>Idol, Puppet, Doll</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
 			<ThingName>เห็ดหลินจือม่วง</ThingName>
-			<Desc>The finest of Lingzhi with a purplish red color. It can significantly boost their Foundation Training process when consumed by outer disciples, or replenish a small amount of Stamina for inner disciples. Can be used to make some precious and rare elixirs. It prolong one's Lifespan by 10 years and slightly increase ค่าพลังชี่สูงสุด if consumed directly, but consuming it in large quantities significantly diminish the effect.</Desc>
+			<Desc>สุดยอดเห็ดหลินจือที่มีสีม่วงแดง เพิ่มผลการฝึกผู้ฝึกชั้นต้นของศิษย์นอก และเพิ่มค่าความแข็งแกร่งเล็กน้อยของศิษย์ใน สามารถนำไปทำเป็นยาหายากได้ นอกจากนี้ยังมีผลเพิ่มอายุขัยผู้กิน 10 ปี และยังเพิ่มค่าพลังชี่สูงสุดเล็กน้อยอีกด้วย การกินเห็ดหลินจือม่วงหลาย ๆ ครั้งจะมีผลน้อยลงในทุกครั้ง</Desc>
 			<Item.FabaoSuffix>Boongiver, เห็ดหลินจือม่วง, Powder, Umbrella</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SoulPearl" sParam="Item">
-			<ThingName>Soul Pearl</ThingName>
-			<Desc>Inner Core of a Beast, with enormous พลังชี่ of Yin dwelling within it. It is said that the orb can be found in the Deathknell Cave of Mt. Hundred Insects.</Desc>
+			<ThingName>มุกวิญญาณ</ThingName>
+			<Desc>สิ่งนี้เป็นแกนภายในของสัตว์ร้ายที่เต็มไปด้วยพลังชี่แห่งหยิน ว่ากันว่าสามารถหาได้ที่ Deathknell Cave แห่ง Mt. Hundred Insects.</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 			<Item.BeMaterial.NamePrefix>Beast Embryo</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MonsterBlood" sParam="Item">
-			<ThingName>Beast blood</ThingName>
-			<Desc>Blood of a Beast, with energetic พลังชี่ dwelling within. Even contained in a bottle, it still feels boiling hot. It is said that the Beast blood can be obtained at the Serpent Pit of Mt. Hundred Insects and the Village of Dunes in the Great Western Desert.</Desc>
+			<ThingName>เลือดสัตว์ร้าย</ThingName>
+			<Desc>เลือดของสัตว์ร้ายที่เต็มไปด้วยพลังชี่ ถึงแม้ว่ามันจะอยู่ในขวด แต่ก็ยังแผ่ความร้อนออกมา ว่ากันว่าสิ่งนี้สามารถหาได้จาก Serpent Pit แห่ง Mt. Hundred Insects และ  Village of Dunes ใน the Great Western Desert.</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Mint" sParam="Item">
 			<ThingName>ใบพิศุทธิ์</ThingName>
-			<Desc>Common herb of a chilling quality, consuming directly can calm one's spirit and พลังชี่. It also increases Mental State if the taker is an inner disciple.</Desc>
+			<Desc>สมุนไพรหาง่ายทั่วไป การกินมันโดยตรงจะมีผลทำให้สถานะจิตดีขึ้นและพื้นพลังชี่ สามารถใช้เป็นส่วนผสมยา</Desc>
 			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_MagicHerb" sParam="Item">
 			<ThingName>ใบวิญญาณ</ThingName>
-			<Desc>Herb rich in spiritual power, it is of a warm quality and is widely used. Can be utilized along with a variety of other materials to make elixirs.</Desc>
+			<Desc>สมุนไพรที่เต็มไปด้วยพลังวิญญาณ ใช้เป็นส่วนผสมของยาหลายแบบ</Desc>
 			<Item.FabaoSuffix>Flower, Pistil</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Ginkgo" sParam="Item">
-			<ThingName>Ginkgo Fruit</ThingName>
-			<Desc>The fruit of a Ginkgo tree, it can be made into various tranquilizing medicines.</Desc>
+			<ThingName>ผลแปะก๊วย</ThingName>
+			<Desc>เป็นผลของต้นแปะก๊วย(Ginkgo) สามารถนำไปทำเป็นยาได้</Desc>
 			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SnakeGallbladder" sParam="Item">
-			<ThingName>Snake Gall</ThingName>
-			<Desc>The gall bladder of a snake, it can replenish a small amount of Stamina or be used as a medicinal ingredient. Swallowing of it by mortals could enhance their body and boost the efficiency of Foundation Training.</Desc>
+			<ThingName>ดีงู</ThingName>
+			<Desc>เป็นดีของงู ช่วยเพิ่มค่าพลังแข็งแกร่งเล็กน้อย และสามารถใช้เป็นส่วนผสมของยา ถ้าถูกกินโดยศิษย์นอกจะช่วยเพิ่มผลของการฝึกพื้นฐานอีกด้วย</Desc>
 			<Item.FabaoSuffix>Bolus, Bile</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BearGallbladder" sParam="Item">
-			<ThingName>Bear Gall</ThingName>
-			<Desc>The gall bladder of a bear, it can replenish Stamina or be used as a medicinal ingredient. Swallowing of it by mortals could enhance their body and boost the efficiency of Foundation Training.</Desc>
+			<ThingName>ดีหมี</ThingName>
+			<Desc>เป็นดีของหมี ช่วยเพิ่มค่าพลังแข็งแกร่งเล็กน้อย และสามารถใช้เป็นส่วนผสมของยา ถ้าถูกกินโดยศิษย์นอกจะช่วยเพิ่มผลของการฝึกพื้นฐานอีกด้วย</Desc>
 			<Item.FabaoSuffix>Bolus, Bile</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Healroot" sParam="Item">
 			<ThingName>สมุนไพร</ThingName>
-			<Desc>Common medicinal substance that can be used to treat a variety of illness, but with limited effect.</Desc>
+			<Desc>สมุนไพรทั่วไป สามารถใช้รักษาอาการป่วยได้หลายอย่าง แต่มีผลไม่มากนัก</Desc>
 			<Item.FabaoSuffix>Leaf</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Hemostatics" sParam="Item">
-			<ThingName>Healing Balm</ThingName>
-			<Desc>Common medicine that can be used to treat open wounds, having apparent curative effects.</Desc>
+			<ThingName>ยาหม่องสมานแผล</ThingName>
+			<Desc>เป็นยาที่สามารถใช้รักษาแผลเปิดได้ นอกจากนี้ยังมีผลในการรักษาอีก</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SmallCycle" sParam="Item">
-			<ThingName>Healing Pill</ThingName>
-			<Desc>Common medicine that can be used to treat visceral injuries, having apparent curative effects.</Desc>
+			<ThingName>ยาเม็ดรักษาภายใน</ThingName>
+			<Desc>ยาธรรมดาทั่วไป มีผลในการรักษาอาการบาดเจ็บภายใน นอกจากนี้ยังมีผลในการรักษาอีก</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Plaster" sParam="Item">
-			<ThingName>Bonemend Balm</ThingName>
-			<Desc>Common medicine that can be used to treat bone fractures, having apparent curative effects.</Desc>
+			<ThingName>ยาหม่องสมานกระดูก</ThingName>
+			<Desc>ยาธรรมดาทั่วไปที่สามารถใช้รักษากระดูกร้าว นอกจากนี้ยังมีผลในการรักษาอีก</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_StoneEssenceDrug" sParam="Item">
-			<ThingName>Stone Powder</ThingName>
-			<Desc>Medicinal substance made by combining herbs with ground stone essence. Incredibly effective in treating wounds and illnesses.</Desc>
+			<ThingName>ผงแก่นหิน</ThingName>
+			<Desc>สารสำหรับทำยา ทำมาจากการผสมสมุนไพรเข้ากับผงของแก่นหิน มีผลในการรักษาแผลและอาการเจ็บป่วยได้ดีมาก</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Anodyne" sParam="Item">
-			<ThingName>Painreliever</ThingName>
-			<Desc>Common medicine that can effectively relieve pain.</Desc>
+			<ThingName>ยาแก้ปวด</ThingName>
+			<Desc>ยาธรรมดาที่สามารถใช้ลดความเจ็บปวดได้</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Laxative" sParam="Item">
-			<ThingName>Laxative</ThingName>
-			<Desc>Common medicine that accelerates defecation, it can be used to treat symptoms such as Bloating and Dirt Eating. However, the taker of the drug will feel extra weak after its effect wears off.</Desc>
+			<ThingName>ยาถ่าย</ThingName>
+			<Desc>ยาทั่วไปที่เร่งการขับถ่ายของผู้กิน สามารถใช้รักษาอาการป่วยอย่างท้องบวมหรือผลเสียจากการกินดินได้ อย่างไรก็ตามผู้ที่กินยานี้จะรู้สึกอ่อนแอไปซักพักหลังจากที่ฤทธิ์ยาหมดลง</Desc>
 			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_ThunderAir" sParam="Item">
-			<ThingName>Heaven's Breath</ThingName>
-			<Desc>A wisp of tribulation breath stolen by tricking the ways of heaven. There is terrifying power flowing within it.</Desc>
+			<ThingName>ลมหายใจสวรรค์</ThingName>
+			<Desc>เศษเสี้ยวลมหายใจของทัณฑ์สวรรค์ที่ถูกขโมยมา มีพลังที่ดูน่ากลัวไหลอยู่ข้างใน</Desc>
 			<Item.FabaoSuffix>Breath, Tribulation</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBone" sParam="Item">
-			<ThingName>Divine Bones</ThingName>
-			<Desc>The remaining bones with divine power after an เซียน's Mortal Body is destroyed. If you are capable of bearing its power and integrate it into your body, you would have assimilated heavenly พลังชี่, significantly reducing your ค่าความสำเร็จ.</Desc>
+			<ThingName>เศษกระดูกศักดิ์สิทธิ์</ThingName>
+			<Desc>เศษกระดูกที่่เต็มไปด้วยพลังศักดิ์สิทธิ์ เกิดขึ้นมาจากร่างของเซียนที่ถูกทำลายลง ถ้าผู้ใช้สามารถทนกับพลังนี้ที่กำลังรวมเข้ากับร่างกายของผู้ใช้ได้ ทำให้หลอมรวมกับพลังชี่ของสวรรค์ ส่งผลให้ค่าความสำเร็จลดลงอย่างมาก</Desc>
 			<Item.FabaoSuffix>Bone, Skeleton</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianBoneBall" sParam="Item">
-			<ThingName>Sarira</ThingName>
-			<Desc>The remaining bones with the power of Belief retrieved from destroyed Deity's Body. If you are capable of bearing its power and integrate it into your body, it can significantly increase your Divinity, improve Mental State permanently as well as raising the Max Divine Residents cap. It grants a smaller effect if worn on the body.</Desc>
+			<ThingName>อัฐิธาตุ</ThingName>
+			<Desc>เศษกระดูกที่เต็มไปด้วยพลังความเชื่อ ที่ได้จากร่างเทพที่ถูกทำลาย ถ้าผู้ใช้สามารถทนกับพลังนี้ที่กำลังรวมเข้ากับร่างกายของผู้ใช้ได้ จะช่วยเพิ่มค่าความเป็นเทพของผู้ใช้ เพิ่มสถานะจิตถาวรและยังเพิ่มจำนวนผู้ที่อยู่ในแดนเทพสูงสุด ถ้าใช้สวมใส่ จะมีผลเพียงเล็กน้อย</Desc>
 		</Text>
 		<Text Name="Item_ZaoHuaYuZi" sParam="Item">
 			<ThingName>เมล็ดดวง</ThingName>
-			<Desc>Essence of what's deep inside the Drake Cave of Mt. Kunlun condense into. A very compact substance, it can only be used with a special secret method.</Desc>
+			<Desc>แก่นของอะไรซักอย่างที่อยู่ใน Drake Cave แห่ง Mt. Kunlun ที่กลั่นออกมา เป็นสารที่มีความแน่นอย่างมาก สามารถนำไปใช้งานด้วยด้วยวิธีลับพิเศษ</Desc>
 			<Item.FabaoSuffix>Jade, Seal</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BenYuan_None" sParam="Item">
-			<ThingName>Origin (None)</ThingName>
-			<Desc>Crystal containing the purest essence of Natural Root. Only by cultivating Undefined skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<ThingName>สารกำเนิดสวรรค์ (None)</ThingName>
+			<Desc>คริสตัลที่เต็มไปด้วยพลังแก่นของรากธรรมชาติที่บริสุทธิ์ที่สุด (1)Only by cultivating Undefined skills can one be able to refine it ถ้าหาก refinement สำเร็จ จะทำให้ค่าความสำเร็จลดน้อยลง แต่ถ้าหากไม่สำเร็จจะทำให้เกิดอาการบาดเจ็บและเพิ่มค่าความชั่ว ยิ่งค่าความสำเร็จมากเท่าไหร่โอกาสในสำเร็จในการ refinement ก็จะมากขึ้น หาก refinement หลายครั้งจะมีผลน้อยลงในทุก ๆ ครั้ง</Desc>
 			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
 			<StoryBnts.0.Name>Refinement</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Attempt to refine Natural Root.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Jin" sParam="Item">
-			<ThingName>Origin (Metal)</ThingName>
-			<Desc>Crystal containing the Natural Root of Metal element. Only by cultivating Metal-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<ThingName>สารกำเนิดสวรรค์ (เหล็ก)</ThingName>
+			<Desc>คริสตัลที่เต็มไปด้วยพลังแก่นของรากธรรมชาติแห่งธาตุโลหะ สำหรับผู้ฝึกตนสายโลหะเท่านั้นที่จะสามารถ refine มันได้ ถ้าหาก refinement สำเร็จ จะทำให้ค่าความสำเร็จลดน้อยลง แต่ถ้าหากไม่สำเร็จจะทำให้เกิดอาการบาดเจ็บและเพิ่มค่าความชั่ว ยิ่งค่าความสำเร็จมากเท่าไหร่โอกาสในสำเร็จในการ refinement ก็จะมากขึ้น หาก refinement หลายครั้งจะมีผลน้อยลงในทุก ๆ ครั้ง</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Mu" sParam="Item">
-			<ThingName>Origin (Wood)</ThingName>
-			<Desc>Crystal containing the Natural Root of Wood element. Only by cultivating Wood-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<ThingName>สารกำเนิดสวรรค์ (ไม้)</ThingName>
+			<Desc>คริสตัลที่เต็มไปด้วยพลังแก่นของรากธรรมชาติแห่งธาตุไม้ สำหรับผู้ฝึกตนสายไม้เท่านั้นที่จะสามารถ refine มันได้ ถ้าหาก refinement สำเร็จ จะทำให้ค่าความสำเร็จลดน้อยลง แต่ถ้าหากไม่สำเร็จจะทำให้เกิดอาการบาดเจ็บและเพิ่มค่าความชั่ว ยิ่งค่าความสำเร็จมากเท่าไหร่โอกาสในสำเร็จในการ refinement ก็จะมากขึ้น หาก refinement หลายครั้งจะมีผลน้อยลงในทุก ๆ ครั้ง</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Shui" sParam="Item">
-			<ThingName>Origin (Water)</ThingName>
-			<Desc>Crystal containing the Natural Root of Water element. Only by cultivating Water-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<ThingName>สารกำเนิดสวรรค์ (น้ำ)</ThingName>
+			<Desc>คริสตัลที่เต็มไปด้วยพลังแก่นของรากธรรมชาติแห่งธาตุน้ำ สำหรับผู้ฝึกตนสายน้ำเท่านั้นที่จะสามารถ refine มันได้ ถ้าหาก refinement สำเร็จ จะทำให้ค่าความสำเร็จลดน้อยลง แต่ถ้าหากไม่สำเร็จจะทำให้เกิดอาการบาดเจ็บและเพิ่มค่าความชั่ว ยิ่งค่าความสำเร็จมากเท่าไหร่โอกาสในสำเร็จในการ refinement ก็จะมากขึ้น หาก refinement หลายครั้งจะมีผลน้อยลงในทุก ๆ ครั้ง</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Huo" sParam="Item">
-			<ThingName>Origin (Fire)</ThingName>
-			<Desc>Crystal containing the Natural Root of Fire element. Only by cultivating Fire-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining. Multiple refinements will gradually diminish the effect.</Desc>
+			<ThingName>สารกำเนิดสวรรค์ (ไฟ)</ThingName>
+			<Desc>คริสตัลที่เต็มไปด้วยพลังแก่นของรากธรรมชาติแห่งธาตุไฟ สำหรับผู้ฝึกตนสายไฟเท่านั้นที่จะสามารถ refine มันได้ ถ้าหาก refinement สำเร็จ จะทำให้ค่าความสำเร็จลดน้อยลง แต่ถ้าหากไม่สำเร็จจะทำให้เกิดอาการบาดเจ็บและเพิ่มค่าความชั่ว ยิ่งค่าความสำเร็จมากเท่าไหร่โอกาสในสำเร็จในการ refinement ก็จะมากขึ้น หาก refinement หลายครั้งจะมีผลน้อยลงในทุก ๆ ครั้ง</Desc>
 		</Text>
 		<Text Name="Item_BenYuan_Tu" sParam="Item">
-			<ThingName>Origin (Earth)</ThingName>
-			<Desc>Crystal containing the Natural Root of Earth element. Only by cultivating Earth-type skills can one be able to refine it. Successful refinement reduces ค่าความสำเร็จ, while failure will result in injury and an increase in Condemnation. The higher your ค่าความสำเร็จ, the higher the success rate of refining.</Desc>
+			<ThingName>สารกำเนิดสวรรค์ (ดิน)</ThingName>
+			<Desc>คริสตัลที่เต็มไปด้วยพลังแก่นของรากธรรมชาติแห่งธาตุดิน สำหรับผู้ฝึกตนสายดินเท่านั้นที่จะสามารถ refine มันได้ ถ้าหาก refinement สำเร็จ จะทำให้ค่าความสำเร็จลดน้อยลง แต่ถ้าหากไม่สำเร็จจะทำให้เกิดอาการบาดเจ็บและเพิ่มค่าความชั่ว ยิ่งค่าความสำเร็จมากเท่าไหร่โอกาสในสำเร็จในการ refinement ก็จะมากขึ้น</Desc>
 		</Text>
 		<Text Name="Item_YuanHunLu" sParam="Item">
-			<ThingName>Holy Nectar</ThingName>
-			<Desc>Dew containing the essence of a Beast's soul. Consuming it will slow down one's thought process, repairing damage on วิญญาณบรรพกาล. However, slowing down of thoughts will negatively affect one's mental skills, decreasing Intelligence by 10%.</Desc>
+			<ThingName>น้ำค้างวิญญาณปฐม</ThingName>
+			<Desc>น้ำค้างที่เต็มไปด้วยแก่นแท้ของวิญญาณสัตว์ร้าย การกินมันจะทำให้ความคิดช้าลง ช่วยซ่อมแซมความเสียหายของวิญญาณบรรพกาล อย่างไรก็ตามความคิดที่ช้าลงส่งผลเสียกับความสามารถทางจิตใจ ลดค่าปัญญาลง 10%</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XieHunLu" sParam="Item">
-			<ThingName>Evil Nectar</ThingName>
-			<Desc>Dew containing the essence of a Beast's soul. Consuming it will accelerate one's thought process for a period of one season, increasing Intelligence by 10% and improving learning abilities. Such an act will overdraw the power of soul, however, causing damage on your วิญญาณบรรพกาล.</Desc>
+			<ThingName>น้ำค้างวิญญาณมาร</ThingName>
+			<Desc>น้ำค้างที่เต็มไปด้วยแก่นแท้ของวิญญาณสัตว์ร้าย การกินมันทำให้ความคิดเร็วขึ้นเป็นเวลาหนึ่งฤดูกาล ส่งผลให้ค่าปัญญาเพิ่มขึ้น 10% และเพิ่มค่าความสามารถในการเรียนรู้ต่าง ๆ การทำเช่นนี้ทำให้ดึงพลังของวิญญาณออกมาใช้มากเกินไป ส่งผลทำให้เกิดความเสียหายกับวิญญาณบรรพกาล</Desc>
 			<Item.FabaoSuffix>Liquid, Water, Fog, Smoke, Mist</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_YanDaoGuo" sParam="Item">
-			<ThingName>Insight Fruit</ThingName>
-			<Desc>Peculiar fruit containing Heaven's Breath. Consuming it allows one to observe the evolution of the ways of heaven and become one with them in harmony, greatly increasing ค่าความสำเร็จ and greatly decreasing Condemnation.</Desc>
+			<ThingName>ผลหยั่งรู้</ThingName>
+			<Desc>ผลไม้ประหลาดที่มีลมหายใจสวรรค์ การกินมันจะทำให้รับรู้เส้นทางของสวรรค์และรวมเป็นหนึ่งเดียวกันกับมัน เพิ่มค่าความสำเร็จอย่างมากและลดค่าความชั่วลงอย่างมาก</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_QieDaoGuo" sParam="Item">
-			<ThingName>Impose Fruit</ThingName>
-			<Desc>Peculiar fruit containing Heaven's Breath. Consuming it allows one to steal from the ways of heaven and consequently become a threat to them, greatly decreasing ค่าความสำเร็จ and greatly increasing Condemnation.</Desc>
+			<ThingName>ผลลวงสวรรค์</ThingName>
+			<Desc>ผลไม้ประหลาดที่มีลมหายใจสวรรค์ การกินมันจะทำให้ขโมยเส้นทางแห่งสวรรค์และคุกคามมัน ทำให้ค่าความสำเร็จลงลดอย่างมากและเพิ่มค่าความชั่วขึ้นอย่างมาก</Desc>
 			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoShenNian" sParam="Item">
-			<ThingName>Divine Mind</ThingName>
-			<Desc>A wisp of divine consciousness leaked from the Divine Bones, can be utilized by cultivators to remold their mind and body. Due to the blessing of the เซียน's consciousness, one can retain a small part of one's previous Inspiration upon rebirth. When using this item to rebirth for the first time, one's Potential will be improved as well due to the nourishing of divine consciousness.</Desc>
+			<ThingName>จิตศักดิ์สิทธิ์</ThingName>
+			<Desc>เศษเสี้ยวความสติที่รั่วออกมาจากเศษกระดูกศักดิ์สิทธิ์ สามารถนำไปใช้งานได้โดยผู้ฝึกตนโดยหลอมรวมจิตเข้ากับร่างกาย เนื่องจากพรที่ได้จากสติของเซียน ผู้ใช้จะได้รับส่วนเล็ก ๆ ของแรงบันดาลใจเมื่อเกิดใหม่ การใช้สิ่งนี้เพื่อเกิดใหม่ครั้งแรก จะทำให้ค่าศักยภาพสูงขึ้น</Desc>
 			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_XianDaoXieNian" sParam="Item">
-			<ThingName>Maligned Mind</ThingName>
-			<Desc>A wisp of evil consciousness leaked from the เซียน's Remains, can be utilized by cultivators to remold their mind and body. Due to the blessing of the เซียน's consciousness, one could retain most of their previous Inspiration after rebirth. Such a thing is of negative properties, however, causing one to overdraw their Potential when using it to reborn for the first time.</Desc>
+			<ThingName>จิตมุ่งร้าย</ThingName>
+			<Desc>เศษเสี้ยวความสติชั่วร้ายที่รั่วออกมาจากซากของเซียน สามารถนำไปใช้งานได้โดยผู้ฝึกตนโดยหลอมรวมจิตเข้ากับร่างกาย เนื่องจากสติของเซียนที่หลงเหลืออยู่ ผู้ใช้จะได้รับแรงบันดาลใจส่วนใหญ่เมื่อเกิดใหม่ อย่างไรก็ตามการใช้สิ่งนี้เพื่อเกิดใหม่เป็นครั้งแรกจะลดค่าศักยภาพลงด้วย</Desc>
 			<Item.FabaoSuffix>Spirit, Soul</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WinterWarm" sParam="Item">
 			<ThingName>ยาหนอนฤดูหนาว</ThingName>
-			<Desc>The matured form of Caterpillar Fungus in winter. Consumption grant a slight increase in Cold-resistance.</Desc>
+			<Desc>มาจากคราบของหนอนผีเสื้อในฤดูหนาว การกินมันจะทำให้เพิ่มค่าความทนหนาวอย่างมาก</Desc>
 			<Item.FabaoSuffix>Worm</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SummerHerb" sParam="Item">
 			<ThingName>ยาสมุนไพรฤดูร้อน</ThingName>
-			<Desc>The matured form of Caterpillar Fungus in summer. Consumption grant a slight increase in Heat-resistance.</Desc>
+			<Desc>มาจากคราบของหนอนผีเสื้อในฤดูร้อน การกินมันจะทำให้เพิ่มค่าความทนร้อนเล็กน้อย</Desc>
 			<Item.FabaoSuffix>ฟาง</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_God_ZhiNianJieJing" sParam="Item">
-			<ThingName>Obsession Gem</ThingName>
-			<Desc>Crystallization generated from obsession in human mind, it contains all kinds of intense emotions, desires and miscellaneous thoughts. Effects unknown.</Desc>
+			<ThingName>ผลึกอาวรณ์</ThingName>
+			<Desc>ผลึกที่ถูกสร้างออกมาจากความอาวรณ์ของจิตของมนุษย์ มันเต็มไปด้วยความรู้สึกรุนแรกหลายอย่าง ความอยากและความคิดอื่น ๆ อีกมากมาย ไม่รู้ว่าจะมีผลอะไรกับผู้กิน</Desc>
 			<Item.FabaoSuffix>Crystal</Item.FabaoSuffix>
 		</Text>
 	</List>

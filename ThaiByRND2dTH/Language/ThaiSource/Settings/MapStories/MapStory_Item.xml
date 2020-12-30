@@ -68,7 +68,7 @@
 		</Text>
 		<Text Name="Story_Item_BenYuan">
 			<DisplayName>Refine the Heavenly Font</DisplayName>
-			<Desc>To refine the Heavenly Font, the same class of Law must be used at the highest State, otherwise there is no hope of success. The higher your ค่าความสำเร็จ, the higher the success rate of refining. If you fail, you will sustain injury and it will increase Condemnation. Are you sure you want to refine the Heavenly Font?</Desc>
+			<Desc>To refine the Heavenly Font, the same class of Law must be used at the highest State, otherwise there is no hope of success. The higher your ค่าความสำเร็จ, the higher the success rate of refining. If you fail, you will sustain injury and it will increase ความชั่ว. Are you sure you want to refine the Heavenly Font?</Desc>
 			<Selections.0.Display>Refine</Selections.0.Display>
 			<Selections.1.Display>Give up</Selections.1.Display>
 		</Text>

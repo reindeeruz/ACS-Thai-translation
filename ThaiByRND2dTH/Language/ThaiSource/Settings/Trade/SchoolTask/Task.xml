@@ -95,7 +95,7 @@
 		</Text>
 		<Text Name="Build3">
 			<DisplayName>Sect Building</DisplayName>
-			<Desc>{0} is building a new entrance hall, but doesn't have enough stone essence. Any timely help will be greatly rewarded.</Desc>
+			<Desc>{0} is building a new entrance hall, but doesn't have enough แก่นหิน. Any timely help will be greatly rewarded.</Desc>
 		</Text>
 		<Text Name="Build4">
 			<DisplayName>Sect Building</DisplayName>
@@ -127,7 +127,7 @@
 		</Text>
 		<Text Name="Build11">
 			<DisplayName>Resource Shortage</DisplayName>
-			<Desc>{0}'s ground foundation is damaged, and a large amount of stone essence is needed to fill the gaps. Any timely help will be greatly rewarded.</Desc>
+			<Desc>{0}'s ground foundation is damaged, and a large amount of แก่นหิน is needed to fill the gaps. Any timely help will be greatly rewarded.</Desc>
 		</Text>
 		<Text Name="Build12">
 			<DisplayName>Resource Shortage</DisplayName>

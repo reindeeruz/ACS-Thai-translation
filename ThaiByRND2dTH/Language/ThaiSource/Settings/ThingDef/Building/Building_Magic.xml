@@ -69,7 +69,7 @@
 			<StoryBnts.0.Name>Acquisition</StoryBnts.0.Name>
 			<StoryBnts.0.Desc>Immediately collect all items on the map that are not covered by fog, not prohibited and collectable by the Mini Universe.</StoryBnts.0.Desc>
 			<StoryBnts.1.Name>Inspect</StoryBnts.1.Name>
-			<StoryBnts.1.Desc>Use Divine Mind to inspect the secret of the Mini Universe.</StoryBnts.1.Desc>
+			<StoryBnts.1.Desc>Use จิตศักดิ์สิทธิ์ to inspect the secret of the Mini Universe.</StoryBnts.1.Desc>
 		</Text>
 		<Text Name="Building_SleeveSpace1" sParam="Building">
 			<ThingName>ประตูจักรวาลเล็ก</ThingName>

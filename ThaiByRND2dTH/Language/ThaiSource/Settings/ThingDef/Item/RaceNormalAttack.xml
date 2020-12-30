@@ -180,7 +180,7 @@
 			<Item.Equip.AtkDamage.4.DescTags>Poisonous Flying Scale</Item.Equip.AtkDamage.4.DescTags>
 		</Text>
 		<Text Name="JYBoar_NormalAttack" sParam="Item">
-			<ThingName>Mud Stone Essence</ThingName>
+			<ThingName>Mud แก่นหิน</ThingName>
 			<Item.Equip.AtkDamage.0.DescTags>Terra Charge</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Terra Charge</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Terra Charge</Item.Equip.AtkDamage.2.DescTags>

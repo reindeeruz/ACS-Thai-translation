@@ -27,7 +27,7 @@
 		</Text>
 		<Text Name="God_DefuseZhinian">
 			<DisplayName>Clean Mind</DisplayName>
-			<Desc>Resolve an Obsession for the character, and obtain an Obsession Gem.</Desc>
+			<Desc>Resolve an Obsession for the character, and obtain an ผลึกอาวรณ์.</Desc>
 			<TargetDesc>Select a character whose Obsession has already manifested.</TargetDesc>
 		</Text>
 		<Text Name="God_GodLike">

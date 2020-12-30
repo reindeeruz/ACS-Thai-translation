@@ -206,7 +206,7 @@ ID	Name	Description	(天气:s天气类型)  (进攻:进攻富有等级) (妖兽:
 10075	Disturbance of the Otherworld	There were talks that the Otherworld Rift suddenly opened up lately and several beaming treasures flew out of it, scattering around the world. You sensed something strange going on. It seems that you have a spiritual connection with these treasures and a careful search is warranted.		
 10076	Departure	Why do you send me as a gift to [TXT]?		
 10077	Ascension	[NAME] has attained their divinity and lost all feelings and emotions. With every human relations and connections severed, [IT] have completely transformed into a deity in this realm.	SeeGod	
-10078	Condemnation from the Merchant Union	Because of your rude behavior, the Merchant Union has decided to ban you from their trade list forever.		
+10078	ความชั่ว from the Merchant Union	Because of your rude behavior, the Merchant Union has decided to ban you from their trade list forever.		
 10079	Revenge	[TXT]'s friends and elders have come to your sect looking angry and aggressive, asking for your explanation and apology.	Rich	
 10080	Revenge	[TXT] has betrayed their own sect because of you. Their old friends and elders are very mad and will come asking for your explanation and apology.		
 10081	Connection	[TXT]'s disciple has betrayed their sect because of you, but since you have a good relationship with each other, their senior elders have ordered to not pursue this matter.\n(Connection reduced)		

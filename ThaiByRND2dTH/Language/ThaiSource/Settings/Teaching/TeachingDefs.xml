@@ -330,7 +330,7 @@
 			<Chapters.1.Tasks.1>Set Special Priority</Chapters.1.Tasks.1>
 			<Chapters.1.Tasks.2>Inspect the Injury Again</Chapters.1.Tasks.2>
 			<Tasks.1.TaskDesc>Click to open the list of medicine.</Tasks.1.TaskDesc>
-			<Tasks.2.TipsData.Desc>Each medicine in the game has its own effect, for example, Healing Balm treats wounds, Bone Healing Balm treats bone fractures, Healing Pill treats internal organs, etc. When the medical supplies are insufficient, injured disciples might not be treated in time, so please pay close attention to the storage of medicine.</Tasks.2.TipsData.Desc>
+			<Tasks.2.TipsData.Desc>Each medicine in the game has its own effect, for example, ยาหม่องสมานแผล treats wounds, Bone ยาหม่องสมานแผล treats bone fractures, ยาเม็ดรักษาภายใน treats internal organs, etc. When the medical supplies are insufficient, injured disciples might not be treated in time, so please pay close attention to the storage of medicine.</Tasks.2.TipsData.Desc>
 			<Tasks.4.TaskDesc>Click to open the Work Schedule menu.</Tasks.4.TaskDesc>
 			<Tasks.5.TaskDesc>The player can place the cursor on the position Healer to see its requirements for related skills and other relevant work.</Tasks.5.TaskDesc>
 			<Tasks.6.TaskDesc>Because the second disciple has the best ability to be a healer, select the disciple to be a healer and click to activate.</Tasks.6.TaskDesc>
@@ -338,13 +338,13 @@
 			<Tasks.9.TaskDesc>Click the medicine table.</Tasks.9.TaskDesc>
 			<Tasks.10.TaskDesc>Click the interactive button Produce on the table.</Tasks.10.TaskDesc>
 			<Tasks.10.UiData.Name>Produce</Tasks.10.UiData.Name>
-			<Tasks.11.TaskDesc>The player can place the cursor on Healing Balm to see the instruction and its effect.</Tasks.11.TaskDesc>
-			<Tasks.11.UiData.Name>Healing Balm</Tasks.11.UiData.Name>
-			<Tasks.12.TaskDesc>Click to make a Healing Balm.</Tasks.12.TaskDesc>
-			<Tasks.12.UiData.Name>Healing Balm</Tasks.12.UiData.Name>
+			<Tasks.11.TaskDesc>The player can place the cursor on ยาหม่องสมานแผล to see the instruction and its effect.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>ยาหม่องสมานแผล</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Click to make a ยาหม่องสมานแผล.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>ยาหม่องสมานแผล</Tasks.12.UiData.Name>
 			<Tasks.13.TaskDesc>Click to close the Produce page on the table.</Tasks.13.TaskDesc>
 			<Tasks.14.TaskDesc>Switch to the 3x Speed mode by clicking 3x Speed in the top left corner.</Tasks.14.TaskDesc>
-			<Tasks.16.TaskDesc>Wait until the Healing Balm is made.</Tasks.16.TaskDesc>
+			<Tasks.16.TaskDesc>Wait until the ยาหม่องสมานแผล is made.</Tasks.16.TaskDesc>
 			<Tasks.18.TipsData.Desc>There are not many herbs in the wild, so the player can plan a herb garden in advance to ensure a steady supply of herbs.</Tasks.18.TipsData.Desc>
 			<Tasks.21.TaskDesc>Click the notification of injury in the left.</Tasks.21.TaskDesc>
 			<Tasks.23.TaskDesc>Click the Health button in the right side of the injured character's menu.</Tasks.23.TaskDesc>
@@ -375,9 +375,9 @@
 			<Chapters.1.Tasks.2>Set a Training Spot</Chapters.1.Tasks.2>
 			<Chapters.1.Tasks.3>Wait Until Disciple Begins Training</Chapters.1.Tasks.3>
 			<Chapters.2.DisplayName>Other Methods to Improve Foundation</Chapters.2.DisplayName>
-			<Chapters.2.Tasks.0>Inspect Bear Gall</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.0>Inspect ดีหมี</Chapters.2.Tasks.0>
 			<Chapters.2.Tasks.1>Check Foundation</Chapters.2.Tasks.1>
-			<Chapters.2.Tasks.2>Eat Bear Gall</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.2>Eat ดีหมี</Chapters.2.Tasks.2>
 			<Chapters.2.Tasks.3>Check Foundation</Chapters.2.Tasks.3>
 			<Tasks.1.TaskDesc>Click any NPC.</Tasks.1.TaskDesc>
 			<Tasks.2.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.2.TaskDesc>
@@ -400,14 +400,14 @@
 			<Tasks.23.TaskDesc>Click 2x Speed in the top left to accelerate the game.</Tasks.23.TaskDesc>
 			<Tasks.25.TaskDesc>Wait until the outer disciple enters the training spot and begins training.</Tasks.25.TaskDesc>
 			<Tasks.27.TipsData.Desc>The player can arrange and adjust the time table for outer disciples' training to ensure that they follow their daily training routine. An outer disciple who has activated Work Hard will train outside of their daily work. Disciples with certain tags can gain foundation faster.</Tasks.27.TipsData.Desc>
-			<Tasks.29.TaskDesc>The player can place the cursor on Bear Gall to see the Foundation provided by it.</Tasks.29.TaskDesc>
+			<Tasks.29.TaskDesc>The player can place the cursor on ดีหมี to see the Foundation provided by it.</Tasks.29.TaskDesc>
 			<Tasks.31.TaskDesc>Click any NPC.</Tasks.31.TaskDesc>
 			<Tasks.32.TipsData.Desc>The player can use the Status menu in the bottom at anytime to quickly access information on an outer disciple's foundation and adjust their training strategy.</Tasks.32.TipsData.Desc>
 			<Tasks.34.TaskDesc>Click the Eat button in the menu below the character.</Tasks.34.TaskDesc>
 			<Tasks.34.UiData.Name>Eat</Tasks.34.UiData.Name>
-			<Tasks.35.TaskDesc>Click to select Bear Gall for the disciple to eat.</Tasks.35.TaskDesc>
-			<Tasks.37.TaskDesc>Wait until Bear Gall is eaten.</Tasks.37.TaskDesc>
-			<Tasks.39.TipsData.Desc>This disciple has quickly gained a lot of foundation by eating Bear Gall.</Tasks.39.TipsData.Desc>
+			<Tasks.35.TaskDesc>Click to select ดีหมี for the disciple to eat.</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>Wait until ดีหมี is eaten.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>This disciple has quickly gained a lot of foundation by eating ดีหมี.</Tasks.39.TipsData.Desc>
 			<Tasks.41.TipsData.Desc>Items like pills and elixirs can also be eaten to quickly gain a lot of foundation, and there are also other ways to accelerate foundation training, waiting for the player to explore.</Tasks.41.TipsData.Desc>
 		</Text>
 		<Text Name="GongSelect">
@@ -838,7 +838,7 @@
 			<Tasks.44.TaskDesc>Click the Eat button in the menu below the NPC.</Tasks.44.TaskDesc>
 			<Tasks.44.UiData.Name>Eat</Tasks.44.UiData.Name>
 			<Tasks.45.TaskDesc>Enlightenment Pill</Tasks.45.TaskDesc>
-			<Tasks.47.TaskDesc>Wait until Bear Gall is eaten.</Tasks.47.TaskDesc>
+			<Tasks.47.TaskDesc>Wait until ดีหมี is eaten.</Tasks.47.TaskDesc>
 			<Tasks.49.TaskDesc>Click to open the Law &amp; Cultivation menu.</Tasks.49.TaskDesc>
 			<Tasks.50.TaskDesc>Click to open the Inspiration menu.</Tasks.50.TaskDesc>
 			<Tasks.51.TipsData.Desc>This disciple has gained a lot of inspiration by consuming an elixir.</Tasks.51.TipsData.Desc>

@@ -77,7 +77,7 @@
 		</Text>
 		<Text Name="Place_WuLian1">
 			<DisplayName>Celestial Pool</DisplayName>
-			<Desc>A sacred pond that lies within a caldera atop the once volcanic Mt. Nelumbo. The เซียน Nelumbo performed a miracle stolen from the ways of heaven to seal the volcano and established the sect here. Legend has it that there is a Life Spring in the pool, and only the most fortunate of all will be able to find it.</Desc>
+			<Desc>A sacred pond that lies within a caldera atop the once volcanic Mt. Nelumbo. The เซียน Nelumbo performed a miracle stolen from the ways of heaven to seal the volcano and established the sect here. Legend has it that there is a น้ำพุชีวิต in the pool, and only the most fortunate of all will be able to find it.</Desc>
 		</Text>
 		<Text Name="Place_WuLian2">
 			<DisplayName>Pearlwood Rainforest</DisplayName>
@@ -85,7 +85,7 @@
 		</Text>
 		<Text Name="Place_BaiMan1">
 			<DisplayName>Deathknell Cave</DisplayName>
-			<Desc>Every time the disciples at Mt. Hundred Insects kill magic beasts, they will bring their bodies to the Deathknell Cave and seal them inside. The bodies will then transform into puppets via the พลังชี่ of death to guard the mountain. If a new body sent there has not completed the transformation, one might be able to take out its Soul Pearl .</Desc>
+			<Desc>Every time the disciples at Mt. Hundred Insects kill magic beasts, they will bring their bodies to the Deathknell Cave and seal them inside. The bodies will then transform into puppets via the พลังชี่ of death to guard the mountain. If a new body sent there has not completed the transformation, one might be able to take out its มุกวิญญาณ .</Desc>
 		</Text>
 		<Text Name="Place_BaiMan2">
 			<DisplayName>Serpent Pit</DisplayName>
@@ -177,7 +177,7 @@
 		</Text>
 		<Text Name="Place_FertileField4">
 			<DisplayName>Mt. Cassia</DisplayName>
-			<Desc>A famous mountain south of the river, with beautiful views of scenery, an agreeable weather, and most of all, abundant Lingzhi mushrooms.</Desc>
+			<Desc>A famous mountain south of the river, with beautiful views of scenery, an agreeable weather, and most of all, abundant เห็ดหลินจือ mushrooms.</Desc>
 		</Text>
 		<Text Name="Place_FertileField5">
 			<DisplayName>Mt. Rue</DisplayName>

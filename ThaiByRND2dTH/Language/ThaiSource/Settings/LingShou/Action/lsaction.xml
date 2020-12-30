@@ -181,7 +181,7 @@
 			<Desc>Attack Unconscious Mortal</Desc>
 		</Text>
 		<Text Name="FeedTongXie">
-			<Desc>Eat Laxative</Desc>
+			<Desc>Eat ยาถ่าย</Desc>
 		</Text>
 		<Text Name="HealInner">
 			<Desc>Heal Injury</Desc>
@@ -223,10 +223,10 @@
 			<Desc>Feed Spirit Crystal</Desc>
 		</Text>
 		<Text Name="Eat_Item_SnakeGallbladder">
-			<Desc>Consume Snake Gall</Desc>
+			<Desc>Consume ดีงู</Desc>
 		</Text>
 		<Text Name="Eat_Item_BearGallbladder">
-			<Desc>Consume Bear Gall</Desc>
+			<Desc>Consume ดีหมี</Desc>
 		</Text>
 		<Text Name="Eat_Item_RedGinseng">
 			<Desc>Consume โสมแดง</Desc>
@@ -250,7 +250,7 @@
 			<Desc>Consume เถาวัลย์ตะปุ่มตะป่ำ</Desc>
 		</Text>
 		<Text Name="Eat_Item_LifeStream">
-			<Desc>Consume Life Spring</Desc>
+			<Desc>Consume น้ำพุชีวิต</Desc>
 		</Text>
 		<Text Name="Eat_Item_LongEgg">
 			<Desc>Consume มังกรหลาก Egg</Desc>
@@ -277,7 +277,7 @@
 			<Desc>Consume Bread</Desc>
 		</Text>
 		<Text Name="Eat_Item_MonsterBlood">
-			<Desc>Consume Beast Blood</Desc>
+			<Desc>Consume เลือดสัตว์ร้าย</Desc>
 		</Text>
 		<Text Name="Eat_Item_EarthEssence">
 			<Desc>Consume ฟลักซ์ดิน</Desc>
@@ -310,7 +310,7 @@
 			<Desc>Consume ใบวิญญาณ</Desc>
 		</Text>
 		<Text Name="Eat_Item_Laxative">
-			<Desc>Consume Laxative</Desc>
+			<Desc>Consume ยาถ่าย</Desc>
 		</Text>
 		<Text Name="Eat_Item_BambooShoot">
 			<Desc>Eat Bamboo Shoots</Desc>

@@ -2,13 +2,13 @@
 	<List>
 		<Text Name="Item_MiBao_WuDuZhuXianSword" sParam="Item">
 			<ThingName>Venombane</ThingName>
-			<Desc>Wicked artifact as recorded in the Book of a Hundred Poisons. First, a Sword Incubation is formed by mixing nine Phoenixwood with a certain number of Beast Blood that matches the thirty-six heavenly stars. Then five highly poisonous Primordial Spirits from Snake Demons are needed to made it into the final product. When attacking someone with this sword, its venomous breeze can even penetrate one's พลังชี่ Barrier and cause damage on the enemy directly.</Desc>
+			<Desc>Wicked artifact as recorded in the Book of a Hundred Poisons. First, a Sword Incubation is formed by mixing nine Phoenixwood with a certain number of เลือดสัตว์ร้าย that matches the thirty-six heavenly stars. Then five highly poisonous Primordial Spirits from Snake Demons are needed to made it into the final product. When attacking someone with this sword, its venomous breeze can even penetrate one's พลังชี่ Barrier and cause damage on the enemy directly.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Kill 5 Snake Demons while carrying this item.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
 		<Text Name="Item_MiBao_BaiLingZhanXianSword" sParam="Item">
 			<ThingName>เซียน Slayer</ThingName>
-			<Desc>Ancient sword technique passed down from the Wutai Sect of old. It is made by first melting ten Spirit Crystals along with a Soul Pearl  to form a Sword Incubation, and then sacrificing the Blessings of a hundred living beings to it. Each time the sword is used, its Blessing and power will gradually increase, until infused with พลังชี่ again.</Desc>
+			<Desc>Ancient sword technique passed down from the Wutai Sect of old. It is made by first melting ten Spirit Crystals along with a มุกวิญญาณ  to form a Sword Incubation, and then sacrificing the Blessings of a hundred living beings to it. Each time the sword is used, its Blessing and power will gradually increase, until infused with พลังชี่ again.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Kill 100 living beings while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -26,7 +26,7 @@
 		</Text>
 		<Text Name="Item_MiBao_YinHunZhu" sParam="Item">
 			<ThingName>Vortex Orb</ThingName>
-			<Desc>Secret Legacy Artifact passed down from the ancient demonic school of Blood Master Searcher. It is created by combining 9 Soul Pearl s while utilizing grudges as the catalyst to form one small orb, and then harness the lives of 36 living beings with วิญญาณบรรพกาล level of cultivation. By killing with this orb, one can gradually incite ferociousness within it. Each person killed will increase its power by 10%, up to a maximum stacks of 36. However, a single day without blood and it will return to slumber.</Desc>
+			<Desc>Secret Legacy Artifact passed down from the ancient demonic school of Blood Master Searcher. It is created by combining 9 มุกวิญญาณ s while utilizing grudges as the catalyst to form one small orb, and then harness the lives of 36 living beings with วิญญาณบรรพกาล level of cultivation. By killing with this orb, one can gradually incite ferociousness within it. Each person killed will increase its power by 10%, up to a maximum stacks of 36. However, a single day without blood and it will return to slumber.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Kill 36 living beings with วิญญาณบรรพกาล while carrying the incubation.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -44,7 +44,7 @@
 		</Text>
 		<Text Name="Item_MiBao_DaiShenZhu" sParam="Item">
 			<ThingName>Illusion Sphere</ThingName>
-			<Desc>Legacy Artifact passed on from the Book of a Hundred Poisons. Using a beast Soul Pearl  as the basis, it is fused with drugs of Five Elements to form a core. The orb is then infused with drugs of Five Elements successively with the spirit refinement technique. Although the object cannot be used to attack nor defend, it can bring you back from death once in case of fatal calamity. Very mysterious.</Desc>
+			<Desc>Legacy Artifact passed on from the Book of a Hundred Poisons. Using a beast มุกวิญญาณ  as the basis, it is fused with drugs of Five Elements to form a core. The orb is then infused with drugs of Five Elements successively with the spirit refinement technique. Although the object cannot be used to attack nor defend, it can bring you back from death once in case of fatal calamity. Very mysterious.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Attempt to spiritual refinement the artifact 25 times.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.SpecialAbility.0.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Item.Fabao.SpecialAbility.0.Desc>
 		</Text>
@@ -68,7 +68,7 @@
 		</Text>
 		<Text Name="Item_MiBao_WuqiLeiFu" sParam="Item">
 			<ThingName>Thunder Talisman</ThingName>
-			<Desc>Ancient artifact of the Mystic Unity Sect. After drawing the talisman with Divine Mind, on shall harness the power of Heavenly Tribulation of Five Elements to make it spiritual. Significantly improves one's comprehension of Spell.</Desc>
+			<Desc>Ancient artifact of the Mystic Unity Sect. After drawing the talisman with จิตศักดิ์สิทธิ์, on shall harness the power of Heavenly Tribulation of Five Elements to make it spiritual. Significantly improves one's comprehension of Spell.</Desc>
 			<Item.Fabao.ActiveCondition.0.des>Survive a Heavenly Tribulation of Metal element while carrying an artifact.</Item.Fabao.ActiveCondition.0.des>
 			<Item.Fabao.ActiveCondition.1.des>Survive a Heavenly Tribulation of Wood element while carrying an artifact.</Item.Fabao.ActiveCondition.1.des>
 			<Item.Fabao.ActiveCondition.2.des>Survive a Heavenly Tribulation of Water element while carrying an artifact.</Item.Fabao.ActiveCondition.2.des>

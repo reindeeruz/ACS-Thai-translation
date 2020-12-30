@@ -10,8 +10,8 @@
 			<Desc>A character's Potential influences the speed of Foundation Training and the efficiency with which พลังชี่ is refined.</Desc>
 		</Text>
 		<Text Name="GodPenaltyAddV">
-			<DisplayName>Condemnation Bonus</DisplayName>
-			<Desc>A character's Condemnation Bonus</Desc>
+			<DisplayName>ความชั่ว Bonus</DisplayName>
+			<Desc>A character's ความชั่ว Bonus</Desc>
 		</Text>
 		<Text Name="MaxAccumulativeLingAddV">
 			<DisplayName>Inner Cauldron Limit Bonus</DisplayName>

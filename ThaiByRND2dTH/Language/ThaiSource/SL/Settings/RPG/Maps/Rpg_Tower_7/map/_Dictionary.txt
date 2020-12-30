@@ -37,7 +37,7 @@
 灵木长枪	Spiritwood Spear
 木弓	Bow
 紫云神弓	Purple Cloud Divine Bow
-石髓	Stone Essence
+石髓	แก่นหิน
 戊土道德镇	Grim Moral  Dualjade
 玉石	Jade
 麒麟白骨珏	Kirin White Bone  Seal

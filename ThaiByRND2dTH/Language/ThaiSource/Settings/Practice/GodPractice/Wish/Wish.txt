@@ -51,6 +51,6 @@ ID	[Content]
 49	Almighty [TITLE], I wish Heaven shows justice and destroy the barbarians.
 50	Almighty [TITLE], I wish the enemy nation soon get annihilated...so we can stop the fighting.
 51	Almighty [TITLE], I wish those who are doing better than me can't die a peaceful death.
-52	Almighty [TITLE], I wish condemnation from heaven descend upon all villainous person in the world.
+52	Almighty [TITLE], I wish ความชั่ว from heaven descend upon all villainous person in the world.
 53	Almighty [TITLE], I wish those who are against me will not die in peace.
 54	May my heart dwell forever in the Divine Realm, free from pain and sufferings and enjoy a state of spiritual purity...

@@ -88,7 +88,7 @@
 		<Text Name="FengShuiItem_SheLi1" sParam="Item">
 			<ThingName>Holy Grace</ThingName>
 			<Desc>Ultimate treasure of the ancient Shendao Cultivation tradition. Can be used to enhance Feng Shui. Shendao Cultivation can be traced back to ancient times. But in more recent ages, its successors and treasures are all but extinct. Perhaps the unearthing of this relic means something.</Desc>
-			<Item.FabaoSuffix>Sarira</Item.FabaoSuffix>
+			<Item.FabaoSuffix>อัฐิธาตุ</Item.FabaoSuffix>
 		</Text>
 	</List>
 </Texts>

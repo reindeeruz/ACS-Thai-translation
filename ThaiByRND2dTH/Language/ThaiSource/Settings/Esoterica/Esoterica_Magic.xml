@@ -34,7 +34,7 @@
 		</Text>
 		<Text Name="Magic_RebornSelf">
 			<DisplayName>Reverie Rebirth</DisplayName>
-			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nยาเม็ดเกิดใหม่\nLearn Miracle: Reverie Rebirth\nUnique secret technique of the Taiyi Sect. Using the Soul Pearl  as the catalyst, this technique destroys one's own cultivation and burns out one's Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.[/color][/size]</EffectDesc>
+			<EffectDesc>[size=10][color=#D06508]Acquire the following elixir recipe: \nยาเม็ดเกิดใหม่\nLearn Miracle: Reverie Rebirth\nUnique secret technique of the Taiyi Sect. Using the มุกวิญญาณ  as the catalyst, this technique destroys one's own cultivation and burns out one's Golden Core. Thus the way of creation is reversed and one will be reincarnated as a mortal.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_SoulCrystalYouPowerUp">
 			<DisplayName>Specter Refinement</DisplayName>

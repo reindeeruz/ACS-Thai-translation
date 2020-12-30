@@ -5,7 +5,7 @@
 			<Desc>Rare medicinal material. Has powerful healing ability and can greatly increase your primeval พลังชี่. Grows in an environment between -30 to 40℃. Only grows in places with a certain amount of พลังชี่.</Desc>
 		</Text>
 		<Text Name="GanodermaLucidum" sParam="Plant">
-			<ThingName>Lingzhi</ThingName>
+			<ThingName>เห็ดหลินจือ</ThingName>
 			<Desc>Rare medicinal material. Has powerful healing ability and can greatly increase your primeval พลังชี่. Grows in an environment between 10 to 40℃. Only grows in places with a certain amount of พลังชี่.</Desc>
 		</Text>
 		<Text Name="Mint" sParam="Plant">

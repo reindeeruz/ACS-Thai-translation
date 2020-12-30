@@ -7,7 +7,7 @@
 		</Text>
 		<Text Name="Item_SpellPaperLv2" sParam="Item">
 			<ThingName>กระดาษยันต์เลือด</ThingName>
-			<Desc>Paper made from Beast blood that can be turned into Talisman by drawing a specific symbol with ตะกั่วแดง on the its surface through one's mind power.</Desc>
+			<Desc>Paper made from เลือดสัตว์ร้าย that can be turned into Talisman by drawing a specific symbol with ตะกั่วแดง on the its surface through one's mind power.</Desc>
 		</Text>
 		<Text Name="Item_SpellPaperLv3" sParam="Item">
 			<ThingName>กระดาษยันต์ศักดิ์สิทธิ์</ThingName>

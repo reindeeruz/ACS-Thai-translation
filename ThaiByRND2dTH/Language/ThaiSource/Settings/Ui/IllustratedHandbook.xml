@@ -107,17 +107,17 @@
 [color=#9e6404]God of Eternal Day: [/color]
 				มังกรประทีป shows up in its Yang form and gains one stack of Solarflare Breath every 6 sec. Solarflare Breath will be transformed to an equal amount of Lunarfrost Breath after form switch.
 [color=#9e6404]Thunder of Impiety: [/color]
-				มังกรประทีป unleashes its divine power to call upon Yang thunder filled with hatred to deal damage to target and temporarily increase target's Condemnation by 2. The higher the target's Condemnation, the greater the damage.
+				มังกรประทีป unleashes its divine power to call upon Yang thunder filled with hatred to deal damage to target and temporarily increase target's ความชั่ว by 2. The higher the target's ความชั่ว, the greater the damage.
 [color=#9e6404]Dragon Breath: [/color]
-				มังกรประทีป blows a heavy dragon breath toward one direction, attaching a Benign Dragon Avatar and dealing damage to every enemy touched by the breath. The higher the target's Condemnation, the greater the damage.
+				มังกรประทีป blows a heavy dragon breath toward one direction, attaching a Benign Dragon Avatar and dealing damage to every enemy touched by the breath. The higher the target's ความชั่ว, the greater the damage.
 [color=#9e6404]Heavenly Judgement: [/color]
-				Releases upon target with the lowest Condemnation and deals great damage. If target's Condemnation is higher than 50, they will be heavily injured and lose control over their พลังชี่. Uncontrolled พลังชี่ will explode, deal damage to targets within 3 space, and eventually be absorbed by มังกรประทีป into 20 stacks of Solarflare Breath.
+				Releases upon target with the lowest ความชั่ว and deals great damage. If target's ความชั่ว is higher than 50, they will be heavily injured and lose control over their พลังชี่. Uncontrolled พลังชี่ will explode, deal damage to targets within 3 space, and eventually be absorbed by มังกรประทีป into 20 stacks of Solarflare Breath.
 [color=#9e6404]Karmic Transformation: [/color]
 				When Solarflare Breath reaches 100 stacks, it will unleash the manifestations of karma force and attach Benign Dragon Avatar to all inner disciples.
 [color=#9e6404]Yin Yang Rage: [/color]
-				When มังกรประทีป's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yang that have not been suppressed. It will then fly into the air, create three Eggs of Yin and reappear in its Eternal Night form. During the form switch, มังกรประทีป will gain 50 stacks of Lunarfrost Breath, and all the debuffs of Condemnation caused by Thunder of Impiety will be cleared.
+				When มังกรประทีป's egg is destroyed, it will disrupt the rule of Yin and Yang, deal damage to all enemies and hatch all Eggs of Yang that have not been suppressed. It will then fly into the air, create three Eggs of Yin and reappear in its Eternal Night form. During the form switch, มังกรประทีป will gain 50 stacks of Lunarfrost Breath, and all the debuffs of ความชั่ว caused by Thunder of Impiety will be cleared.
 [color=#9e6404]Benign Dragon Avatar: [/color]
-				Phantom shadow created by มังกรประทีป in its Eternal Day form. Continuously recovers พลังชี่ for มังกรประทีป. The avatar's พลังชี่ and spell power are related to the character's Condemnation when the avatar is created. The higher the target's Condemnation, the greater the พลังชี่ and spell power.
+				Phantom shadow created by มังกรประทีป in its Eternal Day form. Continuously recovers พลังชี่ for มังกรประทีป. The avatar's พลังชี่ and spell power are related to the character's ความชั่ว when the avatar is created. The higher the target's ความชั่ว, the greater the พลังชี่ and spell power.
 [color=#9e6404]Egg of Yang: [/color]
 				When releasing Yin Yang Rage, มังกรประทีป will hatch all Eggs of Yang in the area, creating a huge threat that is Dragon's Servant. Egg of Yang can only be suppressed with ลางร้ายมาก Feng Shui.]]></Text>
 		</Help>
@@ -149,7 +149,7 @@
 [color=#9e6404]Rage of the Creed of Heaven—Mind Shielding: [/color]
 				When its eye is destroyed in Eternal Night, มังกรประทีป will call upon Rage of the Creed of Heaven to create Mind Shielding for the character that destroyed the eye, reducing their Mental State by 100 for a year. If the character survives Mind Shielding, their Mental State will permanently increase by 20.
 [color=#9e6404]Rage of the Creed of Heaven—Inferno of Karma: [/color]
-				When its eye is destroyed in Eternal Day, มังกรประทีป will call upon Rage of the Creed of Heaven to create Inferno of Karma for the character that destroyed the eye, increasing their Condemnation by 1,000 for a year. If the character survives Inferno of Karma, their Condemnation will permanently reduce by 200.
+				When its eye is destroyed in Eternal Day, มังกรประทีป will call upon Rage of the Creed of Heaven to create Inferno of Karma for the character that destroyed the eye, increasing their ความชั่ว by 1,000 for a year. If the character survives Inferno of Karma, their ความชั่ว will permanently reduce by 200.
 [color=#9e6404]Heavenly Scale: [/color]
 				There is a Heavenly Scale between มังกรประทีป's eyebrows that only shows up after it has released Yin Yang Rage twice.
 [color=#9e6404]Chaos Jade: [/color]

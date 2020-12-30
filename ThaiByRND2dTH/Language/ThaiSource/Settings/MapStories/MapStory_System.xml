@@ -68,7 +68,7 @@
 		<Text Name="System_EnterQianKunJie">
 			<DisplayName>Mini Universe</DisplayName>
 			<Desc>A magical building with the Taiyi Sect's secret treasure, Universe Spirit Crystal, as its core. The inside has its own rule for physical space and can be used to store all kinds of items. But there is a strange seal that keeps away people's mind. No matter how strong you are, no one can forcibly see its inside. Seems like there is a hidden secret.</Desc>
-			<Selections.0.Display>Divine Mind Inspect</Selections.0.Display>
+			<Selections.0.Display>จิตศักดิ์สิทธิ์ Inspect</Selections.0.Display>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="System_EnterQianKunJie1">

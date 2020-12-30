@@ -20,12 +20,12 @@
 		</Text>
 		<Text Name="Item_CopperBlock1" sParam="Item">
 			<ThingName>แท่งแกนไฟ</ThingName>
-			<Desc>Metal bar made by smelting a large amount of Igneocopper along with Beast blood. It takes a long time to produce each piece.</Desc>
+			<Desc>Metal bar made by smelting a large amount of Igneocopper along with เลือดสัตว์ร้าย. It takes a long time to produce each piece.</Desc>
 			<Item.BeMaterial.NamePrefix>แกนไฟ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverBlock1" sParam="Item">
 			<ThingName>แท่งแกนน้ำแข็ง</ThingName>
-			<Desc>Metal bar made by smelting a large amount of Ice Crystals along with Beast blood. It takes a long time to produce each piece.</Desc>
+			<Desc>Metal bar made by smelting a large amount of Ice Crystals along with เลือดสัตว์ร้าย. It takes a long time to produce each piece.</Desc>
 			<Item.BeMaterial.NamePrefix>แกนน้ำแข็ง</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DarksteelBlock" sParam="Item">

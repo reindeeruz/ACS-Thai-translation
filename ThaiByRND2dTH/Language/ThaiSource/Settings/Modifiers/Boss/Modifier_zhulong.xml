@@ -46,11 +46,11 @@
 		</Text>
 		<Text Name="Boss_Zhulong_Zuinie">
 			<DisplayName>Sin Entanglement</DisplayName>
-			<Desc>Each layer decreases Condemnation by 2. It will be cleared out when the มังกรประทีป switches phase.</Desc>
+			<Desc>Each layer decreases ความชั่ว by 2. It will be cleared out when the มังกรประทีป switches phase.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_yehuocanshen">
 			<DisplayName>Inferno of Karma</DisplayName>
-			<Desc>Condemnation is increased by 1000, but permanently decreased by 200 when it ends.</Desc>
+			<Desc>ความชั่ว is increased by 1000, but permanently decreased by 200 when it ends.</Desc>
 		</Text>
 		<Text Name="Boss_Zhulong_yehuocanshen_end">
 			<DisplayName>Inferno of Karma</DisplayName>

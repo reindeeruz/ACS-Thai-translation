@@ -103,10 +103,10 @@
 			<DisplayName>ยาเม็ดวันใหม่</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife6">
-			<DisplayName>Life Spring</DisplayName>
+			<DisplayName>น้ำพุชีวิต</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife7">
-			<DisplayName>Lingzhi</DisplayName>
+			<DisplayName>เห็ดหลินจือ</DisplayName>
 		</Text>
 		<Text Name="Dan_IncreaseLife8">
 			<DisplayName>เห็ดหลินจือม่วง</DisplayName>
@@ -143,11 +143,11 @@
 			<Desc>Increases ค่าพลังชี่สูงสุด.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_Laxative">
-			<DisplayName>Laxative Pill</DisplayName>
+			<DisplayName>ยาถ่าย</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_Laxative1">
 			<DisplayName>Weakening</DisplayName>
-			<Desc>After taking the Laxative Pill, one would be considerably weakened and has a very low work efficiency.</Desc>
+			<Desc>After taking the ยาถ่าย, one would be considerably weakened and has a very low work efficiency.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_LongXianGuo">
 			<DisplayName>ผลไม้อำพัน</DisplayName>
@@ -209,10 +209,10 @@
 			<Desc>Touched by this section of memory from a different world.</Desc>
 		</Text>
 		<Text Name="Dan_XianBone">
-			<DisplayName>Divine Bones</DisplayName>
+			<DisplayName>เศษกระดูกศักดิ์สิทธิ์</DisplayName>
 		</Text>
 		<Text Name="Dan_XianBoneBall">
-			<DisplayName>Sarira</DisplayName>
+			<DisplayName>อัฐิธาตุ</DisplayName>
 		</Text>
 		<Text Name="Dan_LingYuanZhong">
 			<DisplayName>เมล็ดวิญญาณ (Consumable)</DisplayName>
@@ -221,20 +221,20 @@
 			<DisplayName>เมล็ดวิญญาณ (Equipment)</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_YuanHunLu">
-			<DisplayName>Holy Nectar</DisplayName>
+			<DisplayName>น้ำค้างวิญญาณปฐม</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_XieHunLu">
-			<DisplayName>Evil Nectar</DisplayName>
-			<Desc>By consuming the Evil Nectar, one's Intelligence and learning ability are increased.</Desc>
+			<DisplayName>น้ำค้างวิญญาณมาร</DisplayName>
+			<Desc>By consuming the น้ำค้างวิญญาณมาร, one's Intelligence and learning ability are increased.</Desc>
 		</Text>
 		<Text Name="Modifier_Item_XieHunLu1">
-			<DisplayName>Evil Nectar (Damage)</DisplayName>
+			<DisplayName>น้ำค้างวิญญาณมาร (Damage)</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_YanDaoGuo">
-			<DisplayName>Insight Fruit</DisplayName>
+			<DisplayName>ผลหยั่งรู้</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_QieDaoGuo">
-			<DisplayName>Impose Fruit</DisplayName>
+			<DisplayName>ผลลวงสวรรค์</DisplayName>
 		</Text>
 		<Text Name="Modifier_Item_ZaoHuaYuLu">
 			<DisplayName>Fortune Nectar</DisplayName>

@@ -216,15 +216,15 @@ CantAtkDizzyOuter	There are no unconscious Outer Disciples that I can attack
 CantAtkDizzyInner	There are no unconscious Inner Disciples that I can attack				
 CantAtkDizzyComing	There are no unconscious mortals that I can attack				
 CantAtkDizzyVisitor	There are no unconscious visitors that I can attack				
-NotFeedTongXie	I wouldn't give Outer Disciples Laxative to eat				
+NotFeedTongXie	I wouldn't give Outer Disciples ยาถ่าย to eat				
 NotCureInner	I can't heal Inner Disciples' wounds				
-WannaFeedTongXie	I want to give some Laxative to Outer Disciples to eat				I want to give some Laxative to Outer Disciple {0} to eat
+WannaFeedTongXie	I want to give some ยาถ่าย to Outer Disciples to eat				I want to give some ยาถ่าย to Outer Disciple {0} to eat
 WannaCureInner	I can't heal Inner Disciples' wounds				I want to heal Inner Disciple {0}'s wounds
-DoTalkFeedTongXie					I'm giving Outer Disciple {0} Laxative to eat
+DoTalkFeedTongXie					I'm giving Outer Disciple {0} ยาถ่าย to eat
 DoTalkCureInner					I'm healing Inner Disciple {0}'s wounds
-CantFeedTongXie	There are no Outer Disciples that I can feed Laxative to				
+CantFeedTongXie	There are no Outer Disciples that I can feed ยาถ่าย to				
 CantCureInner	There are no Inner Disciples for me to heal				
-NoParam2FeedTongXie					I'd like to give Outer Disciple {0} Laxative to eat, but I don't have any
+NoParam2FeedTongXie					I'd like to give Outer Disciple {0} ยาถ่าย to eat, but I don't have any
 NoParam2CureInner					I want to heal Inner Disciple {0}'s wounds, but it's not the time
 NotHelpPlantD	I wouldn't urinate in an Herb Garden				
 WannaHelpPlantD	I want to help water an Herb Garden				
@@ -319,8 +319,8 @@ WannaTrainHuTi	I want to practice Protection-based abilities
 WannaTrainNeiDan	I want to practice Internal Core				
 WannaTrainQiGan	I want to practice พลังชี่-based abilities				
 NothingToEat	There's nothing to eat! I sure am hungry				
-NotEat_Item_SnakeGallbladder	I wouldn't eat Snake Gall				
-NotEat_Item_BearGallbladder	I wouldn't eat Bear Gall				
+NotEat_Item_SnakeGallbladder	I wouldn't eat ดีงู				
+NotEat_Item_BearGallbladder	I wouldn't eat ดีหมี				
 NotEat_Item_RedGinseng	I wouldn't eat โสมแดง				
 NotEat_Item_PurpleGanodermaLucidum	I wouldn't eat เห็ดหลินจือม่วง				
 NotEat_Item_TuEssence	I wouldn't eat Ochre Essence				
@@ -328,7 +328,7 @@ NotEat_Item_HuoEssence	I wouldn't eat ผลไม้แดงสด
 NotEat_Item_ShuiEssence	I wouldn't eat ดอกบัวปริซึม				
 NotEat_Item_JinEssence	I wouldn't eat Sagacity Fruit				
 NotEat_Item_MuEssence	I wouldn't eat เถาวัลย์ตะปุ่มตะป่ำ				
-NotEat_Item_LifeStream	I wouldn't drink Life Spring				
+NotEat_Item_LifeStream	I wouldn't drink น้ำพุชีวิต				
 NotEat_Item_LongEgg	I wouldn't eat มังกรหลาก Eggs				
 NotEat_Item_FengEgg	I wouldn't eat ฟินิกซ์ Eggs				
 NotEat_Item_DragonShit	I wouldn't eat Dragon Feces				
@@ -337,7 +337,7 @@ NotEat_Item_BossFeng_Meat	I wouldn't eat ฟินิกซ์ Flesh
 NotEat_Item_BossLong_Meat	I wouldn't eat Dragon Flesh				
 NotEat_Item_BossZhuLong_Meat	I wouldn't eat Primordial Flesh				
 NotEat_Item_Cake	I wouldn't eat Bread				
-NotEat_Item_MonsterBlood	I wouldn't eat Beast Blood				
+NotEat_Item_MonsterBlood	I wouldn't eat เลือดสัตว์ร้าย				
 NotEat_Item_EarthEssence	I wouldn't drink ฟลักซ์ดิน				
 NotEat_Item_SilverGrit	I wouldn't eat ผงน้ำแข็งคริสตัล				
 NotEat_Item_CopperGrit	I wouldn't eat Igneocopper Powder				
@@ -348,9 +348,9 @@ NotEat_Item_EarthEssence1_1	I wouldn't eat Evil Essence
 NotEat_Item_Healroot	I wouldn't eat Healing Herb				
 NotEat_Item_Mint	I wouldn't eat ใบพิศุทธิ์				
 NotEat_Item_MagicHerb	I wouldn't eat ใบวิญญาณ				
-NotEat_Item_Laxative	I wouldn't eat Laxative				
-WannaEat_Item_SnakeGallbladder					I really want to eat Snake Gall
-WannaEat_Item_BearGallbladder					I really want to eat Bear Gall
+NotEat_Item_Laxative	I wouldn't eat ยาถ่าย				
+WannaEat_Item_SnakeGallbladder					I really want to eat ดีงู
+WannaEat_Item_BearGallbladder					I really want to eat ดีหมี
 WannaEat_Item_RedGinseng					I really want to eat โสมแดง
 WannaEat_Item_PurpleGanodermaLucidum					I really want to eat เห็ดหลินจือม่วง
 WannaEat_Item_TuEssence					I really want to eat Ochre Essence
@@ -358,7 +358,7 @@ WannaEat_Item_HuoEssence					I really want to eat ผลไม้แดงสด
 WannaEat_Item_ShuiEssence					I really want to eat ดอกบัวปริซึม
 WannaEat_Item_JinEssence					I really want to eat Sagacity Fruit
 WannaEat_Item_MuEssence					I really want to eat Gnarled Vines
-WannaEat_Item_LifeStream					I really want to drink Life Spring
+WannaEat_Item_LifeStream					I really want to drink น้ำพุชีวิต
 WannaEat_Item_LongEgg					I really want to eat มังกรหลาก Eggs
 WannaEat_Item_FengEgg					I really want to eat ฟินิกซ์ Eggs
 WannaEat_Item_DragonShit					I really want to eat Dragon Feces
@@ -367,7 +367,7 @@ WannaEat_Item_BossFeng_Meat					I really want to eat ฟินิกซ์ Flesh
 WannaEat_Item_BossLong_Meat					I really want to eat Dragon Flesh
 WannaEat_Item_BossZhuLong_Meat					I really want to eat Primordial Flesh
 WannaEat_Item_Cake					I really want to eat Bread
-WannaEat_Item_MonsterBlood					I really want to eat Beast Blood
+WannaEat_Item_MonsterBlood					I really want to eat เลือดสัตว์ร้าย
 WannaEat_Item_EarthEssence					I really want to drink ฟลักซ์ดิน
 WannaEat_Item_SilverGrit					I really want to eat ผงน้ำแข็งคริสตัล
 WannaEat_Item_CopperGrit					I really want to eat Igneocopper Powder
@@ -378,9 +378,9 @@ WannaEat_Item_EarthEssence1_1					I really want to eat Evil Essence
 WannaEat_Item_Healroot					I really want to eat Healing Herb
 WannaEat_Item_Mint					I really want to eat ใบพิศุทธิ์
 WannaEat_Item_MagicHerb					I really want to eat ใบวิญญาณ
-WannaEat_Item_Laxative					I really want to eat Laxative
-DoTalkEat_Item_SnakeGallbladder					I'm eating Snake Gall
-DoTalkEat_Item_BearGallbladder					I'm eating Bear Gall
+WannaEat_Item_Laxative					I really want to eat ยาถ่าย
+DoTalkEat_Item_SnakeGallbladder					I'm eating ดีงู
+DoTalkEat_Item_BearGallbladder					I'm eating ดีหมี
 DoTalkEat_Item_RedGinseng					I'm eating โสมแดง
 DoTalkEat_Item_PurpleGanodermaLucidum					I'm eating เห็ดหลินจือม่วง
 DoTalkEat_Item_TuEssence					I'm eating Ochre Essence
@@ -388,7 +388,7 @@ DoTalkEat_Item_HuoEssence					I'm eating ผลไม้แดงสด
 DoTalkEat_Item_ShuiEssence					I am eating ดอกบัวปริซึม
 DoTalkEat_Item_JinEssence					I'm eating Sagacity Fruit
 DoTalkEat_Item_MuEssence					I'm eating เถาวัลย์ตะปุ่มตะป่ำ
-DoTalkEat_Item_LifeStream					I'm drinking Life Spring
+DoTalkEat_Item_LifeStream					I'm drinking น้ำพุชีวิต
 DoTalkEat_Item_LongEgg					I'm eating มังกรหลาก Eggs
 DoTalkEat_Item_FengEgg					I'm eating ฟินิกซ์ Eggs
 DoTalkEat_Item_DragonShit					I'm eating Dragon Feces
@@ -397,7 +397,7 @@ DoTalkEat_Item_BossFeng_Meat					I'm eating ฟินิกซ์ Flesh
 DoTalkEat_Item_BossLong_Meat					I'm eating Dragon Flesh
 DoTalkEat_Item_BossZhuLong_Meat					I'm eating Primordial Flesh
 DoTalkEat_Item_Cake					I'm eating Bread
-DoTalkEat_Item_MonsterBlood					I'm eating Beast Blood
+DoTalkEat_Item_MonsterBlood					I'm eating เลือดสัตว์ร้าย
 DoTalkEat_Item_EarthEssence					I'm drinking ฟลักซ์ดิน
 DoTalkEat_Item_SilverGrit					I'm eating ผงน้ำแข็งคริสตัล
 DoTalkEat_Item_CopperGrit					I'm eating Igneocopper Powder
@@ -408,9 +408,9 @@ DoTalkEat_Item_EarthEssence1_1					I'm eating Evil Essence
 DoTalkEat_Item_Healroot					I'm eating Healing Herb
 DoTalkEat_Item_Mint					I'm eating ใบพิศุทธิ์
 DoTalkEat_Item_MagicHerb					I'm eating ใบวิญญาณ
-DoTalkEat_Item_Laxative					I'm eating Laxative
-CantEat_Item_SnakeGallbladder	I can't find any Snake Gall to eat				
-CantEat_Item_BearGallbladder	I can't find any Bear Gall to eat				
+DoTalkEat_Item_Laxative					I'm eating ยาถ่าย
+CantEat_Item_SnakeGallbladder	I can't find any ดีงู to eat				
+CantEat_Item_BearGallbladder	I can't find any ดีหมี to eat				
 CantEat_Item_RedGinseng	I can't find any โสมแดง to eat				
 CantEat_Item_PurpleGanodermaLucidum	I can't find any เห็ดหลินจือม่วง to eat				
 CantEat_Item_TuEssence	I can't find any Ochre Essence to eat				
@@ -418,7 +418,7 @@ CantEat_Item_HuoEssence	I can't find any ผลไม้แดงสด to eat
 CantEat_Item_ShuiEssence	I can't find any Prismatic to eat				
 CantEat_Item_JinEssence	I can't find any Sagacity Fruit to eat				
 CantEat_Item_MuEssence	I can't find any เถาวัลย์ตะปุ่มตะป่ำ to eat				
-CantEat_Item_LifeStream	I can't find any Life Spring to drink				
+CantEat_Item_LifeStream	I can't find any น้ำพุชีวิต to drink				
 CantEat_Item_LongEgg	I can't find any มังกรหลาก Eggs to eat				
 CantEat_Item_FengEgg	I can't find any ฟินิกซ์ Eggs to eat				
 CantEat_Item_DragonShit	I can't find any Dragon Feces to eat				
@@ -427,7 +427,7 @@ CantEat_Item_BossFeng_Meat	I can't find any ฟินิกซ์ Flesh to eat
 CantEat_Item_BossLong_Meat	I can't find any Dragon Flesh to eat				
 CantEat_Item_BossZhuLong_Meat	I can't find any Primordial Flesh to eat				
 CantEat_Item_Cake	I can't find any Bread to eat				
-CantEat_Item_MonsterBlood	I can't find any Beast Blood to eat				
+CantEat_Item_MonsterBlood	I can't find any เลือดสัตว์ร้าย to eat				
 CantEat_Item_EarthEssence	I can't find any ฟลักซ์ดิน to drink				
 CantEat_Item_SilverGrit	I can't find any ผงน้ำแข็งคริสตัล to eat				
 CantEat_Item_CopperGrit	I can't find any Igneocopper Powder to eat				
@@ -438,7 +438,7 @@ CantEat_Item_EarthEssence1_1	I can't find any Evil Essence to eat
 CantEat_Item_Healroot	I can't find any Healing Herb to eat				
 CantEat_Item_Mint	I can't find any ใบพิศุทธิ์ to eat				
 CantEat_Item_MagicHerb	I can't find any ใบวิญญาณ to eat				
-CantEat_Item_Laxative	I can't find any Laxative to eat				
+CantEat_Item_Laxative	I can't find any ยาถ่าย to eat				
 Leave1					{0}, be careful out on the road
 Leave2					Come back soon, {0}
 Leave3					Safe travels, {0}

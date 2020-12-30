@@ -29,9 +29,9 @@
 			<Item.BeMaterial.NamePrefix>แกนหยก</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StoneEssence" sParam="Item">
-			<ThingName>แกนหิน</ThingName>
+			<ThingName>แก่นหิน</ThingName>
 			<Desc>The essence of a stone, it is light in weight, has a smooth surface and very beautiful. Often used for making high-end decorations, and also for medicine.</Desc>
-			<Item.BeMaterial.NamePrefix>แกนหิน</Item.BeMaterial.NamePrefix>
+			<Item.BeMaterial.NamePrefix>แก่นหิน</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStone" sParam="Item">
 			<ThingName>หินศักดิ์สิทธิ์</ThingName>
