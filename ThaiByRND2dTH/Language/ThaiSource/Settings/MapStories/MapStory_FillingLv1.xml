@@ -221,7 +221,7 @@
 		</Text>
 		<Text Name="Find_Base">
 			<DisplayName>Collect Resources</DisplayName>
-			<Desc>When [NAME] arrived at this place, it turned out that there was a lot around that could be gathered.</Desc>
+			<Desc>When [NAME] arrived at this place, it turned out that there was a lot around that could be เฝ่ย.</Desc>
 			<Selections.0.Display>Resource Collection</Selections.0.Display>
 			<Selections.1.Display>Ignore</Selections.1.Display>
 		</Text>

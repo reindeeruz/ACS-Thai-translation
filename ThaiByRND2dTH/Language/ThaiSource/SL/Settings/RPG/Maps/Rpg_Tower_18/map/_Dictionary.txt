@@ -593,8 +593,8 @@
 甲乙恶魄咒	Eastern Evil Soul  Incantation
 天玄散	Daroth Powder
 天枢紫霞纱	Dubhe Purple Morning Glow Textile
-蜚皮休闲衣衫	Fei Hide Casual Shirt
-蜚皮修行下裳	Fei Hide Cultivator Pants
+蜚皮休闲衣衫	เฝ่ย Hide Casual Shirt
+蜚皮修行下裳	เฝ่ย Hide Cultivator Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 千韧弓	Spiritwood Bow
 青龙紫霞禁	Azuragon Purple Morning Glow  Incantation

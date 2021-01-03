@@ -1,6 +1,6 @@
 灵植影响范围	Spiritual plants affect their surroundings.
-蜚皮休闲衣衫	Fei Hide Casual Shirt
-蜚皮修行下裳	Fei Hide Cultivator Pants
+蜚皮休闲衣衫	เฝ่ย Hide Casual Shirt
+蜚皮修行下裳	เฝ่ย Hide Cultivator Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 千韧弓	Spiritwood Bow
 符纸	Talisman Paper
@@ -13,8 +13,8 @@
 药王符	Talisman of Medicinal Mastery
 可以提高突破瓶颈的概率。	Used to raise the chance of breakthrough.
 洞真符	Talisman of Truth Comprehension
-鹿蜀皮薄衣衫	Lushu Hide Thin Shirt
-鹿蜀皮薄下裳	Lushu Hide Thin Pants
+鹿蜀皮薄衣衫	ลู่สู่ Hide Thin Shirt
+鹿蜀皮薄下裳	ลู่สู่ Hide Thin Pants
 神木弓	Wood Bow
 花布	Patterned Fabric
 甲乙四象帛	Eastern The Four Statues  Gauze
@@ -56,7 +56,7 @@
 玄甲符	Darkarmor Talisman
 可以使心境略微提高的符咒。	Talisman used to slightly improve mental state.
 宁心符	Talisman of Tranquil Heart
-蜚皮修行衣衫	Fei Hide Sect Uniform
+蜚皮修行衣衫	เฝ่ย Hide Sect Uniform
 追星	Brownstone Chakram
 牛皮修行衣衫	Sect Uniform
 镇岳天心甲	Hill Fall Heavenly Heart  Armor

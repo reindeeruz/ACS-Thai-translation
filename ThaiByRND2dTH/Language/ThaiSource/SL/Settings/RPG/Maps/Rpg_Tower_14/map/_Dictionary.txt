@@ -11,8 +11,8 @@
 灵咒符	Spiritcurse Talisman
 佩戴者可以从根本上提高法宝威力，并全面提高法宝能力。	Fundamentally increases the wearer's Artifact Power, and comprehensively improves Artifact abilities.
 圣剑符	Sacredsword Talisman
-蜚皮休闲衣衫	Fei Hide Casual Shirt
-蜚皮薄下裳	Fei Hide Thin Pants
+蜚皮休闲衣衫	เฝ่ย Hide Casual Shirt
+蜚皮薄下裳	เฝ่ย Hide Thin Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 震山河	Ice Essence Spear
 木刀	Blade
@@ -25,7 +25,7 @@
 神居符	Talisman of Divine Residence
 佩戴者可以提高寿元，远离疾瘴。恭祝各位新春快乐，万事如意！	Used to raise lifespan and immunity to diseases for whomever wears it. Happy Spring Festival and all the best!
 万寿图	Illustration of Everlasting Longevity
-蜚皮休闲下裳	Fei Hide Casual Pants
+蜚皮休闲下裳	เฝ่ย Hide Casual Pants
 寒晶弓	Ice Crystal Bow
 紫布薄下裳	Thin Pants
 长生白骨御	Longevity White Bone Clothes
@@ -39,8 +39,8 @@
 武昌符	Talisman of Military Prosperity
 提高饮气辟谷的效率。	Used to raise efficiency of พลังชี่ absorption and fasting.
 饮气符	Talisman of พลังชี่ Absorption
-鹿蜀皮薄衣衫	Lushu Hide Thin Shirt
-鹿蜀皮薄下裳	Lushu Hide Thin Pants
+鹿蜀皮薄衣衫	ลู่สู่ Hide Thin Shirt
+鹿蜀皮薄下裳	ลู่สู่ Hide Thin Pants
 玄铁锤	Darksteel Mace
 灰石	Graystone
 腾岳涤心印	Hill Rise Clean Mind Stone
@@ -116,4 +116,4 @@
 又有明界的食物送上门了！献上你的真灵，祭奠幽界的主宰罢！	Food from bright side is serving! Give your true spirit to the overload of Nether world!
 饥渴之人	Hungry man
 持续灵气损失	Continously lose พลังชี่
-此地传说是上古仙人布下的聚灵阵。他不断运转神通汲取周围灵气，万物衰败，自己也因承受不住而就此陨落，留下其残念还在持续不断地汲取灵气。	This place is a พลังชี่ Gathering formation created by an ancient god. He gathered surrounding พลังชี่ continously, which caused the crash of all things and himself. Only his thought is left to keeping gathering พลังชี่ here.
+此地传说是上古仙人布下的聚灵阵。他不断运转神通汲取周围灵气，万物衰败，自己也因承受不住而就此陨落，留下其残念还在持续不断地汲取灵气。	This place is a พลังชี่ Gathering formation created by an ancient god. He เฝ่ย surrounding พลังชี่ continously, which caused the crash of all things and himself. Only his thought is left to keeping gathering พลังชี่ here.

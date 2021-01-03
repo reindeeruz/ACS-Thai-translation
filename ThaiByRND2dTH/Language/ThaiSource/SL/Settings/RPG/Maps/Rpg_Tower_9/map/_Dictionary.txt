@@ -1,6 +1,6 @@
 灵植影响范围	Spiritual plants affect their surroundings.
-鹿蜀皮休闲衣衫	Lushu Hide Casual Shirt
-鹿蜀皮薄下裳	Lushu Hide Thin Pants
+鹿蜀皮休闲衣衫	ลู่สู่ Hide Casual Shirt
+鹿蜀皮薄下裳	ลู่สู่ Hide Thin Pants
 梧桐木弓	Parasol Wood Bow
 棋局	Go
 甲乙无上谱	Eastern Supreme  Scroll

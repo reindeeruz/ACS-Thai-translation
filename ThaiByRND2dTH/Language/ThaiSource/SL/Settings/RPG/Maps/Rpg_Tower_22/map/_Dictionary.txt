@@ -1,5 +1,5 @@
-蜚皮薄衣衫	Fei Hide Thin Shirt
-蜚皮修行下裳	Fei Hide Cultivator Pants
+蜚皮薄衣衫	เฝ่ย Hide Thin Shirt
+蜚皮修行下裳	เฝ่ย Hide Cultivator Pants
 天柱石长枪	Holy Stone Spear
 角色出生点	Born Point
 逻辑点	Logic Point

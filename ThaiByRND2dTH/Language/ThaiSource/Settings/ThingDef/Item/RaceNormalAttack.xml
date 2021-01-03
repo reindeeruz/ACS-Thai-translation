@@ -100,7 +100,7 @@
 			<Item.Equip.AtkDamage.0.DescTags>Lick</Item.Equip.AtkDamage.0.DescTags>
 		</Text>
 		<Text Name="LuShu_NormalAttack" sParam="Item">
-			<ThingName>Lushu Attack</ThingName>
+			<ThingName>ลู่สู่ Attack</ThingName>
 			<Item.Equip.AtkDamage.0.DescTags>Kick</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Kick</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Kick</Item.Equip.AtkDamage.2.DescTags>
@@ -108,7 +108,7 @@
 			<Item.Equip.AtkDamage.4.DescTags>Invasion of พลังชี่</Item.Equip.AtkDamage.4.DescTags>
 		</Text>
 		<Text Name="Fei_NormalAttack" sParam="Item">
-			<ThingName>Fei Attack</ThingName>
+			<ThingName>เฝ่ย Attack</ThingName>
 			<Item.Equip.AtkDamage.0.DescTags>Bump</Item.Equip.AtkDamage.0.DescTags>
 			<Item.Equip.AtkDamage.1.DescTags>Bump</Item.Equip.AtkDamage.1.DescTags>
 			<Item.Equip.AtkDamage.2.DescTags>Bump</Item.Equip.AtkDamage.2.DescTags>

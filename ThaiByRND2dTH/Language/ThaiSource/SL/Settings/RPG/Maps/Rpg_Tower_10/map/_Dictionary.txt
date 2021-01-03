@@ -1,6 +1,6 @@
 房间	ห้อง
 农田	Field
-鹿蜀皮休闲下裳	Lushu Hide Casual Pants
+鹿蜀皮休闲下裳	ลู่สู่ Hide Casual Pants
 角色出生点	
 逻辑点	
 大理石床	Marble Bed

@@ -121,15 +121,15 @@
 			<StoryDesc>Rainstorm is wreaking havoc</StoryDesc>
 		</Text>
 		<Text Name="LuShu_SunnyDay">
-			<DisplayName>Sunny Day (due to Lushu)</DisplayName>
+			<DisplayName>Sunny Day (due to ลู่สู่)</DisplayName>
 			<StoryDesc>Clear skies and still airs throughout the land</StoryDesc>
 		</Text>
 		<Text Name="Fei_HeavyRain">
-			<DisplayName>Heavy Rain (due to Fei)</DisplayName>
+			<DisplayName>Heavy Rain (due to เฝ่ย)</DisplayName>
 			<StoryDesc>The skies have opened, drenching all below with heavy rain</StoryDesc>
 		</Text>
 		<Text Name="Fei_Overcast">
-			<DisplayName>Overcast (due to Fei)</DisplayName>
+			<DisplayName>Overcast (due to เฝ่ย)</DisplayName>
 			<StoryDesc>A thick layer of cloud covers the sky above</StoryDesc>
 		</Text>
 		<Text Name="MuYu_LightRain">

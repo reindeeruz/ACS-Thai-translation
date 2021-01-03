@@ -145,21 +145,21 @@
 		</Text>
 		<Text Name="Secrets_Magic">
 			<DisplayName>Manifesting Miracle</DisplayName>
-			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff.</Desc>
+			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already เฝ่ย around the newly-unearthed Stone Engravings of Dragon Cliff.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Leave</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Magic_Cold">
 			<DisplayName>Manifesting Miracle</DisplayName>
-			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of พลังชี่ energy mechanics between heaven and earth, the surrounding land of the unearthed site have been shrouded in frost.</Desc>
+			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already เฝ่ย around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of พลังชี่ energy mechanics between heaven and earth, the surrounding land of the unearthed site have been shrouded in frost.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Leave in frustration</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_Magic_Hot">
 			<DisplayName>Manifesting Miracle</DisplayName>
-			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already gathered around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of พลังชี่ energy mechanics between heaven and earth, the surrounding land of the unearthed site have been surrounded by inferno fire.</Desc>
+			<Desc>Having arrived at [PLACE], [NAME] found that a great number of cultivators have already เฝ่ย around the newly-unearthed Stone Engravings of Dragon Cliff. However, due to the interference of พลังชี่ energy mechanics between heaven and earth, the surrounding land of the unearthed site have been surrounded by inferno fire.</Desc>
 			<Selections.0.Display>Meditate</Selections.0.Display>
 			<Selections.0.Tip>Intelligence</Selections.0.Tip>
 			<Selections.1.Display>Leave in frustration</Selections.1.Display>
@@ -236,7 +236,7 @@
 		</Text>
 		<Text Name="Secrets_KunLunFaHui">
 			<DisplayName>Kunlun Competition</DisplayName>
-			<Desc>[NAME] arrived at Kunlun Mountains, and found that the Kunlun Competition has already begin. Cultivators and เซียน alike gathered together, showing majesty in all its variety. Only those who had reached the cultivational state of golden core or higher shall participate in one of the five competitions, and the winner can be let in on one of the cultivational Law of the Jade Void Palace. [NAME] was wondering which competition shall [ENHIM] take part in.</Desc>
+			<Desc>[NAME] arrived at Kunlun Mountains, and found that the Kunlun Competition has already begin. Cultivators and เซียน alike เฝ่ย together, showing majesty in all its variety. Only those who had reached the cultivational state of golden core or higher shall participate in one of the five competitions, and the winner can be let in on one of the cultivational Law of the Jade Void Palace. [NAME] was wondering which competition shall [ENHIM] take part in.</Desc>
 			<Selections.0.Display>Kunlun Debate</Selections.0.Display>
 			<Selections.1.Display>Crafting Contest</Selections.1.Display>
 			<Selections.2.Display>Alchemy Contest</Selections.2.Display>
@@ -301,14 +301,14 @@
 		</Text>
 		<Text Name="Secrets_GuangShouMenTu">
 			<DisplayName>เซียน Destiny Fair</DisplayName>
-			<Desc>The Great เซียน Destiny Fair which is held yearly in the cultivation world has now begun. All major sects have joined the event at [PLACE] to recruit new disciples with potential. For a time, all the talented among the world who aspire to seek the ways of the เซียน have gathered here. On the orders of their sect, [NAME] came to the meeting to recruit new disciples with เซียน destiny.</Desc>
+			<Desc>The Great เซียน Destiny Fair which is held yearly in the cultivation world has now begun. All major sects have joined the event at [PLACE] to recruit new disciples with potential. For a time, all the talented among the world who aspire to seek the ways of the เซียน have เฝ่ย here. On the orders of their sect, [NAME] came to the meeting to recruit new disciples with เซียน destiny.</Desc>
 			<Selections.0.Display>Recruit disciples</Selections.0.Display>
 			<Selections.0.Tip>Sect Reputation / Cultivation / Charisma / Social</Selections.0.Tip>
 			<Selections.1.Display>Leave the เซียน Destiny Fair</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_XieDiLing">
 			<DisplayName>The Demon Emperor's Tomb</DisplayName>
-			<Desc>The Demon Emperor's Tomb has opened. Plenty of cultivators have already gathered there.</Desc>
+			<Desc>The Demon Emperor's Tomb has opened. Plenty of cultivators have already เฝ่ย there.</Desc>
 			<Selections.0.Display>Search for treasures</Selections.0.Display>
 			<Selections.0.Tip>Luck</Selections.0.Tip>
 			<Selections.1.Display>Leave the Tomb</Selections.1.Display>

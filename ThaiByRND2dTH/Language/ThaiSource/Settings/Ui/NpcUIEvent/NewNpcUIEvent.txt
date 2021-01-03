@@ -126,8 +126,8 @@
 30006	{0}	A disaster happened.		Disaster happened
 30007	พ่อค้า {0} มาถึงแล้ว	Merchant Arrives		Traveling Merchant has arrived
 30008	เราได้สร้าง {0}!	Building Finished		Wonder Constructed
-40000	สมาคมพ่อค้าได้กล่าวโทษกับสำนักของเรา	สมาคมพ่อค้าได้กล่าวโทษกับสำนักของเรา	Because of your rude behavior, the Merchant Union has decided to ban you from their trade list forever.	
-30009	ความเชื่อของ {0} ได้เต็มแล้ว	ความเชื่อเต็มแล้ว	{0} has gathered enough beliefs. Please dispatch disciples to collect them.	
+40000	ถูกแบนจากสมาคมพ่อค้า	ถูกแบนจากสมาคมพ่อค้า	เพราะว่าการกระทำแย่ ๆ ของคุณกับพ่อค้า ทำให้สมาคมพ่อค้านั้นแบนคุณจากการค้าตลอดกาล	
+30009	ความเชื่อของ {0} ได้เต็มแล้ว	ความเชื่อเต็มแล้ว	{0} has เฝ่ย enough beliefs. Please dispatch disciples to collect them.	
 30010	ช่องเก็บของ ของ {0} ได้เต็มแล้ว	ช่องเก็บของ ของตัวละครเต็ม	{0}'s storage is full, please claim it manually.	
 30011	{0}	เลือกนโยบาย		
 31001	เอลฟ์แปลก ๆ โผล่มา	เอลฟ์แปลก ๆ โผล่มา	เอลฟ์แปลก ๆ โผล่มาในพื้นที่ของสำนักเรา	

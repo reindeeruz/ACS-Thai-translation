@@ -26,13 +26,13 @@
 		</Text>
 		<Text Name="Item_FeiLeather" sParam="Item">
 			<ThingName>หนังเฟย</ThingName>
-			<Desc>Hide of the demon beast Fei with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
+			<Desc>Hide of the demon beast เฝ่ย with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
 			<Item.BeMaterial.NamePrefix>หนังเฟย</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LuShuLeather" sParam="Item">
-			<ThingName>หนังลูชู</ThingName>
-			<Desc>Hide of the spirit beast Lushu, with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
-			<Item.BeMaterial.NamePrefix>หนังลูชู</Item.BeMaterial.NamePrefix>
+			<ThingName>หนังลู่สู่</ThingName>
+			<Desc>Hide of the spirit beast ลู่สู่, with magical power dwelling within it. Warm in winter and cool in summer. It is even capable of blocking พลังชี่ damage.</Desc>
+			<Item.BeMaterial.NamePrefix>หนังลู่สู่</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CattleLeather" sParam="Item">
 			<ThingName>หนังกระทิง</ThingName>

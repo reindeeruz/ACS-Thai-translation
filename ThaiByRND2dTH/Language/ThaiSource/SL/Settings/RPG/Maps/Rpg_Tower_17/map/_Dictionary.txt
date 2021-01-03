@@ -1,6 +1,6 @@
 房间	ห้อง
-蜚皮修行衣衫	Fei Hide Sect Uniform
-蜚皮修行下裳	Fei Hide Cultivator Pants
+蜚皮修行衣衫	เฝ่ย Hide Sect Uniform
+蜚皮修行下裳	เฝ่ย Hide Cultivator Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 炼狱	Goldwood Chakram
 观音土	Guanyin Clay

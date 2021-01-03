@@ -13,8 +13,8 @@
 洞神符	Talisman of Cave Mind
 佩戴者可以降低道行。	Decreases the wearer's ค่าความสำเร็จ.
 遮天符	Heavenshrouding Talisman
-蜚皮休闲衣衫	Fei Hide Casual Shirt
-蜚皮薄下裳	Fei Hide Thin Pants
+蜚皮休闲衣衫	เฝ่ย Hide Casual Shirt
+蜚皮薄下裳	เฝ่ย Hide Thin Pants
 灵木锤	Spiritwood Mace
 金丝灵木	Goldwood
 苍莽恶魄桩	Colossal Evil Soul Wood
@@ -43,8 +43,8 @@
 洞玄符	Talisman of Oblivion Comprehension
 佩戴者可以提高御器技能等级。	Increases the wearer's Artifact Mastery skill level.
 神剑符	Divinesword Talisman
-蜚皮修行衣衫	Fei Hide Sect Uniform
-蜚皮休闲下裳	Fei Hide Casual Pants
+蜚皮修行衣衫	เฝ่ย Hide Sect Uniform
+蜚皮休闲下裳	เฝ่ย Hide Casual Pants
 火铜角料	Igneocopper Offcut
 六合镖	The Six Directions  Scrap
 白布	White Fabric

@@ -65,12 +65,12 @@
 			<FemaleName>ผู้หญิง</FemaleName>
 		</Text>
 		<Text Name="Fei">
-			<DisplayName>Fei</DisplayName>
-			<Desc>Common Beast: Fei</Desc>
+			<DisplayName>เฝ่ย</DisplayName>
+			<Desc>Common Beast: เฝ่ย</Desc>
 		</Text>
 		<Text Name="Lushu">
-			<DisplayName>Lushu</DisplayName>
-			<Desc>Common Beast: Lushu</Desc>
+			<DisplayName>ลู่สู่</DisplayName>
+			<Desc>Common Beast: ลู่สู่</Desc>
 		</Text>
 		<Text Name="Cat">
 			<DisplayName>Cat</DisplayName>

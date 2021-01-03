@@ -103,12 +103,12 @@
 		</Text>
 		<Text Name="HotStory_Fei_LingWu">
 			<DisplayName>Sudden Inspiration</DisplayName>
-			<Desc>[NAME] suddenly had an epiphany while playing with Fei.</Desc>
+			<Desc>[NAME] suddenly had an epiphany while playing with เฝ่ย.</Desc>
 			<Selections.0.Display>Gained Comprehension</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_LuShu_LingWu">
 			<DisplayName>Sudden Inspiration</DisplayName>
-			<Desc>[NAME] suddenly had an epiphany while playing with Lushu.</Desc>
+			<Desc>[NAME] suddenly had an epiphany while playing with ลู่สู่.</Desc>
 			<Selections.0.Display>Gained Comprehension</Selections.0.Display>
 		</Text>
 	</List>

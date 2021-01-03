@@ -1,6 +1,6 @@
 灵植影响范围	Spiritual plants affect their surroundings.
-鹿蜀皮修行衣衫	Lushu Hide Sect Uniform
-鹿蜀皮薄下裳	Lushu Hide Thin Pants
+鹿蜀皮修行衣衫	ลู่สู่ Hide Sect Uniform
+鹿蜀皮薄下裳	ลู่สู่ Hide Thin Pants
 梧桐木弓	Parasol Wood Bow
 金丝木料	Goldwood Timber
 甲乙天心柱	Eastern Heavenly Heart  Take
@@ -17,7 +17,7 @@
 周公涤神符	Talisman of Spiritual Cleansing
 可以提高视野范围，并提高历练时发现新地点的速度。	Talisman used to improve range of views, and reduce time spent discovering a new location in adventure.
 千里神视符	Talisman of Foreseer
-鹿蜀皮修行下裳	Lushu Hide Cultivator Pants
+鹿蜀皮修行下裳	ลู่สู่ Hide Cultivator Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 辟魔刃	Ice Crystal Spear
 原木	Wood
@@ -32,8 +32,8 @@
 金甲符	Metalarmor Talisman
 可以提高移动速度的符咒。	Talisman used to raise move speed.
 轻身符	Agility Talisman
-蜚皮修行衣衫	Fei Hide Sect Uniform
-蜚皮薄下裳	Fei Hide Thin Pants
+蜚皮修行衣衫	เฝ่ย Hide Sect Uniform
+蜚皮薄下裳	เฝ่ย Hide Thin Pants
 灵木长枪	Spiritwood Spear
 木弓	Bow
 紫云神弓	Purple Cloud Divine Bow
@@ -47,8 +47,8 @@
 长乐符	Talisman of Lasting Joy
 使头脑清明，提高学习能力。	Used to clear mind and improve learning abilities.
 文昌符	Talisman of Civil Prosperity
-蜚皮薄衣衫	Fei Hide Thin Shirt
-蜚皮修行下裳	Fei Hide Cultivator Pants
+蜚皮薄衣衫	เฝ่ย Hide Thin Shirt
+蜚皮修行下裳	เฝ่ย Hide Cultivator Pants
 天柱石刀	Holy Stone Blade
 千棱玉骰子	Dice
 万里七魄骰	Marching Seven Souls Dice

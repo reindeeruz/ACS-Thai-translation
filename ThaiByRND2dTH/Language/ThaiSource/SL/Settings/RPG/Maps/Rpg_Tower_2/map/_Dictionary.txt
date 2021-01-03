@@ -10,25 +10,25 @@
 棕石长枪	Brownstone Spear
 紫布修行衣衫	Purple Fabric Sect Uniform
 牛皮薄下裳	Bull Hide Thin Pants
-鹿蜀皮薄衣衫	Lushu Hide Thin Shirt
-鹿蜀皮薄下裳	Lushu Hide Thin Pants
+鹿蜀皮薄衣衫	ลู่สู่ Hide Thin Shirt
+鹿蜀皮薄下裳	ลู่สู่ Hide Thin Pants
 巧夺天工的神兵，融合制作者的心血与灵感而成。	
 青霜	Ice Crystal Blade
-蜚皮休闲衣衫	Fei Hide Casual Shirt
-蜚皮薄下裳	Fei Hide Thin Pants
+蜚皮休闲衣衫	เฝ่ย Hide Casual Shirt
+蜚皮薄下裳	เฝ่ย Hide Thin Pants
 龙雀	Igneocopper Mace
 妖韧皮薄衣衫	Tough Demon Hide Thin Shirt
 妖韧皮休闲下裳	Tough Demon Hide Casual Pants
 梧桐木环	Parasol Wood Chakram
-鹿蜀皮修行下裳	Lushu Hide Cultivator Pants
+鹿蜀皮修行下裳	ลู่สู่ Hide Cultivator Pants
 梧桐木弓	Parasol Wood Bow
-鹿蜀皮休闲衣衫	Lushu Hide Casual Shirt
+鹿蜀皮休闲衣衫	ลู่สู่ Hide Casual Shirt
 火精剑	Fire Essence Sword
 灵石弓	หินวิญญาณ Bow
 妖韧皮休闲衣衫	Tough Demon Hide Casual Shirt
 妖韧皮薄下裳	Tough Demon Hide Thin Pants
 流星	Goldwood Spear
-鹿蜀皮修行衣衫	Lushu Hide Sect Uniform
+鹿蜀皮修行衣衫	ลู่สู่ Hide Sect Uniform
 金丝木弓	Goldwood Bow
 玉石刀	Jade Blade
 妖韧皮修行下裳	Tough Demon Hide Cultivator Pants
@@ -37,7 +37,7 @@
 梧桐木锤	Parasol Wood Mace
 铁环	Iron Chakram
 灵木剑	Spiritwood Sword
-鹿蜀皮休闲下裳	Lushu Hide Casual Pants
+鹿蜀皮休闲下裳	ลู่สู่ Hide Casual Pants
 千韧弓	Goldwood Bow
 射魄	Ice Crystal Bow
 镇狱	Spiritwood Mace

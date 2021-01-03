@@ -1,8 +1,8 @@
 房间	ห้อง
 农田	Field
 灵植影响范围	Spiritual plants affect their surroundings.
-鹿蜀皮薄衣衫	Lushu Hide Thin Shirt
-鹿蜀皮薄下裳	Lushu Hide Thin Pants
+鹿蜀皮薄衣衫	ลู่สู่ Hide Thin Shirt
+鹿蜀皮薄下裳	ลู่สู่ Hide Thin Pants
 寒精长枪	Ice Essence Spear
 寒晶角料	Ice Crystal Offcut
 凝光千魂碎	Aqua Thousand Souls  Scrap
@@ -18,7 +18,7 @@
 借天符	Heavenlent Talisman
 可以轻微提高炼制丹药的产量。	Used to slightly raise yield of Alchemy.
 万化承丹符	Impermanence Talisman
-鹿蜀皮休闲下裳	Lushu Hide Casual Pants
+鹿蜀皮休闲下裳	ลู่สู่ Hide Casual Pants
 灵木锤	Spiritwood Mace
 莲藕	Lotus Root
 凝光千光藕	Aqua Thousand Rays Lotus Root
