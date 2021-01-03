@@ -953,10 +953,10 @@
 	<string name="0xrxw6g7ua9y2ovtk-n177_nnck" mz="n177">W</string>
 	<string name="0xrxw6g7kbt72ovst-n141_cfyn" mz="frame">เข้าฌานกฎ</string>
 	<string name="0xrxw6g7kbt72ovst-n145_cfyn-0" mz="tree">Zhuji</string>
-	<string name="0xrxw6g7kbt72ovst-n145_cfyn-1" mz="tree">Jiedan</string>
-	<string name="0xrxw6g7kbt72ovst-n145_cfyn-2" mz="tree">Jindan</string>
-	<string name="0xrxw6g7kbt72ovst-n145_cfyn-3" mz="tree">Yuanying</string>
-	<string name="0xrxw6g7kbt72ovst-n145_cfyn-4" mz="tree">Chengxian</string>
+	<string name="0xrxw6g7kbt72ovst-n145_cfyn-1" mz="tree">เจี๋ยตัน</string>
+	<string name="0xrxw6g7kbt72ovst-n145_cfyn-2" mz="tree">จินตัน</string>
+	<string name="0xrxw6g7kbt72ovst-n145_cfyn-3" mz="tree">หยวนอิง</string>
+	<string name="0xrxw6g7kbt72ovst-n145_cfyn-4" mz="tree">เฉิงเซียน</string>
 	<string name="0xrxw6g7nv6f52ow3n-n110_nv6f" mz="frame">ตำราบันทึก</string>
 	<string name="0xrxw6g7nv6f52ow3n-n116_9ht9-prompt" mz="F">ค้นหา</string>
 	<string name="0xrxw6g7nv6f52ow3n-n117_9ht9" mz="search">ค้นหา</string>
@@ -1794,7 +1794,7 @@
 	<string name="0xrxw6g7jr2h3l-n187_rvsk" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_0" mz="n187">เพื่อที่จะก้าวไปก้าวหน้าต่อไปผู้ฝึกตน จะต้องออกจากสำนักและค้นหาเสียงเรียกจากภายในของพวกเขาผ่านการทดสอบในโลกแห่งความเป็นจริง ผู้ฝึกตนที่ไม่ชอบเข้าสังคมอาจพบว่าสิ่งนี้ท้าทายเนื่องจากเป็นการทดสอบทักษะทางสังคมและสเน่ห์</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_1" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
-	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_2" mz="n187">การปั้นแกนเป็นขั้นตอนของผู้ฝึกตน ที่จะบีบพลังชี่ของตัวเองเพื่อให้เปลี่ยนเป็น Jindan หลังจากที่เข้าสู่สถานะนี้แล้ว ผู้ฝึกตนจะไม่สามารถฟื้นฟูพลังชี่ของตัวเองได้ ผู้ฝึกตนจะยังคงกินในช่วงสถานะนี้ เมื่อพลังชี่หมดลงสถานะนี้ก็จะจบลง</string>
+	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_2" mz="n187">การปั้นแกนเป็นขั้นตอนของผู้ฝึกตน ที่จะบีบพลังชี่ของตัวเองเพื่อให้เปลี่ยนเป็น จินตัน หลังจากที่เข้าสู่สถานะนี้แล้ว ผู้ฝึกตนจะไม่สามารถฟื้นฟูพลังชี่ของตัวเองได้ ผู้ฝึกตนจะยังคงกินในช่วงสถานะนี้ เมื่อพลังชี่หมดลงสถานะนี้ก็จะจบลง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_3" mz="n187">ทัณฑ์สวรรค์ กำลังจะมาถึงผู้ฝึกตนนี้ พวกเขาจะต้องเตรียมตัวที่จะรับมือกับมันก่อนที่เวลาจะหมดลง หลังจากที่ทัณฑ์สวรรค์เริ่มขึ้น จะไม่สามารถหยุดได้อีกต่อไป ผู้ฝึกตนที่เสียท่าให้กับทัณฑ์สวรรค์ จะทำให้ความพยายามที่ทำมาก่อนหน้านั้นต้องเริ่มใหม่ หรือบางครั้งอาจสูญสลายไปทั้งวิญญาณและร่างเลยก็ได้</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_4" mz="n187">ขั้นตอนสุดท้ายในการฝึกตน ผู้ฝึกตนเลือกที่จะอ้าแขนรับความไร้ตัวตน เพื่อที่จะจุติเป็นเซียน ในกรณีที่ผู้ฝึกตนเลือกที่จะอยู่ในภพเดิม ทัณฑ์สวรรค์จะมาหาผู้ฝึกตนคนนี้อยู่เรื่อย ๆ และแต่ละครั้งก็จะเพิ่มความรุนแรงขึ้น ผู้ฝึกตนสามารถที่จะอยู่ในสำนักของตัวเองเพื่อลองเอาตัวรอดจากทัณฑ์สวรรค์ หรือเลือกที่จะจุติเมื่อไหร่ก็ได้</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_5" mz="n187">ผู้ฝึกตนนี้ได้เรียนรู้กฎมาจนถึงขั้นสูงสุดแล้ว ไม่สามารถที่จะเรียนรู้ต่อไปได้</string>
@@ -2200,10 +2200,10 @@
 	<string name="0xrxw6g7qt1q4s-n70_qt1q" mz="n70">เย้~~~~~~! ตัวข้ากำลังจะจุติ!</string>
 	<string name="0xrxw6g7cfyni2-n141_cfyn" mz="frame">แรงบันดาลใจ</string>
 	<string name="0xrxw6g7cfyni2-n145_cfyn-0" mz="tree">Zhuji</string>
-	<string name="0xrxw6g7cfyni2-n145_cfyn-1" mz="tree">Jiedan</string>
-	<string name="0xrxw6g7cfyni2-n145_cfyn-2" mz="tree">Jindan</string>
-	<string name="0xrxw6g7cfyni2-n145_cfyn-3" mz="tree">Yuanying</string>
-	<string name="0xrxw6g7cfyni2-n145_cfyn-4" mz="tree">Chengxian</string>
+	<string name="0xrxw6g7cfyni2-n145_cfyn-1" mz="tree">เจี๋ยตัน</string>
+	<string name="0xrxw6g7cfyni2-n145_cfyn-2" mz="tree">จินตัน</string>
+	<string name="0xrxw6g7cfyni2-n145_cfyn-3" mz="tree">หยวนอิง</string>
+	<string name="0xrxw6g7cfyni2-n145_cfyn-4" mz="tree">เฉิงเซียน</string>
 	<string name="0xrxw6g7cfyni2-n149_mkhx" mz="title">ทักษะตัวละคร</string>
 	<string name="0xrxw6g7cfyni2-n153_mkhx" mz="esotitle">ตำราเพิ่มเติม</string>
 	<string name="0xrxw6g7cfyni2-n155_dwgv-tips" mz="n155">การได้รับแรงบันดาลใจได้รับผลกระทบจากสถานะจิตและสติปัญญาของตัวละคร</string>
