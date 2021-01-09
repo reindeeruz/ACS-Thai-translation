@@ -189,8 +189,7 @@
 	<string name="0xrxw6g7abgt52ow4m-n86_rd8g" mz="n86">ยืนยัน</string>
 	<string name="0xrxw6g7abgt52ow4m-n93_rd8g" mz="n93">เอฟเฟกต์ที่เลือกได้</string>
 	<string name="0xrxw6g7sw0352ow3s-n7_hdhl" mz="frame">การจัดระบบการหายใจ</string>
-	<string name="0xrxw6g7sw0352ow3s-n12_sw03" mz="n12">(1)Breathing arrangement allows Physical cultivators to automatically perform Breathing at the planned hours without initiating Remold.
-	จัดการการหายใจ เพื่อให้ผู้ฝึกตนสายร่างกายทำการหายใจในช่วงเวลาที่ถูกกำหนดไว้ โดยช่วงเวลานั้นจะไม่เอาไปใช้ในการหลอมร่าง</string>
+	<string name="0xrxw6g7sw0352ow3s-n12_sw03" mz="n12">จัดการการหายใจ เพื่อให้ผู้ฝึกตนสายร่างกายทำการหายใจในช่วงเวลาที่ถูกกำหนดไว้ โดยช่วงเวลานั้นจะไม่เอาไปใช้ในการหลอมร่าง</string>
 	<string name="0xrxw6g7sw0352ow3s-n14_fntf" mz="n14">* กรุณาตั้งเวลาหายใจอัตโนมัติ</string>
 	<string name="0xrxw6g7lfk7aa-n9_lfk7" mz="title">อ๊ากกกก!</string>
 	<string name="0xrxw6g7ggkk8i-n65_ggkk" mz="n65">คลิกเพื่อตรวจสอบการจัดวางฮวงจุ้ย</string>
@@ -471,7 +470,7 @@
 	<string name="0xrxw6g7hfc752ovzf-n158_n36e" mz="frame">แก้ไขสิ่งของ</string>
 	<string name="0xrxw6g7hfc752ovzf-n175_n36e" mz="Zhuji">พื้นฐาน</string>
 	<string name="0xrxw6g7hfc752ovzf-n177_n36e" mz="Fesistance">ความต้านทานยา</string>
-	<string name="0xrxw6g7hfc752ovzf-n179_n36e" mz="Ling">ฉี</string>
+	<string name="0xrxw6g7hfc752ovzf-n179_n36e" mz="Ling">ชี่</string>
 	<string name="0xrxw6g7hfc752ovzf-n181_n36e" mz="Nutrition">ความหิว</string>
 	<string name="0xrxw6g7hfc752ovzf-n183_n36e" mz="Water">ความกระหายน้ำ</string>
 	<string name="0xrxw6g7hfc752ovzf-n185_n36e" mz="PracticeNutrition">(2)Stamina</string>
@@ -669,7 +668,7 @@
 	<string name="0xrxw6g7mf2o2ovw3-n411_mf2o-2" mz="Head">ความเชื่อ</string>
 	<string name="0xrxw6g7mf2o2ovw3-n416_qo1q-tips" mz="allunlock">ความคืบหน้าการสำรวจสถานที่โดยรอบ 100% หมายความว่าคุณได้สำรวจสถานที่ใกล้เคียงทุกแห่งแล้ว</string>
 	<string name="0xrxw6g7mf2o2ovw3-n418_lnyq" mz="into">เข้า</string>
-	<string name="0xrxw6g7mf2o2ovw4-n163_oizv" mz="bq">(1)Wonder</string>
+	<string name="0xrxw6g7mf2o2ovw4-n163_oizv" mz="bq">สิ่งก่อสร้างมหัศจรรย์</string>
 	<string name="0xrxw6g7mf2o2ovw4-n357_vio7" mz="n357">สิ่งก่อสร้าง: 2/2</string>
 	<string name="0xrxw6g7mf2o2ovw4-n307_i8mv" mz="n307">ตัวแทน</string>
 	<string name="0xrxw6g7mf2o2ovw4-n306_i8mv" mz="n306">แสดงเจ้าอาวาส</string>
@@ -952,7 +951,7 @@
 	<string name="0xrxw6g7cqca2ovtr-n64_cqca" mz="n64">ปฏิเสธ</string>
 	<string name="0xrxw6g7ua9y2ovtk-n177_nnck" mz="n177">W</string>
 	<string name="0xrxw6g7kbt72ovst-n141_cfyn" mz="frame">เข้าฌานกฎ</string>
-	<string name="0xrxw6g7kbt72ovst-n145_cfyn-0" mz="tree">Zhuji</string>
+	<string name="0xrxw6g7kbt72ovst-n145_cfyn-0" mz="tree">พื้นฐาน</string>
 	<string name="0xrxw6g7kbt72ovst-n145_cfyn-1" mz="tree">เจี๋ยตัน</string>
 	<string name="0xrxw6g7kbt72ovst-n145_cfyn-2" mz="tree">จินตัน</string>
 	<string name="0xrxw6g7kbt72ovst-n145_cfyn-3" mz="tree">หยวนอิง</string>
@@ -975,9 +974,9 @@
 	<string name="0xrxw6g7stle2ovw3-n90_stle" mz="Desc">dasdasdasdasdasda</string>
 	<string name="0xrxw6g7stle2ovw3-n99_stle-tips" mz="n99">ใช้การเลือกนี้เพื่อพยายามเปิดเผยความจริง</string>
 	<string name="0xrxw6g7stle2ovw3-n99_stle" mz="n99">ปลดล็อค</string>
-	<string name="0xrxw6g7stle2ovw3-n100_stle-tips" mz="n100">เลือกแรงจูงใจสำหรับความลึกลับ</string>
+	<string name="0xrxw6g7stle2ovw3-n100_stle-tips" mz="n100">เลือกแรงจูงใจของปริศนา</string>
 	<string name="0xrxw6g7stle2ovw3-n100_stle" mz="n100">แรงจูงใจ</string>
-	<string name="0xrxw6g7stle2ovw3-n103_stle-tips" mz="n103">เลือกผู้เข้าร่วมสำหรับความลึกลับ</string>
+	<string name="0xrxw6g7stle2ovw3-n103_stle-tips" mz="n103">เลือกผู้เข้าร่วมในปริศนา</string>
 	<string name="0xrxw6g7stle2ovw3-n103_stle" mz="n103">ผู้เข้าร่วม</string>
 	<string name="0xrxw6g7stle2ovw3-n104_stle-tips" mz="n104">เลือกหลักฐานที่เกี่ยวข้อง</string>
 	<string name="0xrxw6g7stle2ovw3-n104_stle" mz="n104">หลักฐาน</string>
@@ -1288,7 +1287,7 @@
 	<string name="0xrxw6g7shy138-n237_gtsu" mz="n237">ปาฏิหาริย์</string>
 	<string name="0xrxw6g7shy138-n179_7xrw" mz="gongname">สุดยอดกฎสิบหกขั้น</string>
 	<string name="0xrxw6g7shy138-n182_7xrw" mz="stagename">(1)Ningqi</string>
-	<string name="0xrxw6g7shy138-n183_7xrw" mz="nextstage">(1)Zhuji</string>
+	<string name="0xrxw6g7shy138-n183_7xrw" mz="nextstage">พื้นฐาน</string>
 	<string name="0xrxw6g7shy138-n446_jq30-tips" mz="gongelement">กฎและธาตุทั้งห้า</string>
 	<string name="0xrxw6g7shy138-n155_7a6u" mz="n155">ขั้นที่ 1</string>
 	<string name="0xrxw6g7shy138-n239_f4a0-tips" mz="tianqian">การกล่าวโทษ / คุณธรรม: ได้รับผลกระทบจากการกระทำของตัวละคร ตัวละครที่สวรรค์เป็นศัตรู จะได้รับการทดสอบที่ยากขึ้นเมื่อจะเลื่อนขั้น ตัวละครที่ทำคุณงามความดีมากมายจะเผชิญกับการทดสอบที่ง่ายกว่า การกล่าวโทษและคุณธรรมสามารถยกเลิกซึ่งกันและกันได้</string>
@@ -1435,7 +1434,7 @@
 	<string name="0xrxw6g7do0z3f-n82_lfk7" mz="n82">อารมณ์</string>
 	<string name="0xrxw6g7snk12t-n25_snk1" mz="count">x100</string>
 	<string name="0xrxw6g7snk12t-n41_shy1" mz="n41">สถานะจิต</string>
-	<string name="0xrxw6g7snk12t-n45_pp5n" mz="n45">(1)Aim</string>
+	<string name="0xrxw6g7snk12t-n45_pp5n" mz="n45">เป้าหมาย</string>
 	<string name="0xrxw6g7snk12t-n45_pp5n-texts_0" mz="n45">(2)Aim</string>
 	<string name="0xrxw6g7snk12t-n45_pp5n-texts_def" mz="n45">เป้าหมาย</string>
 	<string name="0xrxw6g7snk12t-n47_pp5n-0" mz="n47">สมดุล</string>
@@ -1473,7 +1472,7 @@
 	<string name="0xrxw6g7snk12t-n256_gsdn-tips" mz="roomfengshui">ฮวงจุ้ย</string>
 	<string name="0xrxw6g7snk12t-n120_skp2" mz="n120">ลำดับความสำคัญ</string>
 	<string name="0xrxw6g7snk12t-n24_snk1-tips" mz="n24">โฟกัส</string>
-	<string name="0xrxw6g7snk12t-n129_p23w-tips" mz="zhuji">การฝึกตนขั้นพื้นฐาน</string>
+	<string name="0xrxw6g7snk12t-n129_p23w-tips" mz="zhuji">พื้นฐาน</string>
 	<string name="0xrxw6g7snk12t-n145_r7oi" mz="n145">B/C</string>
 	<string name="0xrxw6g7snk12t-n166_r7oi" mz="lingshaspeed">+0.01/d</string>
 	<string name="0xrxw6g7snk12t-n174_gnb4-tips" mz="setfocus">ล็อคกล้องและเปิดหน้าต่างโฟกัส</string>
@@ -1790,7 +1789,7 @@
 	<string name="0xrxw6g7jr2h3l-n227_rx3w" mz="godprefect">ความสำเร็จ</string>
 	<string name="0xrxw6g7jr2h3l-n148_jr2h" mz="n148">ราคาสินค้า:</string>
 	<string name="0xrxw6g7jr2h3l-n147_shy1" mz="n147">ค่าใช้จ่าย:</string>
-	<string name="0xrxw6g7jr2h3l-n165_rvsk" mz="rescost">ฉี: 123 ฉี: 123 ฉี: 123</string>
+	<string name="0xrxw6g7jr2h3l-n165_rvsk" mz="rescost">ชี่: 123 ชี่: 123 ชี่: 123</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_0" mz="n187">เพื่อที่จะก้าวไปก้าวหน้าต่อไปผู้ฝึกตน จะต้องออกจากสำนักและค้นหาเสียงเรียกจากภายในของพวกเขาผ่านการทดสอบในโลกแห่งความเป็นจริง ผู้ฝึกตนที่ไม่ชอบเข้าสังคมอาจพบว่าสิ่งนี้ท้าทายเนื่องจากเป็นการทดสอบทักษะทางสังคมและสเน่ห์</string>
 	<string name="0xrxw6g7jr2h3l-n187_rvsk-texts_1" mz="n187">เมื่อพยายามเจาะเข้าไปในสถานะนี้ผู้ฝึกตนจะสูญเสียพลังเวทย์มนต์และการบรรลุเป้าหมายทั้งหมด เพื่อที่จะก้าวไปสู่ความก้าวหน้าพวกเขาต้องค้นหาความรู้แจ้งในเรื่องเล็กๆในชีวิตประจำวันและค้นพบตัวตนที่แท้จริงของพวกเขาอีกครั้งหนึ่ง</string>
@@ -1934,8 +1933,8 @@
 	<string name="0xrxw6g7fak9vnk-n187_qx12" mz="n187">นำเข้า</string>
 	<string name="0xrxw6g7fak9vnk-n193_sa5f" mz="n193">*คุณสามารถที่จะเพิ่มความยากของเกมเมื่อไหร่ก็ได้</string>
 	<string name="0xrxw6g7fak9vnk-n219_t7f5" mz="n219">เซียน</string>
-	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">(1)เซียน Difficulty Title</string>
-	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">(1)The level of difficult in เซียน.</string>
+	<string name="0xrxw6g7fak9vnk-n248_pikg-tips" mz="immortallevel">ระดับเลเวลความยากในโหมดเซียน</string>
+	<string name="0xrxw6g7fak9vnk-n247_pikg-tips" mz="immortalpoint">ระดับคะแนนความยากในโหมดเซียน</string>
 	<string name="0xrxw6g7fak9vnk-n243_t7f5" mz="n243">ยืนยัน</string>
 	<string name="0xrxw6g7fak9vnk-n244_t7f5" mz="n244">ยกเลิก</string>
 	<string name="0xrxw6g7fak9vnk-n205_t7f5" mz="n205">ที่อยู่</string>
@@ -2199,7 +2198,7 @@
 	<string name="0xrxw6g7f4upcl-n149_iiau-tips" mz="LagSelect">ภาษา</string>
 	<string name="0xrxw6g7qt1q4s-n70_qt1q" mz="n70">เย้~~~~~~! ตัวข้ากำลังจะจุติ!</string>
 	<string name="0xrxw6g7cfyni2-n141_cfyn" mz="frame">แรงบันดาลใจ</string>
-	<string name="0xrxw6g7cfyni2-n145_cfyn-0" mz="tree">Zhuji</string>
+	<string name="0xrxw6g7cfyni2-n145_cfyn-0" mz="tree">พื้นฐาน</string>
 	<string name="0xrxw6g7cfyni2-n145_cfyn-1" mz="tree">เจี๋ยตัน</string>
 	<string name="0xrxw6g7cfyni2-n145_cfyn-2" mz="tree">จินตัน</string>
 	<string name="0xrxw6g7cfyni2-n145_cfyn-3" mz="tree">หยวนอิง</string>
@@ -2230,7 +2229,7 @@
 	<string name="0xrxw6g7s29t2x-n102_o0gf-tips" mz="dy">เฉพาะปลาขนาดใหญ่เท่านั้นที่จะถูกคัดแยกลงในที่เก็บนี้</string>
 	<string name="0xrxw6g7s29t2x-n102_o0gf" mz="dy">ปลาขนาดใหญ่เท่านั้น</string>
 	<string name="0xrxw6g7s29t2x-n96_tkf3-tips" mz="zw0">เฉพาะ relic เท่านั้นที่จะถูกจัดเรียงลงในที่เก็บนี้</string>
-	<string name="0xrxw6g7s29t2x-n96_tkf3" mz="zw0">(1)Room trophy only</string>
+	<string name="0xrxw6g7s29t2x-n96_tkf3" mz="zw0">(1)เฉพาะถ้วยรางวัลเท่านั้น Room trophy only</string>
 	<string name="0xrxw6g7s29t2x-n100_kag1-tips" mz="cansale">ไอเทมในที่เก็บข้อมูลนี้สามารถแลกเปลี่ยนได้</string>
 	<string name="0xrxw6g7s29t2x-n100_kag1" mz="cansale">สามารถนำไปขายได้</string>
 	<string name="0xrxw6g7s29t2x-n33_l0f4" mz="n33">ระดับชั้น</string>
@@ -2280,7 +2279,7 @@
 	<string name="0xrxw6g7h1t8c1-n145_r5pu" mz="n145">สื่อสาร</string>
 	<string name="0xrxw6g7d8g51u-n0_d8g5" mz="frame">ThingInfo</string>
 	<string name="0xrxw6g7d8g51u-n10_8lul" mz="Desc">ต้นไม้ที่พบได้ทั่วไปในป่าเขตอบอุ่น เหมาะเป็นวัตถุดิบหลายอย่าง</string>
-	<string name="0xrxw6g7d8g51u-n17_8lul" mz="ThingInfoTxt">ความดึงดูด: ฉีที่น่ายินดี: 123456 ความไวไฟ: ความไวไฟสูง: องค์ประกอบสูง: ไม้</string>
+	<string name="0xrxw6g7d8g51u-n17_8lul" mz="ThingInfoTxt">ความดึงดูด: ชี่ที่น่ายินดี: 123456 ความไวไฟ: ความไวไฟสูง: องค์ประกอบสูง: ไม้</string>
 	<string name="0xrxw6g7rseble-n88_9fbe" mz="frame">บันทึกการเปลี่ยนแปลง</string>
 	<string name="0xrxw6g7rseble-n113_rseb" mz="n113">สัตว์ในตำนานได้ตื่นขึ้นจากนิทราพันปี ได้ออกเดินทางเพื่อนำมาซึ่งความตายและการสังหาร อย่างไรก็ตามผู้ฝึกตนบางคนสามารถหาโอกาสที่ไม่เคยมีมาก่อนจากอันตรายที่กำลังจะเกิดขึ้น เพื่อปกป้องนิกายของพวกเขาหรือตามล่าสัตว์ร้ายโบราณผู้อาวุโสลึกลับและปราชญ์จากนิกายต่าง ๆ ทั่วประเทศจีนก็ออกจากอาศรมของพวกเขาเช่นกัน ดังนั้นจึงมียุคแห่งการเปลี่ยนแปลงที่ยิ่งใหญ่สำหรับผู้ฝึกตนทุกคน เริ่มต้นขึ้น!</string>
 	<string name="0xrxw6g7rseble-n151_rseb" mz="n151">การตื่นขึ้นของสัตว์ในตำนานทำให้ภพแห่งการฝึนตนนั้นวุ่นวาย สำนักต่าง ๆ ก็พยายามเอาตัวรอดอยู่ท่ามกลางวงล้อมของสัตว์ร้ายเหล่านี้ อีกไม่นานเรื่องร้าย ๆ ก็คงจะเกิดขึ้น ดาวหางลางสังหรณ์กระพริบไปทั่วท้องฟ้าและเมล็ดพันธุ์แห่งความเกลียดชังก็งอกขึ้น ไม่มีทางเลือกใด ๆ ดังนั้นจงชักดาบของคุณและปูทางของคุณเอง</string>
@@ -2312,7 +2311,7 @@
 	<string name="0xrxw6g7q8j7hx-n0_q8j7-texts_def" mz="frame">เซฟ</string>
 	<string name="0xrxw6g7q8j7hx-n3_q8j7" mz="n3">ยืนยัน</string>
 	<string name="0xrxw6g7q8j7hx-n5_q8j7" mz="input">ส่งเสียงหน่อย</string>
-	<string name="0xrxw6g7snc6ovpc-n7_snc6" mz="makezhen">(1)Form Formation</string>
+	<string name="0xrxw6g7snc6ovpc-n7_snc6" mz="makezhen">ตั้งค่ายกล</string>
 	<string name="0xrxw6g7snc6ovpc-n8_snc6" mz="n8">ยกเลิก</string>
 	<string name="0xrxw6g7gyliovp3-n21_pdgs" mz="frame">แผนภาพ</string>
 	<string name="0xrxw6g7gyliovp3-n156_est2" mz="n156">ตั้งค่า</string>
@@ -2336,7 +2335,7 @@
 	<string name="0xrxw6g7gyliovp3-n158_115t2" mz="n158">การแข่งขันลึกลับ</string>
 	<string name="0xrxw6g7gyliovp3-n92_e6f2" mz="propdesc">Stats 1 Stats 2 Stats 3 Stats 4 Stats 5 Stats 6</string>
 	<string name="0xrxw6g7gyliovp3-n72_tu9x" mz="zhenname">ชื่อค่ายกล</string>
-	<string name="0xrxw6g7gyliovp3-n71_tu9x-tips" mz="n71">ไม่สามารถตั้งค่ายกฎเนื่องจากไม่ได้เชื่อมต่อกับสิ่งลึกลับ</string>
+	<string name="0xrxw6g7gyliovp3-n71_tu9x-tips" mz="n71">ไม่สามารถตั้งค่ายกฎเนื่องจากยังมีสูตรที่ไม่มีตัวเชื่อมอยู่ (ลองใช้ตำแหน่งค่ายกฎแบบมีสูตรด้านเดียวแทน)</string>
 	<string name="0xrxw6g7gyliovp3-n71_tu9x" mz="n71">ค่ายกลไม่สมบูรณ์</string>
 	<string name="0xrxw6g7gyliovp3-n79_tfwz" mz="n79">แก้ไข</string>
 	<string name="0xrxw6g7gyliovp3-n24_pdgs" mz="shapetoscheme">ตั้งค่า</string>
