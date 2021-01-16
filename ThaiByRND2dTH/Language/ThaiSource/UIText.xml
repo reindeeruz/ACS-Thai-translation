@@ -168,8 +168,8 @@
 	<string name="0xrxw6g7faz152ow2m-n253_rlmg" mz="n253">ตัวละครจะทำการเริ่มหลอมร่างใหม่ในทุก ๆ  วัน ถ้าผลลัพธ์มีความสำคัญน้อย หรือมีเพียงผลลัพธ์ที่ไม่ตรงกับป้ายที่ต้องการ การเสริมแกร่งจะถูกเลือกโดยอัตโนมัติ</string>
 	<string name="0xrxw6g7faz152ow2m-n340_t564-tips" mz="n340">เมื่อหลอมร่างใหม่เสร็จสิ้น ถ้าผลลัพธ์มีความสำคัญน้อย หรือมีเพียงผลลัพธ์ที่ไม่ตรงกับป้ายที่ต้องการ การเสริมแกร่งจะถูกเลือกโดยอัตโนมัติ</string>
 	<string name="0xrxw6g7faz152ow2m-n337_t564" mz="n337">ตรวจสอบผลลัพธ์</string>
-	<string name="0xrxw6g7faz152ow2m-n172_k4u6" mz="n172">เริ่มหลอมร่างใหม่</string>
-	<string name="0xrxw6g7faz152ow2m-n239_ltta" mz="n239">วิธีหลอมร่างใหม่:</string>
+	<string name="0xrxw6g7faz152ow2m-n172_k4u6" mz="n172">เริ่มหลอมกาย</string>
+	<string name="0xrxw6g7faz152ow2m-n239_ltta" mz="n239">มนตร์หลอมกาย:</string>
 	<string name="0xrxw6g7faz152ow2m-n240_ltta" mz="n240">ค่าใช้จ่ายในการหลอมร่าง:</string>
 	<string name="0xrxw6g7faz152ow2m-n242_ltta" mz="n242">ความแข็งแกร่ง</string>
 	<string name="0xrxw6g7faz152ow2m-n243_ltta" mz="n243">แกน</string>
@@ -335,7 +335,7 @@
 	<string name="0xrxw6g7h4ds2ovss-n12_lz37" mz="copyall">เรียนรู้</string>
 	<string name="0xrxw6g7h4ds2ovss-n25_vcpx" mz="clearall">ทำความสะอาด</string>
 	<string name="0xrxw6g7h4ds2ovss-n0_h4ds" mz="frame">ชั้นเก็บตำรา</string>
-	<string name="0xrxw6g7h4ds2ovss-n24_t8dw-tips" mz="daohang">ความจุของชั้นเก็บตำรา ตำราที่มีความยากจะใช้พื้นที่มากกว่าปรกติหลังจากที่ถูกสร้างขึ้นมา</string>
+	<string name="0xrxw6g7h4ds2ovss-n24_t8dw-tips" mz="daohang">ความจุของชั้นเก็บตำรา ตำราที่มีความยากจะใช้พื้นที่มากกว่าปรกติหลังจากที่ถูกคัดลอก</string>
 	<string name="0xrxw6g7h4ds2ovss-n24_t8dw" mz="daohang">ความจุของชั้นเก็บตำรา: 150/5000</string>
 	<string name="0xrxw6g7h4ds2ovss-n27_rhxq" mz="onlylrean">แสดงตำราที่สามารถเรียนรู้ได้</string>
 	<string name="0xrxw6g7h4ds2ovss-n28_fbfc-prompt" mz="F">ค้นหาตำรา</string>
